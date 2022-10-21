@@ -1,0 +1,220 @@
+Number,Brand,Flavor,Rating
+1,Aha,Black Cherry/Coffee,83
+2,Aha,Orange/Grapefruit,72
+3,La Croix,Lemoncello,80
+4,San Pelligrino,Clementine,55
+5,Aha,Blueberry/Pomegranate,62
+6,Purity Organic,Sparkling Lemon,61
+7,Bubbl'r,Passion Fruit Wonder,78
+8,Sparkling Ice,Strawberry Citrus,49
+9,Aha,Lime Watermelon,60
+10,Bai,Lambari Watermelon Lime,68
+11,Bai,Peru Pineapple,39
+12,Bubbl'r,Twisted Elixer,71
+13,Aha,Citrus/Green Tea,51
+14,La Croix,Peach-Pear,72
+15,Topo Chico,Topo Chico,63
+16,Bai,Jamaica Blood Orange,65
+17,Bubbl'r,Pomegranate Acai Refresh'r,65
+18,Bai,Coconut Lime,13
+19,Yerbae,Kiwi Strawberry,57
+20,Bubbl'r,Pitaya Berry Nect'r,73
+21,Sparkling Ice,Black Raspberry,32
+22,Sparkling Ice,Blue Raspberry,33
+23,Perrier,Strawberry,74
+24,Perrier,L'Orange,74
+25,Voss,Lime Mint,55
+26,Bubbl'r,Cherry Guava Blend'r,76
+27,Bubbl'r,Blood Orange Mango Mingl'r,64
+28,Aha,Apple/Ginger,68
+29,Sparkling Ice,Orange/Passion Fruit,46
+30,Petal,Lychee/Rose,69
+31,Sparkling Ice,Triple Citrus,35
+32,La Croix,Tangerine,61
+33,La Croix,Orange,66
+34,Petal,Lemongrass/Dandelion,72
+35,La Croix,Key Lime,73
+36,Hi-Ball,Vanilla,21
+37,Waterloo,Lime,56
+38,Petal,Mint Rose,73
+39,Waterloo,Grapefruit,63
+40,Waterloo,Black Cherry,30
+41,Waterloo,Watermelon,67
+42,Hi-Ball,Grapefruit,28
+43,Polar Jr.,Pixie Lights,53
+44,Polar Jr.,Yeti Mischief,57
+45,Polar Jr.,Unicorn Kisses,33
+46,Polar Jr.,Mermaid Songs,51
+47,Polar Jr.,Dragon Whispers,54
+48,Polar Jr.,Minotaur Mayhem,49
+49,Whole Foods,Strawberry,65
+50,La Croix,Lemon,60
+51,Waterloo,Peach-Pear,61
+52,Whole Foods,Lemon Raspberry,72
+53,La Croix,Curate Apple Cranberry,66
+54,Bubly,Cherry,62
+55,Bubly,Lime,58
+56,La Croix,Pamplemousse,38
+57,La Croix,Pure,55
+58,Bubly,Strawberry,57
+59,Sparkling Ice,Strawberry Lemonade,54
+60,Bubly,Blackberry,66
+61,Fizz & Co.,Root Beer,18
+62,Clearly Canadian,Country Raspberry,69
+63,Clearly Canadian,Wild Cherry,22
+64,Clearly Canadian,Mountain Blackberry,51
+65,Sparkling Ice,Crisp Apple,72
+66,Whole Foods,Lime Mint Elderflower,42
+67,Sparkling Ice,Grape Raspberry,47
+68,Voss,Tangerine Lemongrass,30
+69,Sparkling Ice,Strawberry Watermelon,56
+70,Perrier,Lemon,73
+71,Phocus,Grapefruit,54
+72,Whole Foods,Citrus Blend,55
+73,Phocus,Yuzu and Lime,60
+74,Phocus,Blood Orange,53
+75,Phocus,Peach,59
+76,Perrier,Lime,70
+77,Perrier,Grapefruit,62
+78,Voss,Lemon Cucumber,27
+79,Marz,Citrus Party,81
+80,Marz,Flower Power,84
+81,Marz,Juniper Fizz,70
+82,La Croix,Raspberry Cranberry,73
+83,Whole Foods,Passionfruit Pineapple,60
+84,Canfield,Lemon,70
+85,Ice Mountain,Black Cherry,61
+86,Ice Mountain,Lemon,60
+87,Signature Selects,Orange Crème,51
+88,Signature Selects,Strawberry Crème,51
+89,Ice Mountain,Lime,60
+90,Ice Mountain,Triple Berry,60
+91,Canfield,Lime,70
+92,The Mountain Valley,The Mountain Valley,55
+93,La Croix,Berry,50
+94,Recess,Pomegranate Hibiscus,77
+95,La Croix,Apricot,60
+96,Recess,Peach Ginger,22
+97,Phocus,Plain,31
+98,Phocus,Cucumber,43
+99,Petal,Peach Marigold,66
+100,Petal,Elderberry White Tea Flower,82
+101,Yerbae,Orange Cherry Pineapple,47
+102,Yerbae,Blueberry Acai,54
+103,Sparkling Ice,Ginger Lime,56
+104,Lagunitas,Hop,49
+105,Spindrift,Raspberry Cranberry,60
+106,Sparkling Ice,Coconut Pineapple,38
+107,La Croix,Coconut,31
+108,Waterloo,Coconut,27
+109,Sparkling Ice,Coconut Limeade,24
+110,Nice!,Key Lime,57
+111,Nice!,Kiwi Strawberry,66
+112,Nice!,Black Cherry,57
+113,Nice!,Raspberry,69
+114,Nice!,Peach,53
+115,La Croix,Mango,58
+116,La Croix Pasteque,Watermelon,64
+117,Market Pantry,Raspberry Blackberry,71
+118,Hi-Ball,Lemon Lime,61
+119,Hi-Ball,Wild Berry,69
+120,Pellegrino Essenza,Tangerine and Wild Strawberry,79
+121,Pellegrino Essenza,Lemon Zest,78
+122,Pellegrino Essenza,Blood Orange and Black Raspberry,78
+123,Pur Aqua,White Grape,50
+124,Market Pantry,Cherry Limeade,63
+125,Liquid Death,Liquid Death,66
+126,Market Pantry,Fuji Apple,70
+127,Spindrift,Raspberry Lime,57
+128,Hi-Ball,Blood Orange,52
+129,Waterloo,Strawberry,71
+130,Market Pantry,Tangerine Lime,64
+131,Perrier,Plain,73
+132,Arizona,Lemon Lime,65
+133,La Croix,Hi-Biscus,80
+134,Market Pantry,Strawberry Kiwi,58
+135,Good and Gather,Tropical Citrus,53
+136,Spindrift,Blackberry,46
+137,Waterloo,Summer Berry,73
+138,Pellegrino Essenza,Cherry Pomegranate,33
+139,Perrier,Peach,45
+140,Good and Gather,Watermelon,50
+141,Waterloo,Grape,36
+142,Market Pantry,Peach Mango,51
+143,Spindrift,Lemon,61
+144,Arizona,Pineapple Coconut,47
+145,La Croix,Blackberry Cucumber,34
+146,Good and Gather,Ginger Peach,51
+147,Polar,Raspberry Lime,76
+148,Topo Chico,Hint of Lime,70
+149,Polar,Blueberry Lemonade,62
+150,Polar,Ruby Red Grapefuirt,56
+151,Polar,Black Cherry,60
+152,Gold Emblem,Tangerine Lime,51
+153,Bubly,Grapefruit,44
+154,Eternal,Cherry Limeade,40
+155,Gold Emblem,Raspberry Blackberry,38
+156,Eternal,Blackberryry,57
+157,Gold Emblem,Watermelon,52
+158,Eternal,Plain,66
+159,Eternal,Blood Orange,28
+160,Gold Emblem,Strawberry,63
+161,Gold Emblem,Pineapple Coconut,24
+162,Celsius,Orange,64
+163,Polar,Cranberry Lime,71
+164,Celsius,Fuji Apple Pear,43
+165,Celsius,Kiwi Guava,66
+166,Nomi,Lime,75
+167,Nomi,Grapefruit,68
+168,Nomi,Lemon,72
+169,Nomi,Michigan Cherry,70
+170,Nomi,Michigan Cherry Lime,71
+171,Nomi,Michigan Cherry Lemon,73
+172,Celsius,Watermelon,67
+173,Good and Gather,Cucumber Mint,10
+174,Good and Gather,Strawberry Mango,62
+175,Good and Gather,Cranberry Citrus,59
+176,Spindrift,Strawberry,66
+177,La Croix,Watermelon Lime,63
+178,Vita Coco,Raspberry Lime,41
+179,Vita Coco,Lemon Ginger,28
+180,Signature Selects,Watermelon Strawberry,44
+181,Cascade Ice,Kiwi Strawberry,52
+182,Cascade Ice,Strawberry Lemonade,50
+183,Cascade Ice,Cherry Limeade,57
+184,Cascade Ice,Orange Mango,61
+185,Cascade Ice,Lemonade,66
+186,Signature Selects,Cranberry Raspberry,41
+187,Cascade Ice,Blackberry Raspberry,36
+188,Cascade Ice,Blueberry Watermelon,53
+189,Signature Selects,Kiwi Strawberry,55
+190,Signature Selects,Raspberry Blackberry,54
+191,Cascade Ice,Cranberry Pomegranate,57
+192,Trader Joes,Blueberry Lemonade,71
+193,Trader Joes,Mandarin Orange,68
+194,Trader Joes,Raspberry Lime,73
+195,Trader Joes,Lemon,62
+196,Trader Joes,Cranberry Clementine,76
+197,Trader Joes,Lime,69
+198,Trader Joes,Grapefruit,59
+199,Trader Joes,Pineapple,53
+200,Signature Selects,Pineapple Mango,44
+201,Cascade Ice,Pink Grapefruit,47
+202,Franklin and Sons,Elderflower and Cucumber,59
+203,Asarasi,Tree Water,63
+204,Naleczowianka,Naleczowianka,60
+205,Polar,Strawberry Margarita,72
+206,Polar,Blackberry Mango Punch,70
+207,Polar,Kiwiw Pink Grapefruit,68
+208,Polar,Raspberry Rose,77
+209,Polar,Perfectly Plum Summer,82
+210,Gold Emblem,Unsweetened Lemon Lime,60
+211,Gold Emblem,Unsweetened Cranberry Raspberry,57
+212,Gold Emblem,Unsweetened Mixed Berry,52
+213,Gold Emblem,Unsweetened Grapefruit,42
+214,Ice Mountain,Pomegranate Lemonade,64
+215,Rishi,Black Lemon,69
+216,Sanzo,Lychee/Rose,73
+217,Sanzo,Calamansi,81
+218,Rishi,Patagonia Maqui,71
+219,Rishi,Schisandra Berry,64
