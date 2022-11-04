@@ -5,10 +5,6 @@
   },
   {
     "references": 24,
-    "title": "Tucker Carlson"
-  },
-  {
-    "references": 23,
     "title": "Joel Skousen"
   },
   {
@@ -18,6 +14,10 @@
   {
     "references": 15,
     "title": "Ali Alexander"
+  },
+  {
+    "references": 15,
+    "title": "Harrison Smith"
   },
   {
     "references": 15,
@@ -33,15 +33,11 @@
   },
   {
     "references": 14,
-    "title": "Michael Savage"
-  },
-  {
-    "references": 13,
-    "title": "Harrison Smith"
-  },
-  {
-    "references": 13,
     "title": "Klaus Schwab"
+  },
+  {
+    "references": 14,
+    "title": "Michael Savage"
   },
   {
     "references": 13,
@@ -60,6 +56,10 @@
     "title": "Mike Flynn"
   },
   {
+    "references": 12,
+    "title": "Mike Lindell"
+  },
+  {
     "references": 11,
     "title": "James O'Keefe"
   },
@@ -69,15 +69,15 @@
   },
   {
     "references": 11,
-    "title": "Mike Lindell"
-  },
-  {
-    "references": 11,
     "title": "Robert David Steele"
   },
   {
     "references": 11,
     "title": "Rush Limbaugh"
+  },
+  {
+    "references": 11,
+    "title": "Wolfgang Halbig"
   },
   {
     "references": 10,
@@ -100,10 +100,6 @@
     "title": "Max Keiser"
   },
   {
-    "references": 10,
-    "title": "Wolfgang Halbig"
-  },
-  {
     "references": 9,
     "title": "Dan Lyman"
   },
@@ -122,6 +118,10 @@
   {
     "references": 8,
     "title": "Big Jim Tucker"
+  },
+  {
+    "references": 8,
+    "title": "Candace Owens"
   },
   {
     "references": 8,
@@ -152,24 +152,16 @@
     "title": "Tom Pappert"
   },
   {
-    "references": 8,
-    "title": "Zack from Space Command"
-  },
-  {
-    "references": 7,
-    "title": "Aleksandr Dugin"
-  },
-  {
     "references": 7,
     "title": "Bill Joy"
   },
   {
     "references": 7,
-    "title": "Candace Owens"
+    "title": "Carroll Quigley"
   },
   {
     "references": 7,
-    "title": "Carroll Quigley"
+    "title": "Dennis Montgomery"
   },
   {
     "references": 7,
@@ -206,10 +198,6 @@
   {
     "references": 6,
     "title": "Carpe Donktum"
-  },
-  {
-    "references": 6,
-    "title": "Dennis Montgomery"
   },
   {
     "references": 6,
@@ -262,6 +250,10 @@
   {
     "references": 6,
     "title": "Xi Jinping"
+  },
+  {
+    "references": 5,
+    "title": "Aaron Russo"
   },
   {
     "references": 5,
@@ -345,10 +337,6 @@
   },
   {
     "references": 4,
-    "title": "Aaron Russo"
-  },
-  {
-    "references": 4,
     "title": "Andrew Basiago"
   },
   {
@@ -422,6 +410,10 @@
   {
     "references": 4,
     "title": "Marty DeRosa"
+  },
+  {
+    "references": 4,
+    "title": "Marty Schachter"
   },
   {
     "references": 4,
@@ -609,6 +601,10 @@
   },
   {
     "references": 3,
+    "title": "Elizabeth Williamson"
+  },
+  {
+    "references": 3,
     "title": "Eric Prince"
   },
   {
@@ -685,6 +681,10 @@
   },
   {
     "references": 3,
+    "title": "Jon Ronson"
+  },
+  {
+    "references": 3,
     "title": "Joycelyn Elders"
   },
   {
@@ -725,7 +725,7 @@
   },
   {
     "references": 3,
-    "title": "Marty Schacter"
+    "title": "Mel Gibson"
   },
   {
     "references": 3,
@@ -762,6 +762,10 @@
   {
     "references": 3,
     "title": "Phil Mudd"
+  },
+  {
+    "references": 3,
+    "title": "Prince Charles"
   },
   {
     "references": 3,
@@ -977,6 +981,10 @@
   },
   {
     "references": 2,
+    "title": "Dylann Roof"
+  },
+  {
+    "references": 2,
     "title": "Edward Bernays"
   },
   {
@@ -1165,11 +1173,11 @@
   },
   {
     "references": 2,
-    "title": "Jon Ronson"
+    "title": "Joseph McCarthy"
   },
   {
     "references": 2,
-    "title": "Joseph McCarthy"
+    "title": "Josh Hawley"
   },
   {
     "references": 2,
@@ -1265,10 +1273,6 @@
   },
   {
     "references": 2,
-    "title": "Mel Gibson"
-  },
-  {
-    "references": 2,
     "title": "Michael Burnett"
   },
   {
@@ -1286,10 +1290,6 @@
   {
     "references": 2,
     "title": "Michael Malice"
-  },
-  {
-    "references": 2,
-    "title": "Mika Brzezinski"
   },
   {
     "references": 2,
@@ -1337,15 +1337,15 @@
   },
   {
     "references": 2,
+    "title": "Phyllis Schlafly"
+  },
+  {
+    "references": 2,
     "title": "Pioneer Research Scientist"
   },
   {
     "references": 2,
     "title": "Prescott Bush"
-  },
-  {
-    "references": 2,
-    "title": "Prince Charles"
   },
   {
     "references": 2,
@@ -1401,6 +1401,10 @@
   },
   {
     "references": 2,
+    "title": "Ron Desantis"
+  },
+  {
+    "references": 2,
     "title": "Ruth Bader Ginsberg"
   },
   {
@@ -1410,10 +1414,6 @@
   {
     "references": 2,
     "title": "Samantha Power"
-  },
-  {
-    "references": 2,
-    "title": "Sonja in Sweden"
   },
   {
     "references": 2,
@@ -1729,6 +1729,10 @@
   },
   {
     "references": 1,
+    "title": "Andrew Tate"
+  },
+  {
+    "references": 1,
     "title": "Andrew Torrez"
   },
   {
@@ -1766,10 +1770,6 @@
   {
     "references": 1,
     "title": "Anna Von Reitz"
-  },
-  {
-    "references": 1,
-    "title": "Anne"
   },
   {
     "references": 1,
@@ -1849,10 +1849,6 @@
   },
   {
     "references": 1,
-    "title": "Axel"
-  },
-  {
-    "references": 1,
     "title": "Axel Geijsel"
   },
   {
@@ -1862,6 +1858,10 @@
   {
     "references": 1,
     "title": "Bach"
+  },
+  {
+    "references": 1,
+    "title": "Baked Alaska"
   },
   {
     "references": 1,
@@ -1985,15 +1985,7 @@
   },
   {
     "references": 1,
-    "title": "Bjorn L"
-  },
-  {
-    "references": 1,
     "title": "Bjorn Lomborg"
-  },
-  {
-    "references": 1,
-    "title": "Black Dragon Queen Kristy"
   },
   {
     "references": 1,
@@ -2557,10 +2549,6 @@
   },
   {
     "references": 1,
-    "title": "David Bowie"
-  },
-  {
-    "references": 1,
     "title": "David Chase Taylor"
   },
   {
@@ -2857,10 +2845,6 @@
   },
   {
     "references": 1,
-    "title": "Dylann Roof"
-  },
-  {
-    "references": 1,
     "title": "E Hunter Howard"
   },
   {
@@ -2898,10 +2882,6 @@
   {
     "references": 1,
     "title": "Elijah Schaffer"
-  },
-  {
-    "references": 1,
-    "title": "Elizabeth"
   },
   {
     "references": 1,
@@ -2950,10 +2930,6 @@
   {
     "references": 1,
     "title": "Eric Weinstein"
-  },
-  {
-    "references": 1,
-    "title": "Eric and Nichelle"
   },
   {
     "references": 1,
@@ -3070,10 +3046,6 @@
   {
     "references": 1,
     "title": "Gareth Reynolds"
-  },
-  {
-    "references": 1,
-    "title": "Garrison Keillor"
   },
   {
     "references": 1,
@@ -3721,10 +3693,6 @@
   },
   {
     "references": 1,
-    "title": "Joe"
-  },
-  {
-    "references": 1,
     "title": "Joe Bannister's brother"
   },
   {
@@ -3746,6 +3714,10 @@
   {
     "references": 1,
     "title": "Joey Diaz"
+  },
+  {
+    "references": 1,
+    "title": "John Anderson"
   },
   {
     "references": 1,
@@ -3933,10 +3905,6 @@
   },
   {
     "references": 1,
-    "title": "Josh Hawley"
-  },
-  {
-    "references": 1,
     "title": "Joshua Heiken"
   },
   {
@@ -3946,5 +3914,53 @@
   {
     "references": 1,
     "title": "Juan O'Savin"
+  },
+  {
+    "references": 1,
+    "title": "Juan Osavin"
+  },
+  {
+    "references": 1,
+    "title": "Judge Andrew Napolitano"
+  },
+  {
+    "references": 1,
+    "title": "Judge Barbra Bellis"
+  },
+  {
+    "references": 1,
+    "title": "Judge Jackson"
+  },
+  {
+    "references": 1,
+    "title": "Judge Joe Brown"
+  },
+  {
+    "references": 1,
+    "title": "Judge Napolitano"
+  },
+  {
+    "references": 1,
+    "title": "Judy Miskovitz"
+  },
+  {
+    "references": 1,
+    "title": "Julia Cannon"
+  },
+  {
+    "references": 1,
+    "title": "Julian Assange"
+  },
+  {
+    "references": 1,
+    "title": "Julian Huxley"
+  },
+  {
+    "references": 1,
+    "title": "Julian Reichelt"
+  },
+  {
+    "references": 1,
+    "title": "Jussie Smollett"
   }
 ]

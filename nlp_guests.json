@@ -42,8 +42,8 @@
       "Donald Trump",
       "Vladimir Putin",
       "Barack Obama",
-      "George Soros",
       "Paul Joseph Watson",
+      "George Soros",
       "John Rappaport",
       "Michael Moore",
       "Chuck Schumer",
@@ -61,7 +61,8 @@
       "Mark Zuckerberg",
       "Kurt Russell",
       "George Soros",
-      "Evan Mcmullen"
+      "Evan Mcmullen",
+      "Paul Joseph Watson"
     ]
   },
   {
@@ -115,7 +116,8 @@
       "Charlie Sheen",
       "Rick Perry",
       "Michael Moore",
-      "Rahm Emanuel"
+      "Rahm Emanuel",
+      "Paul Joseph Watson"
     ]
   },
   {
@@ -299,8 +301,8 @@
       "Jim Fetzer",
       "Anderson Cooper",
       "Wolfgang Halbig",
-      "Bill Ogden",
       "Paul Joseph Watson",
+      "Bill Ogden",
       "Owen Shroyer"
     ]
   },
@@ -310,9 +312,9 @@
       "Bill Ogden",
       "Kit Daniels",
       "Nicholas Cruz",
+      "Paul Joseph Watson",
       "Donald Trump",
       "Mark Bankston",
-      "Paul Joseph Watson",
       "Glenn Greenwald"
     ]
   },
@@ -380,6 +382,7 @@
       "Stefan Molyneux",
       "Donald Trump",
       "James Tracy",
+      "Paul Joseph Watson",
       "David Knight"
     ]
   },
@@ -540,6 +543,7 @@
       "Norm Pattis",
       "Steve Quayle",
       "Owen Shroyer",
+      "Chris Mattei",
       "Vladimir Putin",
       "David Icke",
       "David Knight",
@@ -579,7 +583,6 @@
     "people": [
       "Chris Mattei",
       "Adan Salazar",
-      "Dark Knight Rises",
       "Melissa Melton",
       "Norm Pattis",
       "Wolfgang Halbig",
@@ -597,6 +600,41 @@
       "Willie Brown",
       "Nick Fuentes",
       "Piers Morgan"
+    ]
+  },
+  {
+    "episode_number": "741",
+    "people": [
+      "Donald Trump",
+      "Ted Nugent",
+      "David Knight",
+      "Osama Bin Laden",
+      "Ross Perot",
+      "George Washington",
+      "Roger Stone",
+      "Ben Carson",
+      "Harrison Smith"
+    ]
+  },
+  {
+    "episode_number": "742",
+    "people": [
+      "Chris Mattei",
+      "Norm Pattis",
+      "Robbie Parker",
+      "Dan Bidondi",
+      "Madeleine Albright",
+      "Wolfgang Halbig",
+      "Howard Stern"
+    ]
+  },
+  {
+    "episode_number": "743",
+    "people": [
+      "Paul Pelosi",
+      "Nancy Pelosi",
+      "Glenn Greenwald",
+      "Harrison Smith"
     ]
   },
   {

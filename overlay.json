@@ -2168,13 +2168,31 @@
       "Present Day",
       "InfoWars Interview"
     ],
-    "episode_number": "738"
+    "episode_number": "738",
+    "people": [
+      "Steven Crowder",
+      "Donald Trump",
+      "Kyle Rittenhouse",
+      "Stefan Molyneux",
+      "Robert Barnes",
+      "Glenn Greenwald"
+    ]
   },
   {
     "categories": [
       "Formulaic Objections"
     ],
-    "episode_number": "739"
+    "episode_number": "739",
+    "people": [
+      "Chris Mattei",
+      "Adan Salazar",
+      "Melissa Melton",
+      "Norm Pattis",
+      "Wolfgang Halbig",
+      "John Rappaport",
+      "John Brown",
+      "Paul Joseph Watson"
+    ]
   },
   {
     "categories": [
@@ -2183,7 +2201,15 @@
     "coverage_date": "August 13, 2003",
     "coverage_end_date": "August 13, 2003",
     "coverage_start_date": "August 13, 2003",
-    "episode_number": "740"
+    "episode_number": "740",
+    "people": [
+      "Arnold Schwarzenegger",
+      "Mel Gibson",
+      "Condoleezza Rice",
+      "Willie Brown",
+      "Nick Fuentes",
+      "Piers Morgan"
+    ]
   },
   {
     "categories": [
@@ -2192,19 +2218,46 @@
     "people": [
       "Donald Trump"
     ],
-    "episode_number": "741"
+    "episode_number": "741",
+    "people": [
+      "Donald Trump",
+      "Ted Nugent",
+      "David Knight",
+      "Osama Bin Laden",
+      "Ross Perot",
+      "George Washington",
+      "Roger Stone",
+      "Ben Carson",
+      "Harrison Smith",
+      "Joe Biggs"
+    ]
   },
   {
     "categories": [
       "Formulaic Objections"
     ],
-    "episode_number": "742"
+    "episode_number": "742",
+    "people": [
+      "Chris Mattei",
+      "Norm Pattis",
+      "Robbie Parker",
+      "Dan Bidondi",
+      "Madeleine Albright",
+      "Wolfgang Halbig",
+      "Howard Stern"
+    ]
   },
   {
     "categories": [
       "Present Day"
     ],
-    "episode_number": "743"
+    "episode_number": "743",
+    "people": [
+      "Paul Pelosi",
+      "Nancy Pelosi",
+      "Glenn Greenwald",
+      "Harrison Smith"
+    ]
   },
   {
     "episode_number": "78",
