@@ -2006,13 +2006,29 @@
     "categories": [
       "2003 Investigation"
     ],
-    "episode_number": "724"
+    "episode_number": "724",
+    "people": [
+      "Paul Joseph Watson",
+      "David Kelly"
+    ]
   },
   {
     "categories": [
       "Present Day"
     ],
-    "episode_number": "725"
+    "episode_number": "725",
+    "people": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Tucker Carlson",
+      "Peter Thiel",
+      "Norm Pattis",
+      "Jimmy Kimmel",
+      "Eddie Bravo",
+      "Robert Barnes",
+      "Roger Stone",
+      "Ron Desantis"
+    ],
   },
   {
     "categories": [
@@ -2058,7 +2074,8 @@
     "episode_number": "729",
     "people": [
       "Robert Barnes",
-      "Elizabeth Williamson"
+      "Elizabeth Williamson",
+      "Norm Pattis"
     ]
   },
   {
@@ -2215,9 +2232,6 @@
     "categories": [
       "Time Travel"
     ],
-    "people": [
-      "Donald Trump"
-    ],
     "episode_number": "741",
     "people": [
       "Donald Trump",
@@ -2279,6 +2293,11 @@
     ],
     "episode_number": "745",
     "people": [
+      "Chris Mattei",
+      "Norm Pattis",
+      "Rob Jacobson",
+      "Glenn Beck",
+      "Robbie Parker"
     ]
   },
   {
@@ -2287,6 +2306,35 @@
     ],
     "episode_number": "746",
     "people": [
+      "Owen Shroyer",
+      "Ali Alexander",
+      "Vivian Kubrick",
+      "Harrison Smith",
+      "Steve Bannon",
+      "Mike Adams",
+      "Laura Loomer",
+      "Stanley Kubrick",
+      "Donald Trump",
+      "Roger Stone",
+      "Robert Barnes",
+      "Herschel Walker",
+      "Harry Reid",
+      "David Icke",
+      "Marjorie Taylor Greene",
+      "Charlie Kirk"
+    ]
+  },
+  {
+    "categories": [
+      "Present Day"
+    ],
+    "episode_number": "747",
+    "people": [
+      "Donald Trump",
+      "Gavin McInnes",
+      "Mitch McConnell",
+      "Owen Shroyer",
+      "Herschel Walker"
     ]
   },
   {
