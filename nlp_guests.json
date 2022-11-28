@@ -198,7 +198,6 @@
       "Donald Trump",
       "Darren Huff",
       "Jack McLamb",
-      "Jerome Corsi",
       "Barbara Loe Fisher",
       "Andrew Napolitano",
       "Paul Joseph Watson",
@@ -409,7 +408,6 @@
       "Rush Limbaugh",
       "John Rappaport",
       "David Knight",
-      "Jerome Corsi",
       "Owen Shroyer"
     ]
   },
@@ -422,6 +420,7 @@
       "William Shakespeare",
       "Shakespeare",
       "Anderson Cooper",
+      "Julian Assange",
       "George Soros"
     ]
   },
@@ -933,6 +932,21 @@
     ]
   },
   {
+    "episode_number": "751",
+    "people": [
+      "Owen Shroyer",
+      "Alex Stein",
+      "Matt Walsh",
+      "Tucker Carlson",
+      "Donald Trump",
+      "Hunter Biden",
+      "John Wayne",
+      "Klaus Schwab",
+      "Ron DeSantis",
+      "Thomas Jefferson"
+    ]
+  },
+  {
     "episode_number": "8",
     "people": [
       "Donald Trump",
@@ -941,7 +955,6 @@
       "George Soros",
       "John Wayne",
       "Mark Zuckerberg",
-      "Jerome Corsi",
       "David Knight"
     ]
   },
