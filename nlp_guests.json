@@ -156,6 +156,39 @@
     ]
   },
   {
+    "episode_number": "21",
+    "people": [
+      "Jorge Ramos",
+      "Donald Trump",
+      "Katy Perry",
+      "Tucker Carlson",
+      "Bill Gates",
+      "Melinda Gates",
+      "Pope Francis",
+      "John Rappaport",
+      "Roger Stone",
+      "Aleister Crowley",
+      "Chuck Schumer"
+    ]
+  },
+  {
+    "episode_number": "22",
+    "people": [
+      "Donald Trump",
+      "Michael Savage",
+      "Alec Baldwin",
+      "Paul Joseph Watson",
+      "Ron Perlman",
+      "Julian Assange",
+      "Bill O'Reilly",
+      "David Duke",
+      "Ted Nugent",
+      "Sean Spicer",
+      "Snoop Dogg",
+      "John Rappaport"
+    ]
+  },
+  {
     "episode_number": "222",
     "people": [
       "Chuck Baldwin",
@@ -174,11 +207,130 @@
     ]
   },
   {
+    "episode_number": "23",
+    "people": [
+      "Donald Trump",
+      "Barack Obama",
+      "Anderson Cooper",
+      "Roger Stone",
+      "Juan Williams",
+      "Michelle Obama",
+      "Alec Baldwin",
+      "Larry Johnson",
+      "Willie Nelson",
+      "Sean Hannity",
+      "Brigham Young",
+      "John Kerry",
+      "Paul Joseph Watson",
+      "Nico Acosta",
+      "Andrew Basiago",
+      "John Oliver"
+    ]
+  },
+  {
+    "episode_number": "24",
+    "people": [
+      "Donald Trump",
+      "Steve Pieczenick",
+      "Vladimir Putin",
+      "Comet Ping Pong",
+      "John Bolton",
+      "Steve Botanik",
+      "Michael Moore",
+      "Owen Shroyer",
+      "John Rappaport"
+    ]
+  },
+  {
+    "episode_number": "25",
+    "people": [
+      "Larry Klayman",
+      "Donald Trump",
+      "Dennis Montgomery",
+      "Mike Zullo",
+      "Joe Arpaio",
+      "Barack Obama",
+      "Montgomery",
+      "Jerome Corsi",
+      "Edward Snowden",
+      "Devin Nunez",
+      "Cliven Bundy",
+      "George Soros",
+      "John Brennan"
+    ]
+  },
+  {
+    "episode_number": "26",
+    "people": [
+      "Roger Stone",
+      "Donald Trump",
+      "Bill Maher",
+      "John Bound",
+      "Glenn Beck",
+      "Larry Johnson",
+      "George Soros",
+      "Comet Ping Pong",
+      "David Koresh",
+      "Bill Hicks",
+      "Michael Savage",
+      "Dennis Montgomery",
+      "John McCain",
+      "David Brock",
+      "Sean Hannity",
+      "Howard Stern",
+      "John Podesta"
+    ]
+  },
+  {
+    "episode_number": "27",
+    "people": [
+      "Donald Trump",
+      "Barack Obama",
+      "Craig Sawyer",
+      "David Knight",
+      "Lee Ann McAdoo",
+      "Adam Schiff"
+    ]
+  },
+  {
     "episode_number": "279",
     "people": [
       "Mark Bankston",
       "Mark Enoch",
       "Wolfgang Halbig"
+    ]
+  },
+  {
+    "episode_number": "28",
+    "people": [
+      "Donald Trump",
+      "Mickey Rourke",
+      "Snoop Dogg",
+      "Vladimir Putin",
+      "George Soros",
+      "Paul Joseph Watson",
+      "Robert De Niro",
+      "John Wayne",
+      "Susan Rice",
+      "Adam Schiff",
+      "Mike Cernovich",
+      "Brian Williams"
+    ]
+  },
+  {
+    "episode_number": "29",
+    "people": [
+      "Donald Trump",
+      "Michael Savage",
+      "George Soros",
+      "John Mccain",
+      "Lindsey Graham",
+      "Dusty Rhodes",
+      "Mike Cernovich",
+      "John Rappaport",
+      "Roger Stone",
+      "John Podesta",
+      "Ashley Beckford"
     ]
   },
   {
@@ -191,6 +343,37 @@
       "Roger Stone",
       "David Knight",
       "Chris Pratt"
+    ]
+  },
+  {
+    "episode_number": "30",
+    "people": [
+      "Gavin Mcinnes",
+      "Donald Trump",
+      "Mike Cernovich",
+      "Nigel Mcguinness",
+      "Alec Baldwin",
+      "Barack Obama",
+      "Sean Connery",
+      "Roger Stone",
+      "Richard Spencer",
+      "John Rappaport",
+      "Adam Carolla",
+      "Mel Gibson"
+    ]
+  },
+  {
+    "episode_number": "31",
+    "people": [
+      "Mike Cernovich",
+      "George Soros",
+      "Paul Joseph Watson",
+      "Britney Spears",
+      "Donald Trump",
+      "William Shakespeare",
+      "Adam Schiff",
+      "David Knight",
+      "Lee Ann McAdoo"
     ]
   },
   {
@@ -213,6 +396,33 @@
       "Steven Crowder",
       "Dick Cheney",
       "Robert Barnes"
+    ]
+  },
+  {
+    "episode_number": "32",
+    "people": [
+      "Bill O'Reilly",
+      "Donald Trump",
+      "Roger Ailes",
+      "Paul Joseph Watson",
+      "Philip K Dick",
+      "Rush Limbaugh",
+      "John Rappaport",
+      "David Knight",
+      "Jerome Corsi",
+      "Owen Shroyer"
+    ]
+  },
+  {
+    "episode_number": "33",
+    "people": [
+      "Donald Trump",
+      "Eddie Bravo",
+      "Madeleine Albright",
+      "William Shakespeare",
+      "Shakespeare",
+      "Anderson Cooper",
+      "George Soros"
     ]
   },
   {
@@ -397,8 +607,8 @@
       "Mike Adams",
       "Jim Breuer",
       "Roger Stone",
-      "Dick Cheney",
-      "Mike Lindell"
+      "Mike Lindell",
+      "Dick Cheney"
     ]
   },
   {
@@ -452,7 +662,7 @@
       "Eddie Bravo",
       "Robert Barnes",
       "Roger Stone",
-      "Ron Desantis"
+      "Ron DeSantis"
     ]
   },
   {
@@ -461,9 +671,9 @@
       "Dennis Montgomery",
       "Ron Desantis",
       "Donald Trump",
+      "Mike Lindell",
       "Josh Hawley",
       "Laura Loomer",
-      "Mike Lindell",
       "Klaus Schwab"
     ]
   },
@@ -682,7 +892,8 @@
       "Harry Reid",
       "David Icke",
       "Marjorie Taylor Greene",
-      "Charlie Kirk"
+      "Charlie Kirk",
+      "Mike Lindell"
     ]
   },
   {
@@ -693,6 +904,32 @@
       "Mitch Mcconnell",
       "Owen Shroyer",
       "Herschel Walker"
+    ]
+  },
+  {
+    "episode_number": "748",
+    "people": [
+      "Donald Trump",
+      "Steve Quayle",
+      "Roger Stone",
+      "Ron DeSantis",
+      "Harrison Smith"
+    ]
+  },
+  {
+    "episode_number": "749",
+    "people": [
+      "Michael Savage",
+      "Eric Schmidt",
+      "Eric Huff Schmidt"
+    ]
+  },
+  {
+    "episode_number": "750",
+    "people": [
+      "David Jones",
+      "Chris Mattei",
+      "Norm Pattis"
     ]
   },
   {
