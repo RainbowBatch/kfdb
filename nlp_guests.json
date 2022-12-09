@@ -17,7 +17,8 @@
       "George Soros",
       "Aleksandr Dugin",
       "Roger Stone",
-      "Richard Spencer"
+      "Richard Spencer",
+      "Milo Yiannopoulos"
     ]
   },
   {
@@ -46,7 +47,6 @@
       "George Soros",
       "John Rappaport",
       "Michael Moore",
-      "Chuck Schumer",
       "Michael Flynn",
       "Roger Stone",
       "Gloria Steinem",
@@ -131,7 +131,6 @@
       "Curt Weldon",
       "George Soros",
       "Michael Savage",
-      "Chuck Schumer",
       "Owen Shroyer"
     ]
   },
@@ -167,8 +166,7 @@
       "Pope Francis",
       "John Rappaport",
       "Roger Stone",
-      "Aleister Crowley",
-      "Chuck Schumer"
+      "Aleister Crowley"
     ]
   },
   {
@@ -522,7 +520,8 @@
       "Owen Shroyer",
       "Donald Trump",
       "Richard Belzer",
-      "Comet Ping Pong"
+      "Comet Ping Pong",
+      "Milo Yiannopoulos"
     ]
   },
   {
@@ -546,10 +545,10 @@
       "Roger Stone",
       "Hillary Clinton",
       "Jeff Sessions",
+      "Barack Obama",
       "Bill Clinton",
       "Mike Flynn",
       "Bill Maher",
-      "Barack Obama",
       "Loretta Lynch",
       "Vladimir Putin",
       "Ted Nugent",
@@ -593,6 +592,139 @@
     ]
   },
   {
+    "episode_number": "42",
+    "people": [
+      "Roger Stone",
+      "Donald Trump",
+      "John Rappaport",
+      "David Knight",
+      "Andrew Jackson",
+      "Rahm Emanuel"
+    ]
+  },
+  {
+    "episode_number": "43",
+    "people": [
+      "Donald Trump",
+      "Jerome Corsi",
+      "Edward Bernays",
+      "Hillary Clinton",
+      "Julian Assange",
+      "Sigmund Freud",
+      "Baby Trump",
+      "John Kerry",
+      "Roger Stone",
+      "George Soros"
+    ]
+  },
+  {
+    "episode_number": "44",
+    "people": [
+      "Stephen Colbert",
+      "Donald Trump",
+      "Jerome Corsi",
+      "Paul Joseph Watson",
+      "John Kerry",
+      "Edward Bernays",
+      "Bill O'Reilly",
+      "David Knight"
+    ]
+  },
+  {
+    "episode_number": "45",
+    "people": [
+      "Donald Trump",
+      "Jerome Corsi",
+      "Larry Nichols",
+      "Katy Perry",
+      "Mike Cernovich",
+      "Dylann Roof",
+      "Ariana Grande",
+      "Roger Stone",
+      "Paul Joseph Watson",
+      "Sean Hannity",
+      "Gavin McInnes",
+      "Rick Perry",
+      "Mike Flynn",
+      "Corey Lewandowski"
+    ]
+  },
+  {
+    "episode_number": "46",
+    "people": [
+      "Larry Nichols",
+      "Donald Trump",
+      "Bill Clinton",
+      "Jakari Jackson",
+      "Dylann Roof",
+      "Vince Foster",
+      "Timothy Mcveigh",
+      "David Knight",
+      "Hillary Clinton",
+      "Mother Jones",
+      "Paul Joseph Watson",
+      "Dennis Miller",
+      "Stephen Miller"
+    ]
+  },
+  {
+    "episode_number": "47",
+    "people": [
+      "Donald Trump",
+      "Larry Nichols",
+      "Charlton Heston",
+      "Jesse Ventura",
+      "Roger Stone",
+      "Ted Anderson",
+      "Hillary Clinton",
+      "David Knight",
+      "Buckley Hamman",
+      "Jeff Sessions",
+      "Chris Kyle",
+      "Paul Joseph Watson",
+      "Barack Obama",
+      "Anthony Gucci",
+      "Jakari Jackson",
+      "Peter Schiff",
+      "John Wilkes Booth",
+      "Gavin McInnes",
+      "Lauren Southern"
+    ]
+  },
+  {
+    "episode_number": "48",
+    "people": [
+      "Kathy Griffin",
+      "Donald Trump",
+      "Mike Cernovich",
+      "Roger Stone",
+      "Rick Derringer",
+      "Jerome Corsi",
+      "Mickey Rourke",
+      "Barack Obama",
+      "Bill Clinton"
+    ]
+  },
+  {
+    "episode_number": "49",
+    "people": [
+      "Donald Trump",
+      "Larry Nichols",
+      "Roger Stone",
+      "Barack Obama",
+      "Nigel Farage",
+      "Martin Luther King",
+      "David Knight",
+      "Gerald Celente",
+      "Mike Cernovich",
+      "Jerome Corsi",
+      "Adam Carolla",
+      "Paul Joseph Watson",
+      "Julian Assange",
+      "Martin Luther King Jr"
+    ]
+  },
+  {
     "episode_number": "5",
     "people": [
       "Donald Trump",
@@ -605,6 +737,12 @@
       "Owen Shroyer",
       "John Kerry",
       "George Soros"
+    ]
+  },
+  {
+    "episode_number": "50",
+    "people": [
+      "Richard Nixon"
     ]
   },
   {
@@ -781,7 +919,7 @@
       "Eddie Bravo",
       "Robert Barnes",
       "Roger Stone",
-      "Ron DeSantis"
+      "Ron Desantis"
     ]
   },
   {
@@ -792,8 +930,7 @@
       "Donald Trump",
       "Mike Lindell",
       "Josh Hawley",
-      "Laura Loomer",
-      "Klaus Schwab"
+      "Laura Loomer"
     ]
   },
   {
@@ -930,7 +1067,6 @@
       "Mel Gibson",
       "Condoleezza Rice",
       "Willie Brown",
-      "Nick Fuentes",
       "Piers Morgan"
     ]
   },
@@ -976,7 +1112,6 @@
       "Donald Trump",
       "Paul Pelosi",
       "Barack Obama",
-      "Klaus Schwab",
       "Bill Gates"
     ]
   },
@@ -1031,7 +1166,7 @@
       "Donald Trump",
       "Steve Quayle",
       "Roger Stone",
-      "Ron DeSantis",
+      "Ron Desantis",
       "Harrison Smith"
     ]
   },
@@ -1061,8 +1196,7 @@
       "Donald Trump",
       "Hunter Biden",
       "John Wayne",
-      "Klaus Schwab",
-      "Ron DeSantis",
+      "Ron Desantis",
       "Thomas Jefferson"
     ]
   },
@@ -1076,9 +1210,57 @@
       "Milo Yiannopoulos",
       "Jared Kushner",
       "Barack Obama",
+      "Luke Rudkowski",
       "Dave Rubin",
       "Steven Crowder",
       "Bill O'Reilly"
+    ]
+  },
+  {
+    "episode_number": "753",
+    "people": [
+      "Kanye West",
+      "Nick Fuentes",
+      "Donald Trump",
+      "Ali Alexander",
+      "Owen Benjamin",
+      "Laura Loomer",
+      "Owen Shroyer",
+      "George Soros",
+      "Ben Shapiro",
+      "David Duke",
+      "Rahm Emanuel",
+      "Dave Chappelle",
+      "Candace Owens",
+      "Herschel Walker"
+    ]
+  },
+  {
+    "episode_number": "754",
+    "people": [
+      "Chris Mattei",
+      "Dan Bidondi",
+      "Wolfgang Halbig",
+      "Abdul Muttalib",
+      "Thomas Jefferson",
+      "Paul Joseph Watson"
+    ]
+  },
+  {
+    "episode_number": "755",
+    "people": [
+      "Nick Fuentes",
+      "Kanye West",
+      "Gavin Mcinnes",
+      "Steven Crowder",
+      "Barack Obama",
+      "Richard Spencer",
+      "Marjorie Taylor Greene",
+      "David Duke",
+      "Ali Alexander",
+      "Piers Morgan",
+      "George Orwell",
+      "Robert Barnes"
     ]
   },
   {
@@ -1126,7 +1308,6 @@
       "Larry Klayman",
       "Buckley Hamman",
       "Tommy Robinson",
-      "Chuck Schumer",
       "Donald Trump Jr"
     ]
   }
