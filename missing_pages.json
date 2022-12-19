@@ -53,15 +53,15 @@
   },
   {
     "references": 11,
+    "title": "Bill Cooper"
+  },
+  {
+    "references": 11,
     "title": "James O'Keefe"
   },
   {
     "references": 11,
     "title": "Robert David Steele"
-  },
-  {
-    "references": 10,
-    "title": "Bill Cooper"
   },
   {
     "references": 10,
@@ -305,10 +305,6 @@
   },
   {
     "references": 4,
-    "title": "Dave Daubenmire"
-  },
-  {
-    "references": 4,
     "title": "Del Bigtree"
   },
   {
@@ -406,6 +402,10 @@
   {
     "references": 4,
     "title": "Sean Hannity"
+  },
+  {
+    "references": 4,
+    "title": "Steven Crowder"
   },
   {
     "references": 4,
@@ -782,10 +782,6 @@
   {
     "references": 3,
     "title": "Steve King"
-  },
-  {
-    "references": 3,
-    "title": "Steven Crowder"
   },
   {
     "references": 3,
@@ -3962,5 +3958,9 @@
   {
     "references": 1,
     "title": "Kara and Hudson"
+  },
+  {
+    "references": 1,
+    "title": "Karen Kingston"
   }
 ]

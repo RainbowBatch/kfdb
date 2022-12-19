@@ -5255,7 +5255,7 @@
     "length": "02:01:38",
     "libsyn_link": "https://knowledgefight.libsyn.com/knowledge-fight-a-progressive-space-diplomat",
     "nextEpisode": "224",
-    "oldid": 2873,
+    "oldid": 5110,
     "oocDrop": "I appreciate this information, but this sounds outlandish",
     "previousEpisode": "222",
     "question": null,
@@ -5631,7 +5631,7 @@
     "length": "01:58:42",
     "libsyn_link": "https://knowledgefight.libsyn.com/knowledge-fight-obama-deception-part-3",
     "nextEpisode": "230D",
-    "oldid": 2883,
+    "oldid": 5111,
     "oocDrop": null,
     "previousEpisode": "230B",
     "question": null,
@@ -5672,7 +5672,7 @@
     "length": "02:16:23",
     "libsyn_link": "https://knowledgefight.libsyn.com/knowledge-fight-obama-deception-part-4",
     "nextEpisode": "230E",
-    "oldid": 2884,
+    "oldid": 5112,
     "oocDrop": null,
     "previousEpisode": "230C",
     "question": null,
@@ -24882,7 +24882,7 @@
     "length": "01:17:47",
     "libsyn_link": "https://knowledgefight.libsyn.com/701-june-23-2004",
     "nextEpisode": "702",
-    "oldid": 4792,
+    "oldid": 4982,
     "oocDrop": null,
     "previousEpisode": "700",
     "question": null,
@@ -26889,7 +26889,7 @@
     "length": "02:31:47",
     "libsyn_link": "https://knowledgefight.libsyn.com/752-ye-took-a-dip-in-the-pool",
     "nextEpisode": "753",
-    "oldid": 4796,
+    "oldid": 4983,
     "oocDrop": null,
     "previousEpisode": "751",
     "question": null,
@@ -26973,7 +26973,8 @@
     "appearance": [
       "Kanye West",
       "Nick Fuentes",
-      "Gavin McInnes"
+      "Gavin McInnes",
+      "Steven Crowder"
     ],
     "beverage": null,
     "brightSpot": null,
@@ -26989,8 +26990,8 @@
     "is_stub": true,
     "length": "02:44:26",
     "libsyn_link": "https://knowledgefight.libsyn.com/755-ye-takes-a-sip-of-mcguinness",
-    "nextEpisode": null,
-    "oldid": 4978,
+    "nextEpisode": "756",
+    "oldid": 5113,
     "oocDrop": null,
     "previousEpisode": "754",
     "question": null,
@@ -27000,6 +27001,40 @@
     "wiki_categories": [
       "Episodes",
       "Wacky Wednesday"
+    ]
+  },
+  {
+    "airDate": "December 12, 2022",
+    "appearance": [
+      "Paul Joseph Watson",
+      "Vladimir Putin",
+      "Bill Cooper"
+    ],
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": "December 5, 2003",
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": "756",
+    "episodeType": [
+      "2003 Investigation"
+    ],
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "01:30:02",
+    "libsyn_link": "https://knowledgefight.libsyn.com/756-december-5-2003",
+    "nextEpisode": null,
+    "oldid": 5217,
+    "oocDrop": null,
+    "previousEpisode": "755",
+    "question": null,
+    "redirect": null,
+    "slug": "756{{COLON}}_December_5,_2003",
+    "title": "756: December 5, 2003",
+    "wiki_categories": [
+      "Episodes",
+      "2003 Investigation"
     ]
   },
   {
@@ -28468,7 +28503,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4804,
+    "oldid": 4984,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -28693,7 +28728,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4810,
+    "oldid": 4985,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -28770,7 +28805,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4812,
+    "oldid": 4986,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -28795,7 +28830,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4813,
+    "oldid": 4987,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -28872,7 +28907,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4814,
+    "oldid": 4988,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -28949,7 +28984,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4817,
+    "oldid": 4989,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -28999,7 +29034,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4818,
+    "oldid": 4990,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29024,7 +29059,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4819,
+    "oldid": 4991,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29074,7 +29109,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4820,
+    "oldid": 4992,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29099,7 +29134,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4821,
+    "oldid": 4993,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29152,7 +29187,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4822,
+    "oldid": 4994,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29177,7 +29212,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4823,
+    "oldid": 4995,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29389,7 +29424,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4829,
+    "oldid": 4996,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29439,7 +29474,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4831,
+    "oldid": 4997,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29489,7 +29524,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4832,
+    "oldid": 4998,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29725,7 +29760,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4834,
+    "oldid": 4999,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29828,7 +29863,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4836,
+    "oldid": 5000,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -29980,7 +30015,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4838,
+    "oldid": 5001,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30005,7 +30040,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4839,
+    "oldid": 5002,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30055,7 +30090,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4840,
+    "oldid": 5003,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30184,6 +30219,31 @@
     "episodeNumber": null,
     "episodeType": null,
     "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5246,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Dave_Daubenmire",
+    "title": "Dave Daubenmire",
+    "wiki_categories": []
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
     "is_external_redirect": true,
     "is_stub": false,
     "length": null,
@@ -30214,7 +30274,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4843,
+    "oldid": 5004,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30314,7 +30374,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4844,
+    "oldid": 5218,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30342,7 +30402,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4845,
+    "oldid": 5005,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30370,7 +30430,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4846,
+    "oldid": 5219,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30851,7 +30911,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4851,
+    "oldid": 5007,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30901,7 +30961,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4852,
+    "oldid": 5008,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31004,7 +31064,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4854,
+    "oldid": 5009,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31032,7 +31092,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4855,
+    "oldid": 5010,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31157,7 +31217,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4856,
+    "oldid": 5011,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31282,7 +31342,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4859,
+    "oldid": 5012,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31309,7 +31369,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4860,
+    "oldid": 5013,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31334,7 +31394,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4861,
+    "oldid": 5014,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31359,7 +31419,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4862,
+    "oldid": 5015,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31412,7 +31472,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4864,
+    "oldid": 5016,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31437,7 +31497,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4865,
+    "oldid": 5017,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31614,7 +31674,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4869,
+    "oldid": 5018,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31946,7 +32006,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4874,
+    "oldid": 5019,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31971,7 +32031,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4875,
+    "oldid": 5020,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32048,7 +32108,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4878,
+    "oldid": 5021,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32101,7 +32161,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4879,
+    "oldid": 5022,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32151,7 +32211,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4880,
+    "oldid": 5023,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32176,7 +32236,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4881,
+    "oldid": 5024,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32226,7 +32286,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4882,
+    "oldid": 5025,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32276,7 +32336,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4883,
+    "oldid": 5026,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32301,7 +32361,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4884,
+    "oldid": 5027,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32765,7 +32825,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4887,
+    "oldid": 5028,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32790,7 +32850,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4888,
+    "oldid": 5029,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32815,7 +32875,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4889,
+    "oldid": 5030,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32944,7 +33004,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4893,
+    "oldid": 5031,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32969,7 +33029,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4894,
+    "oldid": 5032,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33078,7 +33138,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4897,
+    "oldid": 5033,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33106,7 +33166,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4898,
+    "oldid": 5034,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33161,7 +33221,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4900,
+    "oldid": 5035,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33238,7 +33298,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4902,
+    "oldid": 5036,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33263,7 +33323,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4979,
+    "oldid": 5115,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33475,7 +33535,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4906,
+    "oldid": 5037,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33502,7 +33562,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4907,
+    "oldid": 5038,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33552,7 +33612,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4908,
+    "oldid": 5039,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33627,7 +33687,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4911,
+    "oldid": 5040,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33652,7 +33712,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4912,
+    "oldid": 5041,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33677,7 +33737,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4913,
+    "oldid": 5042,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33702,7 +33762,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4914,
+    "oldid": 5043,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33727,7 +33787,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4915,
+    "oldid": 5044,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33777,7 +33837,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4917,
+    "oldid": 5045,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33802,7 +33862,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4918,
+    "oldid": 5046,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33855,7 +33915,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4920,
+    "oldid": 5047,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33908,7 +33968,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4921,
+    "oldid": 5048,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33958,7 +34018,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4923,
+    "oldid": 5049,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34008,7 +34068,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4925,
+    "oldid": 5050,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34033,7 +34093,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4926,
+    "oldid": 5051,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34083,7 +34143,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4927,
+    "oldid": 5220,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34317,7 +34377,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4931,
+    "oldid": 5053,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34422,7 +34482,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4933,
+    "oldid": 5221,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34704,7 +34764,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4749,
+    "oldid": 5055,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34729,7 +34789,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4750,
+    "oldid": 5056,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34754,7 +34814,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4088,
+    "oldid": 5057,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34779,7 +34839,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4664,
+    "oldid": 5058,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34804,13 +34864,38 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4665,
+    "oldid": 5059,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "RainbowBatch_Entities{{FORWARD_SLASH}}5",
     "title": "RainbowBatch Entities/5",
+    "wiki_categories": []
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5060,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "RainbowBatch_Entities{{FORWARD_SLASH}}6",
+    "title": "RainbowBatch Entities/6",
     "wiki_categories": []
   },
   {
@@ -34879,7 +34964,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4751,
+    "oldid": 5222,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34904,7 +34989,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4752,
+    "oldid": 5223,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34929,7 +35014,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4753,
+    "oldid": 5224,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34954,7 +35039,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4754,
+    "oldid": 5225,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34979,7 +35064,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4755,
+    "oldid": 5065,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35004,7 +35089,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4756,
+    "oldid": 5226,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35029,7 +35114,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4757,
+    "oldid": 5227,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35054,7 +35139,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4758,
+    "oldid": 5228,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35079,7 +35164,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4759,
+    "oldid": 5069,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35104,7 +35189,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4760,
+    "oldid": 5229,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35129,7 +35214,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4761,
+    "oldid": 5071,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35154,7 +35239,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4762,
+    "oldid": 5230,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35179,7 +35264,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4763,
+    "oldid": 5231,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35204,7 +35289,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4764,
+    "oldid": 5232,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35229,7 +35314,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4765,
+    "oldid": 5075,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35254,7 +35339,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4766,
+    "oldid": 5233,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35279,7 +35364,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4607,
+    "oldid": 5077,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35304,7 +35389,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4767,
+    "oldid": 5234,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35329,7 +35414,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4768,
+    "oldid": 5235,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35354,7 +35439,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4769,
+    "oldid": 5236,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35379,7 +35464,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4770,
+    "oldid": 5237,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35404,7 +35489,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4771,
+    "oldid": 5238,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35429,7 +35514,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4772,
+    "oldid": 5239,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35454,7 +35539,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4773,
+    "oldid": 5084,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35479,7 +35564,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4774,
+    "oldid": 5085,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35504,7 +35589,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4691,
+    "oldid": 5086,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35719,7 +35804,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4940,
+    "oldid": 5087,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35821,7 +35906,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4943,
+    "oldid": 5088,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35876,7 +35961,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4944,
+    "oldid": 5089,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35926,7 +36011,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4946,
+    "oldid": 5090,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36370,7 +36455,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4955,
+    "oldid": 5091,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36507,7 +36592,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4958,
+    "oldid": 5092,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36616,7 +36701,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4959,
+    "oldid": 5093,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36779,7 +36864,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4960,
+    "oldid": 5240,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36904,7 +36989,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4961,
+    "oldid": 5095,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36957,14 +37042,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3826,
+    "oldid": 5117,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}10{{COLON}}_February_6,_2017",
     "title": "Transcript/10: February 6, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -36982,14 +37069,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3827,
+    "oldid": 5118,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}11{{COLON}}_February_10,_2017",
     "title": "Transcript/11: February 10, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37007,14 +37096,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3828,
+    "oldid": 5119,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}12{{COLON}}_Jon_Rappoport",
     "title": "Transcript/12: Jon Rappoport",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37032,14 +37123,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3829,
+    "oldid": 5120,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}13{{COLON}}_February_14,_2017",
     "title": "Transcript/13: February 14, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37057,14 +37150,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3830,
+    "oldid": 5121,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}14{{COLON}}_February_17,_2017",
     "title": "Transcript/14: February 17, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37082,14 +37177,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3831,
+    "oldid": 5122,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}15{{COLON}}_February_20-21,_2017",
     "title": "Transcript/15: February 20-21, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37107,14 +37204,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3832,
+    "oldid": 5123,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}16{{COLON}}_February_24,_2017",
     "title": "Transcript/16: February 24, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37132,14 +37231,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3833,
+    "oldid": 5124,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}17{{COLON}}_February_7,_2017",
     "title": "Transcript/17: February 7, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37157,14 +37258,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3834,
+    "oldid": 5125,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}18{{COLON}}_March_1,_2017{{FORWARD_SLASH}}Super_Bowl_Bonus",
     "title": "Transcript/18: March 1, 2017/Super Bowl Bonus",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37182,14 +37285,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3835,
+    "oldid": 5126,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}19{{COLON}}_March_3,_2017",
     "title": "Transcript/19: March 3, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37207,14 +37312,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3836,
+    "oldid": 5127,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}1{{COLON}}_January_2,_2017",
     "title": "Transcript/1: January 2, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37232,14 +37339,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3837,
+    "oldid": 5128,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}20{{COLON}}_March_6_&_Celebrity_Cameos",
     "title": "Transcript/20: March 6 & Celebrity Cameos",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37257,14 +37366,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4643,
+    "oldid": 5129,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}21{{COLON}}_March_9,_2017",
     "title": "Transcript/21: March 9, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37282,14 +37393,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3951,
+    "oldid": 5130,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}222{{COLON}}_March_15-19,_2009",
     "title": "Transcript/222: March 15-19, 2009",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37307,14 +37420,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4644,
+    "oldid": 5131,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}22{{COLON}}_March_14,_2017",
     "title": "Transcript/22: March 14, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37332,14 +37447,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4645,
+    "oldid": 5132,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}23{{COLON}}_March_16-17,_2017",
     "title": "Transcript/23: March 16-17, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37357,14 +37474,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4646,
+    "oldid": 5133,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}24{{COLON}}_March_23,_2017",
     "title": "Transcript/24: March 23, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37382,14 +37501,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4647,
+    "oldid": 5134,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}25{{COLON}}_Dennis_Montgomery_Investigation",
     "title": "Transcript/25: Dennis Montgomery Investigation",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37407,14 +37528,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4648,
+    "oldid": 5135,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}26{{COLON}}_March_30_(Special_Report)",
     "title": "Transcript/26: March 30 (Special Report)",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37432,14 +37555,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3838,
+    "oldid": 5136,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}279{{COLON}}_Formulaic_Objections",
     "title": "Transcript/279: Formulaic Objections",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37457,14 +37582,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4649,
+    "oldid": 5137,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}27{{COLON}}_March_31,_2017",
     "title": "Transcript/27: March 31, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37482,14 +37609,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4650,
+    "oldid": 5138,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}28{{COLON}}_How_Not_To_Cover_Alex_Jones",
     "title": "Transcript/28: How Not To Cover Alex Jones",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37507,14 +37636,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4651,
+    "oldid": 5139,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}29{{COLON}}_April_11,_2017",
     "title": "Transcript/29: April 11, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37532,14 +37663,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3839,
+    "oldid": 5140,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}2{{COLON}}_December_31,_1999_(Y2K)",
     "title": "Transcript/2: December 31, 1999 (Y2K)",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37557,14 +37690,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4652,
+    "oldid": 5141,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}30{{COLON}}_April_14,_2017",
     "title": "Transcript/30: April 14, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37582,14 +37717,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4015,
+    "oldid": 5142,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}310{{COLON}}_June_13-14,_2019",
     "title": "Transcript/310: June 13-14, 2019",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37607,14 +37744,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4653,
+    "oldid": 5143,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}31{{COLON}}_April_17,_2017",
     "title": "Transcript/31: April 17, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37632,14 +37771,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4654,
+    "oldid": 5144,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}32{{COLON}}_April_21,_2017",
     "title": "Transcript/32: April 21, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37657,14 +37798,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4655,
+    "oldid": 5145,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}33{{COLON}}_April_22,_2017",
     "title": "Transcript/33: April 22, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37682,14 +37825,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4739,
+    "oldid": 5146,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}34{{COLON}}_April_25,_2017",
     "title": "Transcript/34: April 25, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37707,14 +37852,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4740,
+    "oldid": 5147,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}35{{COLON}}_Custody_Press_Conference",
     "title": "Transcript/35: Custody Press Conference",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37732,14 +37879,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4741,
+    "oldid": 5148,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}36{{COLON}}_June_29,_2015",
     "title": "Transcript/36: June 29, 2015",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37757,14 +37906,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3840,
+    "oldid": 5149,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}378{{COLON}}_Formulaic_Objections_Part_2",
     "title": "Transcript/378: Formulaic Objections Part 2",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37782,14 +37933,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4742,
+    "oldid": 5150,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}37{{COLON}}_May_1,_2017",
     "title": "Transcript/37: May 1, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37807,14 +37960,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4743,
+    "oldid": 5151,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}38{{COLON}}_30_Hour_Marathon_Coverage",
     "title": "Transcript/38: 30 Hour Marathon Coverage",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37832,14 +37987,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4744,
+    "oldid": 5152,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}39{{COLON}}_Jack_Posobiec...Ya_Busted",
     "title": "Transcript/39: Jack Posobiec...Ya Busted",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37857,14 +38014,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3841,
+    "oldid": 5153,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}3{{COLON}}_The_Secret_of_2017",
     "title": "Transcript/3: The Secret of 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37882,14 +38041,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3842,
+    "oldid": 5154,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}401{{COLON}}_Formulaic_Objections_Part_3",
     "title": "Transcript/401: Formulaic Objections Part 3",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37907,14 +38068,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4745,
+    "oldid": 5155,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}40{{COLON}}_May_10,_2017",
     "title": "Transcript/40: May 10, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37932,14 +38095,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4746,
+    "oldid": 5156,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}41{{COLON}}_May_12,_2017",
     "title": "Transcript/41: May 12, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37957,14 +38122,232 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3843,
+    "oldid": 5157,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}42{{COLON}}_March_11,_2014",
+    "title": "Transcript/42: March 11, 2014",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5158,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}43{{COLON}}_May_17,_2017",
+    "title": "Transcript/43: May 17, 2017",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5159,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}44{{COLON}}_May_22,_2017",
+    "title": "Transcript/44: May 22, 2017",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5160,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}45{{COLON}}_May_25,_2017",
+    "title": "Transcript/45: May 25, 2017",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5161,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}46{{COLON}}_June_18,_2015",
+    "title": "Transcript/46: June 18, 2015",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5162,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}47{{COLON}}_June_19-July_5,_2015",
+    "title": "Transcript/47: June 19-July 5, 2015",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5163,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}48{{COLON}}_May_31,_2017",
+    "title": "Transcript/48: May 31, 2017",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5164,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}49{{COLON}}_July_6-13._2015",
+    "title": "Transcript/49: July 6-13. 2015",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5165,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}4{{COLON}}_Research_and_Stand_Up",
     "title": "Transcript/4: Research and Stand Up",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -37982,14 +38365,43 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3844,
+    "oldid": 5166,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}50{{COLON}}_Bohemian_Grove...Ya_Busted",
+    "title": "Transcript/50: Bohemian Grove...Ya Busted",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5167,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}5{{COLON}}_January_19,_2017",
     "title": "Transcript/5: January 19, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38007,14 +38419,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3845,
+    "oldid": 5168,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}602{{COLON}}_Sandy_Hook_Response",
     "title": "Transcript/602: Sandy Hook Response",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38032,14 +38446,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3846,
+    "oldid": 5169,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}664{{COLON}}_Formulaic_Objections_Part_5",
     "title": "Transcript/664: Formulaic Objections Part 5",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38057,14 +38473,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3847,
+    "oldid": 5170,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}665{{COLON}}_Formulaic_Objections_Part_6",
     "title": "Transcript/665: Formulaic Objections Part 6",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38082,14 +38500,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3848,
+    "oldid": 5171,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}685{{COLON}}_Formulaic_Objections_Part_7",
     "title": "Transcript/685: Formulaic Objections Part 7",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38107,14 +38527,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3849,
+    "oldid": 5172,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}6{{COLON}}_Inauguration_Speech_Recap",
     "title": "Transcript/6: Inauguration Speech Recap",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38132,14 +38554,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3850,
+    "oldid": 5173,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}712{{COLON}}_The_Decompression_Session",
     "title": "Transcript/712: The Decompression Session",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38157,14 +38581,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3851,
+    "oldid": 5174,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}714{{COLON}}_Trial_Recap,_Part_1",
     "title": "Transcript/714: Trial Recap, Part 1",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38182,14 +38608,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3852,
+    "oldid": 5175,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}715{{COLON}}_Trial_Recap,_Part_2",
     "title": "Transcript/715: Trial Recap, Part 2",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38207,14 +38635,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3853,
+    "oldid": 5176,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}720{{COLON}}_August_6,_2003",
     "title": "Transcript/720: August 6, 2003",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38232,14 +38662,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3854,
+    "oldid": 5177,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}721{{COLON}}_September_2,_2022",
     "title": "Transcript/721: September 2, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38257,14 +38689,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3855,
+    "oldid": 5178,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}722{{COLON}}_Space_Capitalism_Is_Still_Capitalism",
     "title": "Transcript/722: Space Capitalism Is Still Capitalism",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38282,14 +38716,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3856,
+    "oldid": 5179,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}723{{COLON}}_September_8,_2022",
     "title": "Transcript/723: September 8, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38307,14 +38743,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3857,
+    "oldid": 5180,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}724{{COLON}}_August_7-11,_2003",
     "title": "Transcript/724: August 7-11, 2003",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38332,14 +38770,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3858,
+    "oldid": 5181,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}725{{COLON}}_September_13-14,_2022",
     "title": "Transcript/725: September 13-14, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38357,14 +38797,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3859,
+    "oldid": 5182,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}726{{COLON}}_September_15-16,_2022",
     "title": "Transcript/726: September 15-16, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38382,14 +38824,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3860,
+    "oldid": 5183,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}727{{COLON}}_Chatting_with_Sebastian_Murdock",
     "title": "Transcript/727: Chatting with Sebastian Murdock",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38407,14 +38851,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3861,
+    "oldid": 5184,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}728{{COLON}}_Elizabeth_Williamson_Returns_Once_More",
     "title": "Transcript/728: Elizabeth Williamson Returns Once More",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38432,14 +38878,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3875,
+    "oldid": 5185,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}729{{COLON}}_September_24,_2022",
     "title": "Transcript/729: September 24, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38457,14 +38905,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3893,
+    "oldid": 5186,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}730{{COLON}}_August_12,_2003",
     "title": "Transcript/730: August 12, 2003",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38482,14 +38932,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4066,
+    "oldid": 5187,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}731{{COLON}}_September_29-30,_2022",
     "title": "Transcript/731: September 29-30, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38507,14 +38959,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3984,
+    "oldid": 5188,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}732{{COLON}}_Trial_Press_Conference",
     "title": "Transcript/732: Trial Press Conference",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38532,14 +38986,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4049,
+    "oldid": 5189,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}733{{COLON}}_October_6,_2022",
     "title": "Transcript/733: October 6, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38557,14 +39013,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4082,
+    "oldid": 5190,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}734{{COLON}}_October_9,_2022",
     "title": "Transcript/734: October 9, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38582,14 +39040,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4083,
+    "oldid": 5191,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}735{{COLON}}_October_12,_2022",
     "title": "Transcript/735: October 12, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38607,14 +39067,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4060,
+    "oldid": 5192,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}736{{COLON}}_Reflections_on_a_Verdict",
     "title": "Transcript/736: Reflections on a Verdict",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38632,14 +39094,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4064,
+    "oldid": 5193,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}737{{COLON}}_Reflections_on_a_Verdict_Part_2",
     "title": "Transcript/737: Reflections on a Verdict Part 2",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38657,14 +39121,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4205,
+    "oldid": 5194,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}738{{COLON}}_Taking_a_Powder_With_Chowder",
     "title": "Transcript/738: Taking a Powder With Chowder",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38682,14 +39148,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4206,
+    "oldid": 5195,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}739{{COLON}}_Formulaic_Objections_Part_8",
     "title": "Transcript/739: Formulaic Objections Part 8",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38707,14 +39175,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4207,
+    "oldid": 5196,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}740{{COLON}}_August_13,_2003",
     "title": "Transcript/740: August 13, 2003",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38732,14 +39202,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4337,
+    "oldid": 5197,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}741{{COLON}}_December_2,_2015",
     "title": "Transcript/741: December 2, 2015",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38757,14 +39229,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4409,
+    "oldid": 5198,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}742{{COLON}}_Formulaic_Objections_Part_9",
     "title": "Transcript/742: Formulaic Objections Part 9",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38782,14 +39256,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4451,
+    "oldid": 5199,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}743{{COLON}}_October_29-30,_2022",
     "title": "Transcript/743: October 29-30, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38807,14 +39283,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4488,
+    "oldid": 5200,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}744{{COLON}}_November_3,_2022",
     "title": "Transcript/744: November 3, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38832,14 +39310,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4514,
+    "oldid": 5201,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}745{{COLON}}_Formulaic_Objections_Part_10",
     "title": "Transcript/745: Formulaic Objections Part 10",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38857,14 +39337,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4568,
+    "oldid": 5202,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}746{{COLON}}_The_Infowars_All-Star_Midterm_Coverage_Spectacular",
     "title": "Transcript/746: The Infowars All-Star Midterm Coverage Spectacular",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38882,14 +39364,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4587,
+    "oldid": 5203,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}747{{COLON}}_November_11,_2022",
     "title": "Transcript/747: November 11, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38907,14 +39391,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4619,
+    "oldid": 5204,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}748{{COLON}}_November_16,_2022",
     "title": "Transcript/748: November 16, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38932,14 +39418,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4656,
+    "oldid": 5205,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}749{{COLON}}_December_1-2,_2003",
     "title": "Transcript/749: December 1-2, 2003",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38957,14 +39445,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4657,
+    "oldid": 5206,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}750{{COLON}}_Formulaic_Objections_Part_11",
     "title": "Transcript/750: Formulaic Objections Part 11",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -38982,14 +39472,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4692,
+    "oldid": 5207,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}751{{COLON}}_November_20-21,_2022",
     "title": "Transcript/751: November 20-21, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39007,14 +39499,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4747,
+    "oldid": 5208,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}752{{COLON}}_Ye_Took_A_Dip_In_The_Pool",
     "title": "Transcript/752: Ye Took A Dip In The Pool",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39032,14 +39526,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4800,
+    "oldid": 5209,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}753{{COLON}}_December_1,_2022",
     "title": "Transcript/753: December 1, 2022",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39057,14 +39553,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4975,
+    "oldid": 5210,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}754{{COLON}}_Formulaic_Objections_Part_12",
     "title": "Transcript/754: Formulaic Objections Part 12",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39082,14 +39580,70 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3862,
+    "oldid": 5211,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}755{{COLON}}_Ye_Takes_a_Sip_of_(Mc)Guinness",
+    "title": "Transcript/755: Ye Takes a Sip of (Mc)Guinness",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5212,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}756{{COLON}}_December_5,_2003",
+    "title": "Transcript/756: December 5, 2003",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5213,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}7{{COLON}}_January_23-24,_2017",
     "title": "Transcript/7: January 23-24, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39107,14 +39661,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3863,
+    "oldid": 5214,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}8{{COLON}}_January_26-27,_2017",
     "title": "Transcript/8: January 26-27, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39132,14 +39688,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4053,
+    "oldid": 5215,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}99{{COLON}}_November_1,_2017",
     "title": "Transcript/99: November 1, 2017",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39157,14 +39715,16 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3864,
+    "oldid": 5216,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
     "redirect": null,
     "slug": "Transcript{{FORWARD_SLASH}}9{{COLON}}_Joe_Rogan_Appearance",
     "title": "Transcript/9: Joe Rogan Appearance",
-    "wiki_categories": []
+    "wiki_categories": [
+      "Transcripts"
+    ]
   },
   {
     "airDate": null,
@@ -39207,7 +39767,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4963,
+    "oldid": 5241,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39232,7 +39792,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4964,
+    "oldid": 5106,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39285,7 +39845,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4965,
+    "oldid": 5242,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39390,7 +39950,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4967,
+    "oldid": 5108,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39495,7 +40055,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4969,
+    "oldid": 5109,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
