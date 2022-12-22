@@ -1,10 +1,6 @@
 [
   {
     "references": 24,
-    "title": "Brian Stelter"
-  },
-  {
-    "references": 24,
     "title": "Joel Skousen"
   },
   {
@@ -194,14 +190,6 @@
   {
     "references": 6,
     "title": "John Brennan"
-  },
-  {
-    "references": 6,
-    "title": "Joy Behar"
-  },
-  {
-    "references": 6,
-    "title": "Lionel"
   },
   {
     "references": 6,
@@ -469,19 +457,11 @@
   },
   {
     "references": 3,
-    "title": "Ashli Babbitt"
-  },
-  {
-    "references": 3,
     "title": "Barry Goldwater"
   },
   {
     "references": 3,
     "title": "Bashar al-Assad"
-  },
-  {
-    "references": 3,
-    "title": "Benjamin Netanyahu"
   },
   {
     "references": 3,
@@ -505,10 +485,6 @@
   },
   {
     "references": 3,
-    "title": "Charlie Sheen"
-  },
-  {
-    "references": 3,
     "title": "Courtney Brown"
   },
   {
@@ -529,10 +505,6 @@
   },
   {
     "references": 3,
-    "title": "Dick Cheney"
-  },
-  {
-    "references": 3,
     "title": "Dinesh D'Souza"
   },
   {
@@ -542,10 +514,6 @@
   {
     "references": 3,
     "title": "Dr Eric Pianka"
-  },
-  {
-    "references": 3,
-    "title": "Dzhokhar Tsarnaev"
   },
   {
     "references": 3,
@@ -3962,5 +3930,37 @@
   {
     "references": 1,
     "title": "Karen Kingston"
+  },
+  {
+    "references": 1,
+    "title": "Karen Russo"
+  },
+  {
+    "references": 1,
+    "title": "Karl Marx"
+  },
+  {
+    "references": 1,
+    "title": "Karl Rovel"
+  },
+  {
+    "references": 1,
+    "title": "Kary Mullis"
+  },
+  {
+    "references": 1,
+    "title": "Kate Blanchett"
+  },
+  {
+    "references": 1,
+    "title": "Kate Steinle"
+  },
+  {
+    "references": 1,
+    "title": "Katie Hopkins"
+  },
+  {
+    "references": 1,
+    "title": "Katie Miller"
   }
 ]
