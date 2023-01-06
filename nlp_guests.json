@@ -391,7 +391,6 @@
       "Timothy Mcveigh",
       "Bill Cooper",
       "Steven Crowder",
-      "Dick Cheney",
       "Robert Barnes"
     ]
   },
@@ -772,6 +771,17 @@
     ]
   },
   {
+    "episode_number": "53",
+    "people": [
+      "Donald Trump",
+      "Jerome Corsi",
+      "Chelsea Clinton",
+      "Megyn Kelly",
+      "Owen Shroyer",
+      "Megan Kelly"
+    ]
+  },
+  {
     "episode_number": "6",
     "people": [
       "Donald Trump",
@@ -836,7 +846,6 @@
       "Scarlett Lewis",
       "Leonard Pozner",
       "Lee Ann McAdoo",
-      "Charlie Sheen",
       "David Knight",
       "Owen Shroyer",
       "Jim Fetzer",
@@ -890,8 +899,7 @@
       "Mike Adams",
       "Jim Breuer",
       "Roger Stone",
-      "Mike Lindell",
-      "Dick Cheney"
+      "Mike Lindell"
     ]
   },
   {
@@ -1312,6 +1320,44 @@
     "episode_number": "758",
     "people": [
       "Chuck Norris"
+    ]
+  },
+  {
+    "episode_number": "759",
+    "people": [
+      "Mark Bankston"
+    ]
+  },
+  {
+    "episode_number": "760",
+    "people": [
+      "John Glenn",
+      "Mel Gibson",
+      "Vladimir Putin",
+      "Larry Pratt",
+      "Richard Spencer"
+    ]
+  },
+  {
+    "episode_number": "761",
+    "people": [
+      "Phyllis Schlafly",
+      "Bohemian Grove",
+      "David Gergen",
+      "Fred Willard",
+      "Sandra Day O'Connor",
+      "George Bush",
+      "G Edward Griffin"
+    ]
+  },
+  {
+    "episode_number": "762",
+    "people": [
+      "Keanu Reeves",
+      "Barbara Walters",
+      "Vladimir Putin",
+      "Bill Gates",
+      "Jar Jar Binks"
     ]
   },
   {
