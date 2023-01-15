@@ -1,17 +1,5 @@
 [
   {
-    "references": 24,
-    "title": "Joel Skousen"
-  },
-  {
-    "references": 19,
-    "title": "Harrison Smith"
-  },
-  {
-    "references": 16,
-    "title": "Ali Alexander"
-  },
-  {
     "references": 15,
     "title": "Desaix Clark"
   },
@@ -22,10 +10,6 @@
   {
     "references": 14,
     "title": "Piers Morgan"
-  },
-  {
-    "references": 14,
-    "title": "Wolfgang Halbig"
   },
   {
     "references": 13,
@@ -56,10 +40,6 @@
     "title": "James O'Keefe"
   },
   {
-    "references": 11,
-    "title": "Robert David Steele"
-  },
-  {
     "references": 10,
     "title": "Greg Reese"
   },
@@ -69,15 +49,7 @@
   },
   {
     "references": 10,
-    "title": "Jo Ann Richards"
-  },
-  {
-    "references": 10,
     "title": "Max Keiser"
-  },
-  {
-    "references": 9,
-    "title": "Candace Owens"
   },
   {
     "references": 9,
@@ -168,6 +140,10 @@
     "title": "Savannah Hernandez"
   },
   {
+    "references": 7,
+    "title": "W Cleon Skousen"
+  },
+  {
     "references": 6,
     "title": "Adam Schiff"
   },
@@ -202,10 +178,6 @@
   {
     "references": 6,
     "title": "The Dutchman"
-  },
-  {
-    "references": 6,
-    "title": "W Cleon Skousen"
   },
   {
     "references": 5,
@@ -334,6 +306,10 @@
   {
     "references": 4,
     "title": "James David Manning"
+  },
+  {
+    "references": 4,
+    "title": "January 6th Insurrection"
   },
   {
     "references": 4,
@@ -598,6 +574,10 @@
   {
     "references": 3,
     "title": "Joe Scarborough"
+  },
+  {
+    "references": 3,
+    "title": "John Birch Society"
   },
   {
     "references": 3,
@@ -1045,10 +1025,6 @@
   },
   {
     "references": 2,
-    "title": "January 6th Insurrection"
-  },
-  {
-    "references": 2,
     "title": "Jason Jones"
   },
   {
@@ -1106,10 +1082,6 @@
   {
     "references": 2,
     "title": "Joel Wallach"
-  },
-  {
-    "references": 2,
-    "title": "John Birch Society"
   },
   {
     "references": 2,
@@ -1378,6 +1350,10 @@
   {
     "references": 2,
     "title": "Stephen Miller"
+  },
+  {
+    "references": 2,
+    "title": "Stop the Steal"
   },
   {
     "references": 2,
@@ -1750,6 +1726,10 @@
   {
     "references": 1,
     "title": "Anthony Zender"
+  },
+  {
+    "references": 1,
+    "title": "Anti-Communist"
   },
   {
     "references": 1,
@@ -2366,6 +2346,10 @@
   {
     "references": 1,
     "title": "Corey Skolenka"
+  },
+  {
+    "references": 1,
+    "title": "Covid-19"
   },
   {
     "references": 1,
@@ -3837,6 +3821,10 @@
   },
   {
     "references": 1,
+    "title": "Joshua Cutchin"
+  },
+  {
+    "references": 1,
     "title": "Joshua Heiken"
   },
   {
@@ -3962,5 +3950,17 @@
   {
     "references": 1,
     "title": "Ke$ha"
+  },
+  {
+    "references": 1,
+    "title": "Kelly"
+  },
+  {
+    "references": 1,
+    "title": "Kelly Johnson"
+  },
+  {
+    "references": 1,
+    "title": "Kelly Rushing"
   }
 ]
