@@ -12,10 +12,6 @@
     "title": "Piers Morgan"
   },
   {
-    "references": 13,
-    "title": "Joe Biggs"
-  },
-  {
     "references": 12,
     "title": "Bill Maher"
   },
@@ -201,6 +197,10 @@
   },
   {
     "references": 5,
+    "title": "January 6th Insurrection"
+  },
+  {
+    "references": 5,
     "title": "Joe Banister"
   },
   {
@@ -306,10 +306,6 @@
   {
     "references": 4,
     "title": "James David Manning"
-  },
-  {
-    "references": 4,
-    "title": "January 6th Insurrection"
   },
   {
     "references": 4,
@@ -3962,5 +3958,9 @@
   {
     "references": 1,
     "title": "Kelly Rushing"
+  },
+  {
+    "references": 1,
+    "title": "Kelly o'meara"
   }
 ]
