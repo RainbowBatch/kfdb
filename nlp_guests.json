@@ -240,7 +240,6 @@
       "Willie Nelson",
       "Sean Hannity",
       "Brigham Young",
-      "John Kerry",
       "Paul Joseph Watson",
       "Nico Acosta",
       "Andrew Basiago",
@@ -440,7 +439,6 @@
       "William Shakespeare",
       "Shakespeare",
       "Anderson Cooper",
-      "Julian Assange",
       "George Soros"
     ]
   },
@@ -469,7 +467,6 @@
       "George Soros",
       "Mike Cernovich",
       "Buckley Hamman",
-      "Julian Assange",
       "Stefan Molyneux"
     ]
   },
@@ -502,7 +499,7 @@
       "Paul Joseph Watson",
       "Buckley Hamman",
       "Jim Fetzer",
-      "Robbie Parker",
+      "Sandy Hook Family Members",
       "Donald Trump",
       "Wolfgang Halbig",
       "James Tracy",
@@ -634,7 +631,6 @@
       "Julian Assange",
       "Sigmund Freud",
       "Baby Trump",
-      "John Kerry",
       "Roger Stone",
       "George Soros"
     ]
@@ -646,7 +642,6 @@
       "Donald Trump",
       "Jerome Corsi",
       "Paul Joseph Watson",
-      "John Kerry",
       "Edward Bernays",
       "Bill O'Reilly",
       "David Knight"
@@ -742,7 +737,6 @@
       "Jerome Corsi",
       "Adam Carolla",
       "Paul Joseph Watson",
-      "Julian Assange",
       "Martin Luther King Jr"
     ]
   },
@@ -757,7 +751,6 @@
       "Vladimir Putin",
       "John Lewis",
       "Owen Shroyer",
-      "John Kerry",
       "George Soros"
     ]
   },
@@ -830,6 +823,27 @@
       "Paul Joseph Watson",
       "Bill Ogden",
       "Owen Shroyer"
+    ]
+  },
+  {
+    "episode_number": "62",
+    "people": [
+      "Donald Trump",
+      "Jesse Ventura",
+      "Barack Obama",
+      "Frank Marshall Davis",
+      "Paul Joseph Watson",
+      "Rachel Maddow",
+      "Hillary Clinton",
+      "David Duke",
+      "Shaun King",
+      "John Lennon",
+      "Dennis Miller",
+      "Buckley Hamman",
+      "Randy Kramer",
+      "David Knight",
+      "Marty DeRosa",
+      "Robert David Steele"
     ]
   },
   {
@@ -995,7 +1009,8 @@
       "Eddie Bravo",
       "Robert Barnes",
       "Roger Stone",
-      "Ron Desantis"
+      "Kevin McCarthy",
+      "Ron DeSantis"
     ]
   },
   {
@@ -1087,7 +1102,6 @@
       "Owen Shroyer",
       "Chris Mattei",
       "Vladimir Putin",
-      "Robbie Parker",
       "David Icke",
       "David Knight",
       "Harrison Smith"
@@ -1106,7 +1120,7 @@
     "episode_number": "737",
     "people": [
       "Elizabeth Williamson",
-      "Robbie Parker",
+      "Sandy Hook Family Members",
       "Jon Ronson"
     ]
   },
@@ -1115,7 +1129,6 @@
     "people": [
       "Steven Crowder",
       "Donald Trump",
-      "Robbie Parker",
       "Kyle Rittenhouse",
       "Stefan Molyneux",
       "Robert Barnes",
@@ -1132,8 +1145,7 @@
       "Wolfgang Halbig",
       "John Rappaport",
       "John Brown",
-      "Paul Joseph Watson",
-      "Robbie Parker"
+      "Paul Joseph Watson"
     ]
   },
   {
@@ -1165,7 +1177,7 @@
     "people": [
       "Chris Mattei",
       "Norm Pattis",
-      "Robbie Parker",
+      "Sandy Hook Family Members",
       "Dan Bidondi",
       "Madeleine Albright",
       "Wolfgang Halbig",
@@ -1200,7 +1212,7 @@
       "Norm Pattis",
       "Rob Jacobson",
       "Glenn Beck",
-      "Robbie Parker"
+      "Sandy Hook Family Members"
     ]
   },
   {
@@ -1242,8 +1254,9 @@
       "Donald Trump",
       "Steve Quayle",
       "Roger Stone",
-      "Ron Desantis",
-      "Harrison Smith"
+      "Ron DeSantis",
+      "Harrison Smith",
+      "Kevin McCarthy"
     ]
   },
   {
@@ -1272,8 +1285,7 @@
       "Donald Trump",
       "Hunter Biden",
       "John Wayne",
-      "Ron Desantis",
-      "Thomas Jefferson"
+      "Ron DeSantis"
     ]
   },
   {
@@ -1318,7 +1330,6 @@
       "Dan Bidondi",
       "Wolfgang Halbig",
       "Abdul Muttalib",
-      "Thomas Jefferson",
       "Paul Joseph Watson"
     ]
   },
@@ -1446,9 +1457,23 @@
       "Robert Mueller",
       "Glenn Greenwald",
       "Roger Stone",
-      "Robbie Parker",
       "Jussie Smollett"
     ]
+  },
+  {
+    "episode_number": "768",
+    "people": [
+      "Mark Bankston",
+      "Rob Jacobson",
+      "Mark Enoch",
+      "Andy Murray",
+      "Millie Weaver",
+      "Paul Joseph Watson"
+    ]
+  },
+  {
+    "episode_number": "769",
+    "people": []
   },
   {
     "episode_number": "8",
@@ -1475,8 +1500,7 @@
       "Hillary Clinton",
       "Buzz Aldrin",
       "Bill Hicks",
-      "Jesse Ventura",
-      "Isaac Asimov"
+      "Jesse Ventura"
     ]
   },
   {

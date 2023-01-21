@@ -8,7 +8,7 @@
     "title": "Michael Savage"
   },
   {
-    "references": 14,
+    "references": 15,
     "title": "Piers Morgan"
   },
   {
@@ -89,6 +89,10 @@
   },
   {
     "references": 8,
+    "title": "Rob Jacobson"
+  },
+  {
+    "references": 8,
     "title": "Tom Pappert"
   },
   {
@@ -129,10 +133,6 @@
   },
   {
     "references": 7,
-    "title": "Rob Jacobson"
-  },
-  {
-    "references": 7,
     "title": "Savannah Hernandez"
   },
   {
@@ -166,6 +166,10 @@
   {
     "references": 6,
     "title": "Lord Monckton"
+  },
+  {
+    "references": 6,
+    "title": "Mark Enoch"
   },
   {
     "references": 6,
@@ -229,10 +233,6 @@
   },
   {
     "references": 5,
-    "title": "Mark Enoch"
-  },
-  {
-    "references": 5,
     "title": "Milo Yianopolis"
   },
   {
@@ -266,10 +266,6 @@
   {
     "references": 4,
     "title": "Del Bigtree"
-  },
-  {
-    "references": 4,
-    "title": "Donn de Grand Pr\u00e9"
   },
   {
     "references": 4,
@@ -322,6 +318,10 @@
   {
     "references": 4,
     "title": "Marc Randazza"
+  },
+  {
+    "references": 4,
+    "title": "Marjorie Taylor Greene"
   },
   {
     "references": 4,
@@ -381,10 +381,6 @@
   },
   {
     "references": 4,
-    "title": "Thomas Jefferson"
-  },
-  {
-    "references": 4,
     "title": "Tyler Nixon"
   },
   {
@@ -430,10 +426,6 @@
   {
     "references": 3,
     "title": "Barry Goldwater"
-  },
-  {
-    "references": 3,
-    "title": "Bashar al-Assad"
   },
   {
     "references": 3,
@@ -577,10 +569,6 @@
   },
   {
     "references": 3,
-    "title": "John Kerry"
-  },
-  {
-    "references": 3,
     "title": "John McAfee"
   },
   {
@@ -602,10 +590,6 @@
   {
     "references": 3,
     "title": "Joycelyn Elders"
-  },
-  {
-    "references": 3,
-    "title": "Katherine"
   },
   {
     "references": 3,
@@ -638,10 +622,6 @@
   {
     "references": 3,
     "title": "Louis Beam"
-  },
-  {
-    "references": 3,
-    "title": "Marjorie Taylor Greene"
   },
   {
     "references": 3,
@@ -709,10 +689,6 @@
   },
   {
     "references": 3,
-    "title": "Robbie Parker"
-  },
-  {
-    "references": 3,
     "title": "Robert Kennedy Jr"
   },
   {
@@ -761,15 +737,7 @@
   },
   {
     "references": 2,
-    "title": "Aldous Huxley"
-  },
-  {
-    "references": 2,
     "title": "Anders Breivik"
-  },
-  {
-    "references": 2,
-    "title": "Arthur C Clarke"
   },
   {
     "references": 2,
@@ -993,10 +961,6 @@
   },
   {
     "references": 2,
-    "title": "Isaac Asimov"
-  },
-  {
-    "references": 2,
     "title": "Isaac Kappy"
   },
   {
@@ -1105,7 +1069,11 @@
   },
   {
     "references": 2,
-    "title": "Julian Assange"
+    "title": "KRS-One"
+  },
+  {
+    "references": 2,
+    "title": "Katherine"
   },
   {
     "references": 2,
@@ -1225,10 +1193,6 @@
   },
   {
     "references": 2,
-    "title": "Noam Chomsky"
-  },
-  {
-    "references": 2,
     "title": "None Dare Call It Conspiracy"
   },
   {
@@ -1321,10 +1285,6 @@
   },
   {
     "references": 2,
-    "title": "Ruth Bader Ginsberg"
-  },
-  {
-    "references": 2,
     "title": "Sam Montoya"
   },
   {
@@ -1394,10 +1354,6 @@
   {
     "references": 2,
     "title": "Vince McMahon"
-  },
-  {
-    "references": 2,
-    "title": "Warren Buffett"
   },
   {
     "references": 2,
@@ -1726,6 +1682,10 @@
   {
     "references": 1,
     "title": "Anti-Communist"
+  },
+  {
+    "references": 1,
+    "title": "Anti-communist"
   },
   {
     "references": 1,
@@ -2885,10 +2845,6 @@
   },
   {
     "references": 1,
-    "title": "FarOut"
-  },
-  {
-    "references": 1,
     "title": "Flyer"
   },
   {
@@ -3893,14 +3849,6 @@
   },
   {
     "references": 1,
-    "title": "KRS-1"
-  },
-  {
-    "references": 1,
-    "title": "KRS One"
-  },
-  {
-    "references": 1,
     "title": "Kane"
   },
   {
@@ -3910,10 +3858,6 @@
   {
     "references": 1,
     "title": "Karen Russo"
-  },
-  {
-    "references": 1,
-    "title": "Karl Marx"
   },
   {
     "references": 1,
@@ -3962,5 +3906,85 @@
   {
     "references": 1,
     "title": "Kelly o'meara"
+  },
+  {
+    "references": 1,
+    "title": "Kenneth Trentadue"
+  },
+  {
+    "references": 1,
+    "title": "Kermit Gosenel"
+  },
+  {
+    "references": 1,
+    "title": "Kerry Kassidy"
+  },
+  {
+    "references": 1,
+    "title": "Kevin Curtis"
+  },
+  {
+    "references": 1,
+    "title": "Kevin Daniel Moor"
+  },
+  {
+    "references": 1,
+    "title": "Kevin Doherty"
+  },
+  {
+    "references": 1,
+    "title": "Kevin Ives"
+  },
+  {
+    "references": 1,
+    "title": "Kevin McCarthy"
+  },
+  {
+    "references": 1,
+    "title": "Kevin McDonald"
+  },
+  {
+    "references": 1,
+    "title": "Kevin Spacey"
+  },
+  {
+    "references": 1,
+    "title": "Kevin Trudeau"
+  },
+  {
+    "references": 1,
+    "title": "Kim Gaugin"
+  },
+  {
+    "references": 1,
+    "title": "Kinky Friedman"
+  },
+  {
+    "references": 1,
+    "title": "Kirk David Lyons"
+  },
+  {
+    "references": 1,
+    "title": "Koch Brothers"
+  },
+  {
+    "references": 1,
+    "title": "Krzysztof Bosak"
+  },
+  {
+    "references": 1,
+    "title": "Kurt Vonnegut"
+  },
+  {
+    "references": 1,
+    "title": "Kurt Weldon"
+  },
+  {
+    "references": 1,
+    "title": "Kyle Rittenhouse's mom"
+  },
+  {
+    "references": 1,
+    "title": "Kyrsten Sinema"
   }
 ]
