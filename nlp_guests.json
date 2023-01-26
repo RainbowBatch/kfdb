@@ -240,7 +240,9 @@
       "Willie Nelson",
       "Sean Hannity",
       "Brigham Young",
+      "Larry C Johnson",
       "Paul Joseph Watson",
+      "Lana del Rey",
       "Nico Acosta",
       "Andrew Basiago",
       "John Oliver"
@@ -292,6 +294,7 @@
       "David Koresh",
       "Bill Hicks",
       "Michael Savage",
+      "Larry C Johnson",
       "Dennis Montgomery",
       "John McCain",
       "David Brock",
@@ -681,7 +684,8 @@
       "Mother Jones",
       "Paul Joseph Watson",
       "Dennis Miller",
-      "Stephen Miller"
+      "Stephen Miller",
+      "Larry C Johnson"
     ]
   },
   {
@@ -1409,8 +1413,7 @@
       "Keanu Reeves",
       "Barbara Walters",
       "Vladimir Putin",
-      "Bill Gates",
-      "Jar Jar Binks"
+      "Bill Gates"
     ]
   },
   {
@@ -1474,6 +1477,19 @@
   {
     "episode_number": "769",
     "people": []
+  },
+  {
+    "episode_number": "770",
+    "people": [
+      "Steven Crowder",
+      "Ben Shapiro",
+      "Jeremy Boreing",
+      "Matt Walsh",
+      "Candace Owens",
+      "Glenn Beck",
+      "Harrison Smith",
+      "Piers Morgan"
+    ]
   },
   {
     "episode_number": "8",
