@@ -1,15 +1,15 @@
 [
   {
+    "references": 16,
+    "title": "Piers Morgan"
+  },
+  {
     "references": 15,
     "title": "Desaix Clark"
   },
   {
     "references": 15,
     "title": "Michael Savage"
-  },
-  {
-    "references": 15,
-    "title": "Piers Morgan"
   },
   {
     "references": 12,
@@ -1142,6 +1142,10 @@
   {
     "references": 2,
     "title": "Matt Blumenthal"
+  },
+  {
+    "references": 2,
+    "title": "Matt Walsh"
   },
   {
     "references": 2,
@@ -3457,6 +3461,10 @@
   },
   {
     "references": 1,
+    "title": "Jeremy Boreing"
+  },
+  {
+    "references": 1,
     "title": "Jeremy Brown"
   },
   {
@@ -3986,13 +3994,5 @@
   {
     "references": 1,
     "title": "Larry Fink"
-  },
-  {
-    "references": 1,
-    "title": "Larry Grathwald"
-  },
-  {
-    "references": 1,
-    "title": "Larry Madsen"
   }
 ]
