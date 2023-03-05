@@ -2828,6 +2828,7 @@
     "coverage_date": "##REMOVE##",
     "coverage_end_date": "##REMOVE##",
     "coverage_start_date": "##REMOVE##",
+    "coverage_dates_string": "##REMOVE##",
     "episode_number": "S005"
   }
 ]
