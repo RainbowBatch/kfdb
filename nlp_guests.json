@@ -190,8 +190,7 @@
       "Michelle Obama",
       "Glenn Beck",
       "Stephen Colbert",
-      "Paul Joseph Watson",
-      "Jimmy Kimmel"
+      "Paul Joseph Watson"
     ]
   },
   {
@@ -215,7 +214,6 @@
       "Charlie Sheen",
       "Rick Perry",
       "Michael Moore",
-      "Rahm Emanuel",
       "Paul Joseph Watson"
     ]
   },
@@ -293,10 +291,8 @@
       "Sean Hannity",
       "Brigham Young",
       "Paul Joseph Watson",
-      "Lana del Rey",
       "Nico Acosta",
-      "Andrew Basiago",
-      "John Oliver"
+      "Andrew Basiago"
     ]
   },
   {
@@ -327,8 +323,7 @@
       "Edward Snowden",
       "Devin Nunez",
       "Cliven Bundy",
-      "George Soros",
-      "John Brennan"
+      "George Soros"
     ]
   },
   {
@@ -346,7 +341,6 @@
       "Bill Hicks",
       "Michael Savage",
       "Dennis Montgomery",
-      "John McCain",
       "David Brock",
       "Sean Hannity",
       "Howard Stern",
@@ -360,8 +354,7 @@
       "Barack Obama",
       "Craig Sawyer",
       "David Knight",
-      "Lee Ann McAdoo",
-      "Adam Schiff"
+      "Lee Ann McAdoo"
     ]
   },
   {
@@ -376,7 +369,6 @@
       "Robert De Niro",
       "John Wayne",
       "Susan Rice",
-      "Adam Schiff",
       "Mike Cernovich",
       "Brian Williams"
     ]
@@ -410,8 +402,7 @@
       "Roger Stone",
       "Richard Spencer",
       "John Rappaport",
-      "Adam Carolla",
-      "Mel Gibson"
+      "Adam Carolla"
     ]
   },
   {
@@ -423,7 +414,6 @@
       "Britney Spears",
       "Donald Trump",
       "William Shakespeare",
-      "Adam Schiff",
       "David Knight",
       "Lee Ann McAdoo"
     ]
@@ -486,7 +476,6 @@
     "episode_number": "36",
     "people": [
       "Donald Trump",
-      "Barry Goldwater",
       "Mike Cernovich",
       "David Knight",
       "George Soros",
@@ -522,7 +511,6 @@
       "Nigel Farage",
       "Gavin McInnes",
       "Roger Stone",
-      "Adam Schiff",
       "Peter Schiff"
     ]
   },
@@ -570,7 +558,6 @@
       "George Soros",
       "Mike Flynn",
       "James O'Keefe",
-      "Paul Manafort",
       "Sean Hannity"
     ]
   },
@@ -580,9 +567,7 @@
       "Roger Stone",
       "Donald Trump",
       "John Rappaport",
-      "David Knight",
-      "Andrew Jackson",
-      "Rahm Emanuel"
+      "David Knight"
     ]
   },
   {
@@ -700,15 +685,12 @@
       "Mike Cernovich",
       "Jerome Corsi",
       "Adam Carolla",
-      "Paul Joseph Watson",
-      "Martin Luther King Jr"
+      "Paul Joseph Watson"
     ]
   },
   {
     "episode_number": "50",
-    "people": [
-      "Richard Nixon"
-    ]
+    "people": []
   },
   {
     "episode_number": "51",
@@ -905,7 +887,6 @@
       "Al Sharpton",
       "Tom Fitton",
       "Julian Assange",
-      "Richard Nixon",
       "Harry Reid"
     ]
   },
@@ -1053,12 +1034,10 @@
       "Tucker Carlson",
       "Peter Thiel",
       "Norm Pattis",
-      "Jimmy Kimmel",
       "Eddie Bravo",
       "Robert Barnes",
       "Roger Stone",
-      "Kevin McCarthy",
-      "Ron Desantis"
+      "Kevin McCarthy"
     ]
   },
   {
@@ -1101,8 +1080,7 @@
     "people": [
       "John Anderson",
       "Paul Revere",
-      "Arnold Schwarzenegger",
-      "Mel Gibson"
+      "Arnold Schwarzenegger"
     ]
   },
   {
@@ -1202,8 +1180,7 @@
       "Arnold Schwarzenegger",
       "Mel Gibson",
       "Condoleezza Rice",
-      "Willie Brown",
-      "Piers Morgan"
+      "Willie Brown"
     ]
   },
   {
@@ -1216,7 +1193,6 @@
       "Ross Perot",
       "George Washington",
       "Roger Stone",
-      "Ben Carson",
       "Harrison Smith"
     ]
   },
@@ -1302,7 +1278,6 @@
       "Donald Trump",
       "Steve Quayle",
       "Roger Stone",
-      "Ron Desantis",
       "Harrison Smith",
       "Kevin McCarthy"
     ]
@@ -1332,8 +1307,7 @@
       "Tucker Carlson",
       "Donald Trump",
       "Hunter Biden",
-      "John Wayne",
-      "Ron Desantis"
+      "John Wayne"
     ]
   },
   {
@@ -1393,7 +1367,6 @@
       "Marjorie Taylor Greene",
       "David Duke",
       "Ali Alexander",
-      "Piers Morgan",
       "George Orwell",
       "Robert Barnes"
     ]
@@ -1413,7 +1386,6 @@
       "Donald Trump",
       "Bill Gates",
       "Steven Crowder",
-      "Piers Morgan",
       "Captain America"
     ]
   },
@@ -1535,8 +1507,7 @@
       "Matt Walsh",
       "Candace Owens",
       "Glenn Beck",
-      "Harrison Smith",
-      "Piers Morgan"
+      "Harrison Smith"
     ]
   },
   {
@@ -1587,7 +1558,6 @@
       "Donald Trump",
       "Steven Crowder",
       "Harrison Smith",
-      "David Rockefeller",
       "Charlie Kirk",
       "Mike Flynn"
     ]
@@ -1664,8 +1634,17 @@
       "Woody Harrelson",
       "Howard Dean",
       "Donald Trump",
-      "Bill Maher",
-      "Barry Goldwater"
+      "Bill Maher"
+    ]
+  },
+  {
+    "episode_number": "785",
+    "people": [
+      "Roseanne Barr",
+      "Dave Chappelle",
+      "Alice Cooper",
+      "John The Revelator",
+      "Harry Potter"
     ]
   }
 ]
