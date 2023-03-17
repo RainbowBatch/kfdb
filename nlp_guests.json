@@ -1044,7 +1044,8 @@
       "Eddie Bravo",
       "Robert Barnes",
       "Roger Stone",
-      "Kevin McCarthy"
+      "Kevin McCarthy",
+      "Ron Desantis"
     ]
   },
   {
@@ -1285,6 +1286,7 @@
       "Donald Trump",
       "Steve Quayle",
       "Roger Stone",
+      "Ron Desantis",
       "Harrison Smith",
       "Kevin McCarthy"
     ]
@@ -1314,7 +1316,8 @@
       "Tucker Carlson",
       "Donald Trump",
       "Hunter Biden",
-      "John Wayne"
+      "John Wayne",
+      "Ron Desantis"
     ]
   },
   {
@@ -1654,6 +1657,17 @@
       "Alice Cooper",
       "John The Revelator",
       "Harry Potter"
+    ]
+  },
+  {
+    "episode_number": "786",
+    "people": [
+      "Harrison Smith",
+      "Donald Trump",
+      "Michael Hastings",
+      "Gavin McInnes",
+      "Joe Arpaio",
+      "Roger Stone"
     ]
   }
 ]
