@@ -2521,7 +2521,7 @@
     "length": "01:33:27",
     "libsyn_link": "isten",
     "nextEpisode": "157",
-    "oldid": 10628,
+    "oldid": 10738,
     "oocDrop": "He does have access to a TV",
     "previousEpisode": "155",
     "question": null,
@@ -3816,7 +3816,7 @@
   {
     "airDate": "August 3, 2018",
     "appearance": [
-      "Mao Zedong\u200f\u200e",
+      "Mao Zedong",
       "David Rockefeller",
       "Tucker Carlson",
       "Tommy Robinson",
@@ -3841,7 +3841,7 @@
     "length": "02:52:48",
     "libsyn_link": "isten",
     "nextEpisode": "189",
-    "oldid": 10642,
+    "oldid": 10739,
     "oocDrop": "Trump is Christlike",
     "previousEpisode": "187",
     "question": null,
@@ -11797,7 +11797,7 @@
     "length": "03:07:43",
     "libsyn_link": "isten",
     "nextEpisode": "371",
-    "oldid": 9017,
+    "oldid": 10740,
     "oocDrop": "I was in court once, they asked me what TikTok is",
     "previousEpisode": "369",
     "question": null,
@@ -18136,7 +18136,7 @@
       "Tom Pappert",
       "Taylor Hanson",
       "Ali Alexander",
-      "Lucian Wintrich\u200f\u200e",
+      "Lucian Wintrich",
       "Matthew Foster"
     ],
     "beverage": null,
@@ -18154,7 +18154,7 @@
     "length": "03:31:15",
     "libsyn_link": "isten",
     "nextEpisode": "518",
-    "oldid": 10513,
+    "oldid": 10741,
     "oocDrop": "God creates the oceans, oceans create the waves",
     "previousEpisode": "516",
     "question": null,
@@ -19032,7 +19032,7 @@
     "appearance": [
       "Harrison Smith",
       "George Floyd",
-      "Marjorie Taylor Greene\u200f\u200e",
+      "Marjorie Taylor Greene",
       "Rob Dew",
       "Stewart Rhodes"
     ],
@@ -19051,7 +19051,7 @@
     "length": "01:26:10",
     "libsyn_link": "isten",
     "nextEpisode": "540",
-    "oldid": 10692,
+    "oldid": 10742,
     "oocDrop": null,
     "previousEpisode": "538",
     "question": null,
@@ -22889,7 +22889,7 @@
     "length": "01:53:38",
     "libsyn_link": "isten",
     "nextEpisode": "633",
-    "oldid": 10681,
+    "oldid": 10774,
     "oocDrop": "Let it be said on my tombstone that I am part of Team Human",
     "previousEpisode": "631",
     "question": null,
@@ -29992,7 +29992,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10388,
+    "oldid": 10744,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30000,7 +30000,9 @@
     "slug": "Adam_Schiff",
     "title": "Adam Schiff",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30047,7 +30049,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10703,
+    "oldid": 10745,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30055,7 +30057,9 @@
     "slug": "Agenda_21",
     "title": "Agenda 21",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -30099,7 +30103,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6590,
+    "oldid": 10746,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30107,7 +30111,9 @@
     "slug": "Ahmaud_Arbery",
     "title": "Ahmaud Arbery",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30125,7 +30131,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3494,
+    "oldid": 10747,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30133,7 +30139,9 @@
     "slug": "Al_Gore",
     "title": "Al Gore",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30180,7 +30188,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6139,
+    "oldid": 10748,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30188,7 +30196,9 @@
     "slug": "Aldous_Huxley",
     "title": "Aldous Huxley",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30232,7 +30242,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8650,
+    "oldid": 10749,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30240,7 +30250,9 @@
     "slug": "Aleksandr_Dugin",
     "title": "Aleksandr Dugin",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30367,7 +30379,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4803,
+    "oldid": 10750,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30375,7 +30387,9 @@
     "slug": "Alexander_Nekrassov",
     "title": "Alexander Nekrassov",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30419,7 +30433,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8310,
+    "oldid": 10751,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30427,7 +30441,9 @@
     "slug": "Alexandria_Ocasio-Cortez",
     "title": "Alexandria Ocasio-Cortez",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30445,11 +30461,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2595,
+    "oldid": 10981,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "Alfie Oakes\u200f\u200e",
+    "redirect": "Alfie Oakes",
     "slug": "Alfie_Oaks",
     "title": "Alfie Oaks",
     "transcriptEpisodeNumber": null,
@@ -30525,7 +30541,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5641,
+    "oldid": 10752,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30533,7 +30549,9 @@
     "slug": "Amy_Coney_Barrett",
     "title": "Amy Coney Barrett",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30551,7 +30569,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10389,
+    "oldid": 10753,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30559,7 +30577,9 @@
     "slug": "Anderson_Cooper",
     "title": "Anderson Cooper",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30577,7 +30597,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5735,
+    "oldid": 10754,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30585,7 +30605,9 @@
     "slug": "Andino_Reynal",
     "title": "Andino Reynal",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30603,7 +30625,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8479,
+    "oldid": 10755,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30611,7 +30633,9 @@
     "slug": "Andrew_Cuomo",
     "title": "Andrew Cuomo",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30629,7 +30653,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10390,
+    "oldid": 10756,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30637,7 +30661,9 @@
     "slug": "Andrew_Jackson",
     "title": "Andrew Jackson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30655,7 +30681,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6594,
+    "oldid": 10757,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30663,7 +30689,9 @@
     "slug": "Andrew_McCabe",
     "title": "Andrew McCabe",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30707,7 +30735,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10391,
+    "oldid": 10758,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30715,7 +30743,9 @@
     "slug": "Andrew_Wakefield",
     "title": "Andrew Wakefield",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30733,7 +30763,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8480,
+    "oldid": 10759,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30741,7 +30771,9 @@
     "slug": "Angela_Merkel",
     "title": "Angela Merkel",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30759,7 +30791,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8481,
+    "oldid": 10760,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30767,7 +30799,9 @@
     "slug": "Ann_Coulter",
     "title": "Ann Coulter",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30785,7 +30819,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5644,
+    "oldid": 10761,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30793,7 +30827,9 @@
     "slug": "Anthony_Cuomo",
     "title": "Anthony Cuomo",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30839,7 +30875,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8311,
+    "oldid": 10762,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30847,7 +30883,9 @@
     "slug": "Arnold_Schwarzenegger",
     "title": "Arnold Schwarzenegger",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30919,7 +30957,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10479,
+    "oldid": 10763,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30927,7 +30965,9 @@
     "slug": "Arthur_C_Clarke",
     "title": "Arthur C Clarke",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30971,7 +31011,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5739,
+    "oldid": 10764,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -30979,7 +31019,9 @@
     "slug": "Ashli_Babbitt",
     "title": "Ashli Babbitt",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -30997,7 +31039,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6596,
+    "oldid": 10765,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31005,7 +31047,9 @@
     "slug": "Barack_Obama",
     "title": "Barack Obama",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31051,7 +31095,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8314,
+    "oldid": 10766,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31059,7 +31103,9 @@
     "slug": "Barry_Cooper",
     "title": "Barry Cooper",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31077,7 +31123,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10392,
+    "oldid": 10767,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31085,7 +31131,9 @@
     "slug": "Barry_Goldwater",
     "title": "Barry Goldwater",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31103,7 +31151,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6145,
+    "oldid": 10768,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31111,7 +31159,9 @@
     "slug": "Bashar_al-Assad",
     "title": "Bashar al-Assad",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31155,7 +31205,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10393,
+    "oldid": 10769,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31163,7 +31213,9 @@
     "slug": "Ben_Carson",
     "title": "Ben Carson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31181,7 +31233,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8315,
+    "oldid": 10770,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31189,7 +31241,9 @@
     "slug": "Ben_Garrison",
     "title": "Ben Garrison",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31207,11 +31261,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2621,
+    "oldid": 10982,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "Dr Ben Marble\u200f\u200e",
+    "redirect": "Dr Ben Marble",
     "slug": "Ben_Marble",
     "title": "Ben Marble",
     "transcriptEpisodeNumber": null,
@@ -31233,7 +31287,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8591,
+    "oldid": 10771,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31241,7 +31295,9 @@
     "slug": "Ben_Shapiro",
     "title": "Ben Shapiro",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31259,7 +31315,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10532,
+    "oldid": 10772,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31267,7 +31323,9 @@
     "slug": "Benazir_Bhutto",
     "title": "Benazir Bhutto",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31285,7 +31343,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7934,
+    "oldid": 10773,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31293,7 +31351,9 @@
     "slug": "Benjamin_Netanyahu",
     "title": "Benjamin Netanyahu",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31311,7 +31371,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10480,
+    "oldid": 10775,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31319,7 +31379,9 @@
     "slug": "Bernie_Sanders",
     "title": "Bernie Sanders",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31337,11 +31399,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2604,
+    "oldid": 10983,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "Bertrand Russell\u200f\u200e",
+    "redirect": "Bertrand Russell",
     "slug": "Bertrand_Russel",
     "title": "Bertrand Russel",
     "transcriptEpisodeNumber": null,
@@ -31363,7 +31425,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7936,
+    "oldid": 10776,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31371,7 +31433,9 @@
     "slug": "Bertrand_Russell",
     "title": "Bertrand Russell",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31418,7 +31482,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2655,
+    "oldid": 10777,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31426,7 +31490,9 @@
     "slug": "Bill_Barr",
     "title": "Bill Barr",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31444,7 +31510,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8484,
+    "oldid": 10778,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31452,7 +31518,9 @@
     "slug": "Bill_Clinton",
     "title": "Bill Clinton",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31470,7 +31538,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10637,
+    "oldid": 10779,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31478,7 +31546,9 @@
     "slug": "Bill_Cooper",
     "title": "Bill Cooper",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31524,7 +31594,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10636,
+    "oldid": 10780,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31532,7 +31602,9 @@
     "slug": "Bill_Maher",
     "title": "Bill Maher",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31610,7 +31682,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10533,
+    "oldid": 10781,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31618,7 +31690,9 @@
     "slug": "Bob_Woodward",
     "title": "Bob Woodward",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31636,7 +31710,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8321,
+    "oldid": 10782,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31644,7 +31718,9 @@
     "slug": "Boris_Johnson",
     "title": "Boris Johnson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31662,7 +31738,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10534,
+    "oldid": 10783,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31670,7 +31746,9 @@
     "slug": "Boris_Yeltsin",
     "title": "Boris Yeltsin",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31794,7 +31872,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7942,
+    "oldid": 10784,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31802,7 +31880,9 @@
     "slug": "Brett_Kavanaugh",
     "title": "Brett Kavanaugh",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31820,7 +31900,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4830,
+    "oldid": 10785,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31828,7 +31908,9 @@
     "slug": "Brian_Kemp",
     "title": "Brian Kemp",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31846,7 +31928,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10535,
+    "oldid": 10786,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31854,7 +31936,9 @@
     "slug": "Brian_Stelter",
     "title": "Brian Stelter",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -31872,7 +31956,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8653,
+    "oldid": 10787,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -31880,7 +31964,9 @@
     "slug": "Brittany_Paz",
     "title": "Brittany Paz",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32115,7 +32201,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10537,
+    "oldid": 10788,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32123,7 +32209,9 @@
     "slug": "Carroll_Quigley",
     "title": "Carroll Quigley",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32169,7 +32257,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10395,
+    "oldid": 10789,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32177,7 +32265,9 @@
     "slug": "Cenk_Uygur",
     "title": "Cenk Uygur",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32195,7 +32285,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10378,
+    "oldid": 10790,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32203,7 +32293,9 @@
     "slug": "Chaing_Kai_Shek",
     "title": "Chaing Kai Shek",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32221,7 +32313,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8325,
+    "oldid": 10791,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32229,7 +32321,9 @@
     "slug": "Charlie_Sheen",
     "title": "Charlie Sheen",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32275,11 +32369,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3506,
+    "oldid": 10984,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "Christopher Dorner\u200f\u200e",
+    "redirect": "Christopher Dorner",
     "slug": "Chris_Dorner",
     "title": "Chris Dorner",
     "transcriptEpisodeNumber": null,
@@ -32301,7 +32395,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10481,
+    "oldid": 10792,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32309,7 +32403,9 @@
     "slug": "Chris_Mattei",
     "title": "Chris Mattei",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32382,7 +32478,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10707,
+    "oldid": 10793,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32390,7 +32486,9 @@
     "slug": "Christine_Blasey_Ford",
     "title": "Christine Blasey Ford",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32408,7 +32506,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10396,
+    "oldid": 10794,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32416,7 +32514,9 @@
     "slug": "Christopher_Dorner",
     "title": "Christopher Dorner",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32434,7 +32534,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10538,
+    "oldid": 10795,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32442,7 +32542,9 @@
     "slug": "Chuck_Schumer",
     "title": "Chuck Schumer",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32460,7 +32562,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8149,
+    "oldid": 10796,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32468,7 +32570,9 @@
     "slug": "Clarence_Thomas",
     "title": "Clarence Thomas",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32486,7 +32590,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2277,
+    "oldid": 10797,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32494,7 +32598,9 @@
     "slug": "Clenard_Childress",
     "title": "Clenard Childress",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32538,7 +32644,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8487,
+    "oldid": 10798,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32546,7 +32652,9 @@
     "slug": "Colin_Kaepernick",
     "title": "Colin Kaepernick",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32618,7 +32726,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10462,
+    "oldid": 10799,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32626,7 +32734,9 @@
     "slug": "Covid-19",
     "title": "Covid-19",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -32644,7 +32754,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10539,
+    "oldid": 10800,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32652,7 +32762,9 @@
     "slug": "DJ_Danarchy",
     "title": "DJ Danarchy",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32670,7 +32782,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10540,
+    "oldid": 10801,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32678,7 +32790,9 @@
     "slug": "Dan_Bidondi",
     "title": "Dan Bidondi",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32722,7 +32836,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7571,
+    "oldid": 10802,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32730,7 +32844,9 @@
     "slug": "Dan_Bongino",
     "title": "Dan Bongino",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32887,7 +33003,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8152,
+    "oldid": 10803,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32895,7 +33011,9 @@
     "slug": "Dave_Daubenmire",
     "title": "Dave Daubenmire",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32913,7 +33031,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8328,
+    "oldid": 10804,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32921,7 +33039,9 @@
     "slug": "David_Bowie",
     "title": "David Bowie",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -32939,7 +33059,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10542,
+    "oldid": 10805,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -32947,7 +33067,9 @@
     "slug": "David_Duke",
     "title": "David Duke",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33017,7 +33139,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10543,
+    "oldid": 10806,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33025,7 +33147,9 @@
     "slug": "David_Hogg",
     "title": "David Hogg",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33156,7 +33280,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10399,
+    "oldid": 10807,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33164,7 +33288,9 @@
     "slug": "David_Rockefeller",
     "title": "David Rockefeller",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33182,7 +33308,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10631,
+    "oldid": 10808,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33190,7 +33316,9 @@
     "slug": "Derek_Chauvin",
     "title": "Derek Chauvin",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33234,7 +33362,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8593,
+    "oldid": 10809,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33242,7 +33370,9 @@
     "slug": "Diane_Feinstein",
     "title": "Diane Feinstein",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33260,7 +33390,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8491,
+    "oldid": 10810,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33268,7 +33398,9 @@
     "slug": "Dick_Cheney",
     "title": "Dick Cheney",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33286,7 +33418,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10545,
+    "oldid": 10811,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33294,7 +33426,9 @@
     "slug": "Donald_Rumsfeld",
     "title": "Donald Rumsfeld",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33312,7 +33446,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2643,
+    "oldid": 10812,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33320,7 +33454,9 @@
     "slug": "Donald_Trump",
     "title": "Donald Trump",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33364,7 +33500,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6070,
+    "oldid": 10813,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33372,7 +33508,9 @@
     "slug": "Donn_de_Grand_Pr\u00e9",
     "title": "Donn de Grand Pr\u00e9",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33598,7 +33736,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8492,
+    "oldid": 10814,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33606,7 +33744,9 @@
     "slug": "Dwight_D_Eisenhower",
     "title": "Dwight D Eisenhower",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33650,11 +33790,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2597,
+    "oldid": 10985,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "E. Michael Jones\u200f\u200e",
+    "redirect": "E. Michael Jones",
     "slug": "E_Michael_Jones",
     "title": "E Michael Jones",
     "transcriptEpisodeNumber": null,
@@ -33705,7 +33845,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10546,
+    "oldid": 10815,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33713,7 +33853,9 @@
     "slug": "Edward_Snowden",
     "title": "Edward Snowden",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33757,7 +33899,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10400,
+    "oldid": 10816,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33765,7 +33907,9 @@
     "slug": "Elizabeth_Williamson",
     "title": "Elizabeth Williamson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33783,7 +33927,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2696,
+    "oldid": 10817,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33791,7 +33935,9 @@
     "slug": "Elon_Musk",
     "title": "Elon Musk",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33835,7 +33981,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10728,
+    "oldid": 10818,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33843,7 +33989,9 @@
     "slug": "Enrique_Tarrio",
     "title": "Enrique Tarrio",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33887,7 +34035,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8333,
+    "oldid": 10819,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33895,7 +34043,9 @@
     "slug": "Eric_Holder",
     "title": "Eric Holder",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -33913,7 +34063,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3657,
+    "oldid": 10820,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -33921,7 +34071,9 @@
     "slug": "Fentanyl_the_Chinese_dragon",
     "title": "Fentanyl the Chinese dragon",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -34020,7 +34172,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6393,
+    "oldid": 10821,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34028,7 +34180,9 @@
     "slug": "Garrison_Keillor",
     "title": "Garrison Keillor",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34075,7 +34229,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6621,
+    "oldid": 10822,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34083,7 +34237,9 @@
     "slug": "Gavin_Newsom",
     "title": "Gavin Newsom",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34153,11 +34309,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2612,
+    "oldid": 10986,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "General Mark Milley\u200f\u200e",
+    "redirect": "General Mark Milley",
     "slug": "General_Mark_A_Milley",
     "title": "General Mark A Milley",
     "transcriptEpisodeNumber": null,
@@ -34179,7 +34335,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10656,
+    "oldid": 10823,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34187,7 +34343,9 @@
     "slug": "General_Michael_Flynn",
     "title": "General Michael Flynn",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34205,11 +34363,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2610,
+    "oldid": 10987,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "General Russel L. Honor\u00e9\u200f\u200e",
+    "redirect": "General Russel L. Honor\u00e9",
     "slug": "General_Russel_L_Honor\u00e9",
     "title": "General Russel L Honor\u00e9",
     "transcriptEpisodeNumber": null,
@@ -34231,7 +34389,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2606,
+    "oldid": 10988,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34283,7 +34441,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6623,
+    "oldid": 10824,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34291,7 +34449,9 @@
     "slug": "George_Floyd",
     "title": "George Floyd",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34309,7 +34469,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6624,
+    "oldid": 10825,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34317,7 +34477,9 @@
     "slug": "George_H_W_Bush",
     "title": "George H W Bush",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34335,11 +34497,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2732,
+    "oldid": 10989,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "George H W Bush\u200f\u200e",
+    "redirect": "George H W Bush",
     "slug": "George_HW_Bush",
     "title": "George HW Bush",
     "transcriptEpisodeNumber": null,
@@ -34415,7 +34577,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8496,
+    "oldid": 10826,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34423,7 +34585,9 @@
     "slug": "George_W_Bush",
     "title": "George W Bush",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34441,7 +34605,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8497,
+    "oldid": 10827,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34449,7 +34613,9 @@
     "slug": "George_Washington",
     "title": "George Washington",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34496,7 +34662,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8660,
+    "oldid": 10828,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34504,7 +34670,9 @@
     "slug": "Ghislaine_Maxwell",
     "title": "Ghislaine Maxwell",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34548,7 +34716,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10402,
+    "oldid": 10829,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34556,7 +34724,9 @@
     "slug": "Glenn_Beck",
     "title": "Glenn Beck",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34574,7 +34744,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8661,
+    "oldid": 10830,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34582,7 +34752,9 @@
     "slug": "Globalists",
     "title": "Globalists",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -34626,7 +34798,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5659,
+    "oldid": 10831,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34634,7 +34806,9 @@
     "slug": "Greg_Abbott",
     "title": "Greg Abbott",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34652,7 +34826,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10640,
+    "oldid": 10832,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34660,7 +34834,9 @@
     "slug": "Greg_Reese",
     "title": "Greg Reese",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34678,7 +34854,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7768,
+    "oldid": 10833,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34686,7 +34862,9 @@
     "slug": "Greta_Thunberg",
     "title": "Greta Thunberg",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34704,7 +34882,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6632,
+    "oldid": 10834,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34712,7 +34890,9 @@
     "slug": "Gretchen_Whitmer",
     "title": "Gretchen Whitmer",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34758,7 +34938,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10633,
+    "oldid": 10835,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34766,7 +34946,9 @@
     "slug": "HG_Wells",
     "title": "HG Wells",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34810,7 +34992,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10403,
+    "oldid": 10836,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34818,7 +35000,9 @@
     "slug": "Hamdi_Ulukaya",
     "title": "Hamdi Ulukaya",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34864,7 +35048,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8499,
+    "oldid": 10837,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34872,7 +35056,9 @@
     "slug": "Harry_Dent",
     "title": "Harry Dent",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34890,7 +35076,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8500,
+    "oldid": 10838,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34898,7 +35084,9 @@
     "slug": "Harvey_Weinstein",
     "title": "Harvey Weinstein",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34916,7 +35104,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4870,
+    "oldid": 10839,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34924,7 +35112,9 @@
     "slug": "Henrietta_Lacks",
     "title": "Henrietta Lacks",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34942,7 +35132,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8501,
+    "oldid": 10840,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -34950,7 +35140,9 @@
     "slug": "Henry_Kissinger",
     "title": "Henry Kissinger",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -34994,7 +35186,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8662,
+    "oldid": 10841,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35002,7 +35194,9 @@
     "slug": "Hillary_Clinton",
     "title": "Hillary Clinton",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35020,7 +35214,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2677,
+    "oldid": 10842,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35028,7 +35222,9 @@
     "slug": "Hitler",
     "title": "Hitler",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35046,7 +35242,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10548,
+    "oldid": 10843,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35054,7 +35250,9 @@
     "slug": "Hunter_Biden",
     "title": "Hunter Biden",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35072,7 +35270,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8169,
+    "oldid": 10844,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35080,7 +35278,9 @@
     "slug": "Ilhan_Omar",
     "title": "Ilhan Omar",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35234,7 +35434,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8503,
+    "oldid": 10845,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35242,7 +35442,9 @@
     "slug": "Isaac_Asimov",
     "title": "Isaac Asimov",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35312,7 +35514,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8342,
+    "oldid": 10846,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35320,7 +35522,9 @@
     "slug": "Jack_Dorsey",
     "title": "Jack Dorsey",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35338,7 +35542,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10549,
+    "oldid": 10847,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35346,7 +35550,9 @@
     "slug": "Jack_Posobiec",
     "title": "Jack Posobiec",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35392,7 +35598,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10709,
+    "oldid": 10848,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35400,7 +35606,9 @@
     "slug": "Jade_Helm",
     "title": "Jade Helm",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35418,7 +35626,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10550,
+    "oldid": 10849,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35426,7 +35634,9 @@
     "slug": "Jair_Bolsonaro",
     "title": "Jair Bolsonaro",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35473,7 +35683,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7971,
+    "oldid": 10850,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35481,7 +35691,9 @@
     "slug": "Jamal_Khashoggi",
     "title": "Jamal Khashoggi",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35499,7 +35711,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8504,
+    "oldid": 10851,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35507,7 +35719,9 @@
     "slug": "James_Comey",
     "title": "James Comey",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35525,7 +35739,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10630,
+    "oldid": 10852,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35533,7 +35747,9 @@
     "slug": "James_O'Keefe",
     "title": "James O'Keefe",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35577,7 +35793,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10362,
+    "oldid": 10853,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35585,7 +35801,9 @@
     "slug": "January_6th_Insurrection",
     "title": "January 6th Insurrection",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -35629,7 +35847,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8345,
+    "oldid": 10854,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35637,7 +35855,9 @@
     "slug": "Jared_Kushner",
     "title": "Jared Kushner",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35655,7 +35875,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8506,
+    "oldid": 10855,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35663,7 +35883,9 @@
     "slug": "Jeff_Sessions",
     "title": "Jeff Sessions",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35681,7 +35903,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10406,
+    "oldid": 10856,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35689,7 +35911,9 @@
     "slug": "Jeff_Zucker",
     "title": "Jeff Zucker",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35733,7 +35957,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8601,
+    "oldid": 10857,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35741,7 +35965,9 @@
     "slug": "Jeffrey_Epstein",
     "title": "Jeffrey Epstein",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35759,7 +35985,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3513,
+    "oldid": 10858,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35767,7 +35993,9 @@
     "slug": "Jen_Psaki",
     "title": "Jen Psaki",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35785,7 +36013,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8602,
+    "oldid": 10859,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35793,7 +36021,9 @@
     "slug": "Jerome_Corsi",
     "title": "Jerome Corsi",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35866,7 +36096,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10638,
+    "oldid": 10860,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35874,7 +36104,9 @@
     "slug": "Jim_Bakker",
     "title": "Jim Bakker",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35892,7 +36124,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10687,
+    "oldid": 10861,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35900,7 +36132,9 @@
     "slug": "Jim_Fetzer",
     "title": "Jim Fetzer",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -35918,7 +36152,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10407,
+    "oldid": 10862,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -35926,7 +36160,9 @@
     "slug": "Jimmy_Kimmel",
     "title": "Jimmy Kimmel",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36102,7 +36338,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2645,
+    "oldid": 10863,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36110,7 +36346,9 @@
     "slug": "Joe_Biden",
     "title": "Joe Biden",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36239,7 +36477,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10727,
+    "oldid": 10864,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36247,7 +36485,9 @@
     "slug": "John_Birch_Society",
     "title": "John Birch Society",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -36265,7 +36505,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10552,
+    "oldid": 10865,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36273,7 +36513,9 @@
     "slug": "John_Boehner",
     "title": "John Boehner",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36291,7 +36533,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8352,
+    "oldid": 10866,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36299,7 +36541,9 @@
     "slug": "John_Bolton",
     "title": "John Bolton",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36317,7 +36561,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10408,
+    "oldid": 10867,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36325,7 +36569,9 @@
     "slug": "John_Brennan",
     "title": "John Brennan",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36343,7 +36589,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8353,
+    "oldid": 10868,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36351,7 +36597,9 @@
     "slug": "John_Kerry",
     "title": "John Kerry",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36369,7 +36617,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10409,
+    "oldid": 10869,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36377,7 +36625,9 @@
     "slug": "John_McCain",
     "title": "John McCain",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36395,7 +36645,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10410,
+    "oldid": 10870,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36403,7 +36653,9 @@
     "slug": "John_Oliver",
     "title": "John Oliver",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36525,7 +36777,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10617,
+    "oldid": 10871,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36533,7 +36785,9 @@
     "slug": "Jon_Rappoport",
     "title": "Jon Rappoport",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36580,7 +36834,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10737,
+    "oldid": 10872,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36588,7 +36842,9 @@
     "slug": "Joshua_Koskoff",
     "title": "Joshua Koskoff",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36606,7 +36862,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5306,
+    "oldid": 10873,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36614,7 +36870,9 @@
     "slug": "Joy_Behar",
     "title": "Joy Behar",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36632,7 +36890,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10621,
+    "oldid": 10874,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36640,7 +36898,9 @@
     "slug": "Juan_O_Savin",
     "title": "Juan O Savin",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36658,7 +36918,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10717,
+    "oldid": 10875,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36666,7 +36926,9 @@
     "slug": "Judge_Andrew_Napolitano",
     "title": "Judge Andrew Napolitano",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36767,7 +37029,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5763,
+    "oldid": 10876,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36775,7 +37037,9 @@
     "slug": "Julian_Asange",
     "title": "Julian Asange",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36793,7 +37057,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10553,
+    "oldid": 10877,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36801,7 +37065,9 @@
     "slug": "Julian_Assange",
     "title": "Julian Assange",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36819,7 +37085,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6649,
+    "oldid": 10878,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36827,7 +37093,9 @@
     "slug": "Justin_Trudeau",
     "title": "Justin Trudeau",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36845,7 +37113,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8512,
+    "oldid": 10879,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36853,7 +37121,9 @@
     "slug": "Kamala_Harris",
     "title": "Kamala Harris",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36871,7 +37141,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8665,
+    "oldid": 10880,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36879,7 +37149,9 @@
     "slug": "Kanye_West",
     "title": "Kanye West",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36897,7 +37169,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6143,
+    "oldid": 10881,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36905,7 +37177,9 @@
     "slug": "Karl_Marx",
     "title": "Karl Marx",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -36923,7 +37197,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2688,
+    "oldid": 10882,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -36931,7 +37205,9 @@
     "slug": "Karl_Rove",
     "title": "Karl Rove",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37031,7 +37307,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8603,
+    "oldid": 10883,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37039,7 +37315,9 @@
     "slug": "Kim_Jong_Un",
     "title": "Kim Jong Un",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37057,7 +37335,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10411,
+    "oldid": 10884,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37065,7 +37343,9 @@
     "slug": "Klaus_Schwab",
     "title": "Klaus Schwab",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37140,7 +37420,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6187,
+    "oldid": 10885,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37148,7 +37428,9 @@
     "slug": "Kyrsten_Sinema",
     "title": "Kyrsten Sinema",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37166,7 +37448,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8516,
+    "oldid": 10886,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37174,7 +37456,9 @@
     "slug": "Lana_Del_Rey",
     "title": "Lana Del Rey",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37360,7 +37644,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8360,
+    "oldid": 10887,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37368,7 +37652,9 @@
     "slug": "Leo_Zagami",
     "title": "Leo Zagami",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37440,7 +37726,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7986,
+    "oldid": 10888,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37448,7 +37734,9 @@
     "slug": "Lester_Holt",
     "title": "Lester Holt",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37466,7 +37754,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10557,
+    "oldid": 10889,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37474,7 +37762,9 @@
     "slug": "Letitia_James",
     "title": "Letitia James",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37518,7 +37808,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5956,
+    "oldid": 10890,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37526,7 +37816,9 @@
     "slug": "Lionel",
     "title": "Lionel",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37570,7 +37862,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10412,
+    "oldid": 10891,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37578,7 +37870,9 @@
     "slug": "Logan_Paul",
     "title": "Logan Paul",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37622,11 +37916,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10514,
+    "oldid": 10990,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "Lucian Wintrich\u200f\u200e",
+    "redirect": "Lucian Wintrich",
     "slug": "Lucien_Wintrick",
     "title": "Lucien Wintrick",
     "transcriptEpisodeNumber": null,
@@ -37648,7 +37942,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10688,
+    "oldid": 10892,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37656,7 +37950,9 @@
     "slug": "Lucy_Richards",
     "title": "Lucy Richards",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37726,7 +38022,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10591,
+    "oldid": 10893,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37734,7 +38030,9 @@
     "slug": "Luke_Rudkowski",
     "title": "Luke Rudkowski",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37752,7 +38050,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10595,
+    "oldid": 10894,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37760,7 +38058,9 @@
     "slug": "MIAC_Report",
     "title": "MIAC Report",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -37778,7 +38078,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10598,
+    "oldid": 10895,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37786,7 +38086,9 @@
     "slug": "Madeleine_Albright",
     "title": "Madeleine Albright",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37856,7 +38158,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10643,
+    "oldid": 10896,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37864,7 +38166,9 @@
     "slug": "Mao_Zedong",
     "title": "Mao Zedong",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37882,7 +38186,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10413,
+    "oldid": 10897,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37890,7 +38194,9 @@
     "slug": "Marco_Rubio",
     "title": "Marco Rubio",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -37908,7 +38214,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8361,
+    "oldid": 10898,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -37916,7 +38222,9 @@
     "slug": "Margaret_Sanger",
     "title": "Margaret Sanger",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38012,7 +38320,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10693,
+    "oldid": 10899,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38020,7 +38328,9 @@
     "slug": "Marina_Abramovi\u0107",
     "title": "Marina Abramovi\u0107",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38038,7 +38348,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10558,
+    "oldid": 10900,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38046,7 +38356,9 @@
     "slug": "Marine_Le_Pen",
     "title": "Marine Le Pen",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38064,11 +38376,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10691,
+    "oldid": 10991,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "Marjorie Taylor Greene\u200f\u200e",
+    "redirect": "Marjorie Taylor Greene",
     "slug": "Marjorie_Taylor_Green",
     "title": "Marjorie Taylor Green",
     "transcriptEpisodeNumber": null,
@@ -38148,7 +38460,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10415,
+    "oldid": 10901,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38156,7 +38468,9 @@
     "slug": "Mark_Cuban",
     "title": "Mark Cuban",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38312,7 +38626,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8363,
+    "oldid": 10902,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38320,7 +38634,9 @@
     "slug": "Mark_Zuckerberg",
     "title": "Mark Zuckerberg",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38338,7 +38654,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10416,
+    "oldid": 10903,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38346,7 +38662,9 @@
     "slug": "Martin_Luther_King_Jr",
     "title": "Martin Luther King Jr",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38390,7 +38708,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10417,
+    "oldid": 10904,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38398,7 +38716,9 @@
     "slug": "Maryanne_Williamson",
     "title": "Maryanne Williamson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38416,7 +38736,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8521,
+    "oldid": 10905,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38424,7 +38744,9 @@
     "slug": "Matt_Drudge",
     "title": "Matt Drudge",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38442,7 +38764,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8668,
+    "oldid": 10906,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38450,7 +38772,9 @@
     "slug": "Matt_Gaetz",
     "title": "Matt Gaetz",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38468,7 +38792,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10596,
+    "oldid": 10907,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38476,7 +38800,9 @@
     "slug": "Max_Keiser",
     "title": "Max Keiser",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38494,7 +38820,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8607,
+    "oldid": 10908,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38502,7 +38828,9 @@
     "slug": "Maxine_Waters",
     "title": "Maxine Waters",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38520,7 +38848,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10485,
+    "oldid": 10909,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38528,7 +38856,9 @@
     "slug": "Megyn_Kelly",
     "title": "Megyn Kelly",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38546,7 +38876,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10418,
+    "oldid": 10910,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38554,7 +38884,9 @@
     "slug": "Mel_Gibson",
     "title": "Mel Gibson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38572,7 +38904,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7618,
+    "oldid": 10911,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38580,7 +38912,9 @@
     "slug": "Melania_Trump",
     "title": "Melania Trump",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38598,7 +38932,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8367,
+    "oldid": 10912,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38606,7 +38940,9 @@
     "slug": "Melinda_Gates",
     "title": "Melinda Gates",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38624,7 +38960,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7620,
+    "oldid": 10913,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38632,7 +38968,9 @@
     "slug": "Merrick_Garland",
     "title": "Merrick Garland",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38650,7 +38988,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10685,
+    "oldid": 10914,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38658,7 +38996,9 @@
     "slug": "Michael_Cohen",
     "title": "Michael Cohen",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38702,7 +39042,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10639,
+    "oldid": 10915,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38710,7 +39050,9 @@
     "slug": "Michael_Savage",
     "title": "Michael Savage",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38728,7 +39070,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8198,
+    "oldid": 10916,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38736,7 +39078,9 @@
     "slug": "Michelle_Obama",
     "title": "Michelle Obama",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38780,7 +39124,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7993,
+    "oldid": 10917,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38788,7 +39132,9 @@
     "slug": "Mika_Brzezinski",
     "title": "Mika Brzezinski",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38835,7 +39181,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7624,
+    "oldid": 10918,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38843,7 +39189,9 @@
     "slug": "Mike_Bloomberg",
     "title": "Mike Bloomberg",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38942,7 +39290,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10632,
+    "oldid": 10919,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38950,7 +39298,9 @@
     "slug": "Mike_Lindell",
     "title": "Mike Lindell",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38968,7 +39318,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8526,
+    "oldid": 10920,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -38976,7 +39326,9 @@
     "slug": "Mike_Pence",
     "title": "Mike Pence",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -38994,7 +39346,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7799,
+    "oldid": 10921,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39002,7 +39354,9 @@
     "slug": "Mike_Pompeo",
     "title": "Mike Pompeo",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39020,7 +39374,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8527,
+    "oldid": 10922,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39028,7 +39382,9 @@
     "slug": "Millie_Weaver",
     "title": "Millie Weaver",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39046,7 +39402,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8528,
+    "oldid": 10923,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39054,7 +39410,9 @@
     "slug": "Mitch_McConnell",
     "title": "Mitch McConnell",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39072,7 +39430,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8529,
+    "oldid": 10924,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39080,7 +39438,9 @@
     "slug": "Mitt_Romney",
     "title": "Mitt Romney",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39124,7 +39484,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8530,
+    "oldid": 10925,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39132,7 +39492,10 @@
     "slug": "Nancy_Pelosi",
     "title": "Nancy Pelosi",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39176,7 +39539,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10708,
+    "oldid": 10926,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39184,7 +39547,10 @@
     "slug": "New_World_Order",
     "title": "New World Order",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives",
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -39202,7 +39568,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10420,
+    "oldid": 10927,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39210,7 +39576,10 @@
     "slug": "Nick_Fuentes",
     "title": "Nick Fuentes",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39228,7 +39597,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4631,
+    "oldid": 10928,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39236,7 +39605,10 @@
     "slug": "Nicolas_Peter_Johannes_Janse_de_Rensburg_aka_Siener_van_Rensburg",
     "title": "Nicolas Peter Johannes Janse de Rensburg aka Siener van Rensburg",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": "December 26, 2021",
@@ -39285,7 +39657,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8206,
+    "oldid": 10929,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39293,7 +39665,10 @@
     "slug": "Noam_Chomsky",
     "title": "Noam Chomsky",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39393,7 +39768,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4632,
+    "oldid": 10930,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39401,7 +39776,10 @@
     "slug": "Ole_Dammeg\u00e5rd",
     "title": "Ole Dammeg\u00e5rd",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39419,7 +39797,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8003,
+    "oldid": 10931,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39427,7 +39805,10 @@
     "slug": "Oprah_Winfrey",
     "title": "Oprah Winfrey",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39445,7 +39826,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8610,
+    "oldid": 10932,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39453,7 +39834,10 @@
     "slug": "Osama_Bin_Laden",
     "title": "Osama Bin Laden",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39500,7 +39884,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2401,
+    "oldid": 10933,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39508,7 +39892,10 @@
     "slug": "PEZ_Dispenser",
     "title": "PEZ Dispenser",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives",
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -39554,7 +39941,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10487,
+    "oldid": 10934,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39562,7 +39949,10 @@
     "slug": "Paul_Craig_Roberts",
     "title": "Paul Craig Roberts",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39609,7 +39999,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10421,
+    "oldid": 10935,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39617,7 +40007,10 @@
     "slug": "Paul_Manafort",
     "title": "Paul Manafort",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39635,7 +40028,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2706,
+    "oldid": 10936,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39643,7 +40036,10 @@
     "slug": "Paul_Ryan",
     "title": "Paul Ryan",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People",
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39661,7 +40057,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7805,
+    "oldid": 10937,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39669,7 +40065,9 @@
     "slug": "Pete_Buttigieg",
     "title": "Pete Buttigieg",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39713,7 +40111,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8373,
+    "oldid": 10938,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39721,7 +40119,9 @@
     "slug": "Peter_Thiel",
     "title": "Peter Thiel",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39739,7 +40139,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4727,
+    "oldid": 10939,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39747,7 +40147,9 @@
     "slug": "Pewdiepie",
     "title": "Pewdiepie",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39765,7 +40167,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10422,
+    "oldid": 10940,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39773,7 +40175,9 @@
     "slug": "Piers_Morgan",
     "title": "Piers Morgan",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39899,7 +40303,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10624,
+    "oldid": 10941,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39907,7 +40311,9 @@
     "slug": "Q_Shaman",
     "title": "Q Shaman",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39925,7 +40331,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10734,
+    "oldid": 10942,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39933,7 +40339,9 @@
     "slug": "QAnon",
     "title": "QAnon",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -39951,7 +40359,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8534,
+    "oldid": 10943,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39959,7 +40367,9 @@
     "slug": "Rachel_Maddow",
     "title": "Rachel Maddow",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -39977,7 +40387,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10423,
+    "oldid": 10944,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -39985,7 +40395,9 @@
     "slug": "Rahm_Emanuel",
     "title": "Rahm Emanuel",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -40913,7 +41325,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6709,
+    "oldid": 10945,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -40921,7 +41333,9 @@
     "slug": "Ralph_Northam",
     "title": "Ralph Northam",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -40939,7 +41353,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2710,
+    "oldid": 10946,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -40947,7 +41361,9 @@
     "slug": "Rand_Paul",
     "title": "Rand Paul",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -40965,7 +41381,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10447,
+    "oldid": 10947,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -40973,7 +41389,9 @@
     "slug": "Rashida_Tlaib",
     "title": "Rashida Tlaib",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41081,7 +41499,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10475,
+    "oldid": 10948,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41089,7 +41507,9 @@
     "slug": "Rex_Jones",
     "title": "Rex Jones",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41107,7 +41527,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10448,
+    "oldid": 10949,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41115,7 +41535,9 @@
     "slug": "Richard_Nixon",
     "title": "Richard Nixon",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41133,7 +41555,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10588,
+    "oldid": 10950,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41141,7 +41563,9 @@
     "slug": "Rick_Perry",
     "title": "Rick Perry",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41322,7 +41746,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8564,
+    "oldid": 10951,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41330,7 +41754,9 @@
     "slug": "Robert_Mueller",
     "title": "Robert Mueller",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41348,7 +41774,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5800,
+    "oldid": 10952,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41356,7 +41782,9 @@
     "slug": "Rod_Rosenstein",
     "title": "Rod Rosenstein",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41457,7 +41885,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8707,
+    "oldid": 10953,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41465,7 +41893,9 @@
     "slug": "Ronald_Reagan",
     "title": "Ronald Reagan",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41483,7 +41913,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8408,
+    "oldid": 10954,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41491,7 +41921,9 @@
     "slug": "Rudy_Giuliani",
     "title": "Rudy Giuliani",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41509,7 +41941,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8643,
+    "oldid": 10955,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41517,7 +41949,9 @@
     "slug": "Rush_Limbaugh",
     "title": "Rush Limbaugh",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41535,7 +41969,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 6177,
+    "oldid": 10956,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41543,7 +41977,9 @@
     "slug": "Ruth_Bader_Ginsberg",
     "title": "Ruth Bader Ginsberg",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41561,7 +41997,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3522,
+    "oldid": 10957,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41569,7 +42005,9 @@
     "slug": "Sacha_Baron_Cohen",
     "title": "Sacha Baron Cohen",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41639,7 +42077,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8568,
+    "oldid": 10958,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41647,7 +42085,9 @@
     "slug": "Sarah_Palin",
     "title": "Sarah Palin",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41717,7 +42157,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4720,
+    "oldid": 10959,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41725,7 +42165,9 @@
     "slug": "Seth_Rich",
     "title": "Seth Rich",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41802,7 +42244,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8708,
+    "oldid": 10960,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41810,7 +42252,9 @@
     "slug": "Stephen_Colbert",
     "title": "Stephen Colbert",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -41828,7 +42272,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8569,
+    "oldid": 10961,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -41836,7 +42280,9 @@
     "slug": "Steve_Bannon",
     "title": "Steve Bannon",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42022,7 +42468,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5801,
+    "oldid": 10962,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42030,7 +42476,9 @@
     "slug": "Stewart_Rhodes",
     "title": "Stewart Rhodes",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42048,7 +42496,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4956,
+    "oldid": 10963,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42056,7 +42504,9 @@
     "slug": "Sun_Myung_Moon",
     "title": "Sun Myung Moon",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42074,7 +42524,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10450,
+    "oldid": 10964,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42082,7 +42532,9 @@
     "slug": "Susan_Collins",
     "title": "Susan Collins",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": "July 12, 2017",
@@ -42190,7 +42642,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3490,
+    "oldid": 10965,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42198,7 +42650,9 @@
     "slug": "Ted_Cruz",
     "title": "Ted Cruz",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42446,7 +42900,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2420,
+    "oldid": 10966,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42454,7 +42908,9 @@
     "slug": "The_Protocols_of_the_Elders_of_Zion",
     "title": "The Protocols of the Elders of Zion",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "Narratives"
+    ]
   },
   {
     "airDate": null,
@@ -42472,7 +42928,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4634,
+    "oldid": 10967,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42480,7 +42936,9 @@
     "slug": "The_Rock_(Dwayne_Johnson)",
     "title": "The Rock (Dwayne Johnson)",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42550,7 +43008,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10453,
+    "oldid": 10968,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42558,7 +43016,9 @@
     "slug": "Thomas_Edison",
     "title": "Thomas Edison",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42576,7 +43036,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10718,
+    "oldid": 10969,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42584,7 +43044,9 @@
     "slug": "Thomas_Jefferson",
     "title": "Thomas Jefferson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42602,7 +43064,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 3512,
+    "oldid": 10970,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42610,7 +43072,9 @@
     "slug": "Tim_Cook",
     "title": "Tim Cook",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42654,7 +43118,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4799,
+    "oldid": 10971,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42662,7 +43126,9 @@
     "slug": "Tim_Pool",
     "title": "Tim Pool",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -42709,7 +43175,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 9432,
+    "oldid": 10972,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -42717,7 +43183,9 @@
     "slug": "Tony_Blair",
     "title": "Tony Blair",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -65219,11 +65687,11 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 2573,
+    "oldid": 10992,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
-    "redirect": "Donald Trump\u200f\u200e",
+    "redirect": "Donald Trump",
     "slug": "Trump",
     "title": "Trump",
     "transcriptEpisodeNumber": null,
@@ -65245,7 +65713,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10230,
+    "oldid": 10973,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65253,7 +65721,9 @@
     "slug": "Tucker_Carlson",
     "title": "Tucker Carlson",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -65271,7 +65741,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 7900,
+    "oldid": 10974,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65279,7 +65749,9 @@
     "slug": "Tulsi_Gabbard",
     "title": "Tulsi Gabbard",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -65326,7 +65798,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10454,
+    "oldid": 10975,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65334,7 +65806,9 @@
     "slug": "Vladimir_Putin",
     "title": "Vladimir Putin",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -65378,7 +65852,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10510,
+    "oldid": 10976,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65386,7 +65860,9 @@
     "slug": "Warren_Buffett",
     "title": "Warren Buffett",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -65404,7 +65880,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8576,
+    "oldid": 10977,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65412,7 +65888,9 @@
     "slug": "Wayne_Madsen",
     "title": "Wayne Madsen",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": "June 12, 2020",
@@ -65544,7 +66022,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 8127,
+    "oldid": 10978,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65552,7 +66030,9 @@
     "slug": "Winston_Churchill",
     "title": "Winston Churchill",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -65598,7 +66078,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 10233,
+    "oldid": 10979,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65606,7 +66086,9 @@
     "slug": "Xi_Jinping",
     "title": "Xi Jinping",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   },
   {
     "airDate": null,
@@ -65676,7 +66158,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 4635,
+    "oldid": 10980,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -65684,6 +66166,8 @@
     "slug": "Zack_from_Space_Command",
     "title": "Zack from Space Command",
     "transcriptEpisodeNumber": null,
-    "wiki_categories": []
+    "wiki_categories": [
+      "People"
+    ]
   }
 ]
