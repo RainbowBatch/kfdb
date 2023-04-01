@@ -1653,6 +1653,10 @@
   },
   {
     "references": 1,
+    "title": "Blaire White"
+  },
+  {
+    "references": 1,
     "title": "Bob Dassey"
   },
   {
@@ -2218,6 +2222,10 @@
   {
     "references": 1,
     "title": "David Willcock"
+  },
+  {
+    "references": 1,
+    "title": "Davis Lurmann"
   },
   {
     "references": 1,
@@ -3990,13 +3998,5 @@
   {
     "references": 1,
     "title": "Martin Armstrong"
-  },
-  {
-    "references": 1,
-    "title": "Martin Keating"
-  },
-  {
-    "references": 1,
-    "title": "Marvin Hagler"
   }
 ]
