@@ -348,7 +348,7 @@
       "Larry C Johnson",
       "John Kerry",
       "Paul Joseph Watson",
-      "Lana del Rey",
+      "Lana Del Rey",
       "Nico Acosta",
       "Andrew Basiago",
       "John Oliver"
@@ -1931,6 +1931,7 @@
   {
     "episode_number": "787",
     "people": [
+      "James David Manning",
       "Troy Newman",
       "Skinwalker Ranch",
       "Matt Walsh"
@@ -1949,6 +1950,36 @@
       "Bill Cooper",
       "W Cleon Skousen",
       "Mike Pence"
+    ]
+  },
+  {
+    "episode_number": "789",
+    "people": [
+      "James David Manning",
+      "Davis Lurmann",
+      "Silverstein",
+      "Laura Ingraham",
+      "Larry Silverstein",
+      "David Kelly",
+      "Colin Powell",
+      "Steven Crowder",
+      "Michael Savage",
+      "George W Bush",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "790",
+    "people": [
+      "Donald Trump",
+      "Tucker Carlson",
+      "Alex Stein",
+      "Jane Fonda",
+      "Matt Walsh",
+      "Vince McMahon",
+      "George W Bush",
+      "Ben Shapiro",
+      "Blaire White"
     ]
   }
 ]
