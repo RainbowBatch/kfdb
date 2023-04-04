@@ -348,7 +348,7 @@
       "Larry C Johnson",
       "John Kerry",
       "Paul Joseph Watson",
-      "Lana Del Rey",
+      "Lana del Rey",
       "Nico Acosta",
       "Andrew Basiago",
       "John Oliver"
@@ -1980,6 +1980,19 @@
       "George W Bush",
       "Ben Shapiro",
       "Blaire White"
+    ]
+  },
+  {
+    "episode_number": "791",
+    "people": [
+      "Donald Trump",
+      "Dershowitz",
+      "Alan Dershowitz",
+      "Roger Stone",
+      "Robert Barnes",
+      "Michael Cohen",
+      "Owen Shroyer",
+      "Jeffrey Epstein"
     ]
   }
 ]
