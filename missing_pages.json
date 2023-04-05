@@ -1,9 +1,5 @@
 [
   {
-    "references": 10,
-    "title": "Stefan Molyneux"
-  },
-  {
     "references": 9,
     "title": "Dan Lyman"
   },
@@ -18,10 +14,6 @@
   {
     "references": 8,
     "title": "DeAnna Lorraine"
-  },
-  {
-    "references": 8,
-    "title": "Dennis Montgomery"
   },
   {
     "references": 8,
@@ -133,6 +125,10 @@
   },
   {
     "references": 5,
+    "title": "Joe Arpaio"
+  },
+  {
+    "references": 5,
     "title": "Joe Banister"
   },
   {
@@ -229,10 +225,6 @@
   },
   {
     "references": 4,
-    "title": "Joe Arpaio"
-  },
-  {
-    "references": 4,
     "title": "Kit Daniels"
   },
   {
@@ -306,6 +298,10 @@
   {
     "references": 3,
     "title": "Aaron Zelman"
+  },
+  {
+    "references": 3,
+    "title": "Alan Dershowitz"
   },
   {
     "references": 3,
@@ -589,10 +585,6 @@
   },
   {
     "references": 2,
-    "title": "Alan Dershowitz"
-  },
-  {
-    "references": 2,
     "title": "Alan Keyes"
   },
   {
@@ -738,6 +730,10 @@
   {
     "references": 2,
     "title": "Edward Bernays"
+  },
+  {
+    "references": 2,
+    "title": "FOX News"
   },
   {
     "references": 2,
@@ -1101,6 +1097,10 @@
   },
   {
     "references": 2,
+    "title": "Sidney Powell"
+  },
+  {
+    "references": 2,
     "title": "Stella Immanuel"
   },
   {
@@ -1170,6 +1170,10 @@
   {
     "references": 1,
     "title": "2016 United States presidential election"
+  },
+  {
+    "references": 1,
+    "title": "2020 Presidential Election"
   },
   {
     "references": 1,
@@ -2245,6 +2249,10 @@
   },
   {
     "references": 1,
+    "title": "Deep State"
+  },
+  {
+    "references": 1,
     "title": "Denise Richards"
   },
   {
@@ -2573,10 +2581,6 @@
   },
   {
     "references": 1,
-    "title": "FOX News"
-  },
-  {
-    "references": 1,
     "title": "F William Engdahl"
   },
   {
@@ -2830,6 +2834,10 @@
   {
     "references": 1,
     "title": "Hamid Karzai"
+  },
+  {
+    "references": 1,
+    "title": "Hammer and Scorecard"
   },
   {
     "references": 1,
@@ -3174,6 +3182,10 @@
   {
     "references": 1,
     "title": "Jeff Flake"
+  },
+  {
+    "references": 1,
+    "title": "Jeff Sharlet"
   },
   {
     "references": 1,
@@ -3986,17 +3998,5 @@
   {
     "references": 1,
     "title": "Mark Zaid"
-  },
-  {
-    "references": 1,
-    "title": "Marshall Applewhite"
-  },
-  {
-    "references": 1,
-    "title": "Martha Stewart"
-  },
-  {
-    "references": 1,
-    "title": "Martin Armstrong"
   }
 ]
