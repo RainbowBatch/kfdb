@@ -348,7 +348,7 @@
       "Larry C Johnson",
       "John Kerry",
       "Paul Joseph Watson",
-      "Lana del Rey",
+      "Lana Del Rey",
       "Nico Acosta",
       "Andrew Basiago",
       "John Oliver"
@@ -724,7 +724,7 @@
       "Larry Nichols",
       "Katy Perry",
       "Mike Cernovich",
-      "Dylann Roof",
+      "Charleston Church Shooting",
       "Ariana Grande",
       "Roger Stone",
       "Paul Joseph Watson",
@@ -745,7 +745,7 @@
       "Donald Trump",
       "Bill Clinton",
       "Jakari Jackson",
-      "Dylann Roof",
+      "Charleston Church Shooting",
       "Vince Foster",
       "Timothy Mcveigh",
       "David Knight",
@@ -1248,8 +1248,7 @@
     "people": [
       "Sebastian Murdoch",
       "Owen Shroyer",
-      "Mark Bankston",
-      "Dylann Roof"
+      "Mark Bankston"
     ]
   },
   {
@@ -1571,7 +1570,6 @@
       "Dave Chappelle",
       "Candace Owens",
       "Ronald Reagan",
-      "Anders Breivik",
       "Jared Kushner",
       "Herschel Walker",
       "Barack Obama",
@@ -2010,6 +2008,52 @@
       "Sidney Poitier",
       "Vladimir Putin",
       "Barack Obama"
+    ]
+  },
+  {
+    "episode_number": "793",
+    "people": [
+      "John Kerry",
+      "Osama Bin Laden",
+      "Howard Dean",
+      "John Wayne"
+    ]
+  },
+  {
+    "episode_number": "794",
+    "people": [
+      "Culbertson",
+      "Jack Blood",
+      "Larry King",
+      "Donald Trump",
+      "Janet Jackson",
+      "Marty Stacy",
+      "Ann Coulter",
+      "Bruce Springsteen",
+      "Timothy McVeigh",
+      "Bill Clinton",
+      "David Kelly"
+    ]
+  },
+  {
+    "episode_number": "795",
+    "people": [
+      "Donald Trump",
+      "Judge Andrew Napolitano",
+      "Alvin Bragg",
+      "Roger Stone",
+      "Rachel Maddow",
+      "Mike Adams",
+      "George Soros",
+      "Paul Manafort"
+    ]
+  },
+  {
+    "episode_number": "796",
+    "people": [
+      "Hutton Gibson",
+      "Mel Gibson",
+      "Dwight D Eisenhower"
     ]
   }
 ]
