@@ -1,9 +1,251 @@
 [
   {
+    "coverage_date": "December 31, 1999",
+    "coverage_end_date": "December 31, 1999",
+    "coverage_start_date": "December 31, 1999",
+    "episode_number": "2"
+  },
+  {
+    "coverage_date": "February 1, 2017",
+    "coverage_end_date": "February 1, 2017",
+    "coverage_start_date": "February 1, 2017",
+    "episode_number": "9"
+  },
+  {
     "episode_number": "10",
     "people": [
       "Milo Yianopolis",
       "Aleksandr Dugin"
+    ]
+  },
+  {
+    "episode_number": "12",
+    "people": [
+      "Jon Rappoport",
+      "Dr Pies"
+    ]
+  },
+  {
+    "episode_number": "15",
+    "people": [
+      "Millie Weaver",
+      "Rainbow Snatch",
+      "Mark Dice",
+      "Robert David Steele"
+    ]
+  },
+  {
+    "episode_number": "17",
+    "people": [
+      "Darrell Hamamoto"
+    ]
+  },
+  {
+    "episode_number": "20",
+    "people": [
+      "Reince Priebus",
+      "Jeff Sessions",
+      "Matt Drudge",
+      "Eddie Bravo",
+      "Jesse James",
+      "Sandra Bullock",
+      "Steve Pieczenik"
+    ]
+  },
+  {
+    "episode_number": "39",
+    "people": [
+      "Jack Posobiec",
+      "Owen Shroyer",
+      "Kelly Jones"
+    ]
+  },
+  {
+    "episode_number": "46",
+    "people": [
+      "Larry Nichols"
+    ]
+  },
+  {
+    "episode_number": "49",
+    "people": [
+      "Gerald Celente",
+      "Lord Monckton",
+      "Rob Dew",
+      "John Dew",
+      "David Knight"
+    ]
+  },
+  {
+    "coverage_date": "June 17, 2017",
+    "coverage_end_date": "June 17, 2017",
+    "coverage_start_date": "June 17, 2017",
+    "episode_number": "54"
+  },
+  {
+    "episode_number": "60",
+    "people": [
+      "Kerry Cassidy",
+      "Robert David Steele",
+      "Andrew Basiago",
+      "Louise Mensch",
+      "Randy Cramer",
+      "Mark Richards"
+    ]
+  },
+  {
+    "episode_number": "62",
+    "people": [
+      "Rachel Maddow",
+      "Frank Marshal Davis",
+      "Jesse Ventura",
+      "David Duke",
+      "Paul Joseph Watson",
+      "Sean King"
+    ]
+  },
+  {
+    "episode_number": "68",
+    "people": [
+      "Jesse Ventura",
+      "Pat the personal trainer",
+      "Diamond & Silk",
+      "Leo Zagami",
+      "Joe Banister"
+    ]
+  },
+  {
+    "episode_number": "69",
+    "people": [
+      "Heidi Montag",
+      "Spencer Pratt",
+      "John Oliver",
+      "Steve Pieczinik."
+    ]
+  },
+  {
+    "episode_number": "71",
+    "people": [
+      "Aleksandr Dugin",
+      "Mike Cernovich"
+    ]
+  },
+  {
+    "episode_number": "78",
+    "people": [
+      "David Clarke",
+      "Dmitry Rogozin",
+      "Putin",
+      "Paul Joseph Watson",
+      "Michael Savage",
+      "Steve Pieczenik",
+      "Michelle Malkin",
+      "Howard Dean",
+      "Edward Group",
+      "Joe Biggs",
+      "Paul Craig Roberts"
+    ]
+  },
+  {
+    "episode_number": "79",
+    "people": [
+      "Kerry Cassidy",
+      "Jo Ann Richards",
+      "Mark Richards",
+      "The Dutchman",
+      "Richard Baldwin"
+    ]
+  },
+  {
+    "episode_number": "82",
+    "people": [
+      "Lee Ann McAdoo",
+      "George Noory",
+      "Max Keiser",
+      "Ted Cruz",
+      "Mellisa Harris Perry",
+      "Ben Carson",
+      "Roger Stone",
+      "Steve Pieczenek",
+      "Phyllis Schlafly",
+      "45 group",
+      "Donald Trump",
+      "Vladimir Putin",
+      "Jim Mars",
+      "Lisa Case",
+      "Buckley",
+      "Ron Paul"
+    ]
+  },
+  {
+    "episode_number": "83",
+    "people": [
+      "Mancow",
+      "Rand Paul",
+      "George Soros",
+      "Melissa Click",
+      "General Albert Stubblebine",
+      "Rima Laibow",
+      "Lord Monckton",
+      "Darrell Hamamoto",
+      "Nick Begich",
+      "Peter Stormare"
+    ]
+  },
+  {
+    "episode_number": "84",
+    "people": [
+      "David Icke"
+    ]
+  },
+  {
+    "episode_number": "93",
+    "people": [
+      "Steve Pieczenik",
+      "David Knight",
+      "General Michael Flynn",
+      "Roger Stone",
+      "Kevin Booth",
+      "Ahmet S Yayla"
+    ]
+  },
+  {
+    "episode_number": "95",
+    "people": [
+      "Kerry Cassidy",
+      "Robert David Steele",
+      "Tom Delong",
+      "Jim Semivan",
+      "Hal Puthoff",
+      "Andrew Basiago"
+    ]
+  },
+  {
+    "episode_number": "97",
+    "people": [
+      "George H W Bush",
+      "The Bush family",
+      "Elon Musk",
+      "Eric Prince",
+      "Andrew Neal",
+      "Jeff Flake"
+    ]
+  },
+  {
+    "episode_number": "98",
+    "people": [
+      "Osama Bin Laden",
+      "Steve Pieczenik",
+      "Walter Cronkite",
+      "Madeleine Albright",
+      "Mort Kondracke",
+      "Benazir Bhutto",
+      "Chris Othanos",
+      "Trayvon Martin",
+      "Chicken Man",
+      "Larry Klayman",
+      "David Jones",
+      "Gerald Celente"
     ]
   },
   {
@@ -74,13 +316,6 @@
       "Alex Soros",
       "Jake Tapper",
       "Harrison Smith"
-    ]
-  },
-  {
-    "episode_number": "12",
-    "people": [
-      "Jon Rappoport",
-      "Dr Pies"
     ]
   },
   {
@@ -194,15 +429,6 @@
     ]
   },
   {
-    "episode_number": "15",
-    "people": [
-      "Millie Weaver",
-      "Rainbow Snatch",
-      "Mark Dice",
-      "Robert David Steele"
-    ]
-  },
-  {
     "episode_number": "156",
     "people": [
       "Kerry Cassidy",
@@ -276,12 +502,6 @@
       "Patrick Wood",
       "Mike Rivero",
       "Donn de Grand Pr\u00e9"
-    ]
-  },
-  {
-    "episode_number": "17",
-    "people": [
-      "Darrell Hamamoto"
     ]
   },
   {
@@ -425,24 +645,6 @@
       "Ann Coulter",
       "Darrell Hamamoto",
       "Ben Garrison"
-    ]
-  },
-  {
-    "coverage_date": "December 31, 1999",
-    "coverage_end_date": "December 31, 1999",
-    "coverage_start_date": "December 31, 1999",
-    "episode_number": "2"
-  },
-  {
-    "episode_number": "20",
-    "people": [
-      "Reince Priebus",
-      "Jeff Sessions",
-      "Matt Drudge",
-      "Eddie Bravo",
-      "Jesse James",
-      "Sandra Bullock",
-      "Steve Pieczenik"
     ]
   },
   {
@@ -1309,14 +1511,6 @@
     ]
   },
   {
-    "episode_number": "39",
-    "people": [
-      "Jack Posobiec",
-      "Owen Shroyer",
-      "Kelly Jones"
-    ]
-  },
-  {
     "episode_number": "392",
     "people": [
       "Mike Adams",
@@ -1514,12 +1708,6 @@
     ]
   },
   {
-    "episode_number": "46",
-    "people": [
-      "Larry Nichols"
-    ]
-  },
-  {
     "episode_number": "462",
     "people": [
       "Anthony Fauci",
@@ -1590,16 +1778,6 @@
       "Robert Barnes",
       "Amy Coney Barrett",
       "Andrew Wakefield"
-    ]
-  },
-  {
-    "episode_number": "49",
-    "people": [
-      "Gerald Celente",
-      "Lord Monckton",
-      "Rob Dew",
-      "John Dew",
-      "David Knight"
     ]
   },
   {
@@ -1885,12 +2063,6 @@
     ]
   },
   {
-    "coverage_date": "June 17, 2017",
-    "coverage_end_date": "June 17, 2017",
-    "coverage_start_date": "June 17, 2017",
-    "episode_number": "54"
-  },
-  {
     "episode_number": "542",
     "people": [
       "Joe Rogan",
@@ -2157,17 +2329,6 @@
     "episode_number": "599"
   },
   {
-    "episode_number": "60",
-    "people": [
-      "Kerry Cassidy",
-      "Robert David Steele",
-      "Andrew Basiago",
-      "Louise Mensch",
-      "Randy Cramer",
-      "Mark Richards"
-    ]
-  },
-  {
     "episode_number": "600",
     "people": [
       "General Michael Flynn",
@@ -2232,17 +2393,6 @@
       "Tim Cook",
       "Gavin Newsom",
       "Steve Kirsch"
-    ]
-  },
-  {
-    "episode_number": "62",
-    "people": [
-      "Rachel Maddow",
-      "Frank Marshal Davis",
-      "Jesse Ventura",
-      "David Duke",
-      "Paul Joseph Watson",
-      "Sean King"
     ]
   },
   {
@@ -2537,16 +2687,6 @@
     "episode_number": "679"
   },
   {
-    "episode_number": "68",
-    "people": [
-      "Jesse Ventura",
-      "Pat the personal trainer",
-      "Diamond & Silk",
-      "Leo Zagami",
-      "Joe Banister"
-    ]
-  },
-  {
     "categories": [
       "2003 Investigation"
     ],
@@ -2606,15 +2746,6 @@
       "Present Day"
     ],
     "episode_number": "689"
-  },
-  {
-    "episode_number": "69",
-    "people": [
-      "Heidi Montag",
-      "Spencer Pratt",
-      "John Oliver",
-      "Steve Pieczinik."
-    ]
   },
   {
     "categories": [
@@ -2740,13 +2871,6 @@
       "Documentary"
     ],
     "episode_number": "709"
-  },
-  {
-    "episode_number": "71",
-    "people": [
-      "Aleksandr Dugin",
-      "Mike Cernovich"
-    ]
   },
   {
     "categories": [
@@ -3591,22 +3715,6 @@
     ]
   },
   {
-    "episode_number": "78",
-    "people": [
-      "David Clarke",
-      "Dmitry Rogozin",
-      "Putin",
-      "Paul Joseph Watson",
-      "Michael Savage",
-      "Steve Pieczenik",
-      "Michelle Malkin",
-      "Howard Dean",
-      "Edward Group",
-      "Joe Biggs",
-      "Paul Craig Roberts"
-    ]
-  },
-  {
     "categories": [
       "Present Day"
     ],
@@ -3707,16 +3815,6 @@
     ]
   },
   {
-    "episode_number": "79",
-    "people": [
-      "Kerry Cassidy",
-      "Jo Ann Richards",
-      "Mark Richards",
-      "The Dutchman",
-      "Richard Baldwin"
-    ]
-  },
-  {
     "categories": [
       "Present Day"
     ],
@@ -3798,104 +3896,6 @@
     "people": [
       "Hutton Gibson",
       "Mel Gibson"
-    ]
-  },
-  {
-    "episode_number": "82",
-    "people": [
-      "Lee Ann McAdoo",
-      "George Noory",
-      "Max Keiser",
-      "Ted Cruz",
-      "Mellisa Harris Perry",
-      "Ben Carson",
-      "Roger Stone",
-      "Steve Pieczenek",
-      "Phyllis Schlafly",
-      "45 group",
-      "Donald Trump",
-      "Vladimir Putin",
-      "Jim Mars",
-      "Lisa Case",
-      "Buckley",
-      "Ron Paul"
-    ]
-  },
-  {
-    "episode_number": "83",
-    "people": [
-      "Mancow",
-      "Rand Paul",
-      "George Soros",
-      "Melissa Click",
-      "General Albert Stubblebine",
-      "Rima Laibow",
-      "Lord Monckton",
-      "Darrell Hamamoto",
-      "Nick Begich",
-      "Peter Stormare"
-    ]
-  },
-  {
-    "episode_number": "84",
-    "people": [
-      "David Icke"
-    ]
-  },
-  {
-    "coverage_date": "February 1, 2017",
-    "coverage_end_date": "February 1, 2017",
-    "coverage_start_date": "February 1, 2017",
-    "episode_number": "9"
-  },
-  {
-    "episode_number": "93",
-    "people": [
-      "Steve Pieczenik",
-      "David Knight",
-      "General Michael Flynn",
-      "Roger Stone",
-      "Kevin Booth",
-      "Ahmet S Yayla"
-    ]
-  },
-  {
-    "episode_number": "95",
-    "people": [
-      "Kerry Cassidy",
-      "Robert David Steele",
-      "Tom Delong",
-      "Jim Semivan",
-      "Hal Puthoff",
-      "Andrew Basiago"
-    ]
-  },
-  {
-    "episode_number": "97",
-    "people": [
-      "George H W Bush",
-      "The Bush family",
-      "Elon Musk",
-      "Eric Prince",
-      "Andrew Neal",
-      "Jeff Flake"
-    ]
-  },
-  {
-    "episode_number": "98",
-    "people": [
-      "Osama Bin Laden",
-      "Steve Pieczenik",
-      "Walter Cronkite",
-      "Madeleine Albright",
-      "Mort Kondracke",
-      "Benazir Bhutto",
-      "Chris Othanos",
-      "Trayvon Martin",
-      "Chicken Man",
-      "Larry Klayman",
-      "David Jones",
-      "Gerald Celente"
     ]
   },
   {
