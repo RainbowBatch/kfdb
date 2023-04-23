@@ -1,9 +1,5 @@
 [
   {
-    "references": 10,
-    "title": "The Obama Deception"
-  },
-  {
     "references": 9,
     "title": "Dan Lyman"
   },
@@ -18,6 +14,10 @@
   {
     "references": 8,
     "title": "DeAnna Lorraine"
+  },
+  {
+    "references": 8,
+    "title": "Endgame"
   },
   {
     "references": 8,
@@ -125,10 +125,6 @@
   },
   {
     "references": 5,
-    "title": "Endgame"
-  },
-  {
-    "references": 5,
     "title": "Glenn Spencer"
   },
   {
@@ -190,6 +186,10 @@
   {
     "references": 4,
     "title": "Darren McBreen"
+  },
+  {
+    "references": 4,
+    "title": "David Kelly"
   },
   {
     "references": 4,
@@ -377,10 +377,6 @@
   },
   {
     "references": 3,
-    "title": "David Kelly"
-  },
-  {
-    "references": 3,
     "title": "Dinesh D'Souza"
   },
   {
@@ -425,6 +421,10 @@
   },
   {
     "references": 3,
+    "title": "Howard Dean"
+  },
+  {
+    "references": 3,
     "title": "Howard Stern"
   },
   {
@@ -458,6 +458,10 @@
   {
     "references": 3,
     "title": "John Roberts"
+  },
+  {
+    "references": 3,
+    "title": "John Wayne"
   },
   {
     "references": 3,
@@ -573,7 +577,15 @@
   },
   {
     "references": 3,
+    "title": "Timothy McVeigh"
+  },
+  {
+    "references": 3,
     "title": "Zach Voorhees"
+  },
+  {
+    "references": 2,
+    "title": "2016 US presidential election"
   },
   {
     "references": 2,
@@ -606,6 +618,10 @@
   {
     "references": 2,
     "title": "Brad Sherman"
+  },
+  {
+    "references": 2,
+    "title": "Bruce Springsteen"
   },
   {
     "references": 2,
@@ -777,10 +793,6 @@
   },
   {
     "references": 2,
-    "title": "Howard Dean"
-  },
-  {
-    "references": 2,
     "title": "InfoW LLC"
   },
   {
@@ -858,10 +870,6 @@
   {
     "references": 2,
     "title": "Joel Wallach"
-  },
-  {
-    "references": 2,
-    "title": "John Wayne"
   },
   {
     "references": 2,
@@ -1025,11 +1033,11 @@
   },
   {
     "references": 2,
-    "title": "Project Veritas"
+    "title": "Prison Planet"
   },
   {
     "references": 2,
-    "title": "Proud Boys"
+    "title": "Project Veritas"
   },
   {
     "references": 2,
@@ -1113,10 +1121,6 @@
   },
   {
     "references": 2,
-    "title": "Timothy McVeigh"
-  },
-  {
-    "references": 2,
     "title": "Tom Cotton"
   },
   {
@@ -1146,14 +1150,6 @@
   {
     "references": 2,
     "title": "Zecharia Sitchin"
-  },
-  {
-    "references": 1,
-    "title": "2016 US presidential election"
-  },
-  {
-    "references": 1,
-    "title": "2016 United States presidential election"
   },
   {
     "references": 1,
@@ -1257,6 +1253,10 @@
   },
   {
     "references": 1,
+    "title": "Alec Baldwin"
+  },
+  {
+    "references": 1,
     "title": "Aleister Crowley"
   },
   {
@@ -1330,6 +1330,10 @@
   {
     "references": 1,
     "title": "Allen West"
+  },
+  {
+    "references": 1,
+    "title": "Alvin Bragg"
   },
   {
     "references": 1,
@@ -1565,6 +1569,10 @@
   },
   {
     "references": 1,
+    "title": "Betsy DeVos"
+  },
+  {
+    "references": 1,
     "title": "Bette Middler"
   },
   {
@@ -1750,10 +1758,6 @@
   {
     "references": 1,
     "title": "Bruce Sees All"
-  },
-  {
-    "references": 1,
-    "title": "Bruce Springsteen"
   },
   {
     "references": 1,
@@ -2541,6 +2545,10 @@
   },
   {
     "references": 1,
+    "title": "Ethan Nordean"
+  },
+  {
+    "references": 1,
     "title": "Eugene Volokh"
   },
   {
@@ -2885,6 +2893,10 @@
   },
   {
     "references": 1,
+    "title": "Hutton Gibson"
+  },
+  {
+    "references": 1,
     "title": "I M Pei"
   },
   {
@@ -2993,6 +3005,10 @@
   },
   {
     "references": 1,
+    "title": "Jack Blood"
+  },
+  {
+    "references": 1,
     "title": "Jack Brownrig"
   },
   {
@@ -3089,6 +3105,10 @@
   },
   {
     "references": 1,
+    "title": "Janet Jackson"
+  },
+  {
+    "references": 1,
     "title": "Janet Phelan"
   },
   {
@@ -3114,6 +3134,10 @@
   {
     "references": 1,
     "title": "Jason Goodman"
+  },
+  {
+    "references": 1,
+    "title": "Jason Kessler"
   },
   {
     "references": 1,
@@ -3585,11 +3609,11 @@
   },
   {
     "references": 1,
-    "title": "Kelly Rushing"
+    "title": "Kelly O'Meara"
   },
   {
     "references": 1,
-    "title": "Kelly o'meara"
+    "title": "Kelly Rushing"
   },
   {
     "references": 1,
@@ -3661,6 +3685,10 @@
   },
   {
     "references": 1,
+    "title": "Kyle Chapman"
+  },
+  {
+    "references": 1,
     "title": "Kyle Rittenhouse's mom"
   },
   {
@@ -3690,6 +3718,10 @@
   {
     "references": 1,
     "title": "Larry Grathwald"
+  },
+  {
+    "references": 1,
+    "title": "Larry King"
   },
   {
     "references": 1,
@@ -3966,37 +3998,5 @@
   {
     "references": 1,
     "title": "Marshall Applewhite"
-  },
-  {
-    "references": 1,
-    "title": "Martha Stewart"
-  },
-  {
-    "references": 1,
-    "title": "Martin Armstrong"
-  },
-  {
-    "references": 1,
-    "title": "Martin Keating"
-  },
-  {
-    "references": 1,
-    "title": "Marvin Hagler"
-  },
-  {
-    "references": 1,
-    "title": "Mary Ann Maxwell Gates"
-  },
-  {
-    "references": 1,
-    "title": "Mary Landrieu"
-  },
-  {
-    "references": 1,
-    "title": "Mary McCord"
-  },
-  {
-    "references": 1,
-    "title": "Mary McLinley"
   }
 ]
