@@ -90,6 +90,7 @@
       "Barack Obama",
       "Lee Ann Mcadoo",
       "George Soros",
+      "Betsy DeVos",
       "Glenn Beck"
     ]
   },
@@ -348,7 +349,7 @@
       "Larry C Johnson",
       "John Kerry",
       "Paul Joseph Watson",
-      "Lana Del Rey",
+      "Lana del Rey",
       "Nico Acosta",
       "Andrew Basiago",
       "John Oliver"
@@ -477,6 +478,7 @@
       "Sean Connery",
       "Roger Stone",
       "Richard Spencer",
+      "Betsy DeVos",
       "Jon Rappoport",
       "Adam Carolla",
       "Mel Gibson"
@@ -491,6 +493,7 @@
       "Britney Spears",
       "Donald Trump",
       "William Shakespeare",
+      "Alec Baldwin",
       "Adam Schiff",
       "David Knight",
       "Lee Ann McAdoo",
@@ -1054,6 +1057,14 @@
       "Barack Obama",
       "Richard Nixon",
       "Harry Reid"
+    ]
+  },
+  {
+    "episode_number": "426",
+    "people": [
+      "Donald Trump",
+      "Roger Stone",
+      "John Brown"
     ]
   },
   {
@@ -2054,6 +2065,32 @@
       "Hutton Gibson",
       "Mel Gibson",
       "Dwight D Eisenhower"
+    ]
+  },
+  {
+    "episode_number": "797",
+    "people": [
+      "Luke Rudkowski",
+      "Max Keiser",
+      "Klaus Schwab",
+      "Vladimir Putin",
+      "Matt Walsh",
+      "Chris Carter"
+    ]
+  },
+  {
+    "episode_number": "798",
+    "people": [
+      "Rima Laibow",
+      "Donald Trump",
+      "Jesse Ventura",
+      "Robert Kennedy",
+      "Madeleine Albright",
+      "Andrew Jackson",
+      "Robert Kennedy Jr",
+      "Michelle Obama",
+      "David Icke",
+      "Paul Joseph Watson"
     ]
   }
 ]
