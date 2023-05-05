@@ -349,7 +349,7 @@
       "Larry C Johnson",
       "John Kerry",
       "Paul Joseph Watson",
-      "Lana del Rey",
+      "Lana Del Rey",
       "Nico Acosta",
       "Andrew Basiago",
       "John Oliver"
@@ -517,7 +517,6 @@
       "Barack Obama",
       "David Knight",
       "Jerome Corsi",
-      "Mark Twain",
       "Winston Churchill"
     ]
   },
@@ -894,8 +893,7 @@
       "Randy Kramer",
       "David Knight",
       "Marty DeRosa",
-      "Robert David Steele",
-      "Mark Twain"
+      "Robert David Steele"
     ]
   },
   {
@@ -2108,6 +2106,7 @@
       "Scott Ritter",
       "Tucker Carlson",
       "James O'Keefe",
+      "Neil Heslin",
       "Lebron James",
       "Owen Shroyer",
       "Mark Bankston",
@@ -2123,6 +2122,35 @@
       "John Kerry",
       "George W Bush",
       "Larry Nichols"
+    ]
+  },
+  {
+    "episode_number": "802",
+    "people": [
+      "Sian Norris",
+      "Betsy DeVos"
+    ]
+  },
+  {
+    "episode_number": "803",
+    "people": [
+      "Mark Bankston",
+      "Chris Mattei",
+      "Piers Morgan"
+    ]
+  },
+  {
+    "episode_number": "804",
+    "people": [
+      "Steven Crowder",
+      "Tucker Carlson",
+      "Vladimir Putin",
+      "Frank Stallone",
+      "Rupert Murdoch",
+      "Candace Owens",
+      "Donald Trump",
+      "Roger Stone",
+      "James O'Keefe"
     ]
   }
 ]
