@@ -61,6 +61,16 @@
     ]
   },
   {
+    "episode_number": "40",
+    "people": [
+      "Mike Cernovich",
+      "Rob Dew",
+      "Hillary Clinton",
+      "James Comey",
+      "Roger Stone"
+    ]
+  },
+  {
     "episode_number": "46",
     "people": [
       "Larry Nichols"
@@ -102,6 +112,14 @@
       "David Duke",
       "Paul Joseph Watson",
       "Sean King"
+    ]
+  },
+  {
+    "episode_number": "65",
+    "people": [
+      "\"Dr.\" Group",
+      "Joe Biggs",
+      "Rob Dew"
     ]
   },
   {
@@ -310,7 +328,7 @@
       "John Brennan",
       "General Michael Flynn",
       "Roger Stone",
-      "Steve P",
+      "Steve Pieczenik",
       "George Soros",
       "Brian Stelter",
       "Alex Soros",
@@ -350,7 +368,27 @@
     "coverage_date": "October 4, 2016",
     "coverage_end_date": "October 4, 2016",
     "coverage_start_date": "October 4, 2016",
-    "episode_number": "135"
+    "episode_number": "135",
+    "people": [
+      "Mike Adams",
+      "Julian Assange",
+      "Roger Stone",
+      "Owen Shroyer",
+      "David Brock"
+    ]
+  },
+  {
+    "episode_number": "138",
+    "people": [
+      "Brennan Gilmore",
+      "Seth Rich",
+      "Gavin McInnes",
+      "Scott Adams",
+      "George Soros",
+      "Steve Pieczenik",
+      "Niall Ferguson",
+      "Henry Kissinger"
+    ]
   },
   {
     "coverage_date": "March 17, 2018",
@@ -375,7 +413,7 @@
       "Julian Assange",
       "Roger Stone",
       "Dr. Group",
-      "Peter Theil",
+      "Peter Thiel",
       "Obama"
     ]
   },
@@ -814,9 +852,9 @@
       "Roger Stone",
       "Tim Cook",
       "Snoop Dogg",
-      "Buckley Hammon",
+      "Buckley Hamman",
       "Anderson Cooper",
-      "Rufio Titan",
+      "Ethan Nordean",
       "MAGA Titan"
     ]
   },
@@ -852,6 +890,16 @@
     ]
   },
   {
+    "episode_number": "245",
+    "people": [
+      "Steve Pieczenik",
+      "Steve Bannon",
+      "Roger Stone",
+      "Julian Assange",
+      "Owen Benjamin"
+    ]
+  },
+  {
     "episode_number": "251",
     "people": [
       "Gavin Newsom",
@@ -870,6 +918,17 @@
       "Peter Stansbury",
       "Ron Paul",
       "Luke Rudkowski"
+    ]
+  },
+  {
+    "episode_number": "257",
+    "people": [
+      "Roger Stone",
+      "Randy Credico",
+      "Julian Assange",
+      "Jerome Corsi",
+      "Joe Biggs",
+      "Tyler Nixon"
     ]
   },
   {
@@ -962,6 +1021,17 @@
     "episode_number": "274"
   },
   {
+    "episode_number": "275",
+    "people": [
+      "Piers Morgan",
+      "Dianne Feinstein",
+      "Doug Hagmann",
+      "Mike Adams",
+      "Kelly O'Meara",
+      "Sun Myung Moon"
+    ]
+  },
+  {
     "episode_number": "276",
     "people": [
       "Larry Summers",
@@ -1036,6 +1106,46 @@
     ]
   },
   {
+    "episode_number": "283",
+    "people": [
+      "Liz Wahl",
+      "Jim Stachowiak",
+      "Abby Martin",
+      "Paul Craig Roberts",
+      "Larry Pratt",
+      "Old Man Housephone",
+      "Dianne Feinstein",
+      "William Strauss",
+      "Neil Howe",
+      "Steve Bannon",
+      "David Knight",
+      "Mark Kessler",
+      "Thomas Jefferson",
+      "Matt Carson",
+      "Marylou Hannon",
+      "Robert Wagner",
+      "Bill Ayers"
+    ]
+  },
+  {
+    "episode_number": "284",
+    "people": [
+      "KM Heaton",
+      "Mark Skousen",
+      "Joel Skousen",
+      "W Cleon Skousen",
+      "George Hiram Mann",
+      "Norm Pattis",
+      "Candace Owens",
+      "Dwight D Eisenhower",
+      "Buckley Hamman",
+      "Paul Joseph Watson",
+      "Julian Assange",
+      "Nick Beggich",
+      "Lionel"
+    ]
+  },
+  {
     "episode_number": "287",
     "people": [
       "Millie Weaver",
@@ -1092,7 +1202,7 @@
       "Bertrand Russell",
       "Michael Savage",
       "Buzz Bissinger",
-      "Diane Feinstein"
+      "Dianne Feinstein"
     ]
   },
   {
@@ -1191,6 +1301,19 @@
     ]
   },
   {
+    "episode_number": "301",
+    "people": [
+      "Piers Morgan",
+      "Dianne Feinstein",
+      "Frank Bates",
+      "Allen Baylor",
+      "James O'Keefe",
+      "Mary Landrieu",
+      "Jerome Corsi",
+      "Ben Fuche"
+    ]
+  },
+  {
     "episode_number": "302",
     "people": [
       "Owen Shroyer",
@@ -1211,7 +1334,7 @@
     "episode_number": "304",
     "people": [
       "Katie Walsh",
-      "Alexandria Ocasio Cortez",
+      "Alexandria Ocasio-Cortez",
       "Mikael Thalin",
       "Jared Holt",
       "Robert Barnes",
@@ -1242,7 +1365,7 @@
       "Christopher Dorner",
       "Rodney Brossart",
       "Ron Paul",
-      "David Iche",
+      "David Icke",
       "John Wilkes Booth",
       "Steve Shenk"
     ]
@@ -1253,7 +1376,7 @@
       "James O'Keefe",
       "Jen Gennai",
       "Tim Cook",
-      "Alexandria Ocasio Cortez",
+      "Alexandria Ocasio-Cortez",
       "Ilhan Omar"
     ]
   },
@@ -1305,8 +1428,8 @@
       "Kerry Cassidy",
       "Peter Sasieni",
       "Andrew Basiago",
-      "Zecariah Sitchin",
-      "David Iche",
+      "Zecharia Sitchin",
+      "David Icke",
       "James Fetzer"
     ]
   },
@@ -1322,6 +1445,17 @@
       "David Hogg",
       "Leo Zagami",
       "Maryanne Williamson"
+    ]
+  },
+  {
+    "episode_number": "330",
+    "people": [
+      "Lance Wallnow",
+      "Tammy Sue Bakker",
+      "Jim Bakker",
+      "Dinesh D'Souza",
+      "Alexandria Ocasio-Cortez",
+      "Jair Bolsonaro"
     ]
   },
   {
@@ -1574,6 +1708,44 @@
     ]
   },
   {
+    "episode_number": "401",
+    "people": [
+      "Roger Stone",
+      "Jerome Corsi",
+      "Larry Klayman",
+      "George Zimmerman",
+      "Laura Loomer",
+      "Al Sharpton",
+      "Cassandra Fairbanks",
+      "Julian Assange"
+    ]
+  },
+  {
+    "episode_number": "404",
+    "people": [
+      "Rob Dew",
+      "Julian Assange",
+      "Tom Pappert",
+      "Patrick Howley",
+      "Riley O'Neal",
+      "Noel Fritch",
+      "Millie Weaver",
+      "Pete D'abrosca",
+      "DeAnna Lorraine",
+      "Enrique Tarrio",
+      "Lee Stranahan",
+      "Amy Berman Jackson",
+      "Tomi Collins",
+      "William Binney",
+      "Owen Shroyer",
+      "Nick Fuentes",
+      "Ivan Rakelan",
+      "General Flynn's son",
+      "Gavin McInnes",
+      "Jerome Bell"
+    ]
+  },
+  {
     "episode_number": "405",
     "people": [
       "Kerry Cassidy",
@@ -1686,8 +1858,7 @@
     "coverage_end_date": "April 21, 1995",
     "coverage_start_date": "April 19, 1995",
     "episode_number": "434",
-    "people": [
-    ]
+    "people": []
   },
   {
     "episode_number": "436",
@@ -1726,6 +1897,19 @@
       "Ted Nugent",
       "Anthony Cuomo",
       "Joe Rogan"
+    ]
+  },
+  {
+    "episode_number": "466",
+    "people": [
+      "Steve Adler",
+      "Ilhan Omar",
+      "Larry Gaiters",
+      "Melania Trump",
+      "Letitia James",
+      "George Soros",
+      "Darrel Rundus",
+      "Rex Jones"
     ]
   },
   {
@@ -1785,6 +1969,19 @@
       "Robert Barnes",
       "Amy Coney Barrett",
       "Andrew Wakefield"
+    ]
+  },
+  {
+    "episode_number": "495",
+    "people": [
+      "John Podesta",
+      "Aleister Crowley",
+      "Hillary Clinton",
+      "Bill Clinton",
+      "Buckley Hamman",
+      "Doug Hagmann",
+      "Roger Stone",
+      "Larry Nichols"
     ]
   },
   {
@@ -2130,7 +2327,7 @@
       "Bill Maher",
       "Norm Pattis",
       "Robert Barnes",
-      "Lana del Rey",
+      "Lana Del Rey",
       "Nancy Pelosi"
     ]
   },
@@ -2322,7 +2519,7 @@
   {
     "episode_number": "597",
     "people": [
-      "Alexandria Ocasio Cortez",
+      "Alexandria Ocasio-Cortez",
       "Alfie Oakes",
       "Mike Lindell",
       "Ron DeSantis",
@@ -3964,8 +4161,7 @@
       "2003 Investigation"
     ],
     "episode_number": "801",
-    "people": [
-    ]
+    "people": []
   },
   {
     "categories": [
