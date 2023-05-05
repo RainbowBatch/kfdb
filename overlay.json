@@ -611,7 +611,7 @@
       "Katherine",
       "Ian Morton",
       "David Hogg",
-      "Stephen Crowder",
+      "Steven Crowder",
       "Paul Joseph Watson",
       "Dinesh D'Souza"
     ]
@@ -3958,6 +3958,33 @@
     ],
     "episode_number": "801",
     "people": [
+    ]
+  },
+  {
+    "categories": [
+      "Knowledge Fight Interview"
+    ],
+    "episode_number": "802",
+    "people": [
+      "Sian Norris"
+    ]
+  },
+  {
+    "categories": [
+      "Knowledge Fight Interview"
+    ],
+    "episode_number": "803",
+    "people": [
+      "Mark Bankston"
+    ]
+  },
+  {
+    "categories": [
+      "Present Day"
+    ],
+    "episode_number": "804",
+    "people": [
+      "Steven Crowder"
     ]
   },
   {
