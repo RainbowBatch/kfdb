@@ -1033,7 +1033,6 @@
       "Paul Joseph Watson",
       "Buckley Hamman",
       "Jim Fetzer",
-      "Sandy Hook Family Members",
       "Donald Trump",
       "Leonard Pozner",
       "Wolfgang Halbig",
@@ -1360,7 +1359,6 @@
     "episode_number": "737",
     "people": [
       "Elizabeth Williamson",
-      "Sandy Hook Family Members",
       "Jon Ronson",
       "Chris Mattei",
       "Oathkeepers"
@@ -1425,7 +1423,6 @@
     "people": [
       "Chris Mattei",
       "Norm Pattis",
-      "Sandy Hook Family Members",
       "Dan Bidondi",
       "Madeleine Albright",
       "Wolfgang Halbig",
@@ -1463,7 +1460,6 @@
       "Norm Pattis",
       "Rob Jacobson",
       "Glenn Beck",
-      "Sandy Hook Family Members",
       "Barack Obama",
       "Madeleine Albright",
       "Megyn Kelly"
@@ -2165,5 +2161,9 @@
       "Hutton Gibson",
       "Mel Gibson"
     ]
+  },
+  {
+    "episode_number": "806",
+    "people": []
   }
 ]
