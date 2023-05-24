@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": "1",
+    "people": [
+      "George Soros",
+      "Joel Wallach",
+      "Benjamin Netanyahu",
+      "Joe Biggs"
+    ]
+  },
+  {
     "coverage_date": "December 31, 1999",
     "coverage_end_date": "December 31, 1999",
     "coverage_start_date": "December 31, 1999",
@@ -138,7 +147,7 @@
       "Heidi Montag",
       "Spencer Pratt",
       "John Oliver",
-      "Steve Pieczinik."
+      "Steve Pieczenik"
     ]
   },
   {
@@ -146,6 +155,19 @@
     "people": [
       "Aleksandr Dugin",
       "Mike Cernovich"
+    ]
+  },
+  {
+    "episode_number": "76",
+    "people": [
+      "Harry Dent",
+      "Larry Nichols",
+      "Clarence Thomas",
+      "Anita Hill",
+      "Joe Biggs",
+      "Jakari Jackson",
+      "Randy Quaid",
+      "Leo Zagami"
     ]
   },
   {
@@ -711,6 +733,17 @@
     ]
   },
   {
+    "episode_number": "205",
+    "people": [
+      "George Soros",
+      "Not Steve Pieczenik",
+      "Owen Shroyer",
+      "Conrad Pedroia",
+      "Wendy Lewis",
+      "Randy Ray"
+    ]
+  },
+  {
     "episode_number": "213",
     "people": [
       "Christine Blasey Ford",
@@ -766,6 +799,17 @@
       "Charles Dyer",
       "John Ritzheimer",
       "Debbie Stabenow"
+    ]
+  },
+  {
+    "episode_number": "224",
+    "people": [
+      "Steve Shenk",
+      "Jack Berkman",
+      "Bob Chapman",
+      "Ted Anderson",
+      "Aimee Allen",
+      "Jesse Ventura"
     ]
   },
   {
@@ -1434,6 +1478,14 @@
     ]
   },
   {
+    "episode_number": "327",
+    "people": [
+      "Robert Barnes",
+      "Marianne Williamson",
+      "Pete Buttigieg"
+    ]
+  },
+  {
     "episode_number": "329",
     "people": [
       "Madeleine Albright",
@@ -1444,7 +1496,7 @@
       "Mike Adams",
       "David Hogg",
       "Leo Zagami",
-      "Maryanne Williamson"
+      "Marianne Williamson"
     ]
   },
   {
@@ -1471,6 +1523,20 @@
     ]
   },
   {
+    "episode_number": "344",
+    "people": [
+      "Joshua Heiken",
+      "Nancy Lanza",
+      "Sorcha Faal",
+      "David Booth",
+      "Dan Spitz",
+      "Mike Adams",
+      "Glenn Beck",
+      "David Knight",
+      "Jakari Jackson"
+    ]
+  },
+  {
     "episode_number": "347",
     "people": [
       "Lana Del Rey",
@@ -1493,7 +1559,7 @@
       "Peter Bergin",
       "Joel Skousen",
       "Doug Hagmann",
-      "Jaquari Jackson",
+      "Jakari Jackson",
       "David Knight"
     ]
   },
@@ -1512,7 +1578,7 @@
       "Gary Hart",
       "Harry Reid",
       "Glenn Beck",
-      "Jaquari Jackson",
+      "Jakari Jackson",
       "David Knight",
       "Kelly Jones",
       "Lee Ann McAdoo"
@@ -1631,6 +1697,18 @@
       "Wolfgang Halbig",
       "Leonard Pozner",
       "Robert Barnes"
+    ]
+  },
+  {
+    "episode_number": "380",
+    "people": [
+      "Ruth Bader Ginsburg",
+      "Jeffrey Epstein",
+      "George Soros",
+      "Vladimir Putin",
+      "Jair Bolsonaro",
+      "Anne Frank",
+      "Kate Steinle"
     ]
   },
   {
@@ -1947,7 +2025,7 @@
   {
     "episode_number": "484",
     "people": [
-      "Ruth Bader Ginsberg",
+      "Ruth Bader Ginsburg",
       "Harrison Smith",
       "Amy Coney Barrett",
       "Norm Pattis",
@@ -2547,6 +2625,24 @@
     "episode_number": "601"
   },
   {
+    "episode_number": "603",
+    "people": [
+      "Mike Adams",
+      "Rand Paul",
+      "Harrison Smith",
+      "Adam Lanza",
+      "Rachel Maddow",
+      "Jim Fetzer",
+      "George Soros",
+      "Klaus Schwab",
+      "Rafal Ziemkiewicz",
+      "Scott McKay",
+      "Kyrsten Sinema",
+      "Thomas Renz",
+      "Wayne Allen Root"
+    ]
+  },
+  {
     "categories": [
       "2003 Investigation"
     ],
@@ -2665,7 +2761,7 @@
     "people": [
       "Mark Bankston",
       "Daria Karpova",
-      "Leonard Posner",
+      "Leonard Pozner",
       "Neil Heslin",
       "Owen Shroyer",
       "Jim Fetzer",
@@ -2946,7 +3042,7 @@
     "episode_number": "688",
     "people": [
       "Thomas Renz"
-    ],
+    ]
   },
   {
     "categories": [
