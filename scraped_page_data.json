@@ -29706,8 +29706,8 @@
     "is_stub": true,
     "length": "01:22:37",
     "libsyn_link": "isten",
-    "nextEpisode": null,
-    "oldid": 13026,
+    "nextEpisode": "807",
+    "oldid": 13030,
     "oocDrop": null,
     "previousEpisode": "805",
     "question": null,
@@ -29718,6 +29718,103 @@
     "wiki_categories": [
       "Episodes",
       "Knowledge Fight Interview"
+    ]
+  },
+  {
+    "airDate": "May 15, 2023",
+    "appearance": [
+      "Mel Gibson"
+    ],
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": "February 17, 2004",
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": "807",
+    "episodeType": [
+      "2003 Investigation"
+    ],
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "01:33:23",
+    "libsyn_link": "isten",
+    "nextEpisode": "808",
+    "oldid": 13031,
+    "oocDrop": null,
+    "previousEpisode": "806",
+    "question": null,
+    "redirect": null,
+    "slug": "807{{COLON}}_February_17,_2004",
+    "title": "807: February 17, 2004",
+    "transcriptEpisodeNumber": null,
+    "wiki_categories": [
+      "Episodes",
+      "2003 Investigation"
+    ]
+  },
+  {
+    "airDate": "May 17, 2023",
+    "appearance": [
+      "Steven Crowder"
+    ],
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": "May 15, 2023",
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": "808",
+    "episodeType": [
+      "Present Day"
+    ],
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "01:38:40",
+    "libsyn_link": "isten",
+    "nextEpisode": "809",
+    "oldid": 13036,
+    "oocDrop": null,
+    "previousEpisode": "807",
+    "question": null,
+    "redirect": null,
+    "slug": "808{{COLON}}_May_15,_2023",
+    "title": "808: May 15, 2023",
+    "transcriptEpisodeNumber": null,
+    "wiki_categories": [
+      "Episodes",
+      "Present Day"
+    ]
+  },
+  {
+    "airDate": "May 22, 2023",
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": "May 18, 2023",
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": "809",
+    "episodeType": [
+      "Present Day"
+    ],
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "02:35:43",
+    "libsyn_link": "isten",
+    "nextEpisode": null,
+    "oldid": 13037,
+    "oocDrop": null,
+    "previousEpisode": "808",
+    "question": null,
+    "redirect": null,
+    "slug": "809{{COLON}}_May_18,_2023",
+    "title": "809: May 18, 2023",
+    "transcriptEpisodeNumber": null,
+    "wiki_categories": [
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -38850,7 +38947,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 13027,
+    "oldid": 13038,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -66508,6 +66605,90 @@
     "slug": "Transcript{{FORWARD_SLASH}}806{{COLON}}_Chatting_with_Erica_Lafferty",
     "title": "Transcript/806: Chatting with Erica Lafferty",
     "transcriptEpisodeNumber": "806",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 13034,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}807{{COLON}}_February_17,_2004",
+    "title": "Transcript/807: February 17, 2004",
+    "transcriptEpisodeNumber": "807",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 13035,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}808{{COLON}}_May_15,_2023",
+    "title": "Transcript/808: May 15, 2023",
+    "transcriptEpisodeNumber": "808",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 13039,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}809{{COLON}}_May_18,_2023",
+    "title": "Transcript/809: May 18, 2023",
+    "transcriptEpisodeNumber": "809",
     "wiki_categories": [
       "Transcripts"
     ]

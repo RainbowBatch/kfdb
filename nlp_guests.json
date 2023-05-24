@@ -1276,9 +1276,9 @@
       "Robert Barnes",
       "Elizabeth Williamson",
       "Chris Mattei",
+      "Norm Pattis",
       "Vladimir Putin",
       "Melinda Gates",
-      "Norm Pattis",
       "Donald Trump",
       "Barack Obama"
     ]
@@ -2088,6 +2088,7 @@
       "Andrew Jackson",
       "Robert Kennedy Jr",
       "Michelle Obama",
+      "Marianne Williamson",
       "David Icke",
       "Paul Joseph Watson"
     ]
@@ -2165,5 +2166,35 @@
   {
     "episode_number": "806",
     "people": []
+  },
+  {
+    "episode_number": "807",
+    "people": [
+      "Mel Gibson",
+      "Diane Sawyer",
+      "Abraham Foxman"
+    ]
+  },
+  {
+    "episode_number": "808",
+    "people": [
+      "Steven Crowder",
+      "Peter Brimelow",
+      "Megyn Kelly",
+      "Donald Trump",
+      "Robert Barnes"
+    ]
+  },
+  {
+    "episode_number": "809",
+    "people": [
+      "Stew Peters",
+      "Tom Robbins",
+      "Steve Kirsch",
+      "Gary Allen",
+      "Bill Gates",
+      "David Icke",
+      "George Soros"
+    ]
   }
 ]

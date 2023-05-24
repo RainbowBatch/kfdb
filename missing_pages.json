@@ -12,6 +12,10 @@
     "title": "Matt Bracken"
   },
   {
+    "references": 9,
+    "title": "Steven Crowder"
+  },
+  {
     "references": 8,
     "title": "DeAnna Lorraine"
   },
@@ -30,10 +34,6 @@
   {
     "references": 8,
     "title": "Rob Jacobson"
-  },
-  {
-    "references": 8,
-    "title": "Steven Crowder"
   },
   {
     "references": 8,
@@ -201,10 +201,6 @@
   },
   {
     "references": 4,
-    "title": "Dianne Feinstein"
-  },
-  {
-    "references": 4,
     "title": "Doug Hagmann"
   },
   {
@@ -234,10 +230,6 @@
   {
     "references": 4,
     "title": "James David Manning"
-  },
-  {
-    "references": 4,
-    "title": "Jaquari Jackson"
   },
   {
     "references": 4,
@@ -569,6 +561,10 @@
   },
   {
     "references": 3,
+    "title": "Ruth Bader Ginsburg"
+  },
+  {
+    "references": 3,
     "title": "Saddam Hussein"
   },
   {
@@ -821,6 +817,10 @@
   },
   {
     "references": 2,
+    "title": "Hutton Gibson"
+  },
+  {
+    "references": 2,
     "title": "InfoW LLC"
   },
   {
@@ -966,6 +966,10 @@
   {
     "references": 2,
     "title": "Magnus Panvidya"
+  },
+  {
+    "references": 2,
+    "title": "Marianne Williamson"
   },
   {
     "references": 2,
@@ -1229,6 +1233,10 @@
   },
   {
     "references": 1,
+    "title": "Aimee Allen"
+  },
+  {
+    "references": 1,
     "title": "Ajit Pai"
   },
   {
@@ -1366,10 +1374,6 @@
   {
     "references": 1,
     "title": "Ammon Bundy"
-  },
-  {
-    "references": 1,
-    "title": "Amy Allen"
   },
   {
     "references": 1,
@@ -1597,10 +1601,6 @@
   },
   {
     "references": 1,
-    "title": "Bibi Netanyahu"
-  },
-  {
-    "references": 1,
     "title": "Bible Dan"
   },
   {
@@ -1766,6 +1766,10 @@
   {
     "references": 1,
     "title": "Brother Jake"
+  },
+  {
+    "references": 1,
+    "title": "Bruce Buchanan"
   },
   {
     "references": 1,
@@ -2685,6 +2689,10 @@
   },
   {
     "references": 1,
+    "title": "Gateway Pundit"
+  },
+  {
+    "references": 1,
     "title": "Geert Wilders"
   },
   {
@@ -2906,10 +2914,6 @@
   {
     "references": 1,
     "title": "Howard Hughes"
-  },
-  {
-    "references": 1,
-    "title": "Hutton Gibson"
   },
   {
     "references": 1,
@@ -3994,9 +3998,5 @@
   {
     "references": 1,
     "title": "Mark Potok"
-  },
-  {
-    "references": 1,
-    "title": "Mark Skousen"
   }
 ]
