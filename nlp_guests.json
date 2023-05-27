@@ -2160,7 +2160,8 @@
     "people": [
       "Bruce Buchanan",
       "Hutton Gibson",
-      "Mel Gibson"
+      "Mel Gibson",
+      "Diane Sawyer"
     ]
   },
   {
@@ -2190,11 +2191,26 @@
     "people": [
       "Stew Peters",
       "Tom Robbins",
+      "Thomas Renz",
       "Steve Kirsch",
       "Gary Allen",
       "Bill Gates",
       "David Icke",
       "George Soros"
+    ]
+  },
+  {
+    "episode_number": "810",
+    "people": [
+      "Michael Shrimpton",
+      "David Kelly",
+      "Tom Clancy",
+      "Tony Blair",
+      "Hutton Gibson",
+      "Charlie Sheen",
+      "Donald Trump",
+      "John Kerry",
+      "Mike Pence"
     ]
   }
 ]
