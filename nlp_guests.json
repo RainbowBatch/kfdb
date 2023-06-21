@@ -287,7 +287,6 @@
       "Sandra Bullock",
       "Roger Stone",
       "Ted Gunderson",
-      "Adrenochrome",
       "Anderson Cooper",
       "Vladimir Putin",
       "Hillary Clinton",
@@ -684,8 +683,7 @@
       "David Knight",
       "Vladimir Putin",
       "Andrew Jackson",
-      "Rahm Emanuel",
-      "Adrenochrome"
+      "Rahm Emanuel"
     ]
   },
   {
@@ -2214,6 +2212,12 @@
       "Donald Trump",
       "John Kerry",
       "Mike Pence"
+    ]
+  },
+  {
+    "episode_number": "811",
+    "people": [
+      "David Rockefeller"
     ]
   }
 ]
