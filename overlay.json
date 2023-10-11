@@ -4819,7 +4819,8 @@
     ],
     "episode_number": "849",
     "people": [
-      "EJ Dickson"
+      "EJ Dickson",
+      "Tucker Carlson"
     ]
   },
   {
@@ -4828,7 +4829,8 @@
     ],
     "episode_number": "850",
     "people": [
-      "Judge Joe Brown"
+      "Judge Joe Brown",
+      "Bill Gates"
     ]
   },
   {
@@ -4837,7 +4839,8 @@
     ],
     "episode_number": "851",
     "people": [
-      "Erica Lafferty"
+      "Erica Lafferty",
+      "Norm Pattis"
     ]
   },
   {
@@ -4848,7 +4851,8 @@
     "people": [
       "Tucker Carlson",
       "Larry Sinclair",
-      "Barack Obama"
+      "Barack Obama",
+      "Bernie Sanders"
     ]
   },
   {
@@ -4857,7 +4861,8 @@
     ],
     "episode_number": "853",
     "people": [
-      "Solomon Berg"
+      "Solomon Berg",
+      "Mark Richards"
     ]
   },
   {
@@ -4866,6 +4871,8 @@
     ],
     "episode_number": "854",
     "people": [
+      "Dianne Feinstein",
+      "Barack Obama"
     ]
   },
   {
@@ -4875,6 +4882,7 @@
     ],
     "episode_number": "855",
     "people": [
+      "Barack Obama"
     ],
     "coverage_date": "August 24, 2009",
     "coverage_end_date": "August 24, 2009",
@@ -4887,6 +4895,8 @@
     ],
     "episode_number": "856",
     "people": [
+      "Max Keiser",
+      "Donald Trump"
     ],
     "coverage_date": "October 30, 2013",
     "coverage_end_date": "October 30, 2013",
@@ -4899,10 +4909,20 @@
     ],
     "episode_number": "857",
     "people": [
+      "David Knight",
+      "Kerry Cassidy"
     ],
     "coverage_date": "##REMOVE##",
     "coverage_end_date": "June 9, 2013",
     "coverage_start_date": "June 5, 2013"
+  },
+  {
+    "categories": [
+      "Present Day"
+    ],
+    "episode_number": "858",
+    "people": [
+    ]
   },
   {
     "coverage_date": "##REMOVE##",
