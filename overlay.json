@@ -4924,7 +4924,9 @@
     ],
     "episode_number": "858",
     "people": [
-      "Kent Heckenlively"
+      "Kent Heckenlively",
+      "David Rockefeller",
+      "Donald Trump"
     ]
   },
   {
@@ -4933,8 +4935,42 @@
     ],
     "episode_number": "859",
     "people": [
-      "Glenn Beck"
+      "Glenn Beck",
+      "Barack Obama",
+      "Donald Trump",
+      "Godfrey Bloom",
+      "Nigel Farage"
     ]
+  },
+  {
+   "categories": [
+      "Present Day"
+    ],
+    "episode_number": "860",
+    "people": [
+      "Barack Obama",
+      "Donald Trump"
+    ]
+  },
+  {
+   "categories": [
+      "Present Day"
+    ],
+    "episode_number": "861",
+    "people": [
+    ]
+  },
+ {
+   "categories": [
+      "Present Day",
+      "Formulaic Objections"
+    ],
+    "episode_number": "862",
+    "people": [
+    ],
+    "coverage_date": "October 19, 2023",
+    "coverage_end_date": "October 19, 2023",
+    "coverage_start_date": "October 19, 2023"
   },
   {
     "coverage_date": "##REMOVE##",
