@@ -4559,7 +4559,7 @@
       "Donald Trump",
       "Robert F Kennedy",
       "Vladimir Putin",
-      "Anna Merlin",
+      "Anna Merlan",
       "Robert F Kennedy Jr",
       "Bobby Kennedy Jr",
       "David Duke",
@@ -4958,9 +4958,11 @@
     ],
     "episode_number": "861",
     "people": [
+      "Jim Jordan",
+      "Owen Benjamin"
     ]
   },
- {
+  {
    "categories": [
       "Present Day",
       "Formulaic Objections"
@@ -4971,6 +4973,102 @@
     "coverage_date": "October 19, 2023",
     "coverage_end_date": "October 19, 2023",
     "coverage_start_date": "October 19, 2023"
+  },
+  {
+   "categories": [
+      "Present Day",
+      "InfoWars Interview"
+    ],
+    "episode_number": "863",
+    "people": [
+      "Vivek Ramaswamy",
+      "Donald Trump",
+      "Owen Shroyer",
+      "Thomas Jefferson"
+    ],
+    "coverage_date": "October 24, 2023",
+    "coverage_end_date": "October 24, 2023",
+    "coverage_start_date": "October 24, 2023"
+  },
+  {
+   "categories": [
+      "Present Day"
+    ],
+    "episode_number": "864",
+    "people": [
+      "Nick Fuentes",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Larry Fink",
+      "Owen Shroyer"
+    ]
+  },
+  {
+   "categories": [
+      "Knowledge Fight Interview"
+    ],
+    "episode_number": "865",
+    "people": [
+      "Anna Merlan"
+    ]
+  },
+  {
+   "categories": [
+      "Present Day"
+    ],
+    "episode_number": "866",
+    "people": [
+      "Michelle Obama",
+      "Nick Fuentes",
+      "Tucker Carlson",
+      "DJ Danarchy",
+      "Joel Gilbert",
+      "Nigel Farage"
+    ]
+  },
+  {
+   "categories": [
+      "Time Travel",
+      "Infowars Interview"
+    ],
+    "episode_number": "867",
+    "people": [
+      "Howard Stern",
+      "Charlie Sheen",
+      "Osama Bin Laden",
+      "Piers Morgan",
+      "Steve Pieczenik"
+    ],
+    "coverage_date": "February 26, 2013",
+    "coverage_end_date": "February 26, 2013",
+    "coverage_start_date": "February 26, 2013"
+  },
+  {
+   "categories": [
+      "2003 Investigation"
+    ],
+    "episode_number": "868",
+    "people": [
+      "Howard Stern",
+      "Steven Crowder"
+    ]
+  },
+  {
+   "categories": [
+      "Present Day"
+    ],
+    "episode_number": "869",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+   "categories": [
+      "Present Day"
+    ],
+    "episode_number": "870",
+    "people": [
+    ]
   },
   {
     "coverage_date": "##REMOVE##",
