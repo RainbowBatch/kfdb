@@ -1507,6 +1507,7 @@
   {
     "episode_number": "121",
     "people": [
+      "Alexander Haig",
       "Andrew Jackson",
       "Susan Collins",
       "Steve Pieczenik"
@@ -9108,6 +9109,85 @@
     ]
   },
   {
+    "episode_number": "870",
+    "people": [
+      "Aleksandr Dugin",
+      "George Soros",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Norm Pattis"
+    ]
+  },
+  {
+    "episode_number": "871",
+    "people": [
+      "Marjorie Taylor Greene"
+    ]
+  },
+  {
+    "episode_number": "872",
+    "people": [
+      "Barack Obama",
+      "Mitt Romney",
+      "Vladimir Putin",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "873",
+    "people": []
+  },
+  {
+    "episode_number": "874",
+    "people": [
+      "Donald Trump",
+      "Henry Kissinger",
+      "Roger Stone",
+      "George H W Bush",
+      "Richard Nixon"
+    ]
+  },
+  {
+    "episode_number": "875",
+    "people": [
+      "Bill Cooper",
+      "Brian Stelter",
+      "Gavin Newsom",
+      "Mike Pence",
+      "Osama Bin Laden",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "876",
+    "people": [
+      "John Kerry",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Tucker Carlson",
+      "Donald Trump",
+      "Brian Stelter"
+    ]
+  },
+  {
+    "episode_number": "877",
+    "people": [
+      "Andrew Tate",
+      "Donald Trump",
+      "Jack Posobiec",
+      "Matt Gaetz",
+      "Wolfgang Halbig"
+    ]
+  },
+  {
+    "episode_number": "878",
+    "people": [
+      "Mel Gibson"
+    ]
+  },
+  {
     "episode_number": "S001",
     "people": [
       "David Knight",
@@ -9181,6 +9261,12 @@
       "Donald Trump",
       "Stewart Rhodes",
       "Norm Pattis"
+    ]
+  },
+  {
+    "episode_number": "S015",
+    "people": [
+      "Donald Trump"
     ]
   }
 ]
