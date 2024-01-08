@@ -1,51 +1,191 @@
 [
   {
-    "references": 17,
+    "references": 18,
     "title": "Peter Schiff"
+  },
+  {
+    "references": 17,
+    "title": "Matt Bracken"
+  },
+  {
+    "references": 16,
+    "title": "Tom Pappert"
+  },
+  {
+    "references": 15,
+    "title": "Illuminati"
+  },
+  {
+    "references": 13,
+    "title": "Jason Bermis"
+  },
+  {
+    "references": 13,
+    "title": "Kaitlin Bennett"
+  },
+  {
+    "references": 13,
+    "title": "Larry Pratt"
+  },
+  {
+    "references": 12,
+    "title": "Eddie Bravo"
   },
   {
     "references": 12,
     "title": "None Dare Call It Conspiracy"
   },
   {
-    "references": 11,
-    "title": "Matt Bracken"
+    "references": 12,
+    "title": "Randy Kramer"
   },
   {
-    "references": 10,
+    "references": 11,
+    "title": "Aaron Russo"
+  },
+  {
+    "references": 11,
     "title": "Big Jim Tucker"
+  },
+  {
+    "references": 11,
+    "title": "Carpe Donktum"
+  },
+  {
+    "references": 11,
+    "title": "Rob Jacobson"
+  },
+  {
+    "references": 11,
+    "title": "Savannah Hernandez"
   },
   {
     "references": 10,
     "title": "Dan Lyman"
   },
   {
-    "references": 9,
-    "title": "Eddie Bravo"
+    "references": 10,
+    "title": "Ezra Levant"
+  },
+  {
+    "references": 10,
+    "title": "John Bowne"
+  },
+  {
+    "references": 10,
+    "title": "John Sullivan"
+  },
+  {
+    "references": 10,
+    "title": "Larry Klayman"
+  },
+  {
+    "references": 10,
+    "title": "Lindsey Williams"
+  },
+  {
+    "references": 10,
+    "title": "Owen Benjamin"
+  },
+  {
+    "references": 10,
+    "title": "Project Veritas"
+  },
+  {
+    "references": 10,
+    "title": "Steve Shenk"
+  },
+  {
+    "references": 10,
+    "title": "W Cleon Skousen"
+  },
+  {
+    "references": 10,
+    "title": "William Binney"
   },
   {
     "references": 9,
-    "title": "Rob Jacobson"
+    "title": "Darren McBreen"
   },
   {
     "references": 9,
-    "title": "Tom Pappert"
+    "title": "Eddie Page"
   },
   {
-    "references": 8,
-    "title": "Aaron Russo"
+    "references": 9,
+    "title": "Glenn Spencer"
   },
   {
-    "references": 8,
-    "title": "Larry Pratt"
+    "references": 9,
+    "title": "Kevin Moore"
   },
   {
-    "references": 8,
+    "references": 9,
     "title": "Marc Randazza"
   },
   {
-    "references": 8,
+    "references": 9,
     "title": "Marty DeRosa"
+  },
+  {
+    "references": 9,
+    "title": "Michael Moore"
+  },
+  {
+    "references": 8,
+    "title": "Aaron Dykes"
+  },
+  {
+    "references": 8,
+    "title": "Andrew Basiago"
+  },
+  {
+    "references": 8,
+    "title": "Andrew Breitbart"
+  },
+  {
+    "references": 8,
+    "title": "Daniel Estulin"
+  },
+  {
+    "references": 8,
+    "title": "Doug Hagmann"
+  },
+  {
+    "references": 8,
+    "title": "Gary Allen"
+  },
+  {
+    "references": 8,
+    "title": "Glenn Greenwald"
+  },
+  {
+    "references": 8,
+    "title": "Howard Stern"
+  },
+  {
+    "references": 8,
+    "title": "James David Manning"
+  },
+  {
+    "references": 8,
+    "title": "Joe Arpaio"
+  },
+  {
+    "references": 8,
+    "title": "Lauren Southern"
+  },
+  {
+    "references": 8,
+    "title": "Pat Robertson"
+  },
+  {
+    "references": 8,
+    "title": "Wayne Paul"
+  },
+  {
+    "references": 7,
+    "title": "Anthony Gucciardi"
   },
   {
     "references": 7,
@@ -53,47 +193,63 @@
   },
   {
     "references": 7,
-    "title": "Carpe Donktum"
+    "title": "Bill O'Reilly"
   },
   {
     "references": 7,
-    "title": "Gary Allen"
+    "title": "David Kelly"
   },
   {
     "references": 7,
-    "title": "Jason Bermis"
+    "title": "Deep State"
   },
   {
     "references": 7,
-    "title": "Joe Arpaio"
+    "title": "Del Bigtree"
   },
   {
     "references": 7,
-    "title": "Kaitlin Bennett"
+    "title": "E. Michael Jones"
   },
   {
     "references": 7,
-    "title": "Larry Klayman"
+    "title": "Garrett Foster"
   },
   {
     "references": 7,
-    "title": "Savannah Hernandez"
+    "title": "Kyle Rittenhouse"
   },
   {
     "references": 7,
-    "title": "W Cleon Skousen"
+    "title": "Mike Rivero"
   },
   {
     "references": 7,
-    "title": "William Binney"
+    "title": "Mike Rotondo"
+  },
+  {
+    "references": 7,
+    "title": "Rima Laibow"
+  },
+  {
+    "references": 7,
+    "title": "Sean Hannity"
+  },
+  {
+    "references": 7,
+    "title": "Tyler Nixon"
   },
   {
     "references": 6,
-    "title": "Daniel Estulin"
+    "title": "Aaron Zelman"
   },
   {
     "references": 6,
-    "title": "Darren McBreen"
+    "title": "Andrew Torba"
+  },
+  {
+    "references": 6,
+    "title": "Drew Hernandez"
   },
   {
     "references": 6,
@@ -101,43 +257,87 @@
   },
   {
     "references": 6,
-    "title": "Glenn Spencer"
+    "title": "Jake Ducey"
   },
   {
     "references": 6,
-    "title": "Howard Stern"
+    "title": "Jared Holt"
   },
   {
     "references": 6,
-    "title": "John Bowne"
+    "title": "Jim Jordan"
   },
   {
     "references": 6,
-    "title": "John Sullivan"
+    "title": "Joe Banister"
   },
   {
     "references": 6,
-    "title": "Lauren Southern"
+    "title": "John Roberts"
   },
   {
     "references": 6,
-    "title": "Mike Rivero"
+    "title": "John Wayne"
   },
   {
     "references": 6,
-    "title": "Owen Benjamin"
+    "title": "Joycelyn Elders"
   },
   {
     "references": 6,
-    "title": "Randy Kramer"
+    "title": "Keith Olberman"
   },
   {
     "references": 6,
-    "title": "Sean Hannity"
+    "title": "Kevin Booth"
   },
   {
     "references": 6,
-    "title": "Steve Shenk"
+    "title": "Kurt Nimmo"
+  },
+  {
+    "references": 6,
+    "title": "Michelle Malkin"
+  },
+  {
+    "references": 6,
+    "title": "Michelle Wolf"
+  },
+  {
+    "references": 6,
+    "title": "Milo Yianopolis"
+  },
+  {
+    "references": 6,
+    "title": "Patrick Bergy"
+  },
+  {
+    "references": 6,
+    "title": "Pete Santilli"
+  },
+  {
+    "references": 6,
+    "title": "Richard Baldwin"
+  },
+  {
+    "references": 6,
+    "title": "Steve King"
+  },
+  {
+    "references": 6,
+    "title": "Super Male Vitality"
+  },
+  {
+    "references": 6,
+    "title": "Tammy Sue Bakker"
+  },
+  {
+    "references": 6,
+    "title": "Taylor Hanson"
+  },
+  {
+    "references": 6,
+    "title": "Texe Marrs"
   },
   {
     "references": 6,
@@ -148,32 +348,44 @@
     "title": "Vox Day"
   },
   {
-    "references": 5,
-    "title": "Andrew Basiago"
+    "references": 6,
+    "title": "Zach Voorhees"
+  },
+  {
+    "references": 6,
+    "title": "Zecharia Sitchin"
   },
   {
     "references": 5,
-    "title": "Andrew Breitbart"
+    "title": "885: January 3, 2024"
   },
   {
     "references": 5,
-    "title": "Anthony Gucciardi"
+    "title": "Alan Keyes"
   },
   {
     "references": 5,
-    "title": "Bill O'Reilly"
+    "title": "Alfie Oakes"
   },
   {
     "references": 5,
-    "title": "David Kelly"
+    "title": "Bill Hicks"
   },
   {
     "references": 5,
-    "title": "E. Michael Jones"
+    "title": "Buzz Bissinger"
   },
   {
     "references": 5,
-    "title": "Eddie Page"
+    "title": "Courtney Brown"
+  },
+  {
+    "references": 5,
+    "title": "Dan Crenshaw"
+  },
+  {
+    "references": 5,
+    "title": "Dinesh D'Souza"
   },
   {
     "references": 5,
@@ -181,35 +393,27 @@
   },
   {
     "references": 5,
-    "title": "Illuminati"
+    "title": "Faith Goldy"
   },
   {
     "references": 5,
-    "title": "James David Manning"
+    "title": "Harry Reid"
   },
   {
     "references": 5,
-    "title": "Joe Banister"
+    "title": "Jack McLamb"
   },
   {
     "references": 5,
-    "title": "John Wayne"
+    "title": "James Tracy"
   },
   {
     "references": 5,
-    "title": "Kevin Booth"
+    "title": "John McAfee"
   },
   {
     "references": 5,
-    "title": "Kevin Moore"
-  },
-  {
-    "references": 5,
-    "title": "Kyle Rittenhouse"
-  },
-  {
-    "references": 5,
-    "title": "Lindsey Williams"
+    "title": "Jon Ronson"
   },
   {
     "references": 5,
@@ -217,19 +421,19 @@
   },
   {
     "references": 5,
+    "title": "Lucian Wintrich"
+  },
+  {
+    "references": 5,
+    "title": "Lyndon LaRouche"
+  },
+  {
+    "references": 5,
     "title": "Mancow"
   },
   {
     "references": 5,
-    "title": "Michael Moore"
-  },
-  {
-    "references": 5,
-    "title": "Mike Rotondo"
-  },
-  {
-    "references": 5,
-    "title": "Milo Yianopolis"
+    "title": "Marianne Williamson"
   },
   {
     "references": 5,
@@ -237,7 +441,31 @@
   },
   {
     "references": 5,
-    "title": "Pat Robertson"
+    "title": "Patrick Howley"
+  },
+  {
+    "references": 5,
+    "title": "Prince Charles"
+  },
+  {
+    "references": 5,
+    "title": "Prison Planet"
+  },
+  {
+    "references": 5,
+    "title": "Red Beckman"
+  },
+  {
+    "references": 5,
+    "title": "Richard Spencer"
+  },
+  {
+    "references": 5,
+    "title": "Robert Evans"
+  },
+  {
+    "references": 5,
+    "title": "Sam Harris"
   },
   {
     "references": 5,
@@ -245,23 +473,23 @@
   },
   {
     "references": 5,
-    "title": "Super Male Vitality"
-  },
-  {
-    "references": 5,
-    "title": "Texe Marrs"
+    "title": "Thomas Renz"
   },
   {
     "references": 4,
-    "title": "Aaron Dykes"
+    "title": "Al Sharpton"
   },
   {
     "references": 4,
-    "title": "Aaron Zelman"
+    "title": "Artur Pawlowski"
   },
   {
     "references": 4,
-    "title": "Bill Hicks"
+    "title": "Bill Ackman"
+  },
+  {
+    "references": 4,
+    "title": "Brad Sherman"
   },
   {
     "references": 4,
@@ -269,7 +497,35 @@
   },
   {
     "references": 4,
-    "title": "Courtney Brown"
+    "title": "Bubba Wallace"
+  },
+  {
+    "references": 4,
+    "title": "Carlos Zapata"
+  },
+  {
+    "references": 4,
+    "title": "Cassandra Fairbanks"
+  },
+  {
+    "references": 4,
+    "title": "Chandra Levy"
+  },
+  {
+    "references": 4,
+    "title": "Charles Murray"
+  },
+  {
+    "references": 4,
+    "title": "Charlie Kirk"
+  },
+  {
+    "references": 4,
+    "title": "Christopher Sign"
+  },
+  {
+    "references": 4,
+    "title": "Chuck Baldwin"
   },
   {
     "references": 4,
@@ -277,23 +533,23 @@
   },
   {
     "references": 4,
-    "title": "Del Bigtree"
+    "title": "Darren Beattie"
   },
   {
     "references": 4,
-    "title": "Doug Hagmann"
+    "title": "Dr Ben Marble"
   },
   {
     "references": 4,
-    "title": "Drew Hernandez"
+    "title": "Edward Bernays"
   },
   {
     "references": 4,
-    "title": "Ezra Levant"
+    "title": "Fiona Hill"
   },
   {
     "references": 4,
-    "title": "Garrett Foster"
+    "title": "Frank Bates"
   },
   {
     "references": 4,
@@ -301,15 +557,67 @@
   },
   {
     "references": 4,
-    "title": "Glenn Greenwald"
+    "title": "George Humphrey"
   },
   {
     "references": 4,
-    "title": "Jack McLamb"
+    "title": "George Wallace"
   },
   {
     "references": 4,
-    "title": "Jake Ducey"
+    "title": "George Zimmerman"
+  },
+  {
+    "references": 4,
+    "title": "Henry Makow"
+  },
+  {
+    "references": 4,
+    "title": "Hodge Twins"
+  },
+  {
+    "references": 4,
+    "title": "Ivan Raiklin"
+  },
+  {
+    "references": 4,
+    "title": "J. Z. Knight"
+  },
+  {
+    "references": 4,
+    "title": "Jack Swagger"
+  },
+  {
+    "references": 4,
+    "title": "Janet Napolitano"
+  },
+  {
+    "references": 4,
+    "title": "Jason Jones"
+  },
+  {
+    "references": 4,
+    "title": "Jeremy Mackenzie"
+  },
+  {
+    "references": 4,
+    "title": "Jesse James"
+  },
+  {
+    "references": 4,
+    "title": "Jim Brewer"
+  },
+  {
+    "references": 4,
+    "title": "Jim Garrow"
+  },
+  {
+    "references": 4,
+    "title": "Jim Humble"
+  },
+  {
+    "references": 4,
+    "title": "Jimmy Dore"
   },
   {
     "references": 4,
@@ -317,15 +625,7 @@
   },
   {
     "references": 4,
-    "title": "Jon Ronson"
-  },
-  {
-    "references": 4,
-    "title": "Joycelyn Elders"
-  },
-  {
-    "references": 4,
-    "title": "Keith Olberman"
+    "title": "Kathy Griffin"
   },
   {
     "references": 4,
@@ -333,15 +633,15 @@
   },
   {
     "references": 4,
-    "title": "Kurt Nimmo"
+    "title": "Larry Gaiters"
   },
   {
     "references": 4,
-    "title": "Lucian Wintrich"
+    "title": "Linda Thompson"
   },
   {
     "references": 4,
-    "title": "Lyndon LaRouche"
+    "title": "Louis Beam"
   },
   {
     "references": 4,
@@ -349,7 +649,19 @@
   },
   {
     "references": 4,
-    "title": "Michelle Malkin"
+    "title": "Mark Moreno"
+  },
+  {
+    "references": 4,
+    "title": "Michael Malice"
+  },
+  {
+    "references": 4,
+    "title": "Mike Hanson"
+  },
+  {
+    "references": 4,
+    "title": "Mike Rothschild"
   },
   {
     "references": 4,
@@ -357,23 +669,19 @@
   },
   {
     "references": 4,
-    "title": "Patrick Howley"
+    "title": "Omar Navarro"
   },
   {
     "references": 4,
-    "title": "Pete Santilli"
+    "title": "Phyllis Schlafly"
   },
   {
     "references": 4,
-    "title": "Project Veritas"
+    "title": "Prescott Bush"
   },
   {
     "references": 4,
-    "title": "Red Beckman"
-  },
-  {
-    "references": 4,
-    "title": "Richard Baldwin"
+    "title": "Randy Credico"
   },
   {
     "references": 4,
@@ -381,27 +689,27 @@
   },
   {
     "references": 4,
-    "title": "Rima Laibow"
+    "title": "Stephen King"
   },
   {
     "references": 4,
-    "title": "Sam Harris"
+    "title": "Stephen Miller"
   },
   {
     "references": 4,
-    "title": "Tammy Sue Bakker"
+    "title": "Sydney Powell"
   },
   {
     "references": 4,
-    "title": "Taylor Hanson"
+    "title": "Tim Dillon"
   },
   {
     "references": 4,
-    "title": "Thomas Renz"
+    "title": "Tom Cotton"
   },
   {
     "references": 4,
-    "title": "Tyler Nixon"
+    "title": "Tom Daschle"
   },
   {
     "references": 4,
@@ -409,19 +717,19 @@
   },
   {
     "references": 4,
-    "title": "Wayne Paul"
+    "title": "Wayne Allen Root"
   },
   {
     "references": 4,
-    "title": "Zach Voorhees"
-  },
-  {
-    "references": 4,
-    "title": "Zecharia Sitchin"
+    "title": "Zeb Coulter"
   },
   {
     "references": 3,
-    "title": "Alfie Oakes"
+    "title": "Alan Moore"
+  },
+  {
+    "references": 3,
+    "title": "Aleister Crowley"
   },
   {
     "references": 3,
@@ -429,11 +737,15 @@
   },
   {
     "references": 3,
-    "title": "Andrew Torba"
+    "title": "AstraZeneca"
   },
   {
     "references": 3,
-    "title": "Artur Pawlowski"
+    "title": "Bilderberg Group"
+  },
+  {
+    "references": 3,
+    "title": "Bill Kristol"
   },
   {
     "references": 3,
@@ -441,15 +753,19 @@
   },
   {
     "references": 3,
+    "title": "Brad Parscale"
+  },
+  {
+    "references": 3,
     "title": "Brittney Paz"
   },
   {
     "references": 3,
-    "title": "Buzz Bissinger"
+    "title": "Bruce Springsteen"
   },
   {
     "references": 3,
-    "title": "Cassandra Fairbanks"
+    "title": "Charles Dyer"
   },
   {
     "references": 3,
@@ -457,7 +773,19 @@
   },
   {
     "references": 3,
-    "title": "Charlie Kirk"
+    "title": "Charles Manson"
+  },
+  {
+    "references": 3,
+    "title": "Chemical Ali"
+  },
+  {
+    "references": 3,
+    "title": "Chris Carter"
+  },
+  {
+    "references": 3,
+    "title": "Chris Kyle"
   },
   {
     "references": 3,
@@ -465,15 +793,11 @@
   },
   {
     "references": 3,
-    "title": "Dan Crenshaw"
+    "title": "Craig Roberts"
   },
   {
     "references": 3,
-    "title": "Darren Beattie"
-  },
-  {
-    "references": 3,
-    "title": "Dave Mustane"
+    "title": "Dave Rubin"
   },
   {
     "references": 3,
@@ -481,15 +805,23 @@
   },
   {
     "references": 3,
+    "title": "David Clarke"
+  },
+  {
+    "references": 3,
+    "title": "David J Smith"
+  },
+  {
+    "references": 3,
     "title": "David Rothschild"
   },
   {
     "references": 3,
-    "title": "Dinesh D'Souza"
+    "title": "David Willcock"
   },
   {
     "references": 3,
-    "title": "Dr Ben Marble"
+    "title": "Denny Payman"
   },
   {
     "references": 3,
@@ -497,15 +829,23 @@
   },
   {
     "references": 3,
+    "title": "Edgar Casey"
+  },
+  {
+    "references": 3,
     "title": "Eric Taube"
   },
   {
     "references": 3,
-    "title": "Faith Goldy"
+    "title": "G Edward Griffin"
   },
   {
     "references": 3,
-    "title": "Fiona Hill"
+    "title": "Gary Busey"
+  },
+  {
+    "references": 3,
+    "title": "Gateway Pundit"
   },
   {
     "references": 3,
@@ -517,15 +857,19 @@
   },
   {
     "references": 3,
-    "title": "George Humphrey"
+    "title": "Geoffrey Berman"
   },
   {
     "references": 3,
-    "title": "George Wallace"
+    "title": "George Humphries"
   },
   {
     "references": 3,
-    "title": "Harry Reid"
+    "title": "George Lucas"
+  },
+  {
+    "references": 3,
+    "title": "George Orwell"
   },
   {
     "references": 3,
@@ -533,15 +877,15 @@
   },
   {
     "references": 3,
-    "title": "J. Z. Knight"
+    "title": "Ian Fleming"
   },
   {
     "references": 3,
-    "title": "James Tracy"
+    "title": "Isaac Kappy"
   },
   {
     "references": 3,
-    "title": "Jared Holt"
+    "title": "James Fetzer"
   },
   {
     "references": 3,
@@ -549,23 +893,23 @@
   },
   {
     "references": 3,
-    "title": "Jesse James"
+    "title": "Jeff Sharlet"
   },
   {
     "references": 3,
-    "title": "Jim Brewer"
+    "title": "Jesse Benton"
   },
   {
     "references": 3,
-    "title": "Jim Jordan"
+    "title": "Jim Carrey"
   },
   {
     "references": 3,
-    "title": "Jimmy Dore"
+    "title": "John Birch"
   },
   {
     "references": 3,
-    "title": "John McAfee"
+    "title": "John Brown"
   },
   {
     "references": 3,
@@ -573,11 +917,23 @@
   },
   {
     "references": 3,
-    "title": "John Roberts"
+    "title": "John Wilkes Booth"
   },
   {
     "references": 3,
-    "title": "Kathy Griffin"
+    "title": "Jordan Sather"
+  },
+  {
+    "references": 3,
+    "title": "Josh Hawley"
+  },
+  {
+    "references": 3,
+    "title": "Josh Owens"
+  },
+  {
+    "references": 3,
+    "title": "Julian Huxley"
   },
   {
     "references": 3,
@@ -589,7 +945,19 @@
   },
   {
     "references": 3,
+    "title": "Kevin McCarthy"
+  },
+  {
+    "references": 3,
+    "title": "Kevin McDonald"
+  },
+  {
+    "references": 3,
     "title": "Krystal Ball"
+  },
+  {
+    "references": 3,
+    "title": "Larry Fink"
   },
   {
     "references": 3,
@@ -601,23 +969,15 @@
   },
   {
     "references": 3,
+    "title": "Lebron James"
+  },
+  {
+    "references": 3,
+    "title": "Leo Strauss"
+  },
+  {
+    "references": 3,
     "title": "Lin Wood"
-  },
-  {
-    "references": 3,
-    "title": "Linda Thompson"
-  },
-  {
-    "references": 3,
-    "title": "Louis Beam"
-  },
-  {
-    "references": 3,
-    "title": "Marianne Williamson"
-  },
-  {
-    "references": 3,
-    "title": "Mark Moreno"
   },
   {
     "references": 3,
@@ -625,23 +985,15 @@
   },
   {
     "references": 3,
+    "title": "Melissa Melton"
+  },
+  {
+    "references": 3,
     "title": "Michael Kaufman"
   },
   {
     "references": 3,
-    "title": "Michelle Wolf"
-  },
-  {
-    "references": 3,
-    "title": "Mike Rothschild"
-  },
-  {
-    "references": 3,
-    "title": "Omar Navarro"
-  },
-  {
-    "references": 3,
-    "title": "Patrick Bergy"
+    "title": "Patrick Byrne"
   },
   {
     "references": 3,
@@ -649,11 +1001,7 @@
   },
   {
     "references": 3,
-    "title": "Phyllis Schlafly"
-  },
-  {
-    "references": 3,
-    "title": "Prince Charles"
+    "title": "Pioneer Research Scientist"
   },
   {
     "references": 3,
@@ -661,15 +1009,31 @@
   },
   {
     "references": 3,
+    "title": "Ralph Nader"
+  },
+  {
+    "references": 3,
     "title": "Roy Moore"
   },
   {
     "references": 3,
-    "title": "Stephen Miller"
+    "title": "Sam Montoya"
   },
   {
     "references": 3,
-    "title": "Steve King"
+    "title": "Samantha Power"
+  },
+  {
+    "references": 3,
+    "title": "Sidney Powell"
+  },
+  {
+    "references": 3,
+    "title": "Stella Immanuel"
+  },
+  {
+    "references": 3,
+    "title": "Stew Peters"
   },
   {
     "references": 3,
@@ -677,7 +1041,15 @@
   },
   {
     "references": 3,
+    "title": "Tommy Cryer"
+  },
+  {
+    "references": 3,
     "title": "Tragedy and Hope"
+  },
+  {
+    "references": 3,
+    "title": "Vince McMahon"
   },
   {
     "references": 3,
@@ -697,23 +1069,43 @@
   },
   {
     "references": 2,
+    "title": "Ahmed Chalabi"
+  },
+  {
+    "references": 2,
     "title": "Al Franken"
   },
   {
     "references": 2,
-    "title": "Al Sharpton"
+    "title": "Alan Greenspan"
   },
   {
     "references": 2,
-    "title": "Alan Keyes"
+    "title": "Albert Sabin"
   },
   {
     "references": 2,
-    "title": "Alan Moore"
+    "title": "Alberto del Rio"
+  },
+  {
+    "references": 2,
+    "title": "Aleksandr Solzhenitsyn"
   },
   {
     "references": 2,
     "title": "Alex Stein"
+  },
+  {
+    "references": 2,
+    "title": "Allen Dulles"
+  },
+  {
+    "references": 2,
+    "title": "Allen West"
+  },
+  {
+    "references": 2,
+    "title": "Amanda Milius"
   },
   {
     "references": 2,
@@ -733,7 +1125,31 @@
   },
   {
     "references": 2,
+    "title": "Anne Coulter"
+  },
+  {
+    "references": 2,
+    "title": "Anne Frank"
+  },
+  {
+    "references": 2,
+    "title": "Anthony Cumia"
+  },
+  {
+    "references": 2,
+    "title": "Antonin Scalia"
+  },
+  {
+    "references": 2,
     "title": "Ashley Beckford"
+  },
+  {
+    "references": 2,
+    "title": "Austin Steinbart"
+  },
+  {
+    "references": 2,
+    "title": "Bari Weiss"
   },
   {
     "references": 2,
@@ -745,15 +1161,7 @@
   },
   {
     "references": 2,
-    "title": "Bilderberg Group"
-  },
-  {
-    "references": 2,
-    "title": "Bill Ackman"
-  },
-  {
-    "references": 2,
-    "title": "Bill Kristol"
+    "title": "Bill Taylor"
   },
   {
     "references": 2,
@@ -761,23 +1169,35 @@
   },
   {
     "references": 2,
+    "title": "Bjorn Lomborg"
+  },
+  {
+    "references": 2,
     "title": "Bob Barr"
   },
   {
     "references": 2,
-    "title": "Brad Parscale"
+    "title": "Breonna Taylor"
   },
   {
     "references": 2,
-    "title": "Brad Sherman"
+    "title": "Brett Favre"
   },
   {
     "references": 2,
-    "title": "Bruce Springsteen"
+    "title": "Brett Weinstein"
   },
   {
     "references": 2,
-    "title": "Bubba Wallace"
+    "title": "Brian Williams"
+  },
+  {
+    "references": 2,
+    "title": "Brianna Taylor"
+  },
+  {
+    "references": 2,
+    "title": "Bryson Gray"
   },
   {
     "references": 2,
@@ -785,19 +1205,23 @@
   },
   {
     "references": 2,
-    "title": "Carlos Zapata"
-  },
-  {
-    "references": 2,
     "title": "Carrie Madej"
   },
   {
     "references": 2,
-    "title": "Chandra Levy"
+    "title": "Casey Newton"
   },
   {
     "references": 2,
-    "title": "Charles Dyer"
+    "title": "Catherine Albrecht"
+  },
+  {
+    "references": 2,
+    "title": "Catherine Austin Fitts"
+  },
+  {
+    "references": 2,
+    "title": "Charles Kushner"
   },
   {
     "references": 2,
@@ -805,11 +1229,7 @@
   },
   {
     "references": 2,
-    "title": "Charles Manson"
-  },
-  {
-    "references": 2,
-    "title": "Charles Murray"
+    "title": "Charlie Freak"
   },
   {
     "references": 2,
@@ -821,7 +1241,11 @@
   },
   {
     "references": 2,
-    "title": "Chris Carter"
+    "title": "Chris Pratt"
+  },
+  {
+    "references": 2,
+    "title": "Chris Wallace"
   },
   {
     "references": 2,
@@ -829,19 +1253,31 @@
   },
   {
     "references": 2,
-    "title": "Christopher Sign"
-  },
-  {
-    "references": 2,
     "title": "Christopher Walken"
   },
   {
     "references": 2,
-    "title": "Chuck Baldwin"
+    "title": "Chuck Todd"
   },
   {
     "references": 2,
-    "title": "Craig Roberts"
+    "title": "Coast To Coast AM"
+  },
+  {
+    "references": 2,
+    "title": "Condoleezza Rice"
+  },
+  {
+    "references": 2,
+    "title": "Conor Friedersdorf"
+  },
+  {
+    "references": 2,
+    "title": "Corey Lewandowski"
+  },
+  {
+    "references": 2,
+    "title": "Danny Williams"
   },
   {
     "references": 2,
@@ -849,15 +1285,19 @@
   },
   {
     "references": 2,
-    "title": "Dave Rubin"
+    "title": "Dave Anthony"
   },
   {
     "references": 2,
-    "title": "David Clarke"
+    "title": "Dave Mustaine"
   },
   {
     "references": 2,
-    "title": "David J Smith"
+    "title": "Dave Mustane"
+  },
+  {
+    "references": 2,
+    "title": "David Gray"
   },
   {
     "references": 2,
@@ -869,19 +1309,39 @@
   },
   {
     "references": 2,
-    "title": "David Willcock"
+    "title": "David Pakman"
   },
   {
     "references": 2,
-    "title": "Deep State"
+    "title": "David Race Bannon"
   },
   {
     "references": 2,
-    "title": "Denny Payman"
+    "title": "Dennis Kucinich"
+  },
+  {
+    "references": 2,
+    "title": "Dennis Miller"
+  },
+  {
+    "references": 2,
+    "title": "Dennis Prager"
+  },
+  {
+    "references": 2,
+    "title": "Dennis Rodman"
   },
   {
     "references": 2,
     "title": "Derry Brownfield"
+  },
+  {
+    "references": 2,
+    "title": "Diane Sawyer"
+  },
+  {
+    "references": 2,
+    "title": "Dixie Chicks"
   },
   {
     "references": 2,
@@ -890,6 +1350,10 @@
   {
     "references": 2,
     "title": "Doug Stanhope"
+  },
+  {
+    "references": 2,
+    "title": "Douglas McKinnon"
   },
   {
     "references": 2,
@@ -909,11 +1373,11 @@
   },
   {
     "references": 2,
-    "title": "Edgar Casey"
+    "title": "Dylan Avery"
   },
   {
     "references": 2,
-    "title": "Edward Bernays"
+    "title": "Elijah Cummings"
   },
   {
     "references": 2,
@@ -929,15 +1393,15 @@
   },
   {
     "references": 2,
-    "title": "Frank Bates"
-  },
-  {
-    "references": 2,
     "title": "Fred Koch"
   },
   {
     "references": 2,
-    "title": "G Edward Griffin"
+    "title": "Fred Trump"
+  },
+  {
+    "references": 2,
+    "title": "Frederick Trump"
   },
   {
     "references": 2,
@@ -945,7 +1409,11 @@
   },
   {
     "references": 2,
-    "title": "Gary Busey"
+    "title": "Gareth Reynolds"
+  },
+  {
+    "references": 2,
+    "title": "Gary Johnson"
   },
   {
     "references": 2,
@@ -953,15 +1421,31 @@
   },
   {
     "references": 2,
-    "title": "Geoffrey Berman"
+    "title": "Geert Wilders"
   },
   {
     "references": 2,
-    "title": "George Humphries"
+    "title": "George Conway"
   },
   {
     "references": 2,
-    "title": "George Zimmerman"
+    "title": "George Strait"
+  },
+  {
+    "references": 2,
+    "title": "George Webb"
+  },
+  {
+    "references": 2,
+    "title": "Gloria Allred"
+  },
+  {
+    "references": 2,
+    "title": "Gloria Steinem"
+  },
+  {
+    "references": 2,
+    "title": "Gregor Mendel"
   },
   {
     "references": 2,
@@ -969,11 +1453,19 @@
   },
   {
     "references": 2,
+    "title": "Haile Selassie"
+  },
+  {
+    "references": 2,
     "title": "Heather Heyer"
   },
   {
     "references": 2,
-    "title": "Henry Makow"
+    "title": "Helen Keller"
+  },
+  {
+    "references": 2,
+    "title": "Helmut Schmidt"
   },
   {
     "references": 2,
@@ -981,7 +1473,7 @@
   },
   {
     "references": 2,
-    "title": "Hodge Twins"
+    "title": "Howard Hughes"
   },
   {
     "references": 2,
@@ -989,15 +1481,31 @@
   },
   {
     "references": 2,
-    "title": "Isaac Kappy"
+    "title": "InfoWars Nightly News"
   },
   {
     "references": 2,
-    "title": "Ivan Raiklin"
+    "title": "Irving Kristol"
   },
   {
     "references": 2,
-    "title": "Jack Swagger"
+    "title": "Ivory Hecker"
+  },
+  {
+    "references": 2,
+    "title": "J Edgar Hoover"
+  },
+  {
+    "references": 2,
+    "title": "Jack Berkman"
+  },
+  {
+    "references": 2,
+    "title": "Jack Foote"
+  },
+  {
+    "references": 2,
+    "title": "Jacob Engels"
   },
   {
     "references": 2,
@@ -1005,7 +1513,11 @@
   },
   {
     "references": 2,
-    "title": "James Fetzer"
+    "title": "James Brown"
+  },
+  {
+    "references": 2,
+    "title": "James Lovelock"
   },
   {
     "references": 2,
@@ -1017,11 +1529,19 @@
   },
   {
     "references": 2,
-    "title": "Janet Napolitano"
+    "title": "Jan Morgan"
   },
   {
     "references": 2,
-    "title": "Jason Jones"
+    "title": "Janet Reno"
+  },
+  {
+    "references": 2,
+    "title": "Jason Goodman"
+  },
+  {
+    "references": 2,
+    "title": "Jason Miller"
   },
   {
     "references": 2,
@@ -1033,11 +1553,7 @@
   },
   {
     "references": 2,
-    "title": "Jeff Sharlet"
-  },
-  {
-    "references": 2,
-    "title": "Jeremy Mackenzie"
+    "title": "Jennifer Lawrence"
   },
   {
     "references": 2,
@@ -1045,15 +1561,11 @@
   },
   {
     "references": 2,
-    "title": "Jesse Benton"
+    "title": "Jerry Nadler"
   },
   {
     "references": 2,
-    "title": "Jim Carrey"
-  },
-  {
-    "references": 2,
-    "title": "Jim Garrow"
+    "title": "Jesse Lee Peterson"
   },
   {
     "references": 2,
@@ -1065,19 +1577,11 @@
   },
   {
     "references": 2,
-    "title": "Jim Humble"
-  },
-  {
-    "references": 2,
     "title": "Joel Wallach"
   },
   {
     "references": 2,
-    "title": "John Birch"
-  },
-  {
-    "references": 2,
-    "title": "John Brown"
+    "title": "John Dewey"
   },
   {
     "references": 2,
@@ -1089,11 +1593,27 @@
   },
   {
     "references": 2,
-    "title": "John Wilkes Booth"
+    "title": "John P Holdren"
+  },
+  {
+    "references": 2,
+    "title": "John Ritzheimer"
   },
   {
     "references": 2,
     "title": "Johnny Depp"
+  },
+  {
+    "references": 2,
+    "title": "Johns Hopkins"
+  },
+  {
+    "references": 2,
+    "title": "Jon Stewart"
+  },
+  {
+    "references": 2,
+    "title": "Jonas Salk"
   },
   {
     "references": 2,
@@ -1105,23 +1625,19 @@
   },
   {
     "references": 2,
+    "title": "Joseph Farrah"
+  },
+  {
+    "references": 2,
+    "title": "Joseph Farrell"
+  },
+  {
+    "references": 2,
     "title": "Joseph McCarthy"
   },
   {
     "references": 2,
-    "title": "Josh Hawley"
-  },
-  {
-    "references": 2,
-    "title": "Josh Owens"
-  },
-  {
-    "references": 2,
     "title": "Judge Joe Brown"
-  },
-  {
-    "references": 2,
-    "title": "Julian Huxley"
   },
   {
     "references": 2,
@@ -1133,11 +1649,19 @@
   },
   {
     "references": 2,
+    "title": "Kate Steinle"
+  },
+  {
+    "references": 2,
     "title": "Katherine"
   },
   {
     "references": 2,
-    "title": "Kevin McDonald"
+    "title": "Katrina Pierson"
+  },
+  {
+    "references": 2,
+    "title": "Kevin Spacey"
   },
   {
     "references": 2,
@@ -1149,15 +1673,15 @@
   },
   {
     "references": 2,
+    "title": "Kurt Vonnegut"
+  },
+  {
+    "references": 2,
     "title": "Kurt Weldon"
   },
   {
     "references": 2,
-    "title": "Larry Fink"
-  },
-  {
-    "references": 2,
-    "title": "Larry Gaiters"
+    "title": "Larry C Johnson"
   },
   {
     "references": 2,
@@ -1165,11 +1689,27 @@
   },
   {
     "references": 2,
-    "title": "Lebron James"
+    "title": "Larry Summers"
+  },
+  {
+    "references": 2,
+    "title": "Laura Ingraham"
+  },
+  {
+    "references": 2,
+    "title": "Lee Atwater"
+  },
+  {
+    "references": 2,
+    "title": "Lena Dunham"
   },
   {
     "references": 2,
     "title": "Linda Katehi"
+  },
+  {
+    "references": 2,
+    "title": "Linda McMahon"
   },
   {
     "references": 2,
@@ -1181,7 +1721,19 @@
   },
   {
     "references": 2,
+    "title": "Loretta Lynch"
+  },
+  {
+    "references": 2,
+    "title": "Lou Rockwell"
+  },
+  {
+    "references": 2,
     "title": "Ludwig Von Mises"
+  },
+  {
+    "references": 2,
+    "title": "Madison Cawthorn"
   },
   {
     "references": 2,
@@ -1201,19 +1753,7 @@
   },
   {
     "references": 2,
-    "title": "Melissa Melton"
-  },
-  {
-    "references": 2,
     "title": "Michael Burnett"
-  },
-  {
-    "references": 2,
-    "title": "Michael Malice"
-  },
-  {
-    "references": 2,
-    "title": "Mike Hanson"
   },
   {
     "references": 2,
@@ -1233,10 +1773,6 @@
   },
   {
     "references": 2,
-    "title": "Patrick Byrne"
-  },
-  {
-    "references": 2,
     "title": "Paula White Cain"
   },
   {
@@ -1245,19 +1781,11 @@
   },
   {
     "references": 2,
-    "title": "Pioneer Research Scientist"
-  },
-  {
-    "references": 2,
-    "title": "Prescott Bush"
-  },
-  {
-    "references": 2,
-    "title": "Prison Planet"
-  },
-  {
-    "references": 2,
     "title": "Qasem Soleimani"
+  },
+  {
+    "references": 2,
+    "title": "Queen Elizabeth II"
   },
   {
     "references": 2,
@@ -1265,31 +1793,15 @@
   },
   {
     "references": 2,
-    "title": "Randy Credico"
-  },
-  {
-    "references": 2,
     "title": "Ric Flair"
   },
   {
     "references": 2,
-    "title": "Richard Spencer"
-  },
-  {
-    "references": 2,
-    "title": "Robert Evans"
+    "title": "Robert Spencer"
   },
   {
     "references": 2,
     "title": "Robert Welch"
-  },
-  {
-    "references": 2,
-    "title": "Sam Montoya"
-  },
-  {
-    "references": 2,
-    "title": "Samantha Power"
   },
   {
     "references": 2,
@@ -1301,27 +1813,7 @@
   },
   {
     "references": 2,
-    "title": "Sidney Powell"
-  },
-  {
-    "references": 2,
     "title": "Sirhan Sirhan"
-  },
-  {
-    "references": 2,
-    "title": "Stella Immanuel"
-  },
-  {
-    "references": 2,
-    "title": "Stephen King"
-  },
-  {
-    "references": 2,
-    "title": "Stew Peters"
-  },
-  {
-    "references": 2,
-    "title": "Sydney Powell"
   },
   {
     "references": 2,
@@ -1337,10 +1829,6 @@
   },
   {
     "references": 2,
-    "title": "Tim Dillon"
-  },
-  {
-    "references": 2,
     "title": "Tim Enlow"
   },
   {
@@ -1349,31 +1837,23 @@
   },
   {
     "references": 2,
-    "title": "Tom Cotton"
-  },
-  {
-    "references": 2,
-    "title": "Tom Daschle"
-  },
-  {
-    "references": 2,
-    "title": "Tommy Cryer"
-  },
-  {
-    "references": 2,
     "title": "Tore (Terpsichore Lindeman)"
   },
   {
     "references": 2,
-    "title": "Vince McMahon"
+    "title": "Wayne LaPierre"
   },
   {
     "references": 2,
-    "title": "Wayne Allen Root"
+    "title": "Wernher Von Braun"
   },
   {
     "references": 2,
-    "title": "Zeb Coulter"
+    "title": "Willis Carto"
+  },
+  {
+    "references": 2,
+    "title": "World Net Daily"
   },
   {
     "references": 2,
@@ -1390,6 +1870,10 @@
   {
     "references": 1,
     "title": "45 group"
+  },
+  {
+    "references": 1,
+    "title": "9th Circuit"
   },
   {
     "references": 1,
@@ -1433,10 +1917,6 @@
   },
   {
     "references": 1,
-    "title": "Ahmed Chalabi"
-  },
-  {
-    "references": 1,
     "title": "Ahmet S Yayla"
   },
   {
@@ -1457,18 +1937,6 @@
   },
   {
     "references": 1,
-    "title": "Alan Greenspan"
-  },
-  {
-    "references": 1,
-    "title": "Albert Sabin"
-  },
-  {
-    "references": 1,
-    "title": "Alberto del Rio"
-  },
-  {
-    "references": 1,
     "title": "Aldo Leopold"
   },
   {
@@ -1478,14 +1946,6 @@
   {
     "references": 1,
     "title": "Alec Baldwin"
-  },
-  {
-    "references": 1,
-    "title": "Aleister Crowley"
-  },
-  {
-    "references": 1,
-    "title": "Aleksandr Solzhenitsyn"
   },
   {
     "references": 1,
@@ -1553,23 +2013,11 @@
   },
   {
     "references": 1,
-    "title": "Allen Dulles"
-  },
-  {
-    "references": 1,
-    "title": "Allen West"
-  },
-  {
-    "references": 1,
     "title": "Alvin Bragg"
   },
   {
     "references": 1,
     "title": "Amaden Antonio"
-  },
-  {
-    "references": 1,
-    "title": "Amanda Milius"
   },
   {
     "references": 1,
@@ -1653,19 +2101,7 @@
   },
   {
     "references": 1,
-    "title": "Anne Coulter"
-  },
-  {
-    "references": 1,
-    "title": "Anne Frank"
-  },
-  {
-    "references": 1,
     "title": "Anne Thompson"
-  },
-  {
-    "references": 1,
-    "title": "Anthony Cumia"
   },
   {
     "references": 1,
@@ -1682,10 +2118,6 @@
   {
     "references": 1,
     "title": "Antonella Carpenter"
-  },
-  {
-    "references": 1,
-    "title": "Antonin Scalia"
   },
   {
     "references": 1,
@@ -1725,10 +2157,6 @@
   },
   {
     "references": 1,
-    "title": "Austin Steinbart"
-  },
-  {
-    "references": 1,
     "title": "Axel Geijsel"
   },
   {
@@ -1750,10 +2178,6 @@
   {
     "references": 1,
     "title": "Barbara Streisand"
-  },
-  {
-    "references": 1,
-    "title": "Bari Weiss"
   },
   {
     "references": 1,
@@ -1817,10 +2241,6 @@
   },
   {
     "references": 1,
-    "title": "Bill Taylor"
-  },
-  {
-    "references": 1,
     "title": "Bill Warner"
   },
   {
@@ -1834,10 +2254,6 @@
   {
     "references": 1,
     "title": "Bitboy"
-  },
-  {
-    "references": 1,
-    "title": "Bjorn Lomborg"
   },
   {
     "references": 1,
@@ -1905,10 +2321,6 @@
   },
   {
     "references": 1,
-    "title": "Breonna Taylor"
-  },
-  {
-    "references": 1,
     "title": "Brett Bersih"
   },
   {
@@ -1917,15 +2329,7 @@
   },
   {
     "references": 1,
-    "title": "Brett Favre"
-  },
-  {
-    "references": 1,
     "title": "Brett Stuart"
-  },
-  {
-    "references": 1,
-    "title": "Brett Weinstein"
   },
   {
     "references": 1,
@@ -1938,14 +2342,6 @@
   {
     "references": 1,
     "title": "Brian Sicknick"
-  },
-  {
-    "references": 1,
-    "title": "Brian Williams"
-  },
-  {
-    "references": 1,
-    "title": "Brianna Taylor"
   },
   {
     "references": 1,
@@ -1970,10 +2366,6 @@
   {
     "references": 1,
     "title": "Bruce Sees All"
-  },
-  {
-    "references": 1,
-    "title": "Bryson Gray"
   },
   {
     "references": 1,
@@ -2045,19 +2437,7 @@
   },
   {
     "references": 1,
-    "title": "Casey Newton"
-  },
-  {
-    "references": 1,
     "title": "Cash Gernon"
-  },
-  {
-    "references": 1,
-    "title": "Catherine Albrecht"
-  },
-  {
-    "references": 1,
-    "title": "Catherine Austin Fitts"
   },
   {
     "references": 1,
@@ -2097,10 +2477,6 @@
   },
   {
     "references": 1,
-    "title": "Charles Kushner"
-  },
-  {
-    "references": 1,
     "title": "Charles Martel"
   },
   {
@@ -2109,15 +2485,7 @@
   },
   {
     "references": 1,
-    "title": "Charlie Freak"
-  },
-  {
-    "references": 1,
     "title": "Chaz Bono"
-  },
-  {
-    "references": 1,
-    "title": "Chemical Ali"
   },
   {
     "references": 1,
@@ -2133,15 +2501,7 @@
   },
   {
     "references": 1,
-    "title": "Chris Kyle"
-  },
-  {
-    "references": 1,
     "title": "Chris Othanos"
-  },
-  {
-    "references": 1,
-    "title": "Chris Pratt"
   },
   {
     "references": 1,
@@ -2150,10 +2510,6 @@
   {
     "references": 1,
     "title": "Chris Tanto Paronto"
-  },
-  {
-    "references": 1,
-    "title": "Chris Wallace"
   },
   {
     "references": 1,
@@ -2173,19 +2529,11 @@
   },
   {
     "references": 1,
-    "title": "Chuck Todd"
-  },
-  {
-    "references": 1,
     "title": "Clyde Hood"
   },
   {
     "references": 1,
     "title": "Coast To Coast"
-  },
-  {
-    "references": 1,
-    "title": "Coast To Coast AM"
   },
   {
     "references": 1,
@@ -2205,19 +2553,7 @@
   },
   {
     "references": 1,
-    "title": "Condoleezza Rice"
-  },
-  {
-    "references": 1,
-    "title": "Conor Friedersdorf"
-  },
-  {
-    "references": 1,
     "title": "Conrad Pedroia"
-  },
-  {
-    "references": 1,
-    "title": "Corey Lewandowski"
   },
   {
     "references": 1,
@@ -2289,19 +2625,11 @@
   },
   {
     "references": 1,
-    "title": "Danny Williams"
-  },
-  {
-    "references": 1,
     "title": "Darren Huff"
   },
   {
     "references": 1,
     "title": "Daryl Johnson"
-  },
-  {
-    "references": 1,
-    "title": "Dave Anthony"
   },
   {
     "references": 1,
@@ -2353,10 +2681,6 @@
   },
   {
     "references": 1,
-    "title": "David Gray"
-  },
-  {
-    "references": 1,
     "title": "David Icke's son"
   },
   {
@@ -2366,14 +2690,6 @@
   {
     "references": 1,
     "title": "David Johnston"
-  },
-  {
-    "references": 1,
-    "title": "David Pakman"
-  },
-  {
-    "references": 1,
-    "title": "David Race Bannon"
   },
   {
     "references": 1,
@@ -2413,23 +2729,7 @@
   },
   {
     "references": 1,
-    "title": "Dennis Kucinich"
-  },
-  {
-    "references": 1,
     "title": "Dennis Laurence Cuddy"
-  },
-  {
-    "references": 1,
-    "title": "Dennis Miller"
-  },
-  {
-    "references": 1,
-    "title": "Dennis Prager"
-  },
-  {
-    "references": 1,
-    "title": "Dennis Rodman"
   },
   {
     "references": 1,
@@ -2438,6 +2738,10 @@
   {
     "references": 1,
     "title": "Desmond Is Amazing"
+  },
+  {
+    "references": 1,
+    "title": "Devin Nunes"
   },
   {
     "references": 1,
@@ -2453,10 +2757,6 @@
   },
   {
     "references": 1,
-    "title": "Diane Sawyer"
-  },
-  {
-    "references": 1,
     "title": "Dick Armey"
   },
   {
@@ -2466,10 +2766,6 @@
   {
     "references": 1,
     "title": "Dinnis Richardson"
-  },
-  {
-    "references": 1,
-    "title": "Dixie Chicks"
   },
   {
     "references": 1,
@@ -2502,10 +2798,6 @@
   {
     "references": 1,
     "title": "Doug Haggman"
-  },
-  {
-    "references": 1,
-    "title": "Douglas McKinnon"
   },
   {
     "references": 1,
@@ -2617,10 +2909,6 @@
   },
   {
     "references": 1,
-    "title": "Dylan Avery"
-  },
-  {
-    "references": 1,
     "title": "Dylan Matthews"
   },
   {
@@ -2650,10 +2938,6 @@
   {
     "references": 1,
     "title": "Edward Jenner"
-  },
-  {
-    "references": 1,
-    "title": "Elijah Cummings"
   },
   {
     "references": 1,
@@ -2769,19 +3053,11 @@
   },
   {
     "references": 1,
-    "title": "Fred Trump"
-  },
-  {
-    "references": 1,
     "title": "Freddie Scappaticci"
   },
   {
     "references": 1,
     "title": "Frederica Wilson"
-  },
-  {
-    "references": 1,
-    "title": "Frederick Trump"
   },
   {
     "references": 1,
@@ -2805,10 +3081,6 @@
   },
   {
     "references": 1,
-    "title": "Gareth Reynolds"
-  },
-  {
-    "references": 1,
     "title": "Gary Best"
   },
   {
@@ -2817,19 +3089,7 @@
   },
   {
     "references": 1,
-    "title": "Gary Johnson"
-  },
-  {
-    "references": 1,
     "title": "Gary Peters"
-  },
-  {
-    "references": 1,
-    "title": "Gateway Pundit"
-  },
-  {
-    "references": 1,
-    "title": "Geert Wilders"
   },
   {
     "references": 1,
@@ -2857,10 +3117,6 @@
   },
   {
     "references": 1,
-    "title": "George Conway"
-  },
-  {
-    "references": 1,
     "title": "George Hiram Mann"
   },
   {
@@ -2869,27 +3125,11 @@
   },
   {
     "references": 1,
-    "title": "George Lucas"
-  },
-  {
-    "references": 1,
     "title": "George Mattis"
   },
   {
     "references": 1,
-    "title": "George Orwell"
-  },
-  {
-    "references": 1,
     "title": "George Patton"
-  },
-  {
-    "references": 1,
-    "title": "George Strait"
-  },
-  {
-    "references": 1,
-    "title": "George Webb"
   },
   {
     "references": 1,
@@ -2910,14 +3150,6 @@
   {
     "references": 1,
     "title": "Glenn Youngkin"
-  },
-  {
-    "references": 1,
-    "title": "Gloria Allred"
-  },
-  {
-    "references": 1,
-    "title": "Gloria Steinem"
   },
   {
     "references": 1,
@@ -2945,10 +3177,6 @@
   },
   {
     "references": 1,
-    "title": "Gregor Mendel"
-  },
-  {
-    "references": 1,
     "title": "Gustav Mueller"
   },
   {
@@ -2962,10 +3190,6 @@
   {
     "references": 1,
     "title": "HR McMaster"
-  },
-  {
-    "references": 1,
-    "title": "Haile Selassie"
   },
   {
     "references": 1,
@@ -3017,14 +3241,6 @@
   },
   {
     "references": 1,
-    "title": "Helen Keller"
-  },
-  {
-    "references": 1,
-    "title": "Helmut Schmidt"
-  },
-  {
-    "references": 1,
     "title": "Henry Paulson"
   },
   {
@@ -3037,15 +3253,7 @@
   },
   {
     "references": 1,
-    "title": "Howard Hughes"
-  },
-  {
-    "references": 1,
     "title": "I M Pei"
-  },
-  {
-    "references": 1,
-    "title": "Ian Fleming"
   },
   {
     "references": 1,
@@ -3069,10 +3277,6 @@
   },
   {
     "references": 1,
-    "title": "InfoWars Nightly News"
-  },
-  {
-    "references": 1,
     "title": "Ira Bernstein"
   },
   {
@@ -3085,10 +3289,6 @@
   },
   {
     "references": 1,
-    "title": "Irving Kristol"
-  },
-  {
-    "references": 1,
     "title": "Irwin Spear"
   },
   {
@@ -3098,14 +3298,6 @@
   {
     "references": 1,
     "title": "Ivan Rakelan"
-  },
-  {
-    "references": 1,
-    "title": "Ivory Hecker"
-  },
-  {
-    "references": 1,
-    "title": "J Edgar Hoover"
   },
   {
     "references": 1,
@@ -3137,10 +3329,6 @@
   },
   {
     "references": 1,
-    "title": "Jack Berkman"
-  },
-  {
-    "references": 1,
     "title": "Jack Blood"
   },
   {
@@ -3150,10 +3338,6 @@
   {
     "references": 1,
     "title": "Jack Burkman"
-  },
-  {
-    "references": 1,
-    "title": "Jack Foote"
   },
   {
     "references": 1,
@@ -3169,10 +3353,6 @@
   },
   {
     "references": 1,
-    "title": "Jacob Engels"
-  },
-  {
-    "references": 1,
     "title": "Jalen Martin"
   },
   {
@@ -3185,19 +3365,11 @@
   },
   {
     "references": 1,
-    "title": "James Brown"
-  },
-  {
-    "references": 1,
     "title": "James Everett Dutchsky"
   },
   {
     "references": 1,
     "title": "James Larratt Battersby"
-  },
-  {
-    "references": 1,
-    "title": "James Lovelock"
   },
   {
     "references": 1,
@@ -3233,19 +3405,11 @@
   },
   {
     "references": 1,
-    "title": "Jan Morgan"
-  },
-  {
-    "references": 1,
     "title": "Janet Jackson"
   },
   {
     "references": 1,
     "title": "Janet Phelan"
-  },
-  {
-    "references": 1,
-    "title": "Janet Reno"
   },
   {
     "references": 1,
@@ -3265,15 +3429,7 @@
   },
   {
     "references": 1,
-    "title": "Jason Goodman"
-  },
-  {
-    "references": 1,
     "title": "Jason Kessler"
-  },
-  {
-    "references": 1,
-    "title": "Jason Miller"
   },
   {
     "references": 1,
@@ -3321,10 +3477,6 @@
   },
   {
     "references": 1,
-    "title": "Jennifer Lawrence"
-  },
-  {
-    "references": 1,
     "title": "Jenny Randals"
   },
   {
@@ -3342,14 +3494,6 @@
   {
     "references": 1,
     "title": "Jerry Falwell Jr"
-  },
-  {
-    "references": 1,
-    "title": "Jerry Nadler"
-  },
-  {
-    "references": 1,
-    "title": "Jesse Lee Peterson"
   },
   {
     "references": 1,
@@ -3469,10 +3613,6 @@
   },
   {
     "references": 1,
-    "title": "John Dewey"
-  },
-  {
-    "references": 1,
     "title": "John F McManus"
   },
   {
@@ -3485,10 +3625,6 @@
   },
   {
     "references": 1,
-    "title": "John P Holdren"
-  },
-  {
-    "references": 1,
     "title": "John P O'Neill"
   },
   {
@@ -3497,15 +3633,15 @@
   },
   {
     "references": 1,
-    "title": "John Ritzheimer"
-  },
-  {
-    "references": 1,
     "title": "John Robert"
   },
   {
     "references": 1,
     "title": "John Stadtmiller"
+  },
+  {
+    "references": 1,
+    "title": "John T Flynn"
   },
   {
     "references": 1,
@@ -3525,14 +3661,6 @@
   },
   {
     "references": 1,
-    "title": "Jon Stewart"
-  },
-  {
-    "references": 1,
-    "title": "Jonas Salk"
-  },
-  {
-    "references": 1,
     "title": "Jonathan Cain"
   },
   {
@@ -3549,10 +3677,6 @@
   },
   {
     "references": 1,
-    "title": "Jordan Sather"
-  },
-  {
-    "references": 1,
     "title": "Josef Mengele"
   },
   {
@@ -3562,14 +3686,6 @@
   {
     "references": 1,
     "title": "Joseph Farah"
-  },
-  {
-    "references": 1,
-    "title": "Joseph Farrah"
-  },
-  {
-    "references": 1,
-    "title": "Joseph Farrell"
   },
   {
     "references": 1,
@@ -3649,19 +3765,11 @@
   },
   {
     "references": 1,
-    "title": "Kate Steinle"
-  },
-  {
-    "references": 1,
     "title": "Katie Miller"
   },
   {
     "references": 1,
     "title": "Katie Walsh"
-  },
-  {
-    "references": 1,
-    "title": "Katrina Pierson"
   },
   {
     "references": 1,
@@ -3705,15 +3813,7 @@
   },
   {
     "references": 1,
-    "title": "Kevin McCarthy"
-  },
-  {
-    "references": 1,
     "title": "Kevin Smith"
-  },
-  {
-    "references": 1,
-    "title": "Kevin Spacey"
   },
   {
     "references": 1,
@@ -3737,10 +3837,6 @@
   },
   {
     "references": 1,
-    "title": "Kurt Vonnegut"
-  },
-  {
-    "references": 1,
     "title": "Kyle Chapman"
   },
   {
@@ -3761,10 +3857,6 @@
   },
   {
     "references": 1,
-    "title": "Larry C Johnson"
-  },
-  {
-    "references": 1,
     "title": "Larry Flynt"
   },
   {
@@ -3782,14 +3874,6 @@
   {
     "references": 1,
     "title": "Larry McWilliams"
-  },
-  {
-    "references": 1,
-    "title": "Larry Summers"
-  },
-  {
-    "references": 1,
-    "title": "Laura Ingraham"
   },
   {
     "references": 1,
@@ -3821,14 +3905,6 @@
   },
   {
     "references": 1,
-    "title": "Lee Atwater"
-  },
-  {
-    "references": 1,
-    "title": "Lena Dunham"
-  },
-  {
-    "references": 1,
     "title": "Lenny Dykstra aka \"Nails\""
   },
   {
@@ -3841,19 +3917,11 @@
   },
   {
     "references": 1,
-    "title": "Leo Strauss"
-  },
-  {
-    "references": 1,
     "title": "Leon Benjamin"
   },
   {
     "references": 1,
     "title": "Leonard Horowitz"
-  },
-  {
-    "references": 1,
-    "title": "Linda McMahon"
   },
   {
     "references": 1,
@@ -3877,15 +3945,7 @@
   },
   {
     "references": 1,
-    "title": "Loretta Lynch"
-  },
-  {
-    "references": 1,
     "title": "Lorrie Bakker"
-  },
-  {
-    "references": 1,
-    "title": "Lou Rockwell"
   },
   {
     "references": 1,
@@ -3930,10 +3990,6 @@
   {
     "references": 1,
     "title": "Macy Gray"
-  },
-  {
-    "references": 1,
-    "title": "Madison Cawthorn"
   },
   {
     "references": 1,
@@ -4569,7 +4625,15 @@
   },
   {
     "references": 1,
+    "title": "Oliver North"
+  },
+  {
+    "references": 1,
     "title": "Omar al-Faruq"
+  },
+  {
+    "references": 1,
+    "title": "Operation Northwoods"
   },
   {
     "references": 1,
@@ -4586,6 +4650,10 @@
   {
     "references": 1,
     "title": "Oscar Grant"
+  },
+  {
+    "references": 1,
+    "title": "Oskar Schindler"
   },
   {
     "references": 1,
@@ -4909,10 +4977,6 @@
   },
   {
     "references": 1,
-    "title": "Ralph Nader"
-  },
-  {
-    "references": 1,
     "title": "Ramtha"
   },
   {
@@ -5154,10 +5218,6 @@
   {
     "references": 1,
     "title": "Robert Santella"
-  },
-  {
-    "references": 1,
-    "title": "Robert Spencer"
   },
   {
     "references": 1,
@@ -6089,6 +6149,10 @@
   },
   {
     "references": 1,
+    "title": "TurboForce"
+  },
+  {
+    "references": 1,
     "title": "Twila Brase"
   },
   {
@@ -6213,10 +6277,6 @@
   },
   {
     "references": 1,
-    "title": "Wayne LaPierre"
-  },
-  {
-    "references": 1,
     "title": "Wayne Willett"
   },
   {
@@ -6234,10 +6294,6 @@
   {
     "references": 1,
     "title": "Werner Von Braun"
-  },
-  {
-    "references": 1,
-    "title": "Wernher Von Braun"
   },
   {
     "references": 1,
@@ -6337,10 +6393,6 @@
   },
   {
     "references": 1,
-    "title": "Willis Carto"
-  },
-  {
-    "references": 1,
     "title": "Willis Cartow"
   },
   {
@@ -6358,6 +6410,14 @@
   {
     "references": 1,
     "title": "Yitzhak Rabin"
+  },
+  {
+    "references": 1,
+    "title": "Youngevity"
+  },
+  {
+    "references": 1,
+    "title": "Yuval Noah Harari"
   },
   {
     "references": 1,
