@@ -1007,6 +1007,7 @@
     "episode_number": "77",
     "people": [
       "Peter Schiff",
+      "Dale Gribble",
       "David Knight",
       "Donald Trump",
       "Joe Arpaio",
@@ -1577,6 +1578,7 @@
     "people": [
       "Bob Chapman",
       "James O'Keefe",
+      "Jeffrey Smith",
       "Margaret Sanger",
       "Roger Stone",
       "Ted Anderson",
@@ -1813,6 +1815,7 @@
     "episode_number": "140",
     "people": [
       "Charlie Sheen",
+      "Chuck Lorre",
       "Thomas Jefferson"
     ]
   },
@@ -3293,7 +3296,8 @@
       "George Soros",
       "Mark Moreno",
       "Barack Obama",
-      "Pat Robertson"
+      "Pat Robertson",
+      "Barbara Streisand"
     ]
   },
   {
@@ -8327,6 +8331,7 @@
       "Stanley Kubrick",
       "Steve Bannon",
       "Donald Trump",
+      "Vivian Kubrick",
       "Ilhan Omar"
     ]
   },
@@ -8772,6 +8777,7 @@
   {
     "episode_number": "795",
     "people": [
+      "Alvin Bragg",
       "Judge Andrew Napolitano",
       "Mike Adams",
       "Rachel Maddow",
@@ -9755,6 +9761,174 @@
     ]
   },
   {
+    "episode_number": "914",
+    "people": [
+      "Candace Owens",
+      "Michael Jackson",
+      "Owen Benjamin",
+      "Steven Crowder",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "915",
+    "people": [
+      "Rush Limbaugh"
+    ]
+  },
+  {
+    "episode_number": "916",
+    "people": [
+      "Mike Adams",
+      "John Bowne"
+    ]
+  },
+  {
+    "episode_number": "917",
+    "people": [
+      "Donald Trump",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "918",
+    "people": [
+      "Barack Obama",
+      "Donald Trump",
+      "Gavin Newsom",
+      "Michelle Obama",
+      "OJ Simpson",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "919",
+    "people": [
+      "Bill Cooper",
+      "George Washington",
+      "Tom Cruise",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "920",
+    "people": [
+      "Tucker Carlson",
+      "Willie Nelson",
+      "Barack Obama"
+    ]
+  },
+  {
+    "episode_number": "921",
+    "people": [
+      "Bill Gates",
+      "Hillary Clinton",
+      "Marjorie Taylor Greene",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "922",
+    "people": [
+      "George Soros",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Luke Rudkowski"
+    ]
+  },
+  {
+    "episode_number": "923",
+    "people": [
+      "Donald Trump",
+      "James O'Keefe",
+      "Mark Zuckerberg",
+      "Erik Prince"
+    ]
+  },
+  {
+    "episode_number": "924",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "925",
+    "people": [
+      "Andrew Wakefield",
+      "Donald Trump",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "926",
+    "people": [
+      "Charlie Sheen",
+      "Thomas Jefferson",
+      "Donald Trump",
+      "Bob Chapman"
+    ]
+  },
+  {
+    "episode_number": "927",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "928",
+    "people": [
+      "Marty Schachter",
+      "Barack Obama",
+      "Darrel Rundus"
+    ]
+  },
+  {
+    "episode_number": "929",
+    "people": [
+      "George Strait",
+      "George Washington",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Stanley Kubrick",
+      "Thomas Jefferson",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "930",
+    "people": [
+      "Donald Trump",
+      "Eddie Bravo",
+      "Harrison Smith",
+      "Matt Bracken",
+      "Merrick Garland",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Steve Bannon",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "931",
+    "people": [
+      "Josh Owens",
+      "Barack Obama"
+    ]
+  },
+  {
+    "episode_number": "932",
+    "people": [
+      "Donald Trump",
+      "Kim Jong Un",
+      "Mike Adams",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Ted Nugent"
+    ]
+  },
+  {
     "episode_number": "S001",
     "people": [
       "David Knight",
@@ -9836,6 +10010,24 @@
     "episode_number": "S015",
     "people": [
       "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "S016",
+    "people": [
+      "David Lynch"
+    ]
+  },
+  {
+    "episode_number": "S017",
+    "people": [
+      "David Lynch"
+    ]
+  },
+  {
+    "episode_number": "S018",
+    "people": [
+      "Christopher Walken"
     ]
   }
 ]
