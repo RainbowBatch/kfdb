@@ -37,6 +37,7 @@
       "Doug Stanhope",
       "Glenn Beck",
       "Barack Obama",
+      "Saddam Hussein",
       "Tucker Carlson",
       "Mao Zedong",
       "Megyn Kelly"
@@ -332,6 +333,7 @@
       "Bill Maher",
       "Dennis Montgomery",
       "Donald Trump",
+      "George Noory",
       "George Soros",
       "Glenn Beck",
       "Larry C Johnson",
@@ -756,6 +758,7 @@
     "people": [
       "Donald Trump",
       "James O'Keefe",
+      "Joe Scarborough",
       "Johnny Depp",
       "Barack Obama",
       "Owen Shroyer",
@@ -796,6 +799,7 @@
       "Chuck Schumer",
       "Dennis Montgomery",
       "Donald Trump",
+      "Joe Scarborough",
       "Leo Zagami",
       "Roger Stone",
       "Vince McMahon",
@@ -826,6 +830,7 @@
       "Donald Trump",
       "George Soros",
       "Hillary Clinton",
+      "Joe Scarborough",
       "Paul Joseph Watson",
       "Barack Obama",
       "Vladimir Putin",
@@ -1024,6 +1029,7 @@
       "David Clarke",
       "Donald Trump",
       "Hillary Clinton",
+      "Howard Dean",
       "Joe Arpaio",
       "Michelle Malkin",
       "Paul Joseph Watson",
@@ -1049,6 +1055,7 @@
       "Donald Trump",
       "George Soros",
       "Hillary Clinton",
+      "Jar Jar Binks",
       "Joe Arpaio",
       "Julian Assange",
       "Louise Mensch",
@@ -1074,6 +1081,7 @@
       "Ben Carson",
       "David Knight",
       "Donald Trump",
+      "George Noory",
       "Glenn Beck",
       "Hillary Clinton",
       "Larry Nichols",
@@ -1124,6 +1132,7 @@
     "episode_number": "86",
     "people": [
       "Adam Carolla",
+      "Charles Dickens",
       "Donald Trump",
       "Jimmy Kimmel",
       "Jon Rappoport",
@@ -1427,6 +1436,7 @@
       "Donald Trump",
       "Erik Prince",
       "Frederick Trump",
+      "Joe Scarborough",
       "Bill Clinton",
       "Mika Brzezinski",
       "Zbigniew Brzezinski"
@@ -1565,6 +1575,7 @@
     "people": [
       "Andrew Breitbart",
       "Barack Obama",
+      "Larry Sinclair",
       "Bill Ayers",
       "Bob Chapman",
       "David Bowie",
@@ -1749,6 +1760,7 @@
       "Andrew Breitbart",
       "David Brock",
       "Donald Trump",
+      "George Noory",
       "Hillary Clinton",
       "Mike Adams",
       "Owen Shroyer",
@@ -1884,6 +1896,7 @@
     "people": [
       "Adam Schiff",
       "David Hogg",
+      "Jar Jar Binks",
       "Larry Nichols",
       "Rick Derringer",
       "Roger Stone",
@@ -1959,6 +1972,7 @@
     "people": [
       "Brian Williams",
       "Courtney Brown",
+      "George Noory",
       "Gerald Celente",
       "Larry Nichols",
       "Paul Craig Roberts",
@@ -2027,6 +2041,7 @@
     "episode_number": "157",
     "people": [
       "Billy Corgan",
+      "Charles Dickens",
       "Kanye West",
       "Kevin Smith",
       "Barack Obama",
@@ -2203,6 +2218,7 @@
       "Janet Reno",
       "Barack Obama",
       "Donald Trump",
+      "Jeff Bezos",
       "Peter Power"
     ]
   },
@@ -2878,6 +2894,7 @@
       "Barack Obama",
       "Barry Goldwater",
       "George Humphrey",
+      "George Noory",
       "Gerald Celente",
       "Lindsey Williams",
       "Donald Trump",
@@ -3532,7 +3549,8 @@
       "Thomas Jefferson",
       "Tucker Carlson",
       "Donald Trump Jr",
-      "Ilhan Omar"
+      "Ilhan Omar",
+      "John F. Kennedy Jr."
     ]
   },
   {
@@ -3673,6 +3691,7 @@
       "David Knight",
       "James Tracy",
       "Jon Rappoport",
+      "Steve Scalise",
       "William Boykin"
     ]
   },
@@ -3988,6 +4007,7 @@
       "Bill Gates",
       "Donald Trump",
       "Glenn Beck",
+      "John Ratcliffe",
       "Marianne Williamson",
       "Melinda Gates"
     ]
@@ -4038,6 +4058,7 @@
     "episode_number": "331",
     "people": [
       "Aaron Dykes",
+      "George Noory",
       "James O'Keefe",
       "Leo Zagami",
       "Michael Moore",
@@ -4363,6 +4384,7 @@
     "episode_number": "359",
     "people": [
       "Doug Hagmann",
+      "George Noory",
       "Kerry Cassidy",
       "Thomas Jefferson",
       "Bill Maher",
@@ -4638,6 +4660,7 @@
       "Donald Trump",
       "Jeffrey Epstein",
       "Mike Pence",
+      "Ruth Bader Ginsburg",
       "Kate Steinle"
     ]
   },
@@ -4818,6 +4841,7 @@
   {
     "episode_number": "396",
     "people": [
+      "DeAnna Lorraine",
       "Dick Cheney",
       "Donald Trump",
       "Francis Boyle",
@@ -4826,7 +4850,8 @@
       "Omar Navarro",
       "Owen Shroyer",
       "Roger Stone",
-      "John Wayne"
+      "John Wayne",
+      "Steve Scalise"
     ]
   },
   {
@@ -4943,6 +4968,7 @@
       "Ben Carson",
       "Ben Shapiro",
       "Charlie Kirk",
+      "DeAnna Lorraine",
       "Donald Trump",
       "Gavin McInnes",
       "George Washington",
@@ -4970,6 +4996,7 @@
       "Jim Humble",
       "Kerry Cassidy",
       "Mark Richards",
+      "Saddam Hussein",
       "Donald Trump"
     ]
   },
@@ -4977,6 +5004,7 @@
     "episode_number": "406",
     "people": [
       "Bill Maher",
+      "DeAnna Lorraine",
       "Donald Trump",
       "Jim Jordan",
       "Mike Adams",
@@ -5189,6 +5217,7 @@
       "Donald Trump",
       "Hillary Clinton",
       "Ian Fleming",
+      "Robert F. Kennedy Jr.",
       "Brian Stelter"
     ]
   },
@@ -5247,7 +5276,9 @@
     "episode_number": "431",
     "people": [
       "Donald Trump",
-      "Nancy Pelosi"
+      "John F. Kennedy Jr.",
+      "Nancy Pelosi",
+      "Robert F. Kennedy Jr."
     ]
   },
   {
@@ -5326,6 +5357,7 @@
     "people": [
       "George Floyd",
       "Gretchen Whitmer",
+      "Robert F. Kennedy Jr.",
       "Sammy Hagar",
       "Donald Trump"
     ]
@@ -5365,6 +5397,7 @@
       "Jared Kushner",
       "Jim Jordan",
       "Laura Loomer",
+      "Robert F. Kennedy Jr.",
       "Rod Rosenstein",
       "Tom Cotton"
     ]
@@ -5374,6 +5407,7 @@
     "people": [
       "Bill Gates",
       "George Floyd",
+      "Jeff Bezos",
       "Jeffrey Epstein",
       "Donald Trump"
     ]
@@ -5652,6 +5686,7 @@
     "episode_number": "469",
     "people": [
       "Ali Alexander",
+      "DeAnna Lorraine",
       "Kamala Harris",
       "Laura Loomer",
       "Thomas Jefferson",
@@ -5701,6 +5736,7 @@
   {
     "episode_number": "473",
     "people": [
+      "DeAnna Lorraine",
       "Millie Weaver",
       "Steve Bannon",
       "Donald Trump",
@@ -5766,7 +5802,8 @@
     "people": [
       "Jean Claude",
       "Kerry Cassidy",
-      "Donald Trump"
+      "Donald Trump",
+      "John F. Kennedy Jr."
     ]
   },
   {
@@ -5819,10 +5856,12 @@
     "people": [
       "Ali Alexander",
       "Amy Coney Barrett",
+      "DeAnna Lorraine",
       "Donald Trump",
       "Harrison Smith",
       "Mao Zedong",
       "Mitch McConnell",
+      "Ruth Bader Ginsburg",
       "Norm Pattis"
     ]
   },
@@ -5866,6 +5905,7 @@
     "episode_number": "488",
     "people": [
       "Chris Wallace",
+      "DeAnna Lorraine",
       "Donald Trump",
       "Greg Reese",
       "Kurt Vonnegut",
@@ -6150,6 +6190,7 @@
     "people": [
       "Barack Obama",
       "David Knight",
+      "DeAnna Lorraine",
       "Glenn Beck",
       "Hillary Clinton",
       "Michael Hayden",
@@ -6483,6 +6524,7 @@
     "people": [
       "Kevin Smith",
       "Michael Savage",
+      "Saddam Hussein",
       "John Birch",
       "Donald Trump",
       "George W Bush"
@@ -6520,7 +6562,8 @@
   {
     "episode_number": "548",
     "people": [
-      "Donald Trump"
+      "Donald Trump",
+      "Saddam Hussein"
     ]
   },
   {
@@ -6615,6 +6658,7 @@
       "Bill Gates",
       "Nick Fuentes",
       "Robert Barnes",
+      "Robert F. Kennedy Jr.",
       "Donald Trump"
     ]
   },
@@ -6689,6 +6733,7 @@
       "Bob Chapman",
       "Craig Roberts",
       "Vladimir Putin",
+      "Saddam Hussein",
       "Donald Trump"
     ]
   },
@@ -6950,7 +6995,8 @@
   {
     "episode_number": "596",
     "people": [
-      "Jim Bakker"
+      "Jim Bakker",
+      "Ruth Bader Ginsburg"
     ]
   },
   {
@@ -7038,6 +7084,7 @@
     "episode_number": "607",
     "people": [
       "Donald Trump",
+      "George Noory",
       "Hillary Clinton",
       "Mike Rothschild",
       "Steve Pieczenik"
@@ -7305,6 +7352,7 @@
       "Jason Miller",
       "Leo Zagami",
       "Nick Fuentes",
+      "Robert F. Kennedy Jr.",
       "Steve Kirsch",
       "Ted Nugent",
       "Ted Turner",
@@ -7652,7 +7700,8 @@
       "Mike Lindell",
       "Nick Fuentes",
       "Roger Stone",
-      "Donald Trump"
+      "Donald Trump",
+      "John F. Kennedy Jr."
     ]
   },
   {
@@ -7826,6 +7875,7 @@
       "Mike Tyson",
       "Piers Morgan",
       "Vladimir Putin",
+      "Robert F. Kennedy Jr.",
       "Donald Trump"
     ]
   },
@@ -7840,6 +7890,7 @@
     "episode_number": "694",
     "people": [
       "Gary Busey",
+      "Hutton Gibson",
       "World Net Daily",
       "Joseph Farah"
     ]
@@ -7869,6 +7920,7 @@
       "Donald Trump",
       "Gavin McInnes",
       "Vladimir Putin",
+      "Robert F. Kennedy Jr.",
       "Roger Stone",
       "Mitch McConnell"
     ]
@@ -7914,7 +7966,9 @@
   },
   {
     "episode_number": "703",
-    "people": []
+    "people": [
+      "Saddam Hussein"
+    ]
   },
   {
     "episode_number": "704",
@@ -8289,7 +8343,8 @@
   {
     "episode_number": "743",
     "people": [
-      "Nancy Pelosi"
+      "Nancy Pelosi",
+      "Paul Pelosi"
     ]
   },
   {
@@ -8298,6 +8353,7 @@
       "Barack Obama",
       "Bill Gates",
       "Klaus Schwab",
+      "Paul Pelosi",
       "Donald Trump",
       "Drew Hernandez"
     ]
@@ -8499,6 +8555,7 @@
   {
     "episode_number": "763",
     "people": [
+      "Saddam Hussein",
       "DJ Danarchy"
     ]
   },
@@ -8516,8 +8573,10 @@
   {
     "episode_number": "766",
     "people": [
+      "Howard Dean",
       "Vladimir Putin",
       "Ray McGovern",
+      "Saddam Hussein",
       "Donald Trump"
     ]
   },
@@ -8589,7 +8648,9 @@
   },
   {
     "episode_number": "774",
-    "people": []
+    "people": [
+      "Saddam Hussein"
+    ]
   },
   {
     "episode_number": "775",
@@ -8622,6 +8683,7 @@
       "Bill Gates",
       "Donald Trump",
       "Dwight D Eisenhower",
+      "John F. Kennedy Jr.",
       "Vladimir Putin"
     ]
   },
@@ -8631,13 +8693,16 @@
       "Bill Ayers",
       "Bill Bradley",
       "Bob Chapman",
-      "Rush Limbaugh"
+      "Howard Dean",
+      "Rush Limbaugh",
+      "Sean Bradley"
     ]
   },
   {
     "episode_number": "779",
     "people": [
       "Glenn Spencer",
+      "Saddam Hussein",
       "Jack Foote",
       "Joel Skousen"
     ]
@@ -8654,6 +8719,7 @@
     "episode_number": "781",
     "people": [
       "Donald Trump",
+      "John F. Kennedy Jr.",
       "Robert Barnes",
       "Austin Steinbart"
     ]
@@ -8662,6 +8728,7 @@
     "episode_number": "782",
     "people": [
       "Bill Maher",
+      "Howard Dean",
       "Donald Trump",
       "Cenk Uygur"
     ]
@@ -8731,6 +8798,7 @@
       "Alex Stein",
       "Donald Trump",
       "Matt Walsh",
+      "Robert F. Kennedy Jr.",
       "Tucker Carlson"
     ]
   },
@@ -8790,6 +8858,7 @@
     "episode_number": "796",
     "people": [
       "Dwight D Eisenhower",
+      "Hutton Gibson",
       "Jim Bakker",
       "Mel Gibson",
       "Steve Pieczenik"
@@ -8809,6 +8878,7 @@
     "people": [
       "Jesse Ventura",
       "Madeleine Albright",
+      "Robert F. Kennedy Jr.",
       "Donald Trump",
       "Queen Elizabeth II",
       "Rima Laibow"
@@ -8867,6 +8937,7 @@
   {
     "episode_number": "805",
     "people": [
+      "Hutton Gibson",
       "Mel Gibson",
       "Diane Sawyer"
     ]
@@ -8909,6 +8980,7 @@
     "people": [
       "Charlie Sheen",
       "David Kelly",
+      "Hutton Gibson",
       "Mike Pence",
       "Tom Clancy",
       "Tony Blair",
@@ -8947,6 +9019,7 @@
       "Laura Loomer",
       "Louis Farrakhan",
       "Mark Zuckerberg",
+      "Robert F. Kennedy Jr.",
       "Scott Bennett",
       "Steve Pieczenik"
     ]
@@ -8956,6 +9029,7 @@
     "people": [
       "Jamie Foxx",
       "Mark Zuckerberg",
+      "Robert F. Kennedy Jr.",
       "Steven Crowder",
       "Donald Trump"
     ]
@@ -8966,6 +9040,7 @@
       "Donald Trump",
       "Lindsey Graham",
       "Vladimir Putin",
+      "Saddam Hussein",
       "Tucker Carlson",
       "Bill Kristol",
       "Pat Buchanan"
@@ -8998,7 +9073,8 @@
     "episode_number": "819",
     "people": [
       "Kevin Smith",
-      "Mel Gibson"
+      "Mel Gibson",
+      "Hutton Gibson"
     ]
   },
   {
@@ -9024,6 +9100,7 @@
     "people": [
       "Owen Benjamin",
       "Vladimir Putin",
+      "Robert F. Kennedy Jr.",
       "Donald Trump",
       "Daniel Estulin",
       "George Wallace",
@@ -9033,6 +9110,7 @@
   {
     "episode_number": "823",
     "people": [
+      "Anton LaVey",
       "John Kerry",
       "Paul Joseph Watson"
     ]
@@ -9041,6 +9119,7 @@
     "episode_number": "824",
     "people": [
       "Anna Merlin",
+      "Robert F. Kennedy Jr.",
       "David Duke",
       "Donald Trump",
       "Garrison Keillor",
@@ -9055,6 +9134,7 @@
       "Andy Murray",
       "Bill Gates",
       "Glenn Beck",
+      "Robert F. Kennedy Jr.",
       "Henry Kissinger"
     ]
   },
@@ -9087,7 +9167,8 @@
   {
     "episode_number": "830",
     "people": [
-      "Dick Cheney"
+      "Dick Cheney",
+      "Robert F. Kennedy Jr."
     ]
   },
   {
@@ -9136,7 +9217,9 @@
   },
   {
     "episode_number": "837",
-    "people": []
+    "people": [
+      "George Noory"
+    ]
   },
   {
     "episode_number": "838",
@@ -9188,6 +9271,7 @@
       "David Knight",
       "Hillary Clinton",
       "General Michael Flynn",
+      "Robert F. Kennedy Jr.",
       "Donald Trump"
     ]
   },
@@ -9237,6 +9321,7 @@
     "people": [
       "Barack Obama",
       "Bernie Sanders",
+      "Larry Sinclair",
       "Donald Trump"
     ]
   },
@@ -9572,7 +9657,8 @@
   {
     "episode_number": "892",
     "people": [
-      "Bill Gates"
+      "Bill Gates",
+      "Robert F. Kennedy Jr."
     ]
   },
   {
@@ -9607,6 +9693,7 @@
   {
     "episode_number": "896",
     "people": [
+      "George Noory",
       "Sarah Palin",
       "Ted Nugent",
       "Thomas Jefferson",
@@ -9693,7 +9780,8 @@
     "episode_number": "906",
     "people": [
       "Barack Obama",
-      "Donald Trump"
+      "Donald Trump",
+      "Howard Dean"
     ]
   },
   {
@@ -9823,6 +9911,7 @@
     "people": [
       "Bill Gates",
       "Hillary Clinton",
+      "John F. Kennedy Jr.",
       "Marjorie Taylor Greene",
       "Donald Trump"
     ]
@@ -9926,6 +10015,689 @@
       "Vladimir Putin",
       "Roger Stone",
       "Ted Nugent"
+    ]
+  },
+  {
+    "episode_number": "933",
+    "people": [
+      "Donald Trump",
+      "Hunter Biden",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Stanley Kubrick",
+      "Vivian Kubrick"
+    ]
+  },
+  {
+    "episode_number": "934",
+    "people": [
+      "Donald Trump",
+      "Thomas Jefferson",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "935",
+    "people": [
+      "Chuck Schumer",
+      "Donald Trump",
+      "General Michael Flynn",
+      "Barack Obama",
+      "Beto O'Rourke",
+      "Judy Mikovits"
+    ]
+  },
+  {
+    "episode_number": "936",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "937",
+    "people": [
+      "Taylor Swift",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "938",
+    "people": [
+      "Donald Trump",
+      "Nick Fuentes",
+      "Vladimir Putin"
+    ]
+  },
+  {
+    "episode_number": "939",
+    "people": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Kamala Harris",
+      "Roger Stone",
+      "Steven Crowder",
+      "Robert Barnes"
+    ]
+  },
+  {
+    "episode_number": "940",
+    "people": [
+      "Donald Trump",
+      "Michelle Obama",
+      "Roger Stone",
+      "Wolf Blitzer"
+    ]
+  },
+  {
+    "episode_number": "941",
+    "people": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Janet Reno",
+      "Kamala Harris",
+      "Tom Clancy",
+      "Steve Pieczenik"
+    ]
+  },
+  {
+    "episode_number": "942",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "943",
+    "people": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "944",
+    "people": [
+      "Donald Trump",
+      "Mike Adams",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "945",
+    "people": [
+      "George Strait",
+      "Roger Stone",
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ]
+  },
+  {
+    "episode_number": "946",
+    "people": [
+      "Bill Gates",
+      "Donald Trump",
+      "General Michael Flynn"
+    ]
+  },
+  {
+    "episode_number": "947",
+    "people": [
+      "Harrison Smith",
+      "Owen Shroyer",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "948",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris"
+    ]
+  },
+  {
+    "episode_number": "949",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris"
+    ]
+  },
+  {
+    "episode_number": "950",
+    "people": [
+      "Donald Trump",
+      "George Wallace",
+      "Kamala Harris",
+      "Max Planck",
+      "Mike Howell",
+      "Mark Zuckerberg",
+      "Mike Cernovich"
+    ]
+  },
+  {
+    "episode_number": "951",
+    "people": [
+      "Tommy Robinson",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "952",
+    "people": [
+      "Donald Trump",
+      "Peter Hotez"
+    ]
+  },
+  {
+    "episode_number": "953",
+    "people": [
+      "Donald Trump",
+      "Mike Tyson",
+      "Taylor Swift",
+      "Tommy Robinson"
+    ]
+  },
+  {
+    "episode_number": "954",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Owen Shroyer",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "955",
+    "people": [
+      "Donald Trump",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "956",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Mao Zedong",
+      "Michael Moore",
+      "Michelle Obama"
+    ]
+  },
+  {
+    "episode_number": "957",
+    "people": [
+      "Barack Obama",
+      "Kamala Harris",
+      "Michelle Obama",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Donald Trump",
+      "Naomi Wolf",
+      "Tulsi Gabbard"
+    ]
+  },
+  {
+    "episode_number": "958",
+    "people": [
+      "Donald Trump",
+      "Jimmy Dore",
+      "Nancy Pelosi",
+      "Kamala Harris"
+    ]
+  },
+  {
+    "episode_number": "959",
+    "people": [
+      "Glenn Beck",
+      "Eric Prince",
+      "Jim Jordan",
+      "Mark Zuckerberg",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "960",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "961",
+    "people": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Jack Posobiec"
+    ]
+  },
+  {
+    "episode_number": "962",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "963",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Laura Loomer"
+    ]
+  },
+  {
+    "episode_number": "964",
+    "people": [
+      "Henry Kissinger",
+      "Jake Ducey"
+    ]
+  },
+  {
+    "episode_number": "965",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Vladimir Putin",
+      "Jack Posobiec"
+    ]
+  },
+  {
+    "episode_number": "966",
+    "people": [
+      "Steven Crowder",
+      "Donald Trump",
+      "George W Bush",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "967",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Vladimir Putin",
+      "Saddam Hussein",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "968",
+    "people": [
+      "Mark Zuckerberg",
+      "Mike Lindell",
+      "Roger Stone",
+      "Donald Trump",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "969",
+    "people": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Tucker Carlson",
+      "Seth Green"
+    ]
+  },
+  {
+    "episode_number": "970",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "971",
+    "people": [
+      "Donald Trump",
+      "James O'Keefe",
+      "Kamala Harris"
+    ]
+  },
+  {
+    "episode_number": "972",
+    "people": [
+      "Bill Gates",
+      "Kamala Harris",
+      "Donald Trump",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "973",
+    "people": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ]
+  },
+  {
+    "episode_number": "974",
+    "people": [
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ]
+  },
+  {
+    "episode_number": "975",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "976",
+    "people": [
+      "Donald Trump",
+      "James O'Keefe",
+      "Kamala Harris",
+      "Marjorie Taylor Greene"
+    ]
+  },
+  {
+    "episode_number": "977",
+    "people": [
+      "Bill Gates",
+      "Dennis Miller",
+      "Eddie Bravo",
+      "Kamala Harris",
+      "Marjorie Taylor Greene",
+      "Nick Fuentes",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "978",
+    "people": [
+      "Donald Trump",
+      "Larry Fink",
+      "Robert F. Kennedy Jr.",
+      "Tucker Carlson",
+      "Kamala Harris"
+    ]
+  },
+  {
+    "episode_number": "979",
+    "people": [
+      "Donald Trump",
+      "Barack Obama"
+    ]
+  },
+  {
+    "episode_number": "980",
+    "people": [
+      "Matt Bracken",
+      "Steven Crowder",
+      "Donald Trump",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "981",
+    "people": [
+      "Steve Bannon",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "982",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "983",
+    "people": []
+  },
+  {
+    "episode_number": "984",
+    "people": [
+      "Kit Daniels",
+      "Owen Shroyer",
+      "Clarence Thomas"
+    ]
+  },
+  {
+    "episode_number": "985",
+    "people": [
+      "Dwight D Eisenhower",
+      "Linda McMahon",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "986",
+    "people": [
+      "Bill Gates",
+      "Jonas Salk",
+      "Klaus Schwab"
+    ]
+  },
+  {
+    "episode_number": "987",
+    "people": [
+      "Scott Adams",
+      "Donald Trump",
+      "Peter Hotez"
+    ]
+  },
+  {
+    "episode_number": "988",
+    "people": [
+      "Michael Bloomberg",
+      "Donald Trump",
+      "Peter Hotez"
+    ]
+  },
+  {
+    "episode_number": "989",
+    "people": [
+      "Eddie Bravo",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "990",
+    "people": [
+      "Donald Trump",
+      "Mao Zedong",
+      "Mike Tyson",
+      "Tucker Carlson",
+      "Matt Gaetz"
+    ]
+  },
+  {
+    "episode_number": "991",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "992",
+    "people": [
+      "Donald Trump",
+      "Dwight D Eisenhower",
+      "Josef Mengele",
+      "Greta Thunberg",
+      "Vladimir Putin",
+      "Stefan Molyneux"
+    ]
+  },
+  {
+    "episode_number": "993",
+    "people": [
+      "Donald Trump",
+      "Jamie Raskin",
+      "Laura Loomer"
+    ]
+  },
+  {
+    "episode_number": "994",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "995",
+    "people": [
+      "Donald Trump",
+      "Greg Reese",
+      "Nick Fuentes"
+    ]
+  },
+  {
+    "episode_number": "996",
+    "people": [
+      "Bill Gates",
+      "Johns Hopkins",
+      "Donald Trump",
+      "Peter Hotez"
+    ]
+  },
+  {
+    "episode_number": "997",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "998",
+    "people": [
+      "Mark Zuckerberg",
+      "Mel Gibson",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "999",
+    "people": [
+      "Donald Trump",
+      "Glenn Beck"
+    ]
+  },
+  {
+    "episode_number": "1000",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1001",
+    "people": [
+      "Bill Clinton",
+      "Donald Trump",
+      "Jimmy Carter",
+      "Mark Twain",
+      "Thomas Jefferson",
+      "Stewart Rhodes"
+    ]
+  },
+  {
+    "episode_number": "1002",
+    "people": [
+      "Bill Clinton",
+      "Bill Gates",
+      "Donald Trump",
+      "Merrick Garland",
+      "Steve Bannon",
+      "Stewart Rhodes",
+      "Enrique Tarrio"
+    ]
+  },
+  {
+    "episode_number": "1003",
+    "people": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1004",
+    "people": [
+      "Donald Trump",
+      "Larry Fink",
+      "Lauren Southern",
+      "Tommy Robinson"
+    ]
+  },
+  {
+    "episode_number": "1005",
+    "people": [
+      "Chris Wallace"
+    ]
+  },
+  {
+    "episode_number": "1006",
+    "people": [
+      "Bill Gates",
+      "Barack Obama",
+      "Roger Stone",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1007",
+    "people": [
+      "Bill Gates",
+      "Jean Claude",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1008",
+    "people": [
+      "Jon Stewart",
+      "Steven Crowder"
+    ]
+  },
+  {
+    "episode_number": "1009",
+    "people": [
+      "Bill Maher",
+      "Donald Trump",
+      "Pat Buchanan"
+    ]
+  },
+  {
+    "episode_number": "1010",
+    "people": [
+      "Vladimir Putin",
+      "Thomas Jefferson",
+      "Donald Trump",
+      "Wernher Von Braun"
+    ]
+  },
+  {
+    "episode_number": "1011",
+    "people": [
+      "Bill Gates",
+      "Lindsey Graham",
+      "Mike Adams",
+      "Barack Obama",
+      "Donald Trump",
+      "Mao Zedong"
+    ]
+  },
+  {
+    "episode_number": "1012",
+    "people": [
+      "Bertrand Russell",
+      "Donald Trump",
+      "Gavin McInnes",
+      "Howard Stern",
+      "Robert F. Kennedy Jr.",
+      "Steven Crowder"
+    ]
+  },
+  {
+    "episode_number": "1013",
+    "people": [
+      "Donald Trump",
+      "Mike Pompeo",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "1014",
+    "people": [
+      "Mark Zuckerberg",
+      "Donald Trump",
+      "Pete Buttigieg"
     ]
   },
   {
