@@ -789,7 +789,6 @@
       "Randy Cramer",
       "Donald Trump",
       "Andrew Basiago",
-      "Randy Kramer",
       "Robert David Steele"
     ]
   },
@@ -1079,6 +1078,7 @@
     "episode_number": "82",
     "people": [
       "Ben Carson",
+      "Buckley Hamman",
       "David Knight",
       "Donald Trump",
       "George Noory",
@@ -1784,7 +1784,6 @@
     "episode_number": "137",
     "people": [
       "David Rothschild",
-      "Mike Adams",
       "Owen Shroyer",
       "Tommy Robinson",
       "Donald Trump",
@@ -2732,7 +2731,8 @@
       "Mark Zuckerberg",
       "Donald Trump",
       "Eddie Page",
-      "Simon Parks"
+      "Simon Parks",
+      "Simon Parkes"
     ]
   },
   {
@@ -2801,8 +2801,7 @@
       "Kerry Cassidy",
       "Mark Richards",
       "Randy Cramer",
-      "Donald Trump",
-      "Randy Kramer"
+      "Donald Trump"
     ]
   },
   {
@@ -2861,7 +2860,7 @@
     "people": [
       "Kerry Cassidy",
       "Mark Richards",
-      "Randy Kramer"
+      "Randy Cramer"
     ]
   },
   {
@@ -3277,7 +3276,7 @@
       "Wayne Madsen",
       "Webster Tarpley",
       "Ann Coulter",
-      "Wayne Allen Root"
+      "Wayne Allyn Root"
     ]
   },
   {
@@ -4319,7 +4318,6 @@
     "people": [
       "Mark Richards",
       "Randy Cramer",
-      "Randy Kramer",
       "Donald Trump",
       "Kerry Cassidy"
     ]
@@ -4917,7 +4915,6 @@
       "Mark Twain",
       "Vladimir Putin",
       "Randy Cramer",
-      "Randy Kramer",
       "Robert David Steele",
       "Wernher Von Braun",
       "David Willcock"
@@ -5779,8 +5776,7 @@
       "Howard Hughes",
       "Randy Cramer",
       "David Icke",
-      "Mark Richards",
-      "Randy Kramer"
+      "Mark Richards"
     ]
   },
   {
@@ -7493,7 +7489,6 @@
       "Ted Anderson",
       "Donald Trump",
       "Joel Skousen",
-      "Wayne Allen Root",
       "Wayne Allyn Root"
     ]
   },
@@ -10707,6 +10702,28 @@
       "David Hogg",
       "Vladimir Putin",
       "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1016",
+    "people": [
+      "Anne Frank",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1017",
+    "people": [
+      "Bill Gates",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1018",
+    "people": [
+      "Chuck Schumer",
+      "Donald Trump",
+      "Jar Jar Binks"
     ]
   },
   {
