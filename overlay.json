@@ -9,22 +9,56 @@
     ]
   },
   {
+    "episode_number": "2",
     "coverage_date": "December 31, 1999",
     "coverage_end_date": "December 31, 1999",
-    "coverage_start_date": "December 31, 1999",
-    "episode_number": "2"
+    "coverage_start_date": "December 31, 1999"
   },
   {
+    "episode_number": "5",
+    "people": [
+      "David Knight",
+      "Donald Trump",
+      "George Soros",
+      "James O'Keefe",
+      "Barack Obama",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "7",
+    "people": [
+      "David Brock",
+      "Donald Trump",
+      "George Soros",
+      "Lee Ann McAdoo",
+      "Barack Obama"
+    ]
+  },
+  {
+    "episode_number": "9",
     "coverage_date": "February 1, 2017",
     "coverage_end_date": "February 1, 2017",
-    "coverage_start_date": "February 1, 2017",
-    "episode_number": "9"
+    "coverage_start_date": "February 1, 2017"
   },
   {
     "episode_number": "10",
     "people": [
-      "Milo Yianopolis",
+      "Milo Yiannopoulos",
       "Aleksandr Dugin"
+    ]
+  },
+  {
+    "episode_number": "11",
+    "people": [
+      "Andrew Jackson",
+      "Nancy Pelosi",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Jon Rappoport",
+      "Reince Priebus"
     ]
   },
   {
@@ -32,6 +66,35 @@
     "people": [
       "Jon Rappoport",
       "Dr Pies"
+    ]
+  },
+  {
+    "episode_number": "13",
+    "people": [
+      "Barack Obama",
+      "Chuck Schumer",
+      "David Knight",
+      "Donald Trump",
+      "George Soros",
+      "General Michael Flynn",
+      "Michael Moore",
+      "Paul Joseph Watson",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Jon Rappoport",
+      "Nancy Pelosi"
+    ]
+  },
+  {
+    "episode_number": "14",
+    "people": [
+      "Brian Williams",
+      "Donald Trump",
+      "George Soros",
+      "Mark Zuckerberg",
+      "Barack Obama",
+      "Vladimir Putin",
+      "Kim Jong Un"
     ]
   },
   {
@@ -44,9 +107,33 @@
     ]
   },
   {
+    "episode_number": "16",
+    "people": [
+      "Glenn Beck",
+      "Hillary Clinton",
+      "Michelle Obama",
+      "Barack Obama",
+      "Stephen Colbert",
+      "Donald Trump",
+      "Melissa Harris Perry"
+    ]
+  },
+  {
     "episode_number": "17",
     "people": [
       "Darrell Hamamoto"
+    ]
+  },
+  {
+    "episode_number": "18",
+    "people": [
+      "Donald Trump",
+      "Marty DeRosa",
+      "Barack Obama",
+      "Vladimir Putin",
+      "Rick Perry",
+      "Charlie Sheen",
+      "Rahm Emanuel"
     ]
   },
   {
@@ -59,6 +146,161 @@
       "Jesse James",
       "Sandra Bullock",
       "Steve Pieczenik"
+    ]
+  },
+  {
+    "episode_number": "21",
+    "people": [
+      "Edward Group",
+      "Jon Rappoport"
+    ]
+  },
+  {
+    "episode_number": "23",
+    "people": [
+      "Alec Baldwin",
+      "Anderson Cooper",
+      "Barack Obama",
+      "Donald Trump",
+      "John Kerry",
+      "Kim Jong Un",
+      "Lana Del Rey",
+      "Michelle Obama",
+      "Paul Joseph Watson",
+      "Rex Tillerson",
+      "Sean Hannity",
+      "Willie Nelson",
+      "Larry C Johnson",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "24",
+    "people": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "John Bolton",
+      "Michael Moore",
+      "Barack Obama",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Steve Pieczenik"
+    ]
+  },
+  {
+    "episode_number": "26",
+    "people": [
+      "Barack Obama",
+      "Bill Hicks",
+      "Bill Maher",
+      "Dennis Montgomery",
+      "Donald Trump",
+      "George Noory",
+      "George Soros",
+      "Glenn Beck",
+      "Larry C Johnson",
+      "Louise Mensch",
+      "Michael Savage",
+      "Roger Stone",
+      "Rush Limbaugh",
+      "Sean Hannity"
+    ]
+  },
+  {
+    "episode_number": "27",
+    "people": [
+      "Barack Obama",
+      "David Knight",
+      "Donald Trump",
+      "Lee Ann McAdoo"
+    ]
+  },
+  {
+    "episode_number": "29",
+    "people": [
+      "Ashley Beckford",
+      "George Soros",
+      "John McCain",
+      "Jon Rappoport",
+      "Lee Ann McAdoo",
+      "Lindsey Graham",
+      "Michael Savage",
+      "Roger Stone",
+      "Steve Bannon",
+      "Donald Trump",
+      "Mike Cernovich"
+    ]
+  },
+  {
+    "episode_number": "32",
+    "people": [
+      "Bill O'Reilly",
+      "Millie Weaver",
+      "Barack Obama",
+      "Owen Shroyer",
+      "Paul Joseph Watson",
+      "Rush Limbaugh",
+      "Megyn Kelly",
+      "Donald Trump",
+      "Winston Churchill",
+      "Jon Rappoport"
+    ]
+  },
+  {
+    "episode_number": "33",
+    "people": [
+      "Anderson Cooper",
+      "Donald Trump",
+      "Julian Assange",
+      "Madeleine Albright",
+      "Eddie Bravo"
+    ]
+  },
+  {
+    "episode_number": "35",
+    "people": [
+      "Barack Obama",
+      "Bill O'Reilly",
+      "Donald Trump",
+      "George Soros",
+      "Michelle Obama",
+      "Paul Joseph Watson",
+      "Mike Cernovich",
+      "Stefan Molyneux"
+    ]
+  },
+  {
+    "episode_number": "37",
+    "people": [
+      "Donald Trump",
+      "Mark Zuckerberg",
+      "George Soros",
+      "Mike Cernovich",
+      "Vladimir Putin"
+    ]
+  },
+  {
+    "episode_number": "38",
+    "people": [
+      "Barry Goldwater",
+      "David Knight",
+      "Donald Trump",
+      "Gavin McInnes",
+      "Hillary Clinton",
+      "John McCain",
+      "Marine Le Pen",
+      "Barack Obama",
+      "Paul Joseph Watson",
+      "Phyllis Schlafly",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Rush Limbaugh",
+      "Stephen Colbert",
+      "Steve Bannon",
+      "Jerome Corsi",
+      "Mike Cernovich",
+      "Nigel Farage",
+      "Rebel Media"
     ]
   },
   {
@@ -80,9 +322,42 @@
     ]
   },
   {
+    "episode_number": "44",
+    "people": [
+      "David Knight",
+      "Hillary Clinton",
+      "Barack Obama",
+      "Paul Joseph Watson",
+      "Stephen Colbert",
+      "Donald Trump",
+      "George W Bush",
+      "Jerome Corsi",
+      "John Kerry"
+    ]
+  },
+  {
     "episode_number": "46",
     "people": [
       "Larry Nichols"
+    ]
+  },
+  {
+    "episode_number": "47",
+    "people": [
+      "Larry Nichols",
+      "Lauren Southern",
+      "Peter Schiff"
+    ]
+  },
+  {
+    "episode_number": "48",
+    "people": [
+      "Jerome Corsi",
+      "Rick Derringer",
+      "Rick Derringer's wife",
+      "Kathy Griffin",
+      "George Soros",
+      "Mike Cernovich"
     ]
   },
   {
@@ -96,10 +371,14 @@
     ]
   },
   {
+    "episode_number": "50",
+    "people": []
+  },
+  {
+    "episode_number": "54",
     "coverage_date": "June 17, 2017",
     "coverage_end_date": "June 17, 2017",
-    "coverage_start_date": "June 17, 2017",
-    "episode_number": "54"
+    "coverage_start_date": "June 17, 2017"
   },
   {
     "episode_number": "60",
@@ -124,9 +403,18 @@
     ]
   },
   {
+    "episode_number": "63",
+    "people": [
+      "Mark Dice",
+      "Roger Stone",
+      "Donald Trump Jr",
+      "Veselnitskaya"
+    ]
+  },
+  {
     "episode_number": "65",
     "people": [
-      "\"Dr.\" Group",
+      "Edward Group",
       "Joe Biggs",
       "Rob Dew"
     ]
@@ -155,6 +443,13 @@
     "people": [
       "Aleksandr Dugin",
       "Mike Cernovich"
+    ]
+  },
+  {
+    "episode_number": "72",
+    "people": [
+      "Roger Stone",
+      "Adam Curry"
     ]
   },
   {
@@ -206,14 +501,14 @@
       "Mellisa Harris Perry",
       "Ben Carson",
       "Roger Stone",
-      "Steve Pieczenek",
+      "Steve Pieczenik",
       "Phyllis Schlafly",
       "45 group",
       "Donald Trump",
       "Vladimir Putin",
-      "Jim Mars",
+      "Jim Marrs",
       "Lisa Case",
-      "Buckley",
+      "Buckley Hamman",
       "Ron Paul"
     ]
   },
@@ -225,7 +520,7 @@
       "George Soros",
       "Melissa Click",
       "General Albert Stubblebine",
-      "Rima Laibow",
+      "Dr Rima Laibow",
       "Lord Monckton",
       "Darrell Hamamoto",
       "Nick Begich",
@@ -236,6 +531,15 @@
     "episode_number": "84",
     "people": [
       "David Icke"
+    ]
+  },
+  {
+    "episode_number": "92",
+    "people": [
+      "Roger Stone",
+      "Milo Yiannopoulos",
+      "Owen Shroyer",
+      "Rex Tillerson"
     ]
   },
   {
@@ -313,6 +617,24 @@
     ]
   },
   {
+    "episode_number": "103",
+    "people": [
+      "David Knight",
+      "Jon Rappoport",
+      "Donald Trump",
+      "Al Franken"
+    ]
+  },
+  {
+    "episode_number": "105",
+    "people": [
+      "LeBron James",
+      "Kevin Trudeau",
+      "Linus Pauling",
+      "Martha Stewart"
+    ]
+  },
+  {
     "episode_number": "107",
     "people": [
       "John Boehner",
@@ -359,6 +681,19 @@
     ]
   },
   {
+    "episode_number": "120",
+    "people": [
+      "Lavoy Finicum",
+      "The Bundy Group",
+      "Andrew Jackson",
+      "William Travis",
+      "George Washington",
+      "Joe Biggs",
+      "Tosh Plumlee",
+      "Joel Skousen"
+    ]
+  },
+  {
     "episode_number": "123",
     "people": [
       "William Binney",
@@ -369,6 +704,26 @@
       "Jeffrey Smith",
       "Dr Dean Edell",
       "Ted Anderson"
+    ]
+  },
+  {
+    "episode_number": "124",
+    "people": [
+      "David Knight",
+      "Jerome Corsi"
+    ]
+  },
+  {
+    "episode_number": "130C",
+    "people": [
+      "Michael Kaufman",
+      "George W Bush",
+      "Carroll Quigley",
+      "David Rockefeller",
+      "Thomas Robert Malthus",
+      "HG Wells",
+      "Margaret Sanger",
+      "Madison Grant"
     ]
   },
   {
@@ -387,9 +742,16 @@
     ]
   },
   {
-    "coverage_date": "October 4, 2016",
-    "coverage_end_date": "October 4, 2016",
-    "coverage_start_date": "October 4, 2016",
+    "episode_number": "131",
+    "people": [
+      "Milo Yiannopoulos",
+      "Rush Limbaugh",
+      "Brian Stelter",
+      "Steve Pieczenik",
+      "David Lynch"
+    ]
+  },
+  {
     "episode_number": "135",
     "people": [
       "Mike Adams",
@@ -397,6 +759,22 @@
       "Roger Stone",
       "Owen Shroyer",
       "David Brock"
+    ],
+    "coverage_date": "October 4, 2016",
+    "coverage_end_date": "October 4, 2016",
+    "coverage_start_date": "October 4, 2016"
+  },
+  {
+    "episode_number": "136",
+    "people": [
+      "Jim Marrs",
+      "Sirhan Sirhan",
+      "Willie Nelson",
+      "Fred Koch",
+      "George W Bush",
+      "Michael Savage",
+      "Twila Brase",
+      "Yukihisa Fujita"
     ]
   },
   {
@@ -413,15 +791,27 @@
     ]
   },
   {
-    "coverage_date": "March 17, 2018",
-    "coverage_end_date": "March 17, 2018",
-    "coverage_start_date": "March 17, 2018",
     "episode_number": "139",
     "people": [
       "Darrell Hamamoto",
       "Steve Pieczenik",
       "Andrew McCabe",
       "Rob Dew"
+    ],
+    "coverage_date": "March 17, 2018",
+    "coverage_end_date": "March 17, 2018",
+    "coverage_start_date": "March 17, 2018"
+  },
+  {
+    "episode_number": "140",
+    "people": [
+      "Charlie Sheen",
+      "The View",
+      "Lenny Dykstra aka \"Nails\"",
+      "Chuck Lorre",
+      "Thomas Jefferson",
+      "Eminem",
+      "Snoop Dogg"
     ]
   },
   {
@@ -434,7 +824,7 @@
       "Kevin Doherty",
       "Julian Assange",
       "Roger Stone",
-      "Dr. Group",
+      "Edward Group",
       "Peter Thiel",
       "Obama"
     ]
@@ -469,9 +859,6 @@
     ]
   },
   {
-    "coverage_date": "April 10, 2018",
-    "coverage_end_date": "April 10, 2018",
-    "coverage_start_date": "April 10, 2018",
     "episode_number": "149",
     "people": [
       "Lee Ann McAdoo",
@@ -486,7 +873,10 @@
       "Rob Dew",
       "True Dave",
       "Sun Myung Moon"
-    ]
+    ],
+    "coverage_date": "April 10, 2018",
+    "coverage_end_date": "April 10, 2018",
+    "coverage_start_date": "April 10, 2018"
   },
   {
     "episode_number": "156",
@@ -526,6 +916,17 @@
     ]
   },
   {
+    "episode_number": "161",
+    "people": [
+      "George Soros",
+      "Stormy Daniels",
+      "Milo Yiannopoulos",
+      "Maxine Waters",
+      "Omar Navarro",
+      "Roger Stone"
+    ]
+  },
+  {
     "episode_number": "163",
     "people": [
       "Gerald Celente",
@@ -546,14 +947,14 @@
     ]
   },
   {
-    "coverage_date": "May 25, 2018",
-    "coverage_end_date": "May 25, 2018",
-    "coverage_start_date": "May 25, 2018",
     "episode_number": "165",
     "people": [
       "Mike Rotondo",
       "Roger Stone"
-    ]
+    ],
+    "coverage_date": "May 25, 2018",
+    "coverage_end_date": "May 25, 2018",
+    "coverage_start_date": "May 25, 2018"
   },
   {
     "episode_number": "166",
@@ -573,6 +974,16 @@
       "Vince The Caver",
       "Mark Richards",
       "Erich Von Daniken"
+    ]
+  },
+  {
+    "episode_number": "172",
+    "people": [
+      "Janet Reno",
+      "Barack Obama",
+      "Donald Trump",
+      "Jeff Bezos",
+      "Peter Power"
     ]
   },
   {
@@ -604,6 +1015,27 @@
     ]
   },
   {
+    "episode_number": "179",
+    "people": [
+      "Stan Deyo",
+      "Dan Lyman",
+      "Brett Kavanaugh",
+      "Brandon Straka",
+      "Steven Hammond",
+      "Dwight Hammond",
+      "Dusty Hammond"
+    ]
+  },
+  {
+    "episode_number": "180",
+    "people": [
+      "Tammy Sue Bakker",
+      "Jim Bakker",
+      "Paula White-Cain",
+      "Jonathan Cain"
+    ]
+  },
+  {
     "episode_number": "186",
     "people": [
       "Tony Blair",
@@ -619,7 +1051,7 @@
       "Helmut Schmidt",
       "Ken Lay",
       "Glenn Spencer",
-      "Pastor Lindsey Williams",
+      "Lindsey Williams",
       "David Jones"
     ]
   },
@@ -744,6 +1176,16 @@
     ]
   },
   {
+    "episode_number": "206",
+    "people": [
+      "George Soros",
+      "Lindsey Williams",
+      "Paul Joseph Watson",
+      "Paul Craig Roberts",
+      "Rebecca Carley"
+    ]
+  },
+  {
     "episode_number": "213",
     "people": [
       "Christine Blasey Ford",
@@ -754,11 +1196,23 @@
     ]
   },
   {
+    "episode_number": "215",
+    "people": [
+      "Michael Mclendon",
+      "Jack McLamb",
+      "Lt Col Scott Wile",
+      "Aaron Russo",
+      "Gerald Celente",
+      "Rob Dew",
+      "Rebecca Carley"
+    ]
+  },
+  {
     "episode_number": "217",
     "people": [
       "Kerry Cassidy",
       "Mark Richards",
-      "Simon Park",
+      "Simon Parkes",
       "Eddie Page",
       "Jo Ann Richards",
       "Bobby Ray Inman",
@@ -802,6 +1256,14 @@
     ]
   },
   {
+    "episode_number": "223",
+    "people": [
+      "Kerry Cassidy",
+      "Captain Jay",
+      "Randy Cramer"
+    ]
+  },
+  {
     "episode_number": "224",
     "people": [
       "Steve Shenk",
@@ -810,6 +1272,12 @@
       "Ted Anderson",
       "Aimee Allen",
       "Jesse Ventura"
+    ]
+  },
+  {
+    "episode_number": "225",
+    "people": [
+      "Donald Trump"
     ]
   },
   {
@@ -825,6 +1293,28 @@
     ]
   },
   {
+    "episode_number": "227",
+    "people": [
+      "Wayne Paul",
+      "Ron Paul",
+      "Bernie Sanders",
+      "Kevin Booth",
+      "Bill Hicks",
+      "Freeway Ricky Ross",
+      "Robert David Steele",
+      "Alan Watt"
+    ]
+  },
+  {
+    "episode_number": "229",
+    "people": [
+      "Kerry Cassidy",
+      "Jason Rice",
+      "Tony Rodriguez",
+      "Randy Cramer"
+    ]
+  },
+  {
     "episode_number": "230A",
     "people": [
       "Obama",
@@ -832,9 +1322,9 @@
       "KRS-One",
       "Webster Tarpley",
       "Brad Sherman",
-      "Louis Gomert",
+      "Louie Gohmert",
       "el-Sisi",
-      "Michelle Bachman",
+      "Michele Bachmann",
       "Steve King",
       "Tom Daschle",
       "Jesse Ventura",
@@ -857,10 +1347,37 @@
       "Lindsey Williams",
       "George Noory",
       "Luke Rudkowski",
-      "Professor Grif",
+      "Professor Griff",
       "Barry Goldwater",
       "George Humphrey",
       "Lawrence Summers"
+    ]
+  },
+  {
+    "episode_number": "230D",
+    "people": [
+      "Wayne Paul",
+      "Jim Traficant",
+      "Ron Paul",
+      "Dennis Kucinich",
+      "Alan Greenspan",
+      "Webster Tarpley",
+      "Pat Buchanan",
+      "Adam Weishaupt",
+      "Henry Paulson",
+      "Neel Kashkari"
+    ]
+  },
+  {
+    "episode_number": "230E",
+    "people": [
+      "Justin Fox",
+      "Peter Schiff",
+      "Webster Tarpley",
+      "Ron Paul",
+      "Professor Griff",
+      "Hitler",
+      "George Humphries"
     ]
   },
   {
@@ -887,7 +1404,7 @@
       "Jair Bolsonaro",
       "Faith Goldy",
       "Josef Viezner",
-      "Emanuel Macron"
+      "Emmanuel Macron"
     ]
   },
   {
@@ -900,6 +1417,19 @@
       "Anderson Cooper",
       "Ethan Nordean",
       "MAGA Titan"
+    ]
+  },
+  {
+    "episode_number": "239",
+    "people": [
+      "Sundar Pichai",
+      "Jair Bolsonaro",
+      "Roger Stone",
+      "Michael Cohen",
+      "Mike Pompeo",
+      "Peter Thiel",
+      "Maria Butina",
+      "Gavin McInnes"
     ]
   },
   {
@@ -978,22 +1508,46 @@
   {
     "episode_number": "258",
     "people": [
-      "Sum Yung Moon",
+      "Sun Myung Moon",
       "Glenn Beck",
       "Naomi Wolf"
     ]
   },
   {
-    "coverage_date": "December 14, 2012",
-    "coverage_end_date": "December 14, 2012",
-    "coverage_start_date": "December 14, 2012",
-    "episode_number": "266"
+    "episode_number": "259",
+    "people": [
+      "Nancy Pelosi",
+      "Roger Stone",
+      "Wayne Allyn Root",
+      "Rod Rosenstein's sister",
+      "Ignaz Semmelweis",
+      "Edward Jenner",
+      "General Albert Stubblebine",
+      "Benton K Partin",
+      "William Gein",
+      "Ann Coulter"
+    ]
   },
   {
+    "episode_number": "262",
+    "people": [
+      "Big Jim Tucker",
+      "Clarence Thomas",
+      "Willis Carto",
+      "Adrian Salbucci"
+    ]
+  },
+  {
+    "episode_number": "266",
+    "coverage_date": "December 14, 2012",
+    "coverage_end_date": "December 14, 2012",
+    "coverage_start_date": "December 14, 2012"
+  },
+  {
+    "episode_number": "267",
     "coverage_date": "December 16, 2012",
     "coverage_end_date": "December 16, 2012",
-    "coverage_start_date": "December 16, 2012",
-    "episode_number": "267"
+    "coverage_start_date": "December 16, 2012"
   },
   {
     "episode_number": "269",
@@ -1014,7 +1568,7 @@
       "Eddie Bravo",
       "David Jones",
       "General Albert Stubblebine",
-      "Nick Beggich/Begitsh",
+      "Nick Begich",
       "Ralph Northam",
       "Wernher Von Braun",
       "Steve Pieczenik",
@@ -1059,10 +1613,10 @@
     ]
   },
   {
+    "episode_number": "274",
     "coverage_date": "February 27, 2019",
     "coverage_end_date": "February 27, 2019",
-    "coverage_start_date": "February 27, 2019",
-    "episode_number": "274"
+    "coverage_start_date": "February 27, 2019"
   },
   {
     "episode_number": "275",
@@ -1090,6 +1644,19 @@
       "Daryl Johnson",
       "Timothy McVeigh",
       "Obama"
+    ]
+  },
+  {
+    "episode_number": "277",
+    "people": [
+      "David Gray",
+      "PewDiePie",
+      "Candace Owens",
+      "Robert Evans",
+      "Maram Susli",
+      "Matt Bracken",
+      "Roger Stone",
+      "Stewart Rhodes"
     ]
   },
   {
@@ -1131,9 +1698,9 @@
       "Caryn",
       "Paul Collin",
       "Alex Jones",
-      "Kevin Daniel Moor",
+      "Kevin Moore",
       "William Robles",
-      "Lawyer Shapiro",
+      "Carl Shapiro",
       "Kevin Spacey",
       "Jan Michael Vincent"
     ]
@@ -1185,7 +1752,7 @@
       "Buckley Hamman",
       "Paul Joseph Watson",
       "Julian Assange",
-      "Nick Beggich",
+      "Nick Begich",
       "Lionel"
     ]
   },
@@ -1224,7 +1791,7 @@
       "Barbara Loe Fisher",
       "Aaron Dykes",
       "Ted Bundy",
-      "Professor James Tracy",
+      "James Tracy",
       "Charlie Sheen",
       "Denise Richards",
       "Ron Paul",
@@ -1242,7 +1809,7 @@
       "Doug Hagmann",
       "Gerald Celente",
       "Shepard Ambellas",
-      "Michele Dowry",
+      "Michelle Dowrey",
       "Bertrand Russell",
       "Michael Savage",
       "Buzz Bissinger",
@@ -1297,9 +1864,18 @@
   {
     "episode_number": "292",
     "people": [
-      "Obama Phone Lady",
       "Robby Parker",
       "Michelle Dowery"
+    ]
+  },
+  {
+    "episode_number": "296",
+    "people": [
+      "Anton LaVey",
+      "Casey Newton",
+      "Mark Dice",
+      "Dan Lyman",
+      "Tim Pool"
     ]
   },
   {
@@ -1345,6 +1921,25 @@
     ]
   },
   {
+    "episode_number": "299",
+    "people": [
+      "Owen Shroyer",
+      "Laura Loomer",
+      "Tommy Robinson",
+      "Mark Dice"
+    ]
+  },
+  {
+    "episode_number": "300",
+    "people": [
+      "Nigel Farage",
+      "Ilhan Omar",
+      "David Knight",
+      "Count Dankula",
+      "Jo Cox"
+    ]
+  },
+  {
     "episode_number": "301",
     "people": [
       "Piers Morgan",
@@ -1369,8 +1964,8 @@
       "Jim Fetzer",
       "Bill Ryan",
       "Jo Ann Richards",
-      "Simon Parks",
-      "Randy Kramer",
+      "Simon Parkes",
+      "Randy Cramer",
       "Steve D Kelly"
     ]
   },
@@ -1429,13 +2024,21 @@
     "people": [
       "Dr Cory Gold",
       "Piers Morgan",
-      "Joseph Farrah",
+      "Joseph Farah",
       "Christopher Dorner",
       "Chris Kyle",
       "Gregor Mendel",
       "Pioneer Research Scientist",
       "Al Gore",
       "Steven Mosher"
+    ]
+  },
+  {
+    "episode_number": "315",
+    "people": [
+      "Stewart Rhodes",
+      "Piers Morgan",
+      "David Clarke"
     ]
   },
   {
@@ -1464,8 +2067,6 @@
     ]
   },
   {
-    "coverage_end_date": "June 6, 2013",
-    "coverage_start_date": "June 9, 2013",
     "episode_number": "324",
     "people": [
       "DJ Danarchy",
@@ -1475,7 +2076,9 @@
       "Zecharia Sitchin",
       "David Icke",
       "James Fetzer"
-    ]
+    ],
+    "coverage_end_date": "June 6, 2013",
+    "coverage_start_date": "June 9, 2013"
   },
   {
     "episode_number": "327",
@@ -1511,6 +2114,29 @@
     ]
   },
   {
+    "episode_number": "333",
+    "people": [
+      "Norm Pattis",
+      "Greg Copolla",
+      "Zach Vorhies",
+      "Leo Zagami"
+    ]
+  },
+  {
+    "episode_number": "334",
+    "people": [
+      "Dan's Mom",
+      "Jayda Fransen",
+      "Carpe Donktum",
+      "Zach Vorhies",
+      "George Soros",
+      "Vox Day",
+      "Linda Thompson",
+      "Wiliam Danamyer",
+      "Rashida Tlaib"
+    ]
+  },
+  {
     "episode_number": "337",
     "people": [
       "James Lovelock",
@@ -1520,6 +2146,53 @@
       "Dan Crenshaw",
       "Paul Joseph Watson",
       "Lord Monckton"
+    ]
+  },
+  {
+    "episode_number": "338",
+    "people": [
+      "Professor Griff",
+      "Steve Pieczenik",
+      "HG Wells",
+      "Susan Collins",
+      "James Tracy",
+      "Mancow",
+      "JP Morgan"
+    ]
+  },
+  {
+    "episode_number": "342",
+    "people": [
+      "Tom Pappert",
+      "Larry Grathwohl",
+      "John Bolton",
+      "Craig Coffee",
+      "Trent Lira",
+      "Devin Will",
+      "Robert Barnes",
+      "Sebastian Gorka",
+      "William Binney",
+      "Paul Joseph Watson",
+      "Irene Valar",
+      "Jill Stanck",
+      "Dan Lyman"
+    ]
+  },
+  {
+    "episode_number": "343",
+    "people": [
+      "Pewdiepie",
+      "George Soros",
+      "Glenn Beck",
+      "David Schmecker",
+      "Dan Bongino",
+      "Michelle Dowrey",
+      "Steve Pieczenik",
+      "Chuck Baldwin",
+      "Greg Dixon",
+      "Melissa Harris Perry",
+      "Robby Parker",
+      "Adan Salazar"
     ]
   },
   {
@@ -1572,6 +2245,18 @@
     ]
   },
   {
+    "episode_number": "353",
+    "people": [
+      "Kerry Cassidy",
+      "Mark Richards",
+      "Randy Cramer",
+      "Serge Monast",
+      "J. Z. Knight",
+      "Dan Buresh",
+      "Kevin Moore"
+    ]
+  },
+  {
     "episode_number": "355",
     "people": [
       "Dan Bidondi",
@@ -1596,12 +2281,22 @@
     ]
   },
   {
+    "episode_number": "358",
+    "people": [
+      "Barack Obama",
+      "Donald Trump",
+      "Jesse James",
+      "Tom Arnold",
+      "Will Johnson"
+    ]
+  },
+  {
     "episode_number": "359",
     "people": [
       "George Noory",
       "Peter Breggan",
       "Alex Jones",
-      "Doug Haggman",
+      "Doug Hagmann",
       "Martin Keating"
     ]
   },
@@ -1640,6 +2335,15 @@
     ]
   },
   {
+    "episode_number": "365",
+    "people": [
+      "Paula White-Cain",
+      "Tammy Sue Bakker",
+      "Jim Bakker",
+      "Laurie Bakker"
+    ]
+  },
+  {
     "episode_number": "368",
     "people": [
       "W Cleon Skousen",
@@ -1647,7 +2351,7 @@
       "Fiona Hill",
       "Miles Kwok",
       "Roger Stone",
-      "Steve Piecizenik",
+      "Steve Pieczenik",
       "Michael Graves",
       "Mark Zaid",
       "Stewart Rhodes"
@@ -1667,6 +2371,17 @@
     ]
   },
   {
+    "episode_number": "371",
+    "people": [
+      "Kevin Moore",
+      "Kerry Cassidy",
+      "Mark Richards",
+      "Dolores Cannon",
+      "Nostradamus",
+      "Julia Cannon"
+    ]
+  },
+  {
     "episode_number": "372",
     "people": [
       "Tim Cook",
@@ -1674,6 +2389,34 @@
       "Benjamin Netanyahu",
       "Stephen Miller",
       "Tulsi Gabbard"
+    ]
+  },
+  {
+    "episode_number": "373",
+    "people": [
+      "Dan Bidondi",
+      "Tamerlan Tsarnaev",
+      "Dzhokhar Tsarnaev",
+      "Ahmad Salameh",
+      "Eric Holder",
+      "Kermit Gosenel",
+      "Joel Skousen",
+      "Steve Pieczenik",
+      "Mischa",
+      "Lindsey Williams",
+      "Saxby Chambliss"
+    ]
+  },
+  {
+    "episode_number": "374",
+    "people": [
+      "Sacha Baron Cohen",
+      "Zach Vorhies",
+      "George Soros",
+      "E. Michael Jones",
+      "Steven Miller",
+      "Dennis Prager",
+      "Pewdiepie"
     ]
   },
   {
@@ -1700,6 +2443,18 @@
     ]
   },
   {
+    "episode_number": "379",
+    "people": [
+      "Zach Vorhies",
+      "Paul Joseph Watson",
+      "Pewdiepie",
+      "Owen Shroyer",
+      "Will Johnson",
+      "Brett Kavanaugh",
+      "Joe Rogan"
+    ]
+  },
+  {
     "episode_number": "380",
     "people": [
       "Ruth Bader Ginsburg",
@@ -1709,6 +2464,44 @@
       "Jair Bolsonaro",
       "Anne Frank",
       "Kate Steinle"
+    ]
+  },
+  {
+    "episode_number": "382",
+    "people": [
+      "Steve Pieczenik",
+      "Michelle Wolf",
+      "Yitzhak Rabin",
+      "Jeffrey Epstein",
+      "Rudy Giuliani",
+      "Roger Stone",
+      "Joe Biden",
+      "Bill Ayers",
+      "George Soros",
+      "Richard Reeves"
+    ]
+  },
+  {
+    "episode_number": "384",
+    "people": [
+      "Steve Pieczenik",
+      "Ayatolah Khomeni",
+      "James Larratt Battersby",
+      "Qassem Soleimani",
+      "John Kerry",
+      "Seyed Mohammad Hosseini",
+      "Steve Haas",
+      "Maram Susli"
+    ]
+  },
+  {
+    "episode_number": "385",
+    "people": [
+      "Kate Blanchett",
+      "Ricky Gervais",
+      "Joaquin Phoenix",
+      "Joel Skousen",
+      "Chris Tanto Paronto"
     ]
   },
   {
@@ -1723,6 +2516,25 @@
     ]
   },
   {
+    "episode_number": "389",
+    "people": [
+      "Philip Van Cleave",
+      "Stewart Rhodes",
+      "Norman Spear",
+      "Tom Pappert",
+      "Bernie Sanders",
+      "Mike Adams",
+      "James O'Keefe",
+      "Kaitlin Bennett",
+      "Rudy Giuliani",
+      "Tim Cook",
+      "Ralph Northam",
+      "Michelle Wolf",
+      "Brian Stelter",
+      "Dave Mustaine"
+    ]
+  },
+  {
     "episode_number": "392",
     "people": [
       "Mike Adams",
@@ -1734,16 +2546,16 @@
       "Jonas Salk",
       "Albert Sabin",
       "Leonard Horowitz",
-      "Qasem Soleimani",
+      "Qassem Soleimani",
       "Jon Rappoport",
       "Norm Pattis"
     ]
   },
   {
+    "episode_number": "395",
     "coverage_date": "January 3, 2012",
     "coverage_end_date": "January 3, 2012",
-    "coverage_start_date": "January 3, 2012",
-    "episode_number": "395"
+    "coverage_start_date": "January 3, 2012"
   },
   {
     "episode_number": "396",
@@ -1786,6 +2598,22 @@
     ]
   },
   {
+    "episode_number": "400",
+    "people": [
+      "Robert David Steele",
+      "Kerry Cassidy",
+      "Dr Pete Peterson",
+      "Bill Ryan",
+      "David Willcock",
+      "Duncan O'Finioan",
+      "Randy Cramer",
+      "Mark Twain",
+      "Wernher Von Braun",
+      "Melania Trump",
+      "Vladimir Putin"
+    ]
+  },
+  {
     "episode_number": "401",
     "people": [
       "Roger Stone",
@@ -1818,7 +2646,7 @@
       "Owen Shroyer",
       "Nick Fuentes",
       "Ivan Rakelan",
-      "General Flynn's son",
+      "Mike Flynn Jr",
       "Gavin McInnes",
       "Jerome Bell"
     ]
@@ -1833,8 +2661,22 @@
       "Richard Nixon",
       "JFK",
       "Dwight D Eisenhower",
-      "Soleimani",
+      "Qassem Soleimani",
       "Sean David Morton"
+    ]
+  },
+  {
+    "episode_number": "408",
+    "people": [
+      "Tom Hanks",
+      "Mike Adams",
+      "Joel Skousen",
+      "Alexandria Ocasio-Cortez",
+      "Steve Pieczenik",
+      "Anthony Fauci",
+      "Milo Yiannopoulos",
+      "Roger Stone",
+      "Francis Boyle"
     ]
   },
   {
@@ -1853,7 +2695,7 @@
       "Jon Rappoport",
       "Steve Pieczenik",
       "E. Michael Jones",
-      "Charles Leiber"
+      "Charles Lieber"
     ]
   },
   {
@@ -1883,6 +2725,17 @@
     ]
   },
   {
+    "episode_number": "421",
+    "people": [
+      "Bill Gates",
+      "Anthony Fauci",
+      "David Knight",
+      "Charles Lieber",
+      "Isaac Ben Israel",
+      "Francis Boyle"
+    ]
+  },
+  {
     "episode_number": "424",
     "people": [
       "Joy Behar",
@@ -1897,7 +2750,9 @@
   },
   {
     "episode_number": "426",
-    "people": []
+    "people": [
+      "Donald Trump"
+    ]
   },
   {
     "episode_number": "428",
@@ -1911,6 +2766,21 @@
       "Mark Zuckerberg",
       "Marina Abramovi\u0107",
       "Fiona Hill"
+    ]
+  },
+  {
+    "episode_number": "430",
+    "people": [
+      "Michael Savage",
+      "David Knight",
+      "Ralph Northam",
+      "Calvin Munerlyn",
+      "Robert Barnes",
+      "Austin Steinbart",
+      "Tom Cotton",
+      "Bill Gates",
+      "Judy Mikovits",
+      "Tyler Nixon"
     ]
   },
   {
@@ -1933,9 +2803,9 @@
     ]
   },
   {
+    "episode_number": "434",
     "coverage_end_date": "April 21, 1995",
-    "coverage_start_date": "April 19, 1995",
-    "episode_number": "434"
+    "coverage_start_date": "April 19, 1995"
   },
   {
     "episode_number": "436",
@@ -1946,6 +2816,14 @@
       "Owen Shroyer",
       "Ahmaud Arbery",
       "Jason Goodman"
+    ]
+  },
+  {
+    "episode_number": "437",
+    "people": [
+      "Kerry Cassidy",
+      "Shepard Ambellas",
+      "Bill Ryan"
     ]
   },
   {
@@ -1960,6 +2838,23 @@
       "Bubba Wallace",
       "Carpe Donktum",
       "Bonnie Cutler"
+    ]
+  },
+  {
+    "episode_number": "450",
+    "people": [
+      "Bubba Wallace",
+      "Augusto Pinochet",
+      "Andrew Cuomo",
+      "Anthony Fauci",
+      "Clenard Childress",
+      "George Floyd",
+      "Hitler",
+      "Margaret Sanger",
+      "Joe Biden",
+      "Melinda Gates",
+      "Mary Ann Maxwell Gates",
+      "G Edward Griffin"
     ]
   },
   {
@@ -1987,6 +2882,17 @@
       "George Soros",
       "Darrel Rundus",
       "Rex Jones"
+    ]
+  },
+  {
+    "episode_number": "473",
+    "people": [
+      "Millie Weaver",
+      "Steve Bannon",
+      "Steve Pieczenik",
+      "DeAnna Lorraine",
+      "Tore (Terpsichore Lindeman)",
+      "Kaitlin Bennett"
     ]
   },
   {
@@ -2020,6 +2926,35 @@
       "Chad Praithen",
       "Peter Strzok",
       "Kyle Rittenhouse"
+    ]
+  },
+  {
+    "episode_number": "476",
+    "people": [
+      "Howard Hughes",
+      "Randy Cramer"
+    ]
+  },
+  {
+    "episode_number": "477",
+    "people": [
+      "Brian Stelter",
+      "Maram Susli",
+      "DeAnna Lorraine"
+    ]
+  },
+  {
+    "episode_number": "480",
+    "people": [
+      "Mark Zuckerberg",
+      "Nancy Pelosi",
+      "Colin Kaepernick",
+      "Bill Gates",
+      "Kanye West",
+      "Shane Steiner",
+      "Bob Woodward",
+      "Roger Stone",
+      "Steve Pieczenik"
     ]
   },
   {
@@ -2062,10 +2997,10 @@
     ]
   },
   {
+    "episode_number": "497",
     "coverage_date": "October 27, 2020",
     "coverage_end_date": "October 27, 2020",
-    "coverage_start_date": "October 27, 2020",
-    "episode_number": "497"
+    "coverage_start_date": "October 27, 2020"
   },
   {
     "episode_number": "500",
@@ -2107,6 +3042,19 @@
     ]
   },
   {
+    "episode_number": "506",
+    "people": [
+      "James Trainor",
+      "Bill Gates",
+      "Joe Biden",
+      "Kamala Harris",
+      "Ted Turner",
+      "Boris Johnson",
+      "Patrick Byrne",
+      "David Icke"
+    ]
+  },
+  {
     "episode_number": "507",
     "people": [
       "Kerry Cassidy",
@@ -2122,7 +3070,7 @@
       "Eric Metaxes",
       "Rob Weaver",
       "Arina Grossu",
-      "Sydney Powell",
+      "Sidney Powell",
       "Mike Lindell",
       "General Michael Flynn",
       "Ali Alexander",
@@ -2168,16 +3116,16 @@
       "Steve Pieczenik",
       "Baldy in Florida",
       "Roger Stone",
-      "John Robert",
+      "John Roberts",
       "David Icke's son",
       "Howard Stern"
     ]
   },
   {
+    "episode_number": "514",
     "coverage_date": "December 25, 2020",
     "coverage_end_date": "December 25, 2020",
-    "coverage_start_date": "December 25, 2020",
-    "episode_number": "514"
+    "coverage_start_date": "December 25, 2020"
   },
   {
     "episode_number": "515",
@@ -2207,9 +3155,6 @@
     ]
   },
   {
-    "coverage_date": "##REMOVE##",
-    "coverage_end_date": "January 6, 2021",
-    "coverage_start_date": "January 5, 2021",
     "episode_number": "517",
     "people": [
       "Owen Shroyer",
@@ -2232,7 +3177,10 @@
       "Ali Alexander",
       "Lucian Wintrich",
       "Matthew Foster"
-    ]
+    ],
+    "coverage_date": "##REMOVE##",
+    "coverage_end_date": "January 6, 2021",
+    "coverage_start_date": "January 5, 2021"
   },
   {
     "episode_number": "518",
@@ -2256,7 +3204,7 @@
       "Robert Barnes",
       "Mike Adams",
       "Mike Pompeo",
-      "Sydney Powell",
+      "Sidney Powell",
       "Justin Trudeau"
     ]
   },
@@ -2334,6 +3282,12 @@
     ]
   },
   {
+    "episode_number": "532",
+    "people": [
+      "Barack Obama"
+    ]
+  },
+  {
     "episode_number": "539",
     "people": [
       "Harrison Smith",
@@ -2354,10 +3308,10 @@
     ]
   },
   {
+    "episode_number": "544",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "544"
+    ]
   },
   {
     "episode_number": "545",
@@ -2384,10 +3338,10 @@
     ]
   },
   {
+    "episode_number": "548",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "548"
+    ]
   },
   {
     "episode_number": "551",
@@ -2409,10 +3363,10 @@
     ]
   },
   {
+    "episode_number": "552",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "552"
+    ]
   },
   {
     "episode_number": "553",
@@ -2427,21 +3381,18 @@
     ]
   },
   {
+    "episode_number": "555",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "555"
+    ]
   },
   {
+    "episode_number": "558",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "558"
+    ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "560",
     "people": [
       "Freddie Scappaticci",
@@ -2451,6 +3402,9 @@
       "Craig Roberts",
       "Chandra Levy",
       "Texe Marrs"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
@@ -2465,16 +3419,16 @@
     ]
   },
   {
+    "episode_number": "564",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "564"
+    ]
   },
   {
+    "episode_number": "566",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "566"
+    ]
   },
   {
     "episode_number": "567",
@@ -2491,7 +3445,7 @@
     "people": [
       "Nick Fuentes",
       "Pete Santilli",
-      "Steve Pieczinek",
+      "Steve Pieczenik",
       "Merrick Garland",
       "Xi Jinping",
       "Narendra Modi",
@@ -2512,10 +3466,10 @@
     ]
   },
   {
+    "episode_number": "571",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "571"
+    ]
   },
   {
     "episode_number": "572",
@@ -2525,20 +3479,17 @@
       "Robert Barnes",
       "Dr Robert Strang",
       "Jesse Ventura",
-      "Rima Laibow",
+      "Dr Rima Laibow",
       "Rob Dew"
     ]
   },
   {
+    "episode_number": "574",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "574"
+    ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "579",
     "people": [
       "Bill Clinton",
@@ -2548,13 +3499,16 @@
       "Big Jim Tucker",
       "William Still",
       "Frank Doral"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
+    "episode_number": "581",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "581"
+    ]
   },
   {
     "episode_number": "583",
@@ -2566,20 +3520,58 @@
     ]
   },
   {
+    "episode_number": "585",
+    "people": [
+      "Anthony Fauci",
+      "Bill Gates",
+      "Paul Ehrlich",
+      "Paul R Ehrlich"
+    ]
+  },
+  {
     "episode_number": "587",
-    "people": []
+    "people": [
+      "Bill Gates",
+      "Mike Lindell"
+    ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
-    "episode_number": "591"
+    "episode_number": "589",
+    "people": [
+      "Owen Shroyer",
+      "John Daniel Hull",
+      "Hillary Clinton",
+      "Justin Trudeau",
+      "King Arthur",
+      "Mike Lindell",
+      "Dennis Montgomery",
+      "Rich Wiles",
+      "Obama",
+      "Kamala Harris",
+      "Roger Stone",
+      "Matthew Baker"
+    ]
   },
   {
+    "episode_number": "591",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "592"
+    ]
+  },
+  {
+    "episode_number": "592",
+    "categories": [
+      "2003 Investigation"
+    ]
+  },
+  {
+    "episode_number": "594",
+    "people": [
+      "Barry Goldwater",
+      "Zell Miller",
+      "Robert Santella",
+      "Stella Immanuel"
+    ]
   },
   {
     "episode_number": "595",
@@ -2604,10 +3596,22 @@
     ]
   },
   {
+    "episode_number": "598",
+    "people": [
+      "Tim Enlow",
+      "Klaus Schwab",
+      "Stephen Guffanti"
+    ]
+  },
+  {
+    "episode_number": "599",
+    "people": [
+      "G Gordon Liddy",
+      "Michael Savage"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "599"
+    ]
   },
   {
     "episode_number": "600",
@@ -2619,10 +3623,10 @@
     ]
   },
   {
+    "episode_number": "601",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "601"
+    ]
   },
   {
     "episode_number": "603",
@@ -2639,38 +3643,38 @@
       "Scott McKay",
       "Kyrsten Sinema",
       "Thomas Renz",
-      "Wayne Allen Root"
+      "Wayne Allyn Root"
     ]
   },
   {
+    "episode_number": "605",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "605"
+    ]
   },
   {
+    "episode_number": "606",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "606"
+    ]
   },
   {
+    "episode_number": "610",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "610"
+    ]
   },
   {
+    "episode_number": "613",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "613"
+    ]
   },
   {
+    "episode_number": "617",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "617"
+    ]
   },
   {
     "episode_number": "618",
@@ -2706,25 +3710,25 @@
     ]
   },
   {
+    "episode_number": "622",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "622"
+    ]
   },
   {
+    "episode_number": "623",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "623"
+    ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
+    "episode_number": "628",
     "coverage_date": "July 10, 2003",
     "coverage_end_date": "July 10, 2003",
     "coverage_start_date": "July 10, 2003",
-    "episode_number": "628"
+    "categories": [
+      "2003 Investigation"
+    ]
   },
   {
     "episode_number": "629",
@@ -2739,10 +3743,56 @@
     ]
   },
   {
+    "episode_number": "632",
+    "people": [
+      "Candace Owens",
+      "Ezra Levant",
+      "Robert Malone",
+      "Michael Yeadon",
+      "Sucharit Backti",
+      "Anderson Cooper",
+      "Bill Gates",
+      "Aaron Rogers",
+      "Rand Paul",
+      "Harry Reid",
+      "Steve Kirsch"
+    ]
+  },
+  {
+    "episode_number": "633",
+    "people": [
+      "Rand Paul",
+      "Joe Rogan",
+      "Tucker Carlson",
+      "Ghislaine Maxwell",
+      "Cenk Uygur",
+      "Aaron Russo",
+      "Bette Midler",
+      "Jeff Bezos"
+    ]
+  },
+  {
+    "episode_number": "634",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "634"
+    ]
+  },
+  {
+    "episode_number": "637",
+    "people": [
+      "Stewart Rhodes",
+      "Ali Alexander",
+      "CS Lewis",
+      "Klaus Schwab",
+      "Paul Joseph Watson",
+      "Harrison Smith",
+      "Tucker Carlson",
+      "Jonathan Mosely",
+      "Norm Pattis",
+      "Ray Epps",
+      "Joe Rogan",
+      "Merrick Garland"
+    ]
   },
   {
     "episode_number": "638",
@@ -2805,7 +3855,7 @@
       "Ted Anderson",
       "Joel Skousen",
       "Anthony Fauci",
-      "Wayne Allen Root"
+      "Wayne Allyn Root"
     ]
   },
   {
@@ -2818,10 +3868,10 @@
     ]
   },
   {
+    "episode_number": "650",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "650"
+    ]
   },
   {
     "episode_number": "651",
@@ -2837,373 +3887,682 @@
     ]
   },
   {
+    "episode_number": "655",
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "655"
+    ]
   },
   {
+    "episode_number": "656",
+    "people": [
+      "Glenn Beck",
+      "Melinda Gates",
+      "Vladimir Putin",
+      "Tucker Carlson"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "656"
+    ]
   },
   {
+    "episode_number": "657",
+    "people": [
+      "Ben Shapiro",
+      "Bill Ogden",
+      "David Icke",
+      "David Knight",
+      "Elizabeth Williamson",
+      "Jim Carrey",
+      "Jim Fetzer",
+      "Leonard Pozner",
+      "Roger Stone"
+    ],
     "categories": [
       "Knowledge Fight Interview"
-    ],
-    "episode_number": "657"
+    ]
   },
   {
+    "episode_number": "658",
+    "people": [
+      "Marjorie Taylor Greene",
+      "Mitch McConnell",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Russell Brand",
+      "Thomas Jefferson",
+      "Donald Trump",
+      "Matt Gaetz",
+      "Vladimir Putin"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "658"
+    ]
   },
   {
+    "episode_number": "659",
+    "people": [
+      "David Kelly",
+      "Tony Blair"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "659"
+    ]
   },
   {
+    "episode_number": "660",
+    "people": [
+      "David Icke",
+      "Barack Obama",
+      "Dan Bidondi"
+    ],
     "categories": [
       "Time Travel"
-    ],
-    "episode_number": "660"
+    ]
   },
   {
+    "episode_number": "661",
+    "people": [
+      "Arnold Schwarzenegger",
+      "Barack Obama",
+      "Francis Boyle",
+      "Harrison Smith",
+      "Mike Tyson",
+      "Nick Fuentes",
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "661"
+    ]
   },
   {
+    "episode_number": "662",
+    "people": [
+      "Barack Obama",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Russell Brand"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "662"
+    ]
   },
   {
+    "episode_number": "663",
+    "people": [
+      "John Oliver"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "663"
+    ]
   },
   {
+    "episode_number": "664",
+    "people": [
+      "Bill Ogden",
+      "Jussie Smollett",
+      "Kit Daniels",
+      "Paul Joseph Watson",
+      "Donald Trump"
+    ],
     "categories": [
       "Formulaic Objections"
-    ],
-    "episode_number": "664"
+    ]
   },
   {
+    "episode_number": "665",
+    "people": [
+      "Donald Trump",
+      "Megyn Kelly",
+      "Owen Shroyer",
+      "Kit Daniels",
+      "Bill Ogden",
+      "Wolfgang Halbig"
+    ],
     "categories": [
       "Formulaic Objections"
-    ],
-    "episode_number": "665"
+    ]
   },
   {
+    "episode_number": "666",
+    "people": [
+      "Kevin McCarthy",
+      "Mike Lindell",
+      "Roger Stone",
+      "DJ Danarchy",
+      "Madison Cawthorn"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "666"
+    ]
   },
   {
+    "episode_number": "667",
+    "people": [
+      "Al Franken",
+      "Arnold Schwarzenegger",
+      "Michael Savage",
+      "Ross Perot",
+      "Donald Trump"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "667"
+    ]
   },
   {
+    "episode_number": "668",
+    "people": [
+      "Jussie Smollett",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Dan Bidondi"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "668"
+    ]
   },
   {
+    "episode_number": "669",
+    "people": [
+      "Laura Loomer",
+      "Mike Lindell",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Donald Trump",
+      "John F. Kennedy Jr."
+    ],
     "categories": [
       "Knowledge Fight Interview"
-    ],
-    "episode_number": "669"
+    ]
   },
   {
+    "episode_number": "670",
+    "people": [
+      "Willie Nelson",
+      "Matt Drudge"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "670"
+    ]
   },
   {
+    "episode_number": "671",
+    "people": [
+      "Ali Alexander",
+      "Kevin McCarthy",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Brian Stelter"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "671"
+    ]
   },
   {
+    "episode_number": "672",
+    "people": [
+      "Jimmy Dore"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "672"
+    ]
   },
   {
+    "episode_number": "673",
+    "people": [],
     "categories": [
       "Jordan Takes the Wheel"
-    ],
-    "episode_number": "673"
+    ]
   },
   {
+    "episode_number": "674",
+    "people": [],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "674"
+    ]
   },
   {
+    "episode_number": "675",
+    "people": [
+      "Julian Huxley",
+      "Roger Stone",
+      "Tucker Carlson"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "675"
+    ]
   },
   {
+    "episode_number": "676",
+    "people": [
+      "Bill Gates",
+      "John Lennon",
+      "Roger Stone"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "676"
+    ]
   },
   {
+    "episode_number": "677",
+    "people": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "677"
+    ]
   },
   {
+    "episode_number": "678",
+    "people": [
+      "Arnold Schwarzenegger",
+      "Michael Savage"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "678"
+    ]
   },
   {
+    "episode_number": "679",
+    "people": [
+      "John Roberts",
+      "Marjorie Taylor Greene",
+      "Roger Stone",
+      "Donald Trump"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "679"
+    ]
   },
   {
+    "episode_number": "680",
+    "people": [
+      "John Wayne"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "680"
+    ]
   },
   {
+    "episode_number": "681",
+    "people": [
+      "Robert Barnes",
+      "George Soros"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "681"
+    ]
   },
   {
+    "episode_number": "682",
+    "people": [
+      "Mike Adams",
+      "Donald Trump"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "682"
+    ]
   },
   {
+    "episode_number": "683",
+    "people": [
+      "Donald Trump"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "683"
+    ]
   },
   {
+    "episode_number": "684",
+    "people": [
+      "Bill Gates"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "684"
+    ]
   },
   {
+    "episode_number": "685",
+    "people": [
+      "Charlie Sheen",
+      "Jim Fetzer",
+      "Lee Ann McAdoo",
+      "Leonard Pozner",
+      "Mark Bankston",
+      "Owen Shroyer",
+      "Ted Anderson",
+      "Bill Ogden",
+      "Jacquelyn Blott",
+      "Kurt Nimmo",
+      "Norm Pattis",
+      "Wolfgang Halbig",
+      "Brittany Paz",
+      "Darren McBreen",
+      "Kit Daniels"
+    ],
     "categories": [
       "Formulaic Objections"
-    ],
-    "episode_number": "685"
+    ]
   },
   {
+    "episode_number": "686",
+    "people": [
+      "Mark Richards",
+      "Vladimir Putin",
+      "Wernher Von Braun"
+    ],
     "categories": [
       "Project Camelot",
       "Wacky Wednesday"
-    ],
-    "episode_number": "686"
+    ]
   },
   {
+    "episode_number": "687",
+    "people": [
+      "Donald Trump",
+      "Owen Shroyer",
+      "Ted Nugent"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "687"
+    ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "688",
     "people": [
       "Thomas Renz"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
+    "episode_number": "689",
+    "people": [
+      "Tim Enlow"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "689"
+    ]
   },
   {
+    "episode_number": "690",
+    "people": [
+      "Michael Moore",
+      "Mike Lindell",
+      "Mitch McConnell",
+      "Ted Nugent"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "690"
+    ]
   },
   {
+    "episode_number": "691",
+    "people": [
+      "Peter Thiel"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "691"
+    ]
   },
   {
+    "episode_number": "692",
+    "people": [
+      "Dennis Rodman",
+      "Mike Tyson",
+      "Piers Morgan",
+      "Vladimir Putin",
+      "Robert F. Kennedy Jr.",
+      "Donald Trump"
+    ],
     "categories": [
       "InfoWars Interview"
-    ],
-    "episode_number": "692"
+    ]
   },
   {
+    "episode_number": "693",
+    "people": [
+      "Alan Keyes",
+      "Mel Gibson"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "693"
+    ]
   },
   {
+    "episode_number": "694",
+    "people": [
+      "Gary Busey",
+      "Hutton Gibson",
+      "World Net Daily",
+      "Joseph Farah"
+    ],
     "categories": [
       "Time Travel",
       "2003 Investigation"
-    ],
-    "episode_number": "694"
-  },
-  {
-    "categories": [
-      "Present Day"
-    ],
-    "episode_number": "695"
-  },
-  {
-    "categories": [
-      "Present Day"
-    ],
-    "episode_number": "696"
-  },
-  {
-    "categories": [
-      "Present Day"
-    ],
-    "episode_number": "697"
-  },
-  {
-    "categories": [
-      "Project Camelot",
-      "Wacky Wednesday"
-    ],
-    "episode_number": "698",
-    "people": [
-      "Solomon Berg"
     ]
   },
   {
+    "episode_number": "695",
+    "people": [
+      "Donald Trump",
+      "Leo Zagami",
+      "Paul Joseph Watson",
+      "Roger Stone",
+      "Rudy Giuliani",
+      "Scott Adams"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "699"
+    ]
   },
   {
+    "episode_number": "696",
+    "people": [
+      "Nancy Pelosi",
+      "David Knight"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "700"
+    ]
   },
   {
+    "episode_number": "697",
+    "people": [
+      "Alex Stein",
+      "Donald Trump",
+      "Gavin McInnes",
+      "Vladimir Putin",
+      "Robert F. Kennedy Jr.",
+      "Roger Stone",
+      "Mitch McConnell"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "698",
+    "people": [
+      "Solomon Berg"
+    ],
+    "categories": [
+      "Project Camelot",
+      "Wacky Wednesday"
+    ]
+  },
+  {
+    "episode_number": "699",
+    "people": [
+      "Dwight D Eisenhower",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "700",
+    "people": [
+      "Marjorie Taylor Greene",
+      "Ted Turner",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "701",
+    "people": [
+      "Michael Moore",
+      "Randy Weaver"
+    ],
     "categories": [
       "Time Travel"
-    ],
-    "episode_number": "701"
+    ]
   },
   {
+    "episode_number": "702",
+    "people": [
+      "Bill Gates",
+      "Hunter Biden",
+      "Donald Trump"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "702"
+    ]
   },
   {
-    "categories": [
-      "Time Travel"
+    "episode_number": "703",
+    "people": [
+      "Saddam Hussein"
     ],
     "coverage_date": "September 11, 2001",
     "coverage_end_date": "September 11, 2001",
     "coverage_start_date": "September 11, 2001",
-    "episode_number": "703"
-  },
-  {
     "categories": [
       "Time Travel"
+    ]
+  },
+  {
+    "episode_number": "704",
+    "people": [
+      "Carl Sagan",
+      "Mika Brzezinski",
+      "Osama Bin Laden"
     ],
     "coverage_date": "September 11, 2001",
     "coverage_end_date": "September 11, 2001",
     "coverage_start_date": "September 11, 2001",
-    "episode_number": "704"
+    "categories": [
+      "Time Travel"
+    ]
   },
   {
+    "episode_number": "705",
+    "people": [
+      "Donald Trump",
+      "Glenn Greenwald",
+      "Roger Stone",
+      "Steve Bannon",
+      "Dan Bidondi"
+    ],
     "categories": [
       "Wacky Wednesday"
-    ],
-    "episode_number": "705"
+    ]
   },
   {
+    "episode_number": "706",
+    "people": [],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "706"
+    ]
   },
   {
+    "episode_number": "707",
+    "people": [
+      "Bill Cooper",
+      "Ali Alexander",
+      "Donald Trump",
+      "Gary Allen",
+      "Glenn Greenwald"
+    ],
     "categories": [
       "Documentary"
-    ],
-    "episode_number": "707"
+    ]
   },
   {
+    "episode_number": "708",
+    "people": [
+      "Bryson Gray",
+      "Hunter Biden",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "709",
+    "people": [
+      "Alex Lee Moyer",
+      "David Icke",
+      "Glenn Greenwald",
+      "Jussie Smollett",
+      "Mike Hanson",
+      "Owen Shroyer",
+      "Donald Trump",
+      "Barack Obama"
+    ],
     "categories": [
       "Documentary"
-    ],
-    "episode_number": "709"
+    ]
   },
   {
+    "episode_number": "710",
+    "people": [],
     "categories": [
       "Knowledge Fight Interview"
-    ],
-    "episode_number": "710"
+    ]
   },
   {
+    "episode_number": "711",
+    "people": [
+      "Eric Holder"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "711"
+    ]
   },
   {
+    "episode_number": "712",
+    "people": [
+      "Robert Barnes",
+      "Eric Holder",
+      "Mark Bankston",
+      "Bill Ogden"
+    ],
     "categories": [
       "Formulaic Objections",
       "Knowledge Fight Interview"
-    ],
-    "episode_number": "712"
+    ]
   },
   {
+    "episode_number": "713",
+    "people": [
+      "Dave Rubin",
+      "Glenn Greenwald",
+      "Tucker Carlson",
+      "Steve Pieczenik"
+    ],
     "categories": [
       "Knowledge Fight Interview"
-    ],
-    "episode_number": "713"
+    ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "714",
     "people": [
       "Howard Stern",
@@ -3214,12 +4573,12 @@
       "James Tracy",
       "Paul Joseph Watson",
       "Megyn Kelly"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "715",
     "people": [
       "Mike Lindell",
@@ -3231,12 +4590,12 @@
       "Roger Stone",
       "Dick Cheney",
       "Ben Shapiro"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Time Travel"
-    ],
     "episode_number": "716",
     "people": [
       "Glenn Beck",
@@ -3245,36 +4604,36 @@
       "Vladimir Putin",
       "Rush Limbaugh",
       "Charlie Sheen"
+    ],
+    "categories": [
+      "Time Travel"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "717",
     "people": [
       "Donald Trump",
       "Aaron Russo",
       "Laura Loomer",
       "Savannah Hernandez"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "718",
     "people": [
       "Vladimir Putin",
       "Aleksandr Dugin",
       "Glenn Beck",
       "Greg Reese"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "719",
     "people": [
       "Brian Stelter",
@@ -3284,60 +4643,65 @@
       "Glenn Greenwald",
       "Tucker Carlson",
       "George Washington"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "720",
     "people": [
       "Omar al-Faruq",
       "Jim Shepherd"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
+    "episode_number": "721",
+    "people": [
+      "Donald Trump",
+      "Laura Loomer",
+      "Thomas Jefferson"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "721"
+    ]
   },
   {
-    "categories": [
-      "Project Camelot",
-      "Wacky Wednesday"
-    ],
     "episode_number": "722",
     "people": [
       "Solomon Berg"
+    ],
+    "categories": [
+      "Project Camelot",
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "723",
     "people": [
       "Prince Charles",
       "Andrew Tate",
       "Harrison Smith",
       "David Knight"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "724",
     "people": [
       "Paul Joseph Watson",
       "David Kelly"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "725",
     "people": [
       "Donald Trump",
@@ -3350,12 +4714,12 @@
       "Robert Barnes",
       "Roger Stone",
       "Ron DeSantis"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "726",
     "people": [
       "Dennis Montgomery",
@@ -3365,92 +4729,92 @@
       "Laura Loomer",
       "Mike Lindell",
       "Klaus Schwab"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "727",
     "people": [
       "Sebastian Murdoch",
       "Owen Shroyer",
       "Mark Bankston"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "728",
     "people": [
       "Elizabeth Williamson",
       "Matthew Mills"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "729",
     "people": [
       "Robert Barnes",
       "Elizabeth Williamson",
       "Norm Pattis"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "730",
     "people": [
       "John Anderson",
       "Paul Revere",
       "Arnold Schwarzenegger",
       "Mel Gibson"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "731",
     "people": [
       "Robert Owens",
       "Robert Welch",
       "Joel Skousen",
       "Ted Nugent"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day",
-      "Formulaic Objections"
-    ],
-    "coverage_date": "##REMOVE##",
-    "coverage_end_date": "October 6, 2022",
-    "coverage_start_date": "October 4, 2022",
     "episode_number": "732",
     "people": [
       "Robert Barnes",
       "Bill Ogden",
       "Wolfgang Halbig"
+    ],
+    "coverage_date": "##REMOVE##",
+    "coverage_end_date": "October 6, 2022",
+    "coverage_start_date": "October 4, 2022",
+    "categories": [
+      "Present Day",
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "733",
     "people": [
       "Vladimir Putin"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "734",
     "people": [
       "Donald Trump",
@@ -3459,12 +4823,12 @@
       "Kanye West",
       "Tucker Carlson",
       "Aaron Russo"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "735",
     "people": [
       "Robert Barnes",
@@ -3474,38 +4838,37 @@
       "David Icke",
       "David Knight",
       "Harrison Smith"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview",
-      "Formulaic Objections"
-    ],
     "episode_number": "736",
     "people": [
       "Mark Bankston",
       "Robert Barnes",
       "Norm Pattis",
       "Andino Reynal"
-    ]
-  },
-  {
+    ],
     "categories": [
       "Knowledge Fight Interview",
       "Formulaic Objections"
-    ],
+    ]
+  },
+  {
     "episode_number": "737",
     "people": [
       "Elizabeth Williamson",
       "Robbie Parker",
       "Jon Ronson"
+    ],
+    "categories": [
+      "Knowledge Fight Interview",
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Present Day",
-      "InfoWars Interview"
-    ],
     "episode_number": "738",
     "people": [
       "Steven Crowder",
@@ -3514,12 +4877,13 @@
       "Stefan Molyneux",
       "Robert Barnes",
       "Glenn Greenwald"
+    ],
+    "categories": [
+      "Present Day",
+      "InfoWars Interview"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "739",
     "people": [
       "Chris Mattei",
@@ -3530,15 +4894,12 @@
       "Jon Rappoport",
       "John Brown",
       "Paul Joseph Watson"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
-    "coverage_date": "August 13, 2003",
-    "coverage_end_date": "August 13, 2003",
-    "coverage_start_date": "August 13, 2003",
     "episode_number": "740",
     "people": [
       "Arnold Schwarzenegger",
@@ -3547,12 +4908,15 @@
       "Willie Brown",
       "Nick Fuentes",
       "Piers Morgan"
+    ],
+    "coverage_date": "August 13, 2003",
+    "coverage_end_date": "August 13, 2003",
+    "coverage_start_date": "August 13, 2003",
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Time Travel"
-    ],
     "episode_number": "741",
     "people": [
       "Donald Trump",
@@ -3565,12 +4929,12 @@
       "Ben Carson",
       "Harrison Smith",
       "Joe Biggs"
+    ],
+    "categories": [
+      "Time Travel"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "742",
     "people": [
       "Chris Mattei",
@@ -3580,24 +4944,24 @@
       "Madeleine Albright",
       "Wolfgang Halbig",
       "Howard Stern"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "743",
     "people": [
       "Paul Pelosi",
       "Nancy Pelosi",
       "Glenn Greenwald",
       "Harrison Smith"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "744",
     "people": [
       "Drew Hernandez",
@@ -3606,12 +4970,12 @@
       "Barack Obama",
       "Klaus Schwab",
       "Bill Gates"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "745",
     "people": [
       "Chris Mattei",
@@ -3619,12 +4983,12 @@
       "Rob Jacobson",
       "Glenn Beck",
       "Robbie Parker"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "746",
     "people": [
       "Owen Shroyer",
@@ -3643,12 +5007,12 @@
       "David Icke",
       "Marjorie Taylor Greene",
       "Charlie Kirk"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "747",
     "people": [
       "Donald Trump",
@@ -3657,12 +5021,12 @@
       "Owen Shroyer",
       "Herschel Walker",
       "Kent Heckenlively"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "748",
     "people": [
       "Donald Trump",
@@ -3670,33 +5034,33 @@
       "Roger Stone",
       "Ron DeSantis",
       "Harrison Smith"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "749",
     "people": [
       "Michael Savage",
       "Eric Huff Schmidt"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "750",
     "people": [
       "David Jones",
       "Chris Mattei",
       "Norm Pattis"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "751",
     "people": [
       "Owen Shroyer",
@@ -3709,12 +5073,12 @@
       "Klaus Schwab",
       "Ron DeSantis",
       "Thomas Jefferson"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "752",
     "people": [
       "Nick Fuentes",
@@ -3729,165 +5093,188 @@
       "Steven Crowder",
       "Bill O'Reilly",
       "Luke Rudkowski"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "753",
     "people": [
       "Nick Fuentes",
       "Kanye West"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "754",
     "people": [
       "Dan Bidondi",
       "Chris Mattei",
       "Wolfgang Halbig"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "755",
     "people": [
       "Kanye West",
       "Nick Fuentes",
       "Gavin McInnes",
       "Steven Crowder"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "756",
     "people": [
       "Paul Joseph Watson",
       "Vladimir Putin",
       "Bill Cooper"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "757",
     "people": [
       "Nick Fuentes"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
+    "episode_number": "758",
+    "people": [
+      "Chuck Norris"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "758",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "759",
     "people": [
       "Morgan Stringer"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "760",
-    "people": []
-  },
-  {
+    "people": [
+      "Larry Pratt",
+      "Mel Gibson",
+      "Vladimir Putin"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "761",
-    "people": []
+    ]
   },
   {
+    "episode_number": "761",
+    "people": [
+      "G Edward Griffin",
+      "Phyllis Schlafly",
+      "Donald Trump"
+    ],
+    "categories": [
+      "2003 Investigation"
+    ]
+  },
+  {
+    "episode_number": "762",
+    "people": [
+      "Bill Gates",
+      "Dwight D Eisenhower",
+      "Vladimir Putin"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "762",
-    "people": []
+    ]
   },
   {
+    "episode_number": "763",
+    "people": [
+      "Saddam Hussein",
+      "DJ Danarchy"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "763",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Jordan Takes the Wheel"
-    ],
     "episode_number": "764",
     "people": [
       "Whitley Strieber",
       "Joshua Cutchin"
+    ],
+    "categories": [
+      "Jordan Takes the Wheel"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "765",
     "people": [
       "Chris Mattei",
-      "Tim Fruge",
+      "Timothy Fruge",
       "Norm Pattis"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
+    "episode_number": "766",
+    "people": [
+      "Howard Dean",
+      "Vladimir Putin",
+      "Ray McGovern",
+      "Saddam Hussein",
+      "Donald Trump"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "766",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "767",
     "people": [
       "Piers Morgan",
       "Marjorie Taylor Greene"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "768",
     "people": [
       "Rob Jacobson",
       "Mark Bankston",
       "Mark Enoch"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
+    "episode_number": "769",
+    "people": [],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "769",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "770",
     "people": [
       "Steven Crowder",
@@ -3898,21 +5285,21 @@
       "Glenn Beck",
       "Harrison Smith",
       "Piers Morgan"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Formulaic Objections"
-    ],
     "episode_number": "771",
     "people": [
       "Rob Dew"
+    ],
+    "categories": [
+      "Formulaic Objections"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "772",
     "people": [
       "Michael Jackson",
@@ -3921,30 +5308,30 @@
       "Dennis Montgomery",
       "Bill Cooper",
       "Michael Moore"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "773",
     "people": [
       "Greg Reese"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "774",
     "people": [
       "Owen Benjamin"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "775",
     "people": [
       "Mike Adams",
@@ -3955,12 +5342,12 @@
       "David Rockefeller",
       "Charlie Kirk",
       "General Michael Flynn"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "776",
     "people": [
       "Matt Baker",
@@ -3972,12 +5359,12 @@
       "James O'Keefe",
       "Bill Gates",
       "Bill Hicks"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Project Camelot"
-    ],
     "episode_number": "777",
     "people": [
       "Donald Trump",
@@ -3986,12 +5373,12 @@
       "Penny La Shepard",
       "Bill Gates",
       "Jim Fetzer"
+    ],
+    "categories": [
+      "Project Camelot"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "778",
     "people": [
       "Howard Dean",
@@ -4000,12 +5387,12 @@
       "Sean Bradley",
       "Brett Bersih",
       "Bill Ayers"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "779",
     "people": [
       "Glenn Spencer",
@@ -4015,70 +5402,76 @@
       "Joel Skousen",
       "Kevin McDonald",
       "David Kelly"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "780",
     "people": [
       "Vladimir Putin",
       "Donald Trump",
       "Mike Adams"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "781",
     "people": [
       "Will Sommer"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
+    "episode_number": "782",
+    "people": [
+      "Bill Maher",
+      "Howard Dean",
+      "Donald Trump",
+      "Cenk Uygur"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "782",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Live Show",
-      "Time Travel"
-    ],
     "episode_number": "783",
     "people": [
       "Ron Paul",
       "Ted Anderson",
       "Antonella Carpenter"
+    ],
+    "categories": [
+      "Live Show",
+      "Time Travel"
     ]
   },
   {
+    "episode_number": "784",
+    "people": [
+      "David Knight"
+    ],
     "categories": [
       "Live Show",
       "2003 Investigation"
-    ],
-    "episode_number": "784",
-    "people": []
-  },
-  {
-    "categories": [
-      "Present Day",
-      "InfoWars Interview"
-    ],
-    "episode_number": "785",
-    "people": [
-      "Roseanne Barr"
     ]
   },
   {
+    "episode_number": "785",
+    "people": [
+      "Roseanne Barr"
+    ],
     "categories": [
       "Present Day",
       "InfoWars Interview"
-    ],
+    ]
+  },
+  {
     "episode_number": "786",
     "people": [
       "Joe Biggs",
@@ -4088,80 +5481,81 @@
       "Gavin McInnes",
       "Joe Arpaio",
       "Roger Stone"
+    ],
+    "categories": [
+      "Present Day",
+      "InfoWars Interview"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "787",
     "people": [
       "Troy Newman"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "788",
     "people": [
       "Mike Rothschild"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "789",
     "people": [
       "Davis Lurmann"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "790",
     "people": [
       "Blaire White"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "791",
     "people": [
       "Alan Dershowitz",
       "Robert Barnes",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "792",
     "people": [
       "Jeff Sharlet"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "793",
     "people": [
       "John Kerry",
       "Osama Bin Laden",
       "Howard Dean",
       "John Wayne"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "794",
     "people": [
       "Jack Blood",
@@ -4173,12 +5567,12 @@
       "Timothy McVeigh",
       "Bill Clinton",
       "David Kelly"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "795",
     "people": [
       "Donald Trump",
@@ -4189,22 +5583,22 @@
       "Mike Adams",
       "George Soros",
       "Paul Manafort"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "796",
     "people": [
       "Hutton Gibson",
       "Mel Gibson"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "797",
     "people": [
       "Luke Rudkowski",
@@ -4213,15 +5607,15 @@
       "Vladimir Putin",
       "Matt Walsh",
       "Chris Carter"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "798",
     "people": [
-      "Rima Laibow",
+      "Dr Rima Laibow",
       "Donald Trump",
       "Jesse Ventura",
       "Robert Kennedy",
@@ -4232,99 +5626,106 @@
       "Marianne Williamson",
       "David Icke",
       "Paul Joseph Watson"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "799",
     "people": [
       "Cory Nethercott",
       "Vladimir Putin",
       "Paul Joseph Watson",
       "Donald Trump"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "800",
     "people": [
       "Tucker Carlson",
       "Don Lemon"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
+    "episode_number": "801",
+    "people": [
+      "Ann Coulter",
+      "John Kerry",
+      "Larry Nichols",
+      "Oliver North",
+      "Ronald Reagan",
+      "George W Bush"
+    ],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "801",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "802",
     "people": [
       "Sian Norris"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "803",
     "people": [
       "Mark Bankston"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "804",
     "people": [
       "Steven Crowder"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "805",
     "people": [
       "Bruce Buchanan",
       "Hutton Gibson",
       "Mel Gibson"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "806",
     "people": [
       "Erica Lafferty"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "807",
     "people": [
       "Mel Gibson",
       "Diane Sawyer",
       "Abraham Foxman"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "808",
     "people": [
       "Steven Crowder",
@@ -4332,12 +5733,12 @@
       "Megyn Kelly",
       "Donald Trump",
       "Robert Barnes"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "809",
     "people": [
       "Stew Peters",
@@ -4348,12 +5749,12 @@
       "Bill Gates",
       "David Icke",
       "George Soros"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "810",
     "people": [
       "Michael Shrimpton",
@@ -4365,21 +5766,21 @@
       "Donald Trump",
       "John Kerry",
       "Mike Pence"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "811",
     "people": [
       "David Rockefeller"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "812",
     "people": [
       "Jeff Sharlet",
@@ -4388,12 +5789,12 @@
       "Harry Belafonte",
       "Vicki Weaver",
       "Dee Snider"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "813",
     "people": [
       "Robert Welch",
@@ -4402,12 +5803,12 @@
       "Larry Nichols",
       "Timothy McVeigh",
       "Steve Bannon"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "814",
     "people": [
       "Mark Zuckerberg",
@@ -4418,25 +5819,26 @@
       "Louis Farrakhan",
       "Paul Joseph Watson",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "815",
     "people": [
       "Donald Trump",
       "Steven Crowder",
       "Mark Zuckerberg",
       "Jamie Foxx",
-      "Barack Obama"
+      "Barack Obama",
+      "Darrell Mcclanahan"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "816",
     "people": [
       "Tucker Carlson",
@@ -4446,12 +5848,12 @@
       "Donald Trump",
       "Lindsey Graham",
       "Saddam Hussein"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "817",
     "people": [
       "Rodney Howard Browne",
@@ -4465,12 +5867,12 @@
       "James Comey",
       "Harrison Smith",
       "Bill Gates"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "818",
     "people": [
       "Donald Trump",
@@ -4481,23 +5883,23 @@
       "Hillary Clinton",
       "Francis Boyle",
       "Chuck Schumer"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "819",
     "people": [
       "Mel Gibson",
       "Kevin Smith",
-      "Donn de Grand Pré"
+      "Donn de Grand Pr\u00e9"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "820",
     "people": [
       "Tucker Carlson",
@@ -4507,23 +5909,23 @@
       "Nancy Pelosi",
       "Mark Zuckerberg",
       "George Floyd"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "821",
     "people": [
       "Jon Ronson",
       "Timothy McVeigh",
       "Rachel Patterson"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "822",
     "people": [
       "Owen Benjamin",
@@ -4533,125 +5935,121 @@
       "Vladimir Putin",
       "Donald Trump",
       "George Wallace"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "823",
     "people": [
       "John Kerry",
-      "Anton Lavey",
+      "Anton LaVey",
       "Paul Joseph Watson"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "824",
     "people": [
       "Peter Hotez",
       "Tucker Carlson",
-      "Bobby Kennedy",
-      "Robert Kennedy",
+      "Robert F. Kennedy Jr.",
       "Donald Trump",
-      "Robert F Kennedy",
       "Vladimir Putin",
-      "Anna Merlan",
-      "Robert F Kennedy Jr",
-      "Bobby Kennedy Jr",
+      "Anna Merlin",
       "David Duke",
       "Garrison Keillor"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "825",
     "people": [
       "Bill Gates",
       "Andy Murray",
       "Glenn Beck",
       "Henry Kissinger"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "826",
     "people": [
       "David Rasnick",
       "Magic Johnson",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "827",
     "people": [
       "Mel Gibson",
       "Fareed Zakaria",
       "Roger Stone",
       "Barack Obama"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "828",
     "people": [
       "John Kerry",
       "Mel Gibson"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "829",
     "people": [
       "Talia Lavin"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "830",
     "people": [
       "Dick Cheney"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "831",
     "people": [
       "Andrew Tate"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "832",
     "people": [
       "David Jones",
       "Hunter Biden"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "833",
     "people": [
       "Mike Rothschild",
@@ -4659,60 +6057,59 @@
       "Jeffrey Epstein",
       "Mike Lindell",
       "Brian Stelter"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "834",
     "people": [
       "Hunter Biden",
       "Roger Stone",
       "Donald Trump",
       "Barack Obama"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "835",
     "people": [
       "Q Shaman"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "836",
     "people": [
       "Steven Crowder",
       "Jim Brewer"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "837",
     "people": [
       "George Noory"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "838",
-    "people": [
+    "people": [],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "839",
     "people": [
       "David Jones",
@@ -4720,181 +6117,180 @@
       "Donald Trump",
       "Mark Zuckerberg",
       "Barack Obama"
-    ]
-  },
-  {
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "840",
-    "people": [
     ]
   },
   {
+    "episode_number": "840",
+    "people": [],
     "categories": [
-      "Present Day",
-      "Wacky Wednesday"
-    ],
+      "Present Day"
+    ]
+  },
+  {
     "episode_number": "841",
     "people": [
       "Donald Trump",
       "Henry Kissinger",
       "Barry Goldwater"
+    ],
+    "categories": [
+      "Present Day",
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "842",
     "people": [
       "Amanda Moore",
       "Donald Trump"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "843",
     "people": [
       "Bill Gates"
-    ]
-  },
-  {
-    "categories": [
-      "2003 Investigation"
     ],
-    "episode_number": "844",
-    "people": [
-    ]
-  },
-  {
     "categories": [
       "Present Day"
-    ],
+    ]
+  },
+  {
+    "episode_number": "844",
+    "people": [],
+    "categories": [
+      "2003 Investigation"
+    ]
+  },
+  {
     "episode_number": "845",
     "people": [
       "David Knight",
       "Hillary Clinton",
       "General Michael Flynn",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "846",
     "people": [
       "Marjorie Taylor Greene",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "847",
     "people": [
       "Sophie From Mars"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "848",
     "people": [
       "Owen Shroyer",
       "Harrison Smith",
       "Vladimir Putin",
+      "Yevgeny Prigozhin",
+      "Vladimir Solovyov",
       "Rush Limbaugh",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "849",
     "people": [
       "EJ Dickson",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "850",
     "people": [
       "Judge Joe Brown",
       "Bill Gates"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "851",
     "people": [
       "Erica Lafferty",
       "Norm Pattis"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "852",
     "people": [
       "Tucker Carlson",
       "Larry Sinclair",
       "Barack Obama",
       "Bernie Sanders"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Project Camelot",
-      "Wacky Wednesday",
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "853",
     "people": [
       "Solomon Berg",
       "Mark Richards"
+    ],
+    "categories": [
+      "Project Camelot",
+      "Wacky Wednesday",
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "854",
     "people": [
       "Dianne Feinstein",
       "Barack Obama"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Live Show",
-      "Time Travel"
-    ],
     "episode_number": "855",
     "people": [
       "Barack Obama"
     ],
     "coverage_date": "August 24, 2009",
     "coverage_end_date": "August 24, 2009",
-    "coverage_start_date": "August 24, 2009"
-  },
-  {
+    "coverage_start_date": "August 24, 2009",
     "categories": [
       "Live Show",
       "Time Travel"
-    ],
+    ]
+  },
+  {
     "episode_number": "856",
     "people": [
       "Max Keiser",
@@ -4902,13 +6298,13 @@
     ],
     "coverage_date": "October 30, 2013",
     "coverage_end_date": "October 30, 2013",
-    "coverage_start_date": "October 30, 2013"
-  },
-  {
+    "coverage_start_date": "October 30, 2013",
     "categories": [
       "Live Show",
       "Time Travel"
-    ],
+    ]
+  },
+  {
     "episode_number": "857",
     "people": [
       "David Knight",
@@ -4916,23 +6312,24 @@
     ],
     "coverage_date": "##REMOVE##",
     "coverage_end_date": "June 9, 2013",
-    "coverage_start_date": "June 5, 2013"
+    "coverage_start_date": "June 5, 2013",
+    "categories": [
+      "Live Show",
+      "Time Travel"
+    ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "858",
     "people": [
       "Kent Heckenlively",
       "David Rockefeller",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Time Travel"
-    ],
     "episode_number": "859",
     "people": [
       "Glenn Beck",
@@ -4940,45 +6337,47 @@
       "Donald Trump",
       "Godfrey Bloom",
       "Nigel Farage"
+    ],
+    "categories": [
+      "Time Travel"
     ]
   },
   {
-   "categories": [
-      "Present Day"
-    ],
     "episode_number": "860",
     "people": [
       "Barack Obama",
-      "Donald Trump"
+      "Donald Trump",
+      "Darrell Mcclanahan"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-   "categories": [
-      "Present Day"
-    ],
     "episode_number": "861",
     "people": [
       "Jim Jordan",
       "Owen Benjamin"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-   "categories": [
-      "Present Day",
-      "Formulaic Objections"
-    ],
     "episode_number": "862",
     "people": [
+      "Mark Twain",
+      "Donald Trump"
     ],
     "coverage_date": "October 19, 2023",
     "coverage_end_date": "October 19, 2023",
-    "coverage_start_date": "October 19, 2023"
+    "coverage_start_date": "October 19, 2023",
+    "categories": [
+      "Present Day",
+      "Formulaic Objections"
+    ]
   },
   {
-   "categories": [
-      "Present Day",
-      "InfoWars Interview"
-    ],
     "episode_number": "863",
     "people": [
       "Vivek Ramaswamy",
@@ -4988,12 +6387,13 @@
     ],
     "coverage_date": "October 24, 2023",
     "coverage_end_date": "October 24, 2023",
-    "coverage_start_date": "October 24, 2023"
+    "coverage_start_date": "October 24, 2023",
+    "categories": [
+      "Present Day",
+      "InfoWars Interview"
+    ]
   },
   {
-   "categories": [
-      "Present Day"
-    ],
     "episode_number": "864",
     "people": [
       "Nick Fuentes",
@@ -5001,21 +6401,21 @@
       "Donald Trump",
       "Larry Fink",
       "Owen Shroyer"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-   "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "865",
     "people": [
       "Anna Merlan"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-   "categories": [
-      "Present Day"
-    ],
     "episode_number": "866",
     "people": [
       "Michelle Obama",
@@ -5024,13 +6424,12 @@
       "DJ Danarchy",
       "Joel Gilbert",
       "Nigel Farage"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-   "categories": [
-      "Time Travel",
-      "InfoWars Interview"
-    ],
     "episode_number": "867",
     "people": [
       "Howard Stern",
@@ -5041,31 +6440,33 @@
     ],
     "coverage_date": "February 26, 2013",
     "coverage_end_date": "February 26, 2013",
-    "coverage_start_date": "February 26, 2013"
-  },
-  {
-   "categories": [
-      "2003 Investigation"
-    ],
-    "episode_number": "868",
-    "people": [
-      "Howard Stern",
-      "Steven Crowder"
+    "coverage_start_date": "February 26, 2013",
+    "categories": [
+      "Time Travel",
+      "InfoWars Interview"
     ]
   },
   {
-   "categories": [
-      "Present Day"
+    "episode_number": "868",
+    "people": [
+      "Ralph Nader",
+      "Howard Stern",
+      "Steven Crowder"
     ],
+    "categories": [
+      "2003 Investigation"
+    ]
+  },
+  {
     "episode_number": "869",
     "people": [
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-   "categories": [
-      "Present Day"
-    ],
     "episode_number": "870",
     "people": [
       "Aleksandr Dugin",
@@ -5073,41 +6474,41 @@
       "Vladimir Putin",
       "Donald Trump",
       "Norm Pattis"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "871",
     "people": [
       "Marjorie Taylor Greene",
       "Klaus Schwab"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "872",
     "people": [
       "Barack Obama",
       "Mitt Romney",
       "Vladimir Putin",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
+    "episode_number": "873",
+    "people": [],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "873",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "874",
     "people": [
       "Donald Trump",
@@ -5115,12 +6516,12 @@
       "Roger Stone",
       "George H W Bush",
       "Richard Nixon"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "875",
     "people": [
       "Bill Cooper",
@@ -5134,12 +6535,12 @@
     ],
     "coverage_date": "December 7, 2023",
     "coverage_end_date": "December 7, 2023",
-    "coverage_start_date": "December 7, 2023"
+    "coverage_start_date": "December 7, 2023",
+    "categories": [
+      "Wacky Wednesday"
+    ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "876",
     "people": [
       "John Kerry",
@@ -5148,12 +6549,12 @@
       "Tucker Carlson",
       "Donald Trump",
       "Brian Stelter"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "877",
     "people": [
       "Andrew Tate",
@@ -5164,61 +6565,60 @@
     ],
     "coverage_date": "December 10, 2023",
     "coverage_end_date": "December 10, 2023",
-    "coverage_start_date": "December 10, 2023"
-  },
-  {
+    "coverage_start_date": "December 10, 2023",
     "categories": [
-      "2003 Investigation"
-    ],
-    "episode_number": "878",
-    "people": [
-      "Mel Gibson"
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Present Day"
+    "episode_number": "878",
+    "people": [
+      "Mel Gibson"
     ],
+    "categories": [
+      "2003 Investigation"
+    ]
+  },
+  {
     "episode_number": "879",
     "people": [
       "Clarence Thomas",
       "Dan Crenshaw",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "880",
     "people": [
       "Aaron Russo"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "881",
     "people": [
       "Brandi Collins-Dexter",
       "Donald Trump",
       "Nick Fuentes",
       "Candace Owens"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
+    "episode_number": "882",
+    "people": [],
     "categories": [
       "2003 Investigation"
-    ],
-    "episode_number": "882",
-    "people": []
+    ]
   },
   {
-    "categories": [
-      "Wacky Wednesday",
-      "InfoWars Interview"
-    ],
     "episode_number": "883",
     "people": [
       "Bill Maher",
@@ -5228,22 +6628,23 @@
       "Nick Fuentes",
       "Vladimir Putin",
       "Mark Meechan"
+    ],
+    "categories": [
+      "Wacky Wednesday",
+      "InfoWars Interview"
     ]
   },
   {
-    "categories": [
-      "Time Travel"
-    ],
     "episode_number": "884",
     "people": [
       "Steve Piezcenik",
       "Aaron Dykes"
+    ],
+    "categories": [
+      "Time Travel"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "885",
     "people": [
       "Donald Trump",
@@ -5251,13 +6652,12 @@
       "Steve King",
       "Alan Dershowitz",
       "Larry Fink"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday",
-      "InfoWars Interview"
-    ],
     "episode_number": "886",
     "people": [
       "Jimmy Dore",
@@ -5266,21 +6666,22 @@
       "Vladimir Putin",
       "Steve Pieczenik",
       "Donald Trump"
+    ],
+    "categories": [
+      "Wacky Wednesday",
+      "InfoWars Interview"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "887",
     "people": [
-      "John Ronson"
+      "Jon Ronson"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "InfoWars Interview"
-    ],
     "episode_number": "888",
     "people": [
       "Ali Alexander",
@@ -5291,12 +6692,12 @@
       "Nick Fuentes",
       "Roger Stone",
       "Darren Beattie"
+    ],
+    "categories": [
+      "InfoWars Interview"
     ]
   },
   {
-    "categories": [
-      "InfoWars Interview"
-    ],
     "episode_number": "889",
     "people": [
       "Donald Trump",
@@ -5307,41 +6708,40 @@
       "Tucker Carlson",
       "Ashley Babbitt",
       "Jim Jordan"
+    ],
+    "categories": [
+      "InfoWars Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "890",
     "people": [
       "Arthur C Clarke",
       "Vladimir Putin",
       "Rachel Maddow",
       "Donald Trump"
-    ]
-  },
-  {
-    "categories": [
-      "2003 Investigation"
     ],
-    "episode_number": "891",
-    "people": [
-    ]
-  },
-  {
     "categories": [
       "Present Day"
-    ],
+    ]
+  },
+  {
+    "episode_number": "891",
+    "people": [],
+    "categories": [
+      "2003 Investigation"
+    ]
+  },
+  {
     "episode_number": "892",
     "people": [
       "Bill Gates"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "893",
     "people": [
       "Amy Coney Barrett",
@@ -5349,12 +6749,12 @@
       "Greg Abbott",
       "Donald Trump",
       "Clarence Thomas"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Knowledge Fight Interview"
-    ],
     "episode_number": "894",
     "people": [
       "Brian Stelter",
@@ -5363,47 +6763,47 @@
       "Barack Obama",
       "Sean Hannity",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Knowledge Fight Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "895",
     "people": [
       "Greg Abbott",
       "Donald Trump",
       "Ilhan Omar"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "896",
     "people": [
       "Sarah Palin",
       "Ted Nugent",
       "Thomas Jefferson",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "897",
     "people": [
       "Vladimir Putin",
       "Donald Trump",
       "Tucker Carlson",
       "Kevin Spacey"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday"
-    ],
     "episode_number": "898",
     "people": [
       "Bill Clinton",
@@ -5411,12 +6811,12 @@
       "Vladimir Putin",
       "Donald Trump",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Wacky Wednesday"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "899",
     "people": [
       "Adrian Dittmann",
@@ -5426,86 +6826,86 @@
       "Russell Brand",
       "Donald Trump",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "900",
     "people": [
       "Brett Weinstein",
       "Vladimir Putin",
       "Donald Trump",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "901",
     "people": [
       "George Soros",
       "Vladimir Putin",
       "Donald Trump",
       "Clarence Thomas"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "902",
     "people": [
       "Robert Barnes",
       "Donald Trump",
       "Harrison Smith"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2003 Investigation"
-    ],
     "episode_number": "903",
     "people": [
       "Michael Savage"
+    ],
+    "categories": [
+      "2003 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "904",
     "people": [
       "George Soros",
       "Mark Zuckerberg"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "905",
     "people": [
       "Donald Trump",
       "Dan Bongino"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Time Travel"
-    ],
     "episode_number": "906",
     "people": [
       "Barack Obama",
       "Donald Trump"
+    ],
+    "categories": [
+      "Time Travel"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "907",
     "people": [
       "Andrew Tate",
@@ -5514,13 +6914,12 @@
       "Helmut Schmidt",
       "Mark Twain",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Wacky Wednesday",
-      "InfoWars Interview"
-    ],
     "episode_number": "908",
     "people": [
       "Bill Maher",
@@ -5528,22 +6927,23 @@
       "Vladimir Putin",
       "Tucker Carlson",
       "Yuval Noah Harari"
+    ],
+    "categories": [
+      "Wacky Wednesday",
+      "InfoWars Interview"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "909",
     "people": [
       "Donald Trump",
       "Vladimir Putin"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "910",
     "people": [
       "Eddie Bravo",
@@ -5552,21 +6952,21 @@
       "Vladimir Putin",
       "Russell Brand",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "911",
     "people": [
       "Lana Del Rey"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "912",
     "people": [
       "Donald Trump",
@@ -5575,23 +6975,23 @@
       "Vladimir Putin",
       "Scott Bennett",
       "Jack Posobiec"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "913",
     "people": [
       "Jimmy Dore",
       "General Michael Flynn",
       "Matt Bracken"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "914",
     "people": [
       "Adrian Dittmann",
@@ -5600,41 +7000,41 @@
       "Owen Benjamin",
       "Steven Crowder",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "2005 Investigation"
-    ],
     "episode_number": "915",
     "people": [
       "Rush Limbaugh"
+    ],
+    "categories": [
+      "2005 Investigation"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "916",
     "people": [
       "Mike Adams",
       "John Bowne"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "917",
     "people": [
       "Donald Trump",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "918",
     "people": [
       "Barack Obama",
@@ -5643,80 +7043,81 @@
       "Michelle Obama",
       "OJ Simpson",
       "Roger Stone"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "919",
     "people": [
       "Bill Cooper",
       "George Washington",
       "Tom Cruise",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Time Travel"
-    ],
     "episode_number": "920",
     "people": [
       "Tucker Carlson",
       "Willie Nelson",
       "Barack Obama"
+    ],
+    "categories": [
+      "Time Travel"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "921",
     "people": [
       "Bill Gates",
       "Hillary Clinton",
       "Marjorie Taylor Greene",
-      "Donald Trump"
+      "Donald Trump",
+      "Pascal Najadi"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "922",
     "people": [
       "George Soros",
       "Vladimir Putin",
       "Donald Trump",
       "Luke Rudkowski"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "923",
     "people": [
       "Donald Trump",
       "James O'Keefe",
       "Mark Zuckerberg",
       "Erik Prince"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "924",
     "people": [
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "925",
     "people": [
       "Andrew Wakefield",
@@ -5724,47 +7125,47 @@
       "Nick Fuentes",
       "Roger Stone",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Live Show",
-      "Time Travel"
-    ],
     "episode_number": "926",
     "people": [
       "Charlie Sheen",
       "Thomas Jefferson",
       "Donald Trump",
       "Bob Chapman"
-    ]
-  },
-  {
+    ],
     "categories": [
       "Live Show",
       "Time Travel"
-    ],
+    ]
+  },
+  {
     "episode_number": "927",
     "people": [
       "Donald Trump"
-    ]
-  },
-  {
+    ],
     "categories": [
       "Live Show",
       "Time Travel"
-    ],
+    ]
+  },
+  {
     "episode_number": "928",
     "people": [
       "Marty Schachter",
       "Barack Obama",
       "Darrel Rundus"
+    ],
+    "categories": [
+      "Live Show",
+      "Time Travel"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "929",
     "people": [
       "George Strait",
@@ -5774,12 +7175,12 @@
       "Stanley Kubrick",
       "Thomas Jefferson",
       "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "930",
     "people": [
       "Donald Trump",
@@ -5792,51 +7193,1021 @@
       "Roger Stone",
       "Steve Bannon",
       "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
     ]
   },
   {
+    "episode_number": "931",
+    "people": [
+      "Josh Owens",
+      "Barack Obama"
+    ],
     "categories": [
       "Live Show",
       "Time Travel"
-    ],
-    "episode_number": "931",
+    ]
   },
   {
-    "categories": [
-      "Present Day"
-    ],
     "episode_number": "932",
-  },
-  {
+    "people": [
+      "Donald Trump",
+      "Kim Jong Un",
+      "Mike Adams",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Ted Nugent"
+    ],
     "categories": [
       "Present Day"
-    ],
+    ]
+  },
+  {
     "episode_number": "933",
-  },
-  {
+    "people": [
+      "Donald Trump",
+      "Hunter Biden",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Stanley Kubrick",
+      "Vivian Kubrick"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "934",
+    ]
   },
   {
+    "episode_number": "934",
+    "people": [
+      "Donald Trump",
+      "Thomas Jefferson",
+      "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "935",
+    "people": [
+      "Chuck Schumer",
+      "Donald Trump",
+      "General Michael Flynn",
+      "Barack Obama",
+      "Beto O'Rourke",
+      "Judy Mikovits"
+    ],
     "categories": [
       "Present Day",
       "Knowledge Fight Interview"
-    ],
-    "episode_number": "935",
+    ]
   },
   {
+    "episode_number": "936",
+    "people": [
+      "Donald Trump"
+    ],
     "categories": [
       "Present Day"
-    ],
-    "episode_number": "936",
+    ]
   },
   {
+    "episode_number": "937",
+    "people": [
+      "Taylor Swift",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "938",
+    "people": [
+      "Donald Trump",
+      "Nick Fuentes",
+      "Vladimir Putin"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "939",
+    "people": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Kamala Harris",
+      "Roger Stone",
+      "Steven Crowder",
+      "Robert Barnes"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "940",
+    "people": [
+      "Donald Trump",
+      "Michelle Obama",
+      "Roger Stone",
+      "Wolf Blitzer"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "941",
+    "people": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Janet Reno",
+      "Kamala Harris",
+      "Tom Clancy",
+      "Steve Pieczenik"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "942",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "943",
+    "people": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "944",
+    "people": [
+      "Donald Trump",
+      "Mike Adams",
+      "Roger Stone"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "945",
+    "people": [
+      "George Strait",
+      "Roger Stone",
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "946",
+    "people": [
+      "Bill Gates",
+      "Donald Trump",
+      "General Michael Flynn"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "947",
+    "people": [
+      "Harrison Smith",
+      "Owen Shroyer",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "948",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "949",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "950",
+    "people": [
+      "Donald Trump",
+      "George Wallace",
+      "Kamala Harris",
+      "Max Planck",
+      "Mike Howell",
+      "Mark Zuckerberg",
+      "Mike Cernovich"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "951",
+    "people": [
+      "Tommy Robinson",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "952",
+    "people": [
+      "Donald Trump",
+      "Peter Hotez"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "953",
+    "people": [
+      "Donald Trump",
+      "Mike Tyson",
+      "Taylor Swift",
+      "Tommy Robinson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "954",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Owen Shroyer",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "955",
+    "people": [
+      "Donald Trump",
+      "Roger Stone"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "956",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Mao Zedong",
+      "Michael Moore",
+      "Michelle Obama"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "957",
+    "people": [
+      "Barack Obama",
+      "Kamala Harris",
+      "Michelle Obama",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Donald Trump",
+      "Naomi Wolf",
+      "Tulsi Gabbard"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "958",
+    "people": [
+      "Donald Trump",
+      "Jimmy Dore",
+      "Nancy Pelosi",
+      "Kamala Harris"
+    ]
+  },
+  {
+    "episode_number": "959",
+    "people": [
+      "Glenn Beck",
+      "Eric Prince",
+      "Jim Jordan",
+      "Mark Zuckerberg",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "960",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "961",
+    "people": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Jack Posobiec"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "962",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "963",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Laura Loomer"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "964",
+    "people": [
+      "Henry Kissinger",
+      "Jake Ducey"
+    ]
+  },
+  {
+    "episode_number": "965",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Vladimir Putin",
+      "Jack Posobiec"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "966",
+    "people": [
+      "Steven Crowder",
+      "Donald Trump",
+      "George W Bush",
+      "Roger Stone"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "967",
+    "people": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Vladimir Putin",
+      "Saddam Hussein",
+      "Tucker Carlson"
+    ]
+  },
+  {
+    "episode_number": "968",
+    "people": [
+      "Mark Zuckerberg",
+      "Mike Lindell",
+      "Roger Stone",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "969",
+    "people": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Tucker Carlson",
+      "Seth Green"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "970",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "971",
+    "people": [
+      "Donald Trump",
+      "James O'Keefe",
+      "Kamala Harris"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "972",
+    "people": [
+      "Bill Gates",
+      "Kamala Harris",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "973",
+    "people": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "974",
+    "people": [
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "975",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "976",
+    "people": [
+      "Donald Trump",
+      "James O'Keefe",
+      "Kamala Harris",
+      "Marjorie Taylor Greene"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "977",
+    "people": [
+      "Bill Gates",
+      "Dennis Miller",
+      "Eddie Bravo",
+      "Kamala Harris",
+      "Marjorie Taylor Greene",
+      "Nick Fuentes",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "978",
+    "people": [
+      "Donald Trump",
+      "Larry Fink",
+      "Robert F. Kennedy Jr.",
+      "Tucker Carlson",
+      "Kamala Harris"
+    ]
+  },
+  {
+    "episode_number": "979",
+    "people": [
+      "Donald Trump",
+      "Barack Obama"
+    ]
+  },
+  {
+    "episode_number": "980",
+    "people": [
+      "Matt Bracken",
+      "Steven Crowder",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "981",
+    "people": [
+      "Steve Bannon",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "982",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "983",
+    "people": []
+  },
+  {
+    "episode_number": "984",
+    "people": [
+      "Kit Daniels",
+      "Owen Shroyer",
+      "Clarence Thomas"
+    ],
+    "categories": [
+      "Formulaic Objections"
+    ]
+  },
+  {
+    "episode_number": "985",
+    "people": [
+      "Dwight D Eisenhower",
+      "Linda McMahon",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "986",
+    "people": [
+      "Bill Gates",
+      "Jonas Salk",
+      "Klaus Schwab"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "987",
+    "people": [
+      "Scott Adams",
+      "Donald Trump",
+      "Peter Hotez"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "988",
+    "people": [
+      "Michael Bloomberg",
+      "Donald Trump",
+      "Peter Hotez"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "989",
+    "people": [
+      "Eddie Bravo",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "990",
+    "people": [
+      "Donald Trump",
+      "Mao Zedong",
+      "Mike Tyson",
+      "Tucker Carlson",
+      "Matt Gaetz"
+    ]
+  },
+  {
+    "episode_number": "991",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "992",
+    "people": [
+      "Donald Trump",
+      "Dwight D Eisenhower",
+      "Josef Mengele",
+      "Greta Thunberg",
+      "Vladimir Putin",
+      "Stefan Molyneux"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "993",
+    "people": [
+      "Donald Trump",
+      "Jamie Raskin",
+      "Laura Loomer"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "994",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "995",
+    "people": [
+      "Donald Trump",
+      "Greg Reese",
+      "Nick Fuentes"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "996",
+    "people": [
+      "Bill Gates",
+      "Johns Hopkins",
+      "Donald Trump",
+      "Peter Hotez"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "997",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "998",
+    "people": [
+      "Mark Zuckerberg",
+      "Mel Gibson",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "999",
+    "people": [
+      "Donald Trump",
+      "Glenn Beck"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "1000",
+    "people": [
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "1001",
+    "people": [
+      "Bill Clinton",
+      "Donald Trump",
+      "Jimmy Carter",
+      "Mark Twain",
+      "Thomas Jefferson",
+      "Stewart Rhodes"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "1002",
+    "people": [
+      "Bill Clinton",
+      "Bill Gates",
+      "Donald Trump",
+      "Merrick Garland",
+      "Steve Bannon",
+      "Stewart Rhodes",
+      "Enrique Tarrio"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "1003",
+    "people": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "1004",
+    "people": [
+      "Donald Trump",
+      "Larry Fink",
+      "Lauren Southern",
+      "Tommy Robinson"
+    ],
+    "categories": [
+      "Present Day"
+    ]
+  },
+  {
+    "episode_number": "1005",
+    "people": [
+      "Chris Wallace"
+    ],
+    "categories": [
+      "Formulaic Objections"
+    ]
+  },
+  {
+    "episode_number": "1006",
+    "people": [
+      "Bill Gates",
+      "Barack Obama",
+      "Roger Stone",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1007",
+    "people": [
+      "Bill Gates",
+      "Jean Claude",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1008",
+    "people": [
+      "Jon Stewart",
+      "Steven Crowder"
+    ],
+    "categories": [
+      "Formulaic Objections"
+    ]
+  },
+  {
+    "episode_number": "1009",
+    "people": [
+      "Bill Maher",
+      "Donald Trump",
+      "Pat Buchanan"
+    ]
+  },
+  {
+    "episode_number": "1010",
+    "people": [
+      "Vladimir Putin",
+      "Thomas Jefferson",
+      "Donald Trump",
+      "Wernher Von Braun"
+    ]
+  },
+  {
+    "episode_number": "1011",
+    "people": [
+      "Bill Gates",
+      "Lindsey Graham",
+      "Mike Adams",
+      "Barack Obama",
+      "Donald Trump",
+      "Mao Zedong"
+    ]
+  },
+  {
+    "episode_number": "1012",
+    "people": [
+      "Bertrand Russell",
+      "Donald Trump",
+      "Gavin McInnes",
+      "Howard Stern",
+      "Robert F. Kennedy Jr.",
+      "Steven Crowder"
+    ]
+  },
+  {
+    "episode_number": "1013",
+    "people": [
+      "Donald Trump",
+      "Mike Pompeo",
+      "Roger Stone"
+    ]
+  },
+  {
+    "episode_number": "1014",
+    "people": [
+      "Mark Zuckerberg",
+      "Donald Trump",
+      "Pete Buttigieg"
+    ]
+  },
+  {
+    "episode_number": "1015",
+    "people": [
+      "David Hogg",
+      "Vladimir Putin",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1016",
+    "people": [
+      "Anne Frank",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1017",
+    "people": [
+      "Bill Gates",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1018",
+    "people": [
+      "Chuck Schumer",
+      "Donald Trump",
+      "Jar Jar Binks"
+    ]
+  },
+  {
+    "episode_number": "S003",
+    "people": [
+      "Hillary Clinton",
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "S005",
+    "people": [
+      "Buckley Hamman",
+      "Pat Reilly"
+    ],
     "coverage_date": "##REMOVE##",
-    "coverage_dates_string": "##REMOVE##",
     "coverage_end_date": "##REMOVE##",
     "coverage_start_date": "##REMOVE##",
-    "episode_number": "S005"
+    "coverage_dates_string": "##REMOVE##"
+  },
+  {
+    "episode_number": "S006",
+    "people": [
+      "Tucker Carlson",
+      "Alex Jones",
+      "David Knight",
+      "AOC",
+      "Brian Stelter",
+      "Bill Maher",
+      "Rob Reiner",
+      "Roger Stone",
+      "Rudy Giuliani",
+      "Travis Irvine",
+      "Rufio Panman",
+      "Owen Shroyer",
+      "Sacha Baron Cohen",
+      "Rod Rosenstein",
+      "Ammon Bundy",
+      "Dwight Hammond Jr.",
+      "Steven Hammond",
+      "New Jersey Weed Man"
+    ]
+  },
+  {
+    "episode_number": "S009",
+    "people": []
+  },
+  {
+    "episode_number": "S010",
+    "people": []
+  },
+  {
+    "episode_number": "S012",
+    "people": [
+      "Donald Trump",
+      "Stewart Rhodes",
+      "Norm Pattis"
+    ]
+  },
+  {
+    "episode_number": "S015",
+    "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "S016",
+    "people": [
+      "David Lynch"
+    ]
+  },
+  {
+    "episode_number": "S017",
+    "people": [
+      "David Lynch"
+    ]
+  },
+  {
+    "episode_number": "S018",
+    "people": [
+      "Christopher Walken"
+    ]
   }
 ]
