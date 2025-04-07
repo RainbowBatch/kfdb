@@ -55,21 +55,25 @@
   },
   {
     "airDate": "January 24, 2025",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 20, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "1000",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:51:24",
     "libsyn_link": "isten",
     "nextEpisode": "1001",
-    "oldid": 5062,
+    "oldid": 5689,
     "oocDrop": null,
     "previousEpisode": "999",
     "question": null,
@@ -78,26 +82,36 @@
     "title": "1000: January 20, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 27, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Clinton",
+      "Donald Trump",
+      "Jimmy Carter",
+      "Mark Twain",
+      "Thomas Jefferson",
+      "Stewart Rhodes"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 20, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "1001",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:26:46",
     "libsyn_link": "isten",
     "nextEpisode": "1002",
-    "oldid": 5063,
+    "oldid": 5690,
     "oocDrop": null,
     "previousEpisode": "1000",
     "question": null,
@@ -106,26 +120,37 @@
     "title": "1001: January 20, 2025 Continued",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 29, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Clinton",
+      "Bill Gates",
+      "Donald Trump",
+      "Merrick Garland",
+      "Steve Bannon",
+      "Stewart Rhodes",
+      "Enrique Tarrio"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 21, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "1002",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:38:17",
     "libsyn_link": "isten",
     "nextEpisode": "1003",
-    "oldid": 5064,
+    "oldid": 5691,
     "oocDrop": null,
     "previousEpisode": "1001",
     "question": null,
@@ -134,26 +159,32 @@
     "title": "1002: January 21, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 31, 2025",
-    "appearance": null,
+    "appearance": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 22, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "1003",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:12:17",
     "libsyn_link": "isten",
     "nextEpisode": "1004",
-    "oldid": 5065,
+    "oldid": 5692,
     "oocDrop": null,
     "previousEpisode": "1002",
     "question": null,
@@ -162,26 +193,34 @@
     "title": "1003: January 22, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "February 3, 2025",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Larry Fink",
+      "Lauren Southern",
+      "Tommy Robinson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 23, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "1004",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:23:09",
     "libsyn_link": "isten",
     "nextEpisode": "1005",
-    "oldid": 5066,
+    "oldid": 5693,
     "oocDrop": null,
     "previousEpisode": "1003",
     "question": null,
@@ -190,26 +229,31 @@
     "title": "1004: January 23, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "February 7, 2025",
-    "appearance": null,
+    "appearance": [
+      "Chris Wallace"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "1005",
-    "episodeType": null,
+    "episodeType": [
+      "Formulaic Objections"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:45:03",
     "libsyn_link": "isten",
     "nextEpisode": "1006",
-    "oldid": 5067,
+    "oldid": 5720,
     "oocDrop": null,
     "previousEpisode": "1004",
     "question": null,
@@ -223,7 +267,12 @@
   },
   {
     "airDate": "February 10, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Barack Obama",
+      "Roger Stone",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 24, 2025",
@@ -237,7 +286,7 @@
     "length": "01:49:28",
     "libsyn_link": "isten",
     "nextEpisode": "1007",
-    "oldid": 5068,
+    "oldid": 5695,
     "oocDrop": null,
     "previousEpisode": "1005",
     "question": null,
@@ -251,7 +300,11 @@
   },
   {
     "airDate": "February 12, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Jean Claude",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 25, 2025",
@@ -265,7 +318,7 @@
     "length": "01:20:43",
     "libsyn_link": "isten",
     "nextEpisode": "1008",
-    "oldid": 5069,
+    "oldid": 5696,
     "oocDrop": null,
     "previousEpisode": "1006",
     "question": null,
@@ -279,21 +332,26 @@
   },
   {
     "airDate": "February 14, 2025",
-    "appearance": null,
+    "appearance": [
+      "Jon Stewart",
+      "Steven Crowder"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "1008",
-    "episodeType": null,
+    "episodeType": [
+      "Formulaic Objections"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "02:35:08",
     "libsyn_link": "isten",
     "nextEpisode": "1009",
-    "oldid": 5070,
+    "oldid": 5721,
     "oocDrop": null,
     "previousEpisode": "1007",
     "question": null,
@@ -307,7 +365,11 @@
   },
   {
     "airDate": "February 17, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Maher",
+      "Donald Trump",
+      "Pat Buchanan"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 26, 2025",
@@ -321,7 +383,7 @@
     "length": "01:25:18",
     "libsyn_link": "isten",
     "nextEpisode": "1010",
-    "oldid": 5071,
+    "oldid": 5698,
     "oocDrop": null,
     "previousEpisode": "1008",
     "question": null,
@@ -378,7 +440,12 @@
   },
   {
     "airDate": "February 21, 2025",
-    "appearance": null,
+    "appearance": [
+      "Vladimir Putin",
+      "Thomas Jefferson",
+      "Donald Trump",
+      "Wernher Von Braun"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 27, 2025",
@@ -392,7 +459,7 @@
     "length": "01:53:05",
     "libsyn_link": "isten",
     "nextEpisode": "1011",
-    "oldid": 5072,
+    "oldid": 5699,
     "oocDrop": null,
     "previousEpisode": "1009",
     "question": null,
@@ -406,7 +473,14 @@
   },
   {
     "airDate": "February 24, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Lindsey Graham",
+      "Mike Adams",
+      "Barack Obama",
+      "Donald Trump",
+      "Mao Zedong"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 28, 2025",
@@ -420,7 +494,7 @@
     "length": "01:37:44",
     "libsyn_link": "isten",
     "nextEpisode": "1012",
-    "oldid": 5073,
+    "oldid": 5700,
     "oocDrop": null,
     "previousEpisode": "1010",
     "question": null,
@@ -434,7 +508,14 @@
   },
   {
     "airDate": "February 28, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bertrand Russell",
+      "Donald Trump",
+      "Gavin McInnes",
+      "Howard Stern",
+      "Robert F. Kennedy Jr.",
+      "Steven Crowder"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 29, 2025",
@@ -448,7 +529,7 @@
     "length": "01:40:02",
     "libsyn_link": "isten",
     "nextEpisode": "1013",
-    "oldid": 5074,
+    "oldid": 5701,
     "oocDrop": null,
     "previousEpisode": "1011",
     "question": null,
@@ -462,7 +543,11 @@
   },
   {
     "airDate": "March 3, 2025",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Mike Pompeo",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 30, 2025",
@@ -476,7 +561,7 @@
     "length": "01:24:57",
     "libsyn_link": "isten",
     "nextEpisode": "1014",
-    "oldid": 5466,
+    "oldid": 5702,
     "oocDrop": null,
     "previousEpisode": "1012",
     "question": null,
@@ -490,7 +575,11 @@
   },
   {
     "airDate": "March 7, 2025",
-    "appearance": null,
+    "appearance": [
+      "Mark Zuckerberg",
+      "Donald Trump",
+      "Pete Buttigieg"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 31, 2025",
@@ -504,7 +593,7 @@
     "length": "01:13:35",
     "libsyn_link": "isten",
     "nextEpisode": "1015",
-    "oldid": 5292,
+    "oldid": 5703,
     "oocDrop": null,
     "previousEpisode": "1013",
     "question": null,
@@ -518,7 +607,11 @@
   },
   {
     "airDate": "March 10, 2025",
-    "appearance": null,
+    "appearance": [
+      "David Hogg",
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 2, 2025",
@@ -532,7 +625,7 @@
     "length": "01:12:41",
     "libsyn_link": "isten",
     "nextEpisode": "1016",
-    "oldid": 5377,
+    "oldid": 5704,
     "oocDrop": null,
     "previousEpisode": "1014",
     "question": null,
@@ -546,7 +639,10 @@
   },
   {
     "airDate": "March 14, 2025",
-    "appearance": null,
+    "appearance": [
+      "Anne Frank",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 3, 2025",
@@ -560,7 +656,7 @@
     "length": "01:18:58",
     "libsyn_link": "isten",
     "nextEpisode": "1017",
-    "oldid": 5467,
+    "oldid": 5705,
     "oocDrop": null,
     "previousEpisode": "1015",
     "question": null,
@@ -574,7 +670,10 @@
   },
   {
     "airDate": "March 17, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 4, 2025",
@@ -588,7 +687,7 @@
     "length": "01:24:26",
     "libsyn_link": "isten",
     "nextEpisode": "1018",
-    "oldid": 5468,
+    "oldid": 5706,
     "oocDrop": null,
     "previousEpisode": "1016",
     "question": null,
@@ -602,7 +701,11 @@
   },
   {
     "airDate": "March 21, 2025",
-    "appearance": null,
+    "appearance": [
+      "Chuck Schumer",
+      "Donald Trump",
+      "Jar Jar Binks"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 5, 2025",
@@ -615,14 +718,42 @@
     "is_stub": true,
     "length": "01:30:19",
     "libsyn_link": "isten",
-    "nextEpisode": null,
-    "oldid": 5469,
+    "nextEpisode": "1019",
+    "oldid": 5707,
     "oocDrop": null,
     "previousEpisode": "1017",
     "question": null,
     "redirect": null,
     "slug": "1018{{COLON}}_February_5,_2025",
     "title": "1018: February 5, 2025",
+    "transcriptEpisodeNumber": null,
+    "wiki_categories": [
+      "Episodes"
+    ]
+  },
+  {
+    "airDate": "March 24, 2025",
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": "February 6, 2025",
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": "1019",
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "01:22:50",
+    "libsyn_link": "isten",
+    "nextEpisode": "1020",
+    "oldid": 5725,
+    "oocDrop": null,
+    "previousEpisode": "1018",
+    "question": null,
+    "redirect": null,
+    "slug": "1019{{COLON}}_February_6,_2025",
+    "title": "1019: February 6, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
       "Episodes"
@@ -665,6 +796,90 @@
     ]
   },
   {
+    "airDate": "March 28, 2025",
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": "February 7, 2025",
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": "1020",
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "00:55:56",
+    "libsyn_link": "isten",
+    "nextEpisode": "1021",
+    "oldid": 5726,
+    "oocDrop": null,
+    "previousEpisode": "1019",
+    "question": null,
+    "redirect": null,
+    "slug": "1020{{COLON}}_February_7,_2025",
+    "title": "1020: February 7, 2025",
+    "transcriptEpisodeNumber": null,
+    "wiki_categories": [
+      "Episodes"
+    ]
+  },
+  {
+    "airDate": "March 31, 2025",
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": "February 10, 2025",
+    "coverageStartDate": "February 9, 2025",
+    "episodeNumber": "1021",
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "01:47:29",
+    "libsyn_link": "isten",
+    "nextEpisode": "1022",
+    "oldid": 5727,
+    "oocDrop": null,
+    "previousEpisode": "1020",
+    "question": null,
+    "redirect": null,
+    "slug": "1021{{COLON}}_February_9-10,_2025",
+    "title": "1021: February 9-10, 2025",
+    "transcriptEpisodeNumber": null,
+    "wiki_categories": [
+      "Episodes"
+    ]
+  },
+  {
+    "airDate": "April 4, 2025",
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": "February 27, 2025",
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": "1022",
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": true,
+    "length": "01:42:11",
+    "libsyn_link": "isten",
+    "nextEpisode": null,
+    "oldid": 5728,
+    "oocDrop": null,
+    "previousEpisode": "1021",
+    "question": null,
+    "redirect": null,
+    "slug": "1022{{COLON}}_February_27,_2025",
+    "title": "1022: February 27, 2025",
+    "transcriptEpisodeNumber": null,
+    "wiki_categories": [
+      "Episodes"
+    ]
+  },
+  {
     "airDate": "November 14, 2017",
     "appearance": [
       "Paul Craig Roberts",
@@ -701,7 +916,12 @@
   },
   {
     "airDate": "November 20, 2017",
-    "appearance": null,
+    "appearance": [
+      "David Knight",
+      "Jon Rappoport",
+      "Donald Trump",
+      "Al Franken"
+    ],
     "beverage": "Nice! Sparkling Water",
     "brightSpot": null,
     "coverageDate": "January 17, 2016",
@@ -717,7 +937,7 @@
     "length": "01:38:48",
     "libsyn_link": "isten",
     "nextEpisode": "104",
-    "oldid": 106,
+    "oldid": 5550,
     "oocDrop": "I can't watch porn... I like pinup girls",
     "previousEpisode": "102",
     "question": null,
@@ -1374,7 +1594,14 @@
   },
   {
     "airDate": "February 13, 2017",
-    "appearance": null,
+    "appearance": [
+      "Andrew Jackson",
+      "Nancy Pelosi",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Jon Rappoport",
+      "Reince Priebus"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 10, 2017",
@@ -1390,7 +1617,7 @@
     "length": "01:55:43",
     "libsyn_link": "isten",
     "nextEpisode": "12",
-    "oldid": 14,
+    "oldid": 5534,
     "oocDrop": null,
     "previousEpisode": "S001",
     "question": null,
@@ -1563,7 +1790,10 @@
   },
   {
     "airDate": "January 29, 2018",
-    "appearance": null,
+    "appearance": [
+      "David Knight",
+      "Jerome Corsi"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -1579,7 +1809,7 @@
     "length": "01:35:56",
     "libsyn_link": "isten",
     "nextEpisode": "125",
-    "oldid": 128,
+    "oldid": 5551,
     "oocDrop": "This is gonna be a weird radio show",
     "previousEpisode": "123",
     "question": null,
@@ -2339,7 +2569,20 @@
   },
   {
     "airDate": "February 16, 2017",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama",
+      "Chuck Schumer",
+      "David Knight",
+      "Donald Trump",
+      "George Soros",
+      "General Michael Flynn",
+      "Michael Moore",
+      "Paul Joseph Watson",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Jon Rappoport",
+      "Nancy Pelosi"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 14, 2017",
@@ -2355,7 +2598,7 @@
     "length": "02:31:52",
     "libsyn_link": "isten",
     "nextEpisode": "14",
-    "oldid": 16,
+    "oldid": 5535,
     "oocDrop": null,
     "previousEpisode": "12",
     "question": null,
@@ -2765,7 +3008,15 @@
   },
   {
     "airDate": "February 20, 2017",
-    "appearance": null,
+    "appearance": [
+      "Brian Williams",
+      "Donald Trump",
+      "George Soros",
+      "Mark Zuckerberg",
+      "Barack Obama",
+      "Vladimir Putin",
+      "Kim Jong Un"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 17, 2017",
@@ -2781,7 +3032,7 @@
     "length": "02:47:20",
     "libsyn_link": "isten",
     "nextEpisode": "15",
-    "oldid": 17,
+    "oldid": 5536,
     "oocDrop": null,
     "previousEpisode": "13",
     "question": null,
@@ -3595,7 +3846,15 @@
   },
   {
     "airDate": "February 27, 2017",
-    "appearance": null,
+    "appearance": [
+      "Glenn Beck",
+      "Hillary Clinton",
+      "Michelle Obama",
+      "Barack Obama",
+      "Stephen Colbert",
+      "Donald Trump",
+      "Melissa Harris Perry"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 24, 2017",
@@ -3611,7 +3870,7 @@
     "length": "02:03:24",
     "libsyn_link": "isten",
     "nextEpisode": "17",
-    "oldid": 19,
+    "oldid": 5537,
     "oocDrop": "Sounds like pedophilia to me, brah",
     "previousEpisode": "15",
     "question": null,
@@ -3702,7 +3961,13 @@
   },
   {
     "airDate": "June 22, 2018",
-    "appearance": null,
+    "appearance": [
+      "Janet Reno",
+      "Barack Obama",
+      "Donald Trump",
+      "Jeff Bezos",
+      "Peter Power"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 11, 2013",
@@ -3718,7 +3983,7 @@
     "length": "01:22:56",
     "libsyn_link": "isten",
     "nextEpisode": "173",
-    "oldid": 183,
+    "oldid": 5552,
     "oocDrop": "I hate myself every minutes I'm on this show",
     "previousEpisode": "171",
     "question": null,
@@ -4433,7 +4698,15 @@
   },
   {
     "airDate": "March 3, 2017",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Marty DeRosa",
+      "Barack Obama",
+      "Vladimir Putin",
+      "Rick Perry",
+      "Charlie Sheen",
+      "Rahm Emanuel"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 1, 2017",
@@ -4449,7 +4722,7 @@
     "length": "02:05:05",
     "libsyn_link": "isten",
     "nextEpisode": "19",
-    "oldid": 21,
+    "oldid": 5538,
     "oocDrop": null,
     "previousEpisode": "17",
     "question": null,
@@ -6059,7 +6332,9 @@
   },
   {
     "airDate": "November 5, 2018",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "November 2, 2018",
@@ -6075,7 +6350,7 @@
     "length": "00:29:48",
     "libsyn_link": "isten",
     "nextEpisode": "226",
-    "oldid": 237,
+    "oldid": 5553,
     "oocDrop": null,
     "previousEpisode": "224",
     "question": null,
@@ -6787,7 +7062,22 @@
   },
   {
     "airDate": "March 20, 2017",
-    "appearance": null,
+    "appearance": [
+      "Alec Baldwin",
+      "Anderson Cooper",
+      "Barack Obama",
+      "Donald Trump",
+      "John Kerry",
+      "Kim Jong Un",
+      "Lana Del Rey",
+      "Michelle Obama",
+      "Paul Joseph Watson",
+      "Rex Tillerson",
+      "Sean Hannity",
+      "Willie Nelson",
+      "Larry C Johnson",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -6803,7 +7093,7 @@
     "length": "03:01:23",
     "libsyn_link": "isten",
     "nextEpisode": "24",
-    "oldid": 26,
+    "oldid": 5539,
     "oocDrop": "I am the anti-shrunken",
     "previousEpisode": "22",
     "question": null,
@@ -7199,7 +7489,16 @@
   },
   {
     "airDate": "March 27, 2017",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "John Bolton",
+      "Michael Moore",
+      "Barack Obama",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Steve Pieczenik"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 23, 2017",
@@ -7215,7 +7514,7 @@
     "length": "02:13:32",
     "libsyn_link": "isten",
     "nextEpisode": "25",
-    "oldid": 27,
+    "oldid": 5540,
     "oocDrop": null,
     "previousEpisode": "23",
     "question": null,
@@ -8013,7 +8312,22 @@
   },
   {
     "airDate": "April 3, 2017",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama",
+      "Bill Hicks",
+      "Bill Maher",
+      "Dennis Montgomery",
+      "Donald Trump",
+      "George Noory",
+      "George Soros",
+      "Glenn Beck",
+      "Larry C Johnson",
+      "Louise Mensch",
+      "Michael Savage",
+      "Roger Stone",
+      "Rush Limbaugh",
+      "Sean Hannity"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 30, 2017",
@@ -8029,7 +8343,7 @@
     "length": "02:56:43",
     "libsyn_link": "isten",
     "nextEpisode": "27",
-    "oldid": 29,
+    "oldid": 5541,
     "oocDrop": "Getting directives BABY, from George-Frikken-Washington",
     "previousEpisode": "25",
     "question": null,
@@ -8447,7 +8761,12 @@
   },
   {
     "airDate": "April 5, 2017",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama",
+      "David Knight",
+      "Donald Trump",
+      "Lee Ann McAdoo"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 31, 2017",
@@ -8463,7 +8782,7 @@
     "length": "02:00:25",
     "libsyn_link": "isten",
     "nextEpisode": "28",
-    "oldid": 4452,
+    "oldid": 5542,
     "oocDrop": "In the white house, they call me, \"The Texan\"",
     "previousEpisode": "26",
     "question": null,
@@ -9369,7 +9688,19 @@
   },
   {
     "airDate": "April 12, 2017",
-    "appearance": null,
+    "appearance": [
+      "Ashley Beckford",
+      "George Soros",
+      "John McCain",
+      "Jon Rappoport",
+      "Lee Ann McAdoo",
+      "Lindsey Graham",
+      "Michael Savage",
+      "Roger Stone",
+      "Steve Bannon",
+      "Donald Trump",
+      "Mike Cernovich"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 11, 2017",
@@ -9385,7 +9716,7 @@
     "length": "02:06:18",
     "libsyn_link": "isten",
     "nextEpisode": "30",
-    "oldid": 32,
+    "oldid": 5543,
     "oocDrop": null,
     "previousEpisode": "28",
     "question": null,
@@ -10670,7 +11001,18 @@
   },
   {
     "airDate": "April 24, 2017",
-    "appearance": null,
+    "appearance": [
+      "Bill O'Reilly",
+      "Millie Weaver",
+      "Barack Obama",
+      "Owen Shroyer",
+      "Paul Joseph Watson",
+      "Rush Limbaugh",
+      "Megyn Kelly",
+      "Donald Trump",
+      "Winston Churchill",
+      "Jon Rappoport"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 21, 2017",
@@ -10686,7 +11028,7 @@
     "length": "01:57:31",
     "libsyn_link": "isten",
     "nextEpisode": "33",
-    "oldid": 35,
+    "oldid": 5544,
     "oocDrop": null,
     "previousEpisode": "31",
     "question": null,
@@ -11089,7 +11431,13 @@
   },
   {
     "airDate": "April 25, 2017",
-    "appearance": null,
+    "appearance": [
+      "Anderson Cooper",
+      "Donald Trump",
+      "Julian Assange",
+      "Madeleine Albright",
+      "Eddie Bravo"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 22, 2017",
@@ -11105,7 +11453,7 @@
     "length": "02:16:11",
     "libsyn_link": "isten",
     "nextEpisode": "34",
-    "oldid": 36,
+    "oldid": 5545,
     "oocDrop": null,
     "previousEpisode": "32",
     "question": null,
@@ -11863,7 +12211,13 @@
   },
   {
     "airDate": "October 21, 2019",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama",
+      "Donald Trump",
+      "Jesse James",
+      "Tom Arnold",
+      "Will Johnson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "October 18, 2019",
@@ -11879,7 +12233,7 @@
     "length": "01:34:51",
     "libsyn_link": "isten",
     "nextEpisode": "359",
-    "oldid": 373,
+    "oldid": 5554,
     "oocDrop": null,
     "previousEpisode": "357",
     "question": null,
@@ -11931,7 +12285,16 @@
   },
   {
     "airDate": "May 1, 2017",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama",
+      "Bill O'Reilly",
+      "Donald Trump",
+      "George Soros",
+      "Michelle Obama",
+      "Paul Joseph Watson",
+      "Mike Cernovich",
+      "Stefan Molyneux"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -11947,7 +12310,7 @@
     "length": "02:07:46",
     "libsyn_link": "isten",
     "nextEpisode": "36",
-    "oldid": 38,
+    "oldid": 5546,
     "oocDrop": "It's fun to laugh at Alex Jones!",
     "previousEpisode": "34",
     "question": null,
@@ -12764,7 +13127,13 @@
   },
   {
     "airDate": "May 5, 2017",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Mark Zuckerberg",
+      "George Soros",
+      "Mike Cernovich",
+      "Vladimir Putin"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 1, 2017",
@@ -12780,7 +13149,7 @@
     "length": "01:34:16",
     "libsyn_link": "isten",
     "nextEpisode": "38",
-    "oldid": 40,
+    "oldid": 5547,
     "oocDrop": null,
     "previousEpisode": "36",
     "question": null,
@@ -13182,7 +13551,27 @@
   },
   {
     "airDate": "May 9, 2017",
-    "appearance": null,
+    "appearance": [
+      "Barry Goldwater",
+      "David Knight",
+      "Donald Trump",
+      "Gavin McInnes",
+      "Hillary Clinton",
+      "John McCain",
+      "Marine Le Pen",
+      "Barack Obama",
+      "Paul Joseph Watson",
+      "Phyllis Schlafly",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Rush Limbaugh",
+      "Stephen Colbert",
+      "Steve Bannon",
+      "Jerome Corsi",
+      "Mike Cernovich",
+      "Nigel Farage",
+      "Rebel Media"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -13198,7 +13587,7 @@
     "length": "03:26:18",
     "libsyn_link": "isten",
     "nextEpisode": "39",
-    "oldid": 41,
+    "oldid": 5548,
     "oocDrop": "Get the Paul Joseph Watson shirt, I think it's great for women",
     "previousEpisode": "37",
     "question": null,
@@ -14184,7 +14573,7 @@
     "length": "02:28:31",
     "libsyn_link": "isten",
     "nextEpisode": "411",
-    "oldid": 425,
+    "oldid": 5731,
     "oocDrop": "Cuban women will have sex with you for $2",
     "previousEpisode": "409",
     "question": null,
@@ -14803,7 +15192,9 @@
   },
   {
     "airDate": "April 29, 2020",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": "Bai Watermelon Lime; Bai coconut lime",
     "brightSpot": null,
     "coverageDate": null,
@@ -14819,7 +15210,7 @@
     "length": "01:55:08",
     "libsyn_link": "isten",
     "nextEpisode": "427",
-    "oldid": 3798,
+    "oldid": 5555,
     "oocDrop": null,
     "previousEpisode": "425",
     "question": null,
@@ -15808,7 +16199,17 @@
   },
   {
     "airDate": "May 24, 2017",
-    "appearance": null,
+    "appearance": [
+      "David Knight",
+      "Hillary Clinton",
+      "Barack Obama",
+      "Paul Joseph Watson",
+      "Stephen Colbert",
+      "Donald Trump",
+      "George W Bush",
+      "Jerome Corsi",
+      "John Kerry"
+    ],
     "beverage": "Strawberry-infused Perrier",
     "brightSpot": null,
     "coverageDate": "May 22, 2017",
@@ -15824,7 +16225,7 @@
     "length": "01:13:16",
     "libsyn_link": "isten",
     "nextEpisode": "45",
-    "oldid": 47,
+    "oldid": 5549,
     "oocDrop": null,
     "previousEpisode": "43",
     "question": null,
@@ -19388,7 +19789,9 @@
   },
   {
     "airDate": "February 17, 2021",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 15, 2021",
@@ -19404,7 +19807,7 @@
     "length": "00:47:55",
     "libsyn_link": "isten",
     "nextEpisode": "533",
-    "oldid": 3911,
+    "oldid": 5556,
     "oocDrop": "Dogs understand property rights",
     "previousEpisode": "531",
     "question": null,
@@ -21623,7 +22026,10 @@
   },
   {
     "airDate": "August 18, 2021",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Mike Lindell"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 14, 2021",
@@ -21639,7 +22045,7 @@
     "length": "00:56:04",
     "libsyn_link": "isten",
     "nextEpisode": "588",
-    "oldid": 3966,
+    "oldid": 5557,
     "oocDrop": "I am farting for my life",
     "previousEpisode": "586",
     "question": null,
@@ -22160,7 +22566,16 @@
   },
   {
     "airDate": "January 20, 2017",
-    "appearance": null,
+    "appearance": [
+      "David Knight",
+      "Donald Trump",
+      "George Soros",
+      "James O'Keefe",
+      "Barack Obama",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 19, 2017",
@@ -22176,7 +22591,7 @@
     "length": "01:48:52",
     "libsyn_link": "isten",
     "nextEpisode": "6",
-    "oldid": 7,
+    "oldid": 5532,
     "oocDrop": null,
     "previousEpisode": "4",
     "question": null,
@@ -24484,7 +24899,12 @@
   },
   {
     "airDate": "March 7, 2022",
-    "appearance": null,
+    "appearance": [
+      "Glenn Beck",
+      "Melinda Gates",
+      "Vladimir Putin",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 5, 2022",
@@ -24500,7 +24920,7 @@
     "length": "02:14:48",
     "libsyn_link": "isten",
     "nextEpisode": "657",
-    "oldid": 4035,
+    "oldid": 5558,
     "oocDrop": null,
     "previousEpisode": "655",
     "question": null,
@@ -24515,7 +24935,17 @@
   },
   {
     "airDate": "March 8, 2022",
-    "appearance": null,
+    "appearance": [
+      "Ben Shapiro",
+      "Bill Ogden",
+      "David Icke",
+      "David Knight",
+      "Elizabeth Williamson",
+      "Jim Carrey",
+      "Jim Fetzer",
+      "Leonard Pozner",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -24531,7 +24961,7 @@
     "length": "01:19:21",
     "libsyn_link": "isten",
     "nextEpisode": "658",
-    "oldid": 4036,
+    "oldid": 5559,
     "oocDrop": null,
     "previousEpisode": "656",
     "question": null,
@@ -24546,7 +24976,17 @@
   },
   {
     "airDate": "March 11, 2022",
-    "appearance": null,
+    "appearance": [
+      "Marjorie Taylor Greene",
+      "Mitch McConnell",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Russell Brand",
+      "Thomas Jefferson",
+      "Donald Trump",
+      "Matt Gaetz",
+      "Vladimir Putin"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -24562,7 +25002,7 @@
     "length": "01:44:34",
     "libsyn_link": "isten",
     "nextEpisode": "659",
-    "oldid": 4037,
+    "oldid": 5560,
     "oocDrop": null,
     "previousEpisode": "657",
     "question": null,
@@ -24577,7 +25017,10 @@
   },
   {
     "airDate": "March 14, 2022",
-    "appearance": null,
+    "appearance": [
+      "David Kelly",
+      "Tony Blair"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -24593,7 +25036,7 @@
     "length": "01:53:00",
     "libsyn_link": "isten",
     "nextEpisode": "660",
-    "oldid": 4038,
+    "oldid": 5561,
     "oocDrop": null,
     "previousEpisode": "658",
     "question": null,
@@ -24643,7 +25086,11 @@
   },
   {
     "airDate": "March 18, 2022",
-    "appearance": null,
+    "appearance": [
+      "David Icke",
+      "Barack Obama",
+      "Dan Bidondi"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 11, 2014",
@@ -24659,7 +25106,7 @@
     "length": "01:55:12",
     "libsyn_link": "isten",
     "nextEpisode": "661",
-    "oldid": 4039,
+    "oldid": 5562,
     "oocDrop": null,
     "previousEpisode": "659",
     "question": null,
@@ -24674,7 +25121,16 @@
   },
   {
     "airDate": "March 21, 2022",
-    "appearance": null,
+    "appearance": [
+      "Arnold Schwarzenegger",
+      "Barack Obama",
+      "Francis Boyle",
+      "Harrison Smith",
+      "Mike Tyson",
+      "Nick Fuentes",
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 17, 2022",
@@ -24690,7 +25146,7 @@
     "length": "01:52:20",
     "libsyn_link": "isten",
     "nextEpisode": "662",
-    "oldid": 4386,
+    "oldid": 5563,
     "oocDrop": null,
     "previousEpisode": "660",
     "question": null,
@@ -24705,7 +25161,12 @@
   },
   {
     "airDate": "March 25, 2022",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Russell Brand"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 22, 2022",
@@ -24721,7 +25182,7 @@
     "length": "02:05:17",
     "libsyn_link": "isten",
     "nextEpisode": "663",
-    "oldid": 4041,
+    "oldid": 5564,
     "oocDrop": null,
     "previousEpisode": "661",
     "question": null,
@@ -24736,7 +25197,9 @@
   },
   {
     "airDate": "March 28, 2022",
-    "appearance": null,
+    "appearance": [
+      "John Oliver"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 24, 2003",
@@ -24752,7 +25215,7 @@
     "length": "01:26:09",
     "libsyn_link": "isten",
     "nextEpisode": "664",
-    "oldid": 4042,
+    "oldid": 5565,
     "oocDrop": null,
     "previousEpisode": "662",
     "question": null,
@@ -24767,7 +25230,13 @@
   },
   {
     "airDate": "March 30, 2022",
-    "appearance": null,
+    "appearance": [
+      "Bill Ogden",
+      "Jussie Smollett",
+      "Kit Daniels",
+      "Paul Joseph Watson",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -24783,7 +25252,7 @@
     "length": "03:31:05",
     "libsyn_link": "isten",
     "nextEpisode": "665",
-    "oldid": 4043,
+    "oldid": 5566,
     "oocDrop": null,
     "previousEpisode": "663",
     "question": null,
@@ -24799,7 +25268,14 @@
   },
   {
     "airDate": "April 1, 2022",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Megyn Kelly",
+      "Owen Shroyer",
+      "Kit Daniels",
+      "Bill Ogden",
+      "Wolfgang Halbig"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -24815,7 +25291,7 @@
     "length": "02:33:15",
     "libsyn_link": "isten",
     "nextEpisode": "666",
-    "oldid": 4044,
+    "oldid": 5567,
     "oocDrop": null,
     "previousEpisode": "664",
     "question": null,
@@ -24831,7 +25307,13 @@
   },
   {
     "airDate": "April 4, 2022",
-    "appearance": null,
+    "appearance": [
+      "Kevin McCarthy",
+      "Mike Lindell",
+      "Roger Stone",
+      "DJ Danarchy",
+      "Madison Cawthorn"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "March 31, 2022",
@@ -24847,7 +25329,7 @@
     "length": "01:51:25",
     "libsyn_link": "isten",
     "nextEpisode": "667",
-    "oldid": 4045,
+    "oldid": 5568,
     "oocDrop": null,
     "previousEpisode": "665",
     "question": null,
@@ -24862,7 +25344,13 @@
   },
   {
     "airDate": "April 8, 2022",
-    "appearance": null,
+    "appearance": [
+      "Al Franken",
+      "Arnold Schwarzenegger",
+      "Michael Savage",
+      "Ross Perot",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 25, 2003",
@@ -24878,7 +25366,7 @@
     "length": "01:16:50",
     "libsyn_link": "isten",
     "nextEpisode": "668",
-    "oldid": 4046,
+    "oldid": 5569,
     "oocDrop": null,
     "previousEpisode": "666",
     "question": null,
@@ -24893,7 +25381,12 @@
   },
   {
     "airDate": "April 11, 2022",
-    "appearance": null,
+    "appearance": [
+      "Jussie Smollett",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Dan Bidondi"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 8, 2022",
@@ -24909,7 +25402,7 @@
     "length": "01:18:15",
     "libsyn_link": "isten",
     "nextEpisode": "669",
-    "oldid": 4047,
+    "oldid": 5570,
     "oocDrop": null,
     "previousEpisode": "667",
     "question": null,
@@ -24924,7 +25417,14 @@
   },
   {
     "airDate": "April 13, 2022",
-    "appearance": null,
+    "appearance": [
+      "Laura Loomer",
+      "Mike Lindell",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Donald Trump",
+      "John F. Kennedy Jr."
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -24940,7 +25440,7 @@
     "length": "01:23:18",
     "libsyn_link": "isten",
     "nextEpisode": "670",
-    "oldid": 4048,
+    "oldid": 5571,
     "oocDrop": null,
     "previousEpisode": "668",
     "question": null,
@@ -24993,7 +25493,10 @@
   },
   {
     "airDate": "April 15, 2022",
-    "appearance": null,
+    "appearance": [
+      "Willie Nelson",
+      "Matt Drudge"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 28, 2003",
@@ -25009,7 +25512,7 @@
     "length": "01:19:17",
     "libsyn_link": "isten",
     "nextEpisode": "671",
-    "oldid": 4049,
+    "oldid": 5572,
     "oocDrop": null,
     "previousEpisode": "669",
     "question": null,
@@ -25024,7 +25527,13 @@
   },
   {
     "airDate": "April 18, 2022",
-    "appearance": null,
+    "appearance": [
+      "Ali Alexander",
+      "Kevin McCarthy",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Brian Stelter"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 13, 2022",
@@ -25040,7 +25549,7 @@
     "length": "01:59:00",
     "libsyn_link": "isten",
     "nextEpisode": "672",
-    "oldid": 4050,
+    "oldid": 5573,
     "oocDrop": null,
     "previousEpisode": "670",
     "question": null,
@@ -25055,7 +25564,9 @@
   },
   {
     "airDate": "April 20, 2022",
-    "appearance": null,
+    "appearance": [
+      "Jimmy Dore"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 18, 2022",
@@ -25071,7 +25582,7 @@
     "length": "01:18:01",
     "libsyn_link": "isten",
     "nextEpisode": "673",
-    "oldid": 4051,
+    "oldid": 5574,
     "oocDrop": null,
     "previousEpisode": "671",
     "question": null,
@@ -25148,7 +25659,11 @@
   },
   {
     "airDate": "April 27, 2022",
-    "appearance": null,
+    "appearance": [
+      "Julian Huxley",
+      "Roger Stone",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 25, 2022",
@@ -25164,7 +25679,7 @@
     "length": "01:48:22",
     "libsyn_link": "isten",
     "nextEpisode": "676",
-    "oldid": 4054,
+    "oldid": 5575,
     "oocDrop": null,
     "previousEpisode": "674",
     "question": null,
@@ -25179,7 +25694,11 @@
   },
   {
     "airDate": "May 2, 2022",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "John Lennon",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "April 29, 2022",
@@ -25195,7 +25714,7 @@
     "length": "01:17:40",
     "libsyn_link": "isten",
     "nextEpisode": "677",
-    "oldid": 4055,
+    "oldid": 5576,
     "oocDrop": null,
     "previousEpisode": "675",
     "question": null,
@@ -25210,7 +25729,10 @@
   },
   {
     "airDate": "May 6, 2022",
-    "appearance": null,
+    "appearance": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 4, 2022",
@@ -25226,7 +25748,7 @@
     "length": "01:30:53",
     "libsyn_link": "isten",
     "nextEpisode": "678",
-    "oldid": 4056,
+    "oldid": 5577,
     "oocDrop": null,
     "previousEpisode": "676",
     "question": null,
@@ -25241,7 +25763,10 @@
   },
   {
     "airDate": "May 9, 2022",
-    "appearance": null,
+    "appearance": [
+      "Arnold Schwarzenegger",
+      "Michael Savage"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -25257,7 +25782,7 @@
     "length": "01:53:47",
     "libsyn_link": "isten",
     "nextEpisode": "679",
-    "oldid": 4057,
+    "oldid": 5578,
     "oocDrop": null,
     "previousEpisode": "677",
     "question": null,
@@ -25272,7 +25797,12 @@
   },
   {
     "airDate": "May 11, 2022",
-    "appearance": null,
+    "appearance": [
+      "John Roberts",
+      "Marjorie Taylor Greene",
+      "Roger Stone",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 9, 2022",
@@ -25288,7 +25818,7 @@
     "length": "01:32:27",
     "libsyn_link": "isten",
     "nextEpisode": "680",
-    "oldid": 4058,
+    "oldid": 5579,
     "oocDrop": null,
     "previousEpisode": "678",
     "question": null,
@@ -25339,7 +25869,9 @@
   },
   {
     "airDate": "May 13, 2022",
-    "appearance": null,
+    "appearance": [
+      "John Wayne"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -25355,7 +25887,7 @@
     "length": "01:18:20",
     "libsyn_link": "isten",
     "nextEpisode": "681",
-    "oldid": 4059,
+    "oldid": 5580,
     "oocDrop": null,
     "previousEpisode": "679",
     "question": null,
@@ -25370,7 +25902,10 @@
   },
   {
     "airDate": "May 16, 2022",
-    "appearance": null,
+    "appearance": [
+      "Robert Barnes",
+      "George Soros"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 8, 2022",
@@ -25386,7 +25921,7 @@
     "length": "01:58:19",
     "libsyn_link": "isten",
     "nextEpisode": "682",
-    "oldid": 4060,
+    "oldid": 5581,
     "oocDrop": null,
     "previousEpisode": "680",
     "question": null,
@@ -25401,7 +25936,10 @@
   },
   {
     "airDate": "May 18, 2022",
-    "appearance": null,
+    "appearance": [
+      "Mike Adams",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 15, 2022",
@@ -25417,7 +25955,7 @@
     "length": "01:25:25",
     "libsyn_link": "isten",
     "nextEpisode": "683",
-    "oldid": 4061,
+    "oldid": 5582,
     "oocDrop": null,
     "previousEpisode": "681",
     "question": null,
@@ -25432,7 +25970,9 @@
   },
   {
     "airDate": "May 20, 2022",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 16, 2022",
@@ -25448,7 +25988,7 @@
     "length": "01:06:05",
     "libsyn_link": "isten",
     "nextEpisode": "684",
-    "oldid": 4062,
+    "oldid": 5583,
     "oocDrop": null,
     "previousEpisode": "682",
     "question": null,
@@ -25463,7 +26003,9 @@
   },
   {
     "airDate": "May 23, 2022",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 20, 2022",
@@ -25479,7 +26021,7 @@
     "length": "01:12:07",
     "libsyn_link": "isten",
     "nextEpisode": "685",
-    "oldid": 4063,
+    "oldid": 5584,
     "oocDrop": null,
     "previousEpisode": "683",
     "question": null,
@@ -25494,7 +26036,23 @@
   },
   {
     "airDate": "May 25, 2022",
-    "appearance": null,
+    "appearance": [
+      "Charlie Sheen",
+      "Jim Fetzer",
+      "Lee Ann McAdoo",
+      "Leonard Pozner",
+      "Mark Bankston",
+      "Owen Shroyer",
+      "Ted Anderson",
+      "Bill Ogden",
+      "Jacquelyn Blott",
+      "Kurt Nimmo",
+      "Norm Pattis",
+      "Wolfgang Halbig",
+      "Brittany Paz",
+      "Darren McBreen",
+      "Kit Daniels"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -25510,7 +26068,7 @@
     "length": "03:02:56",
     "libsyn_link": "isten",
     "nextEpisode": "686",
-    "oldid": 4064,
+    "oldid": 5585,
     "oocDrop": null,
     "previousEpisode": "684",
     "question": null,
@@ -25525,7 +26083,11 @@
   },
   {
     "airDate": "May 27, 2022",
-    "appearance": null,
+    "appearance": [
+      "Mark Richards",
+      "Vladimir Putin",
+      "Wernher Von Braun"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -25542,7 +26104,7 @@
     "length": "01:09:08",
     "libsyn_link": "isten",
     "nextEpisode": "687",
-    "oldid": 4065,
+    "oldid": 5586,
     "oocDrop": null,
     "previousEpisode": "685",
     "question": null,
@@ -25558,7 +26120,11 @@
   },
   {
     "airDate": "May 30, 2022",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Owen Shroyer",
+      "Ted Nugent"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 24, 2022",
@@ -25574,7 +26140,7 @@
     "length": "02:27:59",
     "libsyn_link": "isten",
     "nextEpisode": "688",
-    "oldid": 4066,
+    "oldid": 5587,
     "oocDrop": null,
     "previousEpisode": "686",
     "question": null,
@@ -25640,7 +26206,7 @@
     "length": "01:29:22",
     "libsyn_link": "isten",
     "nextEpisode": "690",
-    "oldid": 4068,
+    "oldid": 5588,
     "oocDrop": null,
     "previousEpisode": "688",
     "question": null,
@@ -25692,7 +26258,12 @@
   },
   {
     "airDate": "June 10, 2022",
-    "appearance": null,
+    "appearance": [
+      "Michael Moore",
+      "Mike Lindell",
+      "Mitch McConnell",
+      "Ted Nugent"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "May 27, 2022",
@@ -25708,7 +26279,7 @@
     "length": "01:31:01",
     "libsyn_link": "isten",
     "nextEpisode": "691",
-    "oldid": 4069,
+    "oldid": 5589,
     "oocDrop": null,
     "previousEpisode": "689",
     "question": null,
@@ -25723,7 +26294,9 @@
   },
   {
     "airDate": "June 13, 2022",
-    "appearance": null,
+    "appearance": [
+      "Peter Thiel"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 6, 2022",
@@ -25739,7 +26312,7 @@
     "length": "01:24:53",
     "libsyn_link": "isten",
     "nextEpisode": "692",
-    "oldid": 4070,
+    "oldid": 5590,
     "oocDrop": null,
     "previousEpisode": "690",
     "question": null,
@@ -25754,7 +26327,14 @@
   },
   {
     "airDate": "June 15, 2022",
-    "appearance": null,
+    "appearance": [
+      "Dennis Rodman",
+      "Mike Tyson",
+      "Piers Morgan",
+      "Vladimir Putin",
+      "Robert F. Kennedy Jr.",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -25770,7 +26350,7 @@
     "length": "01:26:54",
     "libsyn_link": "isten",
     "nextEpisode": "S012",
-    "oldid": 4071,
+    "oldid": 5591,
     "oocDrop": null,
     "previousEpisode": "691",
     "question": null,
@@ -25785,7 +26365,10 @@
   },
   {
     "airDate": "June 20, 2022",
-    "appearance": null,
+    "appearance": [
+      "Alan Keyes",
+      "Mel Gibson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 4, 2003",
@@ -25801,7 +26384,7 @@
     "length": "01:17:57",
     "libsyn_link": "isten",
     "nextEpisode": "694",
-    "oldid": 4072,
+    "oldid": 5592,
     "oocDrop": null,
     "previousEpisode": "S012",
     "question": null,
@@ -25816,7 +26399,12 @@
   },
   {
     "airDate": "June 22, 2022",
-    "appearance": null,
+    "appearance": [
+      "Gary Busey",
+      "Hutton Gibson",
+      "World Net Daily",
+      "Joseph Farah"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -25833,7 +26421,7 @@
     "length": "00:54:24",
     "libsyn_link": "isten",
     "nextEpisode": "695",
-    "oldid": 4073,
+    "oldid": 5593,
     "oocDrop": null,
     "previousEpisode": "693",
     "question": null,
@@ -25849,7 +26437,14 @@
   },
   {
     "airDate": "June 24, 2022",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Leo Zagami",
+      "Paul Joseph Watson",
+      "Roger Stone",
+      "Rudy Giuliani",
+      "Scott Adams"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 22, 2022",
@@ -25865,7 +26460,7 @@
     "length": "01:17:09",
     "libsyn_link": "isten",
     "nextEpisode": "696",
-    "oldid": 4074,
+    "oldid": 5594,
     "oocDrop": null,
     "previousEpisode": "694",
     "question": null,
@@ -25880,7 +26475,10 @@
   },
   {
     "airDate": "June 27, 2022",
-    "appearance": null,
+    "appearance": [
+      "Nancy Pelosi",
+      "David Knight"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 24, 2022",
@@ -25896,7 +26494,7 @@
     "length": "01:49:15",
     "libsyn_link": "isten",
     "nextEpisode": "697",
-    "oldid": 4075,
+    "oldid": 5595,
     "oocDrop": null,
     "previousEpisode": "695",
     "question": null,
@@ -25911,7 +26509,15 @@
   },
   {
     "airDate": "July 1, 2022",
-    "appearance": null,
+    "appearance": [
+      "Alex Stein",
+      "Donald Trump",
+      "Gavin McInnes",
+      "Vladimir Putin",
+      "Robert F. Kennedy Jr.",
+      "Roger Stone",
+      "Mitch McConnell"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 29, 2022",
@@ -25927,7 +26533,7 @@
     "length": "01:28:57",
     "libsyn_link": "isten",
     "nextEpisode": "698",
-    "oldid": 4076,
+    "oldid": 5596,
     "oocDrop": null,
     "previousEpisode": "696",
     "question": null,
@@ -25977,7 +26583,10 @@
   },
   {
     "airDate": "July 6, 2022",
-    "appearance": null,
+    "appearance": [
+      "Dwight D Eisenhower",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -25993,7 +26602,7 @@
     "length": "01:28:17",
     "libsyn_link": "isten",
     "nextEpisode": "700",
-    "oldid": 4078,
+    "oldid": 5597,
     "oocDrop": null,
     "previousEpisode": "698",
     "question": null,
@@ -26077,7 +26686,12 @@
   },
   {
     "airDate": "July 8, 2022",
-    "appearance": null,
+    "appearance": [
+      "Marjorie Taylor Greene",
+      "Ted Turner",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 6, 2022",
@@ -26093,7 +26707,7 @@
     "length": "01:21:56",
     "libsyn_link": "isten",
     "nextEpisode": "701",
-    "oldid": 4079,
+    "oldid": 5598,
     "oocDrop": null,
     "previousEpisode": "699",
     "question": null,
@@ -26108,7 +26722,10 @@
   },
   {
     "airDate": "July 11, 2022",
-    "appearance": null,
+    "appearance": [
+      "Michael Moore",
+      "Randy Weaver"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 23, 2004",
@@ -26124,7 +26741,7 @@
     "length": "01:17:47",
     "libsyn_link": "isten",
     "nextEpisode": "702",
-    "oldid": 4080,
+    "oldid": 5599,
     "oocDrop": null,
     "previousEpisode": "700",
     "question": null,
@@ -26140,7 +26757,11 @@
   },
   {
     "airDate": "July 15, 2022",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Hunter Biden",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -26156,7 +26777,7 @@
     "length": "01:46:12",
     "libsyn_link": "isten",
     "nextEpisode": "703",
-    "oldid": 4081,
+    "oldid": 5600,
     "oocDrop": null,
     "previousEpisode": "701",
     "question": null,
@@ -26197,7 +26818,9 @@
   },
   {
     "airDate": "July 18, 2022",
-    "appearance": null,
+    "appearance": [
+      "Saddam Hussein"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 11, 2001",
@@ -26213,7 +26836,7 @@
     "length": "02:06:15",
     "libsyn_link": "isten",
     "nextEpisode": "704",
-    "oldid": 4082,
+    "oldid": 5601,
     "oocDrop": null,
     "previousEpisode": "702",
     "question": null,
@@ -26254,7 +26877,11 @@
   },
   {
     "airDate": "July 20, 2022",
-    "appearance": null,
+    "appearance": [
+      "Carl Sagan",
+      "Mika Brzezinski",
+      "Osama Bin Laden"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 11, 2001",
@@ -26270,7 +26897,7 @@
     "length": "02:22:21",
     "libsyn_link": "isten",
     "nextEpisode": "705",
-    "oldid": 4083,
+    "oldid": 5602,
     "oocDrop": null,
     "previousEpisode": "703",
     "question": null,
@@ -26285,7 +26912,13 @@
   },
   {
     "airDate": "July 24, 2022",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Glenn Greenwald",
+      "Roger Stone",
+      "Steve Bannon",
+      "Dan Bidondi"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -26301,7 +26934,7 @@
     "length": "01:20:56",
     "libsyn_link": "isten",
     "nextEpisode": "706",
-    "oldid": 4084,
+    "oldid": 5603,
     "oocDrop": null,
     "previousEpisode": "704",
     "question": null,
@@ -26347,7 +26980,13 @@
   },
   {
     "airDate": "July 29, 2022",
-    "appearance": null,
+    "appearance": [
+      "Bill Cooper",
+      "Ali Alexander",
+      "Donald Trump",
+      "Gary Allen",
+      "Glenn Greenwald"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -26363,7 +27002,7 @@
     "length": "02:35:21",
     "libsyn_link": "isten",
     "nextEpisode": "708",
-    "oldid": 4086,
+    "oldid": 5604,
     "oocDrop": null,
     "previousEpisode": "706",
     "question": null,
@@ -26378,7 +27017,13 @@
   },
   {
     "airDate": "July 30, 2022",
-    "appearance": null,
+    "appearance": [
+      "Bryson Gray",
+      "Hunter Biden",
+      "Owen Shroyer",
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -26392,7 +27037,7 @@
     "length": "01:14:42",
     "libsyn_link": "isten",
     "nextEpisode": "709",
-    "oldid": 4087,
+    "oldid": 5605,
     "oocDrop": null,
     "previousEpisode": "707",
     "question": null,
@@ -26406,7 +27051,16 @@
   },
   {
     "airDate": "July 31, 2022",
-    "appearance": null,
+    "appearance": [
+      "Alex Lee Moyer",
+      "David Icke",
+      "Glenn Greenwald",
+      "Jussie Smollett",
+      "Mike Hanson",
+      "Owen Shroyer",
+      "Donald Trump",
+      "Barack Obama"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -26422,7 +27076,7 @@
     "length": "01:48:05",
     "libsyn_link": "isten",
     "nextEpisode": "710",
-    "oldid": 4088,
+    "oldid": 5606,
     "oocDrop": null,
     "previousEpisode": "708",
     "question": null,
@@ -26502,7 +27156,9 @@
   },
   {
     "airDate": "August 3, 2022",
-    "appearance": null,
+    "appearance": [
+      "Eric Holder"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 2, 2022",
@@ -26518,7 +27174,7 @@
     "length": "01:23:00",
     "libsyn_link": "isten",
     "nextEpisode": "712",
-    "oldid": 4089,
+    "oldid": 5607,
     "oocDrop": null,
     "previousEpisode": "710",
     "question": null,
@@ -26533,7 +27189,12 @@
   },
   {
     "airDate": "August 8, 2022",
-    "appearance": null,
+    "appearance": [
+      "Robert Barnes",
+      "Eric Holder",
+      "Mark Bankston",
+      "Bill Ogden"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -26550,7 +27211,7 @@
     "length": "01:32:31",
     "libsyn_link": "isten",
     "nextEpisode": "713",
-    "oldid": 4090,
+    "oldid": 5608,
     "oocDrop": null,
     "previousEpisode": "711",
     "question": null,
@@ -26566,7 +27227,12 @@
   },
   {
     "airDate": "August 9, 2022",
-    "appearance": null,
+    "appearance": [
+      "Dave Rubin",
+      "Glenn Greenwald",
+      "Tucker Carlson",
+      "Steve Pieczenik"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -26582,7 +27248,7 @@
     "length": "01:25:23",
     "libsyn_link": "isten",
     "nextEpisode": "714",
-    "oldid": 4091,
+    "oldid": 5609,
     "oocDrop": null,
     "previousEpisode": "712",
     "question": null,
@@ -26899,7 +27565,11 @@
   },
   {
     "airDate": "September 5, 2022",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Laura Loomer",
+      "Thomas Jefferson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 2, 2022",
@@ -26915,7 +27585,7 @@
     "length": "01:30:39",
     "libsyn_link": "isten",
     "nextEpisode": "722",
-    "oldid": 4098,
+    "oldid": 5610,
     "oocDrop": null,
     "previousEpisode": "720",
     "question": null,
@@ -28378,7 +29048,9 @@
   },
   {
     "airDate": "December 19, 2022",
-    "appearance": null,
+    "appearance": [
+      "Chuck Norris"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 8, 2003",
@@ -28394,7 +29066,7 @@
     "length": "01:11:01",
     "libsyn_link": "isten",
     "nextEpisode": "759",
-    "oldid": 4132,
+    "oldid": 5611,
     "oocDrop": null,
     "previousEpisode": "757",
     "question": null,
@@ -28479,7 +29151,11 @@
   },
   {
     "airDate": "December 28, 2022",
-    "appearance": null,
+    "appearance": [
+      "Larry Pratt",
+      "Mel Gibson",
+      "Vladimir Putin"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -28495,7 +29171,7 @@
     "length": "01:46:39",
     "libsyn_link": "isten",
     "nextEpisode": "761",
-    "oldid": 4134,
+    "oldid": 5612,
     "oocDrop": null,
     "previousEpisode": "759",
     "question": null,
@@ -28510,7 +29186,11 @@
   },
   {
     "airDate": "December 30, 2022",
-    "appearance": null,
+    "appearance": [
+      "G Edward Griffin",
+      "Phyllis Schlafly",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 11, 2003",
@@ -28526,7 +29206,7 @@
     "length": "01:11:42",
     "libsyn_link": "isten",
     "nextEpisode": "762",
-    "oldid": 4135,
+    "oldid": 5613,
     "oocDrop": null,
     "previousEpisode": "760",
     "question": null,
@@ -28541,7 +29221,11 @@
   },
   {
     "airDate": "January 2, 2023",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Dwight D Eisenhower",
+      "Vladimir Putin"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 31, 2022",
@@ -28557,7 +29241,7 @@
     "length": "02:03:46",
     "libsyn_link": "isten",
     "nextEpisode": "763",
-    "oldid": 4136,
+    "oldid": 5614,
     "oocDrop": null,
     "previousEpisode": "761",
     "question": null,
@@ -28572,7 +29256,10 @@
   },
   {
     "airDate": "January 4, 2023",
-    "appearance": null,
+    "appearance": [
+      "Saddam Hussein",
+      "DJ Danarchy"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 15, 2003",
@@ -28588,7 +29275,7 @@
     "length": "00:57:39",
     "libsyn_link": "isten",
     "nextEpisode": "764",
-    "oldid": 4137,
+    "oldid": 5615,
     "oocDrop": null,
     "previousEpisode": "762",
     "question": null,
@@ -28672,7 +29359,13 @@
   },
   {
     "airDate": "January 13, 2023",
-    "appearance": null,
+    "appearance": [
+      "Howard Dean",
+      "Vladimir Putin",
+      "Ray McGovern",
+      "Saddam Hussein",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 16, 2003",
@@ -28688,7 +29381,7 @@
     "length": "01:09:41",
     "libsyn_link": "isten",
     "nextEpisode": "767",
-    "oldid": 4140,
+    "oldid": 5616,
     "oocDrop": null,
     "previousEpisode": "765",
     "question": null,
@@ -29323,7 +30016,12 @@
   },
   {
     "airDate": "March 2, 2023",
-    "appearance": null,
+    "appearance": [
+      "Bill Maher",
+      "Howard Dean",
+      "Donald Trump",
+      "Cenk Uygur"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 26, 2023",
@@ -29339,7 +30037,7 @@
     "length": "01:28:15",
     "libsyn_link": "isten",
     "nextEpisode": "783",
-    "oldid": 4156,
+    "oldid": 5617,
     "oocDrop": null,
     "previousEpisode": "781",
     "question": null,
@@ -29391,7 +30089,9 @@
   },
   {
     "airDate": "March 10, 2023",
-    "appearance": null,
+    "appearance": [
+      "David Knight"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 9, 2013",
@@ -29408,7 +30108,7 @@
     "length": "01:18:24",
     "libsyn_link": "isten",
     "nextEpisode": "785",
-    "oldid": 4158,
+    "oldid": 5618,
     "oocDrop": null,
     "previousEpisode": "783",
     "question": null,
@@ -30050,7 +30750,13 @@
   },
   {
     "airDate": "January 26, 2017",
-    "appearance": null,
+    "appearance": [
+      "David Brock",
+      "Donald Trump",
+      "George Soros",
+      "Lee Ann McAdoo",
+      "Barack Obama"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -30066,7 +30772,7 @@
     "length": "01:35:48",
     "libsyn_link": "isten",
     "nextEpisode": "8",
-    "oldid": 9,
+    "oldid": 5533,
     "oocDrop": null,
     "previousEpisode": "6",
     "question": null,
@@ -30115,7 +30821,14 @@
   },
   {
     "airDate": "April 28, 2023",
-    "appearance": null,
+    "appearance": [
+      "Ann Coulter",
+      "John Kerry",
+      "Larry Nichols",
+      "Oliver North",
+      "Ronald Reagan",
+      "George W Bush"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 10, 2004",
@@ -30131,7 +30844,7 @@
     "length": "00:58:29",
     "libsyn_link": "isten",
     "nextEpisode": "802",
-    "oldid": 4175,
+    "oldid": 5619,
     "oocDrop": null,
     "previousEpisode": "800",
     "question": null,
@@ -32518,7 +33231,10 @@
   },
   {
     "airDate": "October 23, 2023",
-    "appearance": null,
+    "appearance": [
+      "Mark Twain",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "October 19, 2023",
@@ -32535,7 +33251,7 @@
     "length": "01:18:57",
     "libsyn_link": "isten",
     "nextEpisode": "863",
-    "oldid": 4234,
+    "oldid": 5620,
     "oocDrop": null,
     "previousEpisode": "861",
     "question": null,
@@ -35313,7 +36029,10 @@
   },
   {
     "airDate": "June 7, 2024",
-    "appearance": null,
+    "appearance": [
+      "Josh Owens",
+      "Barack Obama"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "February 2, 2014",
@@ -35330,7 +36049,7 @@
     "length": "01:04:15",
     "libsyn_link": "isten",
     "nextEpisode": "932",
-    "oldid": 4492,
+    "oldid": 5621,
     "oocDrop": null,
     "previousEpisode": "930",
     "question": null,
@@ -35346,7 +36065,14 @@
   },
   {
     "airDate": "June 10, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kim Jong Un",
+      "Mike Adams",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Ted Nugent"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -35362,7 +36088,7 @@
     "length": "01:56:46",
     "libsyn_link": "isten",
     "nextEpisode": "933",
-    "oldid": 4493,
+    "oldid": 5622,
     "oocDrop": null,
     "previousEpisode": "931",
     "question": null,
@@ -35377,7 +36103,14 @@
   },
   {
     "airDate": "June 14, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Hunter Biden",
+      "Nick Fuentes",
+      "Roger Stone",
+      "Stanley Kubrick",
+      "Vivian Kubrick"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -35393,7 +36126,7 @@
     "length": "02:04:45",
     "libsyn_link": "isten",
     "nextEpisode": "934",
-    "oldid": 4494,
+    "oldid": 5623,
     "oocDrop": null,
     "previousEpisode": "932",
     "question": null,
@@ -35408,7 +36141,11 @@
   },
   {
     "airDate": "June 17, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Thomas Jefferson",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 14, 2024",
@@ -35424,7 +36161,7 @@
     "length": "01:54:25",
     "libsyn_link": "isten",
     "nextEpisode": "935",
-    "oldid": 4495,
+    "oldid": 5624,
     "oocDrop": null,
     "previousEpisode": "933",
     "question": null,
@@ -35439,7 +36176,14 @@
   },
   {
     "airDate": "June 19, 2024",
-    "appearance": null,
+    "appearance": [
+      "Chuck Schumer",
+      "Donald Trump",
+      "General Michael Flynn",
+      "Barack Obama",
+      "Beto O'Rourke",
+      "Judy Mikovits"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 17, 2024",
@@ -35456,7 +36200,7 @@
     "length": "01:56:52",
     "libsyn_link": "isten",
     "nextEpisode": "936",
-    "oldid": 4496,
+    "oldid": 5625,
     "oocDrop": null,
     "previousEpisode": "934",
     "question": null,
@@ -35472,7 +36216,9 @@
   },
   {
     "airDate": "June 21, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -35488,7 +36234,7 @@
     "length": "01:09:45",
     "libsyn_link": "isten",
     "nextEpisode": "937",
-    "oldid": 4497,
+    "oldid": 5626,
     "oocDrop": null,
     "previousEpisode": "935",
     "question": null,
@@ -35503,21 +36249,26 @@
   },
   {
     "airDate": "June 24, 2024",
-    "appearance": null,
+    "appearance": [
+      "Taylor Swift",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 20, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "937",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:03:31",
     "libsyn_link": "isten",
     "nextEpisode": "938",
-    "oldid": 4498,
+    "oldid": 5627,
     "oocDrop": null,
     "previousEpisode": "936",
     "question": null,
@@ -35526,26 +36277,33 @@
     "title": "937: June 20, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "June 28, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Nick Fuentes",
+      "Vladimir Putin"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "June 26, 2024",
     "coverageStartDate": "June 25, 2024",
     "episodeNumber": "938",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:26:18",
     "libsyn_link": "isten",
     "nextEpisode": "939",
-    "oldid": 4499,
+    "oldid": 5628,
     "oocDrop": null,
     "previousEpisode": "937",
     "question": null,
@@ -35554,26 +36312,36 @@
     "title": "938: June 25-26, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 1, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Kamala Harris",
+      "Roger Stone",
+      "Steven Crowder",
+      "Robert Barnes"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "June 27, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "939",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "02:06:25",
     "libsyn_link": "isten",
     "nextEpisode": "940",
-    "oldid": 4500,
+    "oldid": 5629,
     "oocDrop": null,
     "previousEpisode": "938",
     "question": null,
@@ -35582,7 +36350,8 @@
     "title": "939: June 27, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -35625,21 +36394,28 @@
   },
   {
     "airDate": "July 5, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Michelle Obama",
+      "Roger Stone",
+      "Wolf Blitzer"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 1, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "940",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:23:25",
     "libsyn_link": "isten",
     "nextEpisode": "941",
-    "oldid": 4501,
+    "oldid": 5630,
     "oocDrop": null,
     "previousEpisode": "939",
     "question": null,
@@ -35648,26 +36424,36 @@
     "title": "940: July 1, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 8, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Janet Reno",
+      "Kamala Harris",
+      "Tom Clancy",
+      "Steve Pieczenik"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 3, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "941",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:06:41",
     "libsyn_link": "isten",
     "nextEpisode": "942",
-    "oldid": 4502,
+    "oldid": 5631,
     "oocDrop": null,
     "previousEpisode": "940",
     "question": null,
@@ -35676,26 +36462,31 @@
     "title": "941: July 3, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 10, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 7, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "942",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "00:58:32",
     "libsyn_link": "isten",
     "nextEpisode": "943",
-    "oldid": 4503,
+    "oldid": 5632,
     "oocDrop": null,
     "previousEpisode": "941",
     "question": null,
@@ -35704,26 +36495,32 @@
     "title": "942: July 7, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 12, 2024",
-    "appearance": null,
+    "appearance": [
+      "Vladimir Putin",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 9, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "943",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:23:46",
     "libsyn_link": "isten",
     "nextEpisode": "944",
-    "oldid": 4504,
+    "oldid": 5633,
     "oocDrop": null,
     "previousEpisode": "942",
     "question": null,
@@ -35732,26 +36529,33 @@
     "title": "943: July 9, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 15, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Mike Adams",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "July 14, 2024",
     "coverageStartDate": "July 13, 2024",
     "episodeNumber": "944",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:42:23",
     "libsyn_link": "isten",
     "nextEpisode": "945",
-    "oldid": 4505,
+    "oldid": 5634,
     "oocDrop": null,
     "previousEpisode": "943",
     "question": null,
@@ -35760,26 +36564,34 @@
     "title": "944: July 13-14, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 19, 2024",
-    "appearance": null,
+    "appearance": [
+      "George Strait",
+      "Roger Stone",
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 15, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "945",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:13:42",
     "libsyn_link": "isten",
     "nextEpisode": "946",
-    "oldid": 4506,
+    "oldid": 5635,
     "oocDrop": null,
     "previousEpisode": "944",
     "question": null,
@@ -35788,26 +36600,33 @@
     "title": "945: July 15, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 22, 2024",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Donald Trump",
+      "General Michael Flynn"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "July 21, 2024",
     "coverageStartDate": "July 19, 2024",
     "episodeNumber": "946",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:32:15",
     "libsyn_link": "isten",
     "nextEpisode": "947",
-    "oldid": 4507,
+    "oldid": 5636,
     "oocDrop": null,
     "previousEpisode": "945",
     "question": null,
@@ -35816,12 +36635,17 @@
     "title": "946: July 19-21, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 24, 2024",
-    "appearance": null,
+    "appearance": [
+      "Harrison Smith",
+      "Owen Shroyer",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -35835,7 +36659,7 @@
     "length": "00:53:31",
     "libsyn_link": "isten",
     "nextEpisode": "948",
-    "oldid": 4508,
+    "oldid": 5637,
     "oocDrop": null,
     "previousEpisode": "946",
     "question": null,
@@ -35849,21 +36673,26 @@
   },
   {
     "airDate": "July 26, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kamala Harris"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 24, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "948",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:24:38",
     "libsyn_link": "isten",
     "nextEpisode": "949",
-    "oldid": 4509,
+    "oldid": 5638,
     "oocDrop": null,
     "previousEpisode": "947",
     "question": null,
@@ -35872,26 +36701,32 @@
     "title": "948: July 24, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "July 29, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kamala Harris"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "July 26, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "949",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:16:43",
     "libsyn_link": "isten",
     "nextEpisode": "950",
-    "oldid": 4510,
+    "oldid": 5639,
     "oocDrop": null,
     "previousEpisode": "948",
     "question": null,
@@ -35900,7 +36735,8 @@
     "title": "949: July 26, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -35944,21 +36780,31 @@
   },
   {
     "airDate": "August 2, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "George Wallace",
+      "Kamala Harris",
+      "Max Planck",
+      "Mike Howell",
+      "Mark Zuckerberg",
+      "Mike Cernovich"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 1, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "950",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:56:49",
     "libsyn_link": "isten",
     "nextEpisode": "951",
-    "oldid": 4511,
+    "oldid": 5640,
     "oocDrop": null,
     "previousEpisode": "949",
     "question": null,
@@ -35967,26 +36813,32 @@
     "title": "950: August 1, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "August 5, 2024",
-    "appearance": null,
+    "appearance": [
+      "Tommy Robinson",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 2, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "951",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:10:29",
     "libsyn_link": "isten",
     "nextEpisode": "952",
-    "oldid": 4512,
+    "oldid": 5641,
     "oocDrop": null,
     "previousEpisode": "950",
     "question": null,
@@ -35995,26 +36847,32 @@
     "title": "951: August 2, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "August 9, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Peter Hotez"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 7, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "952",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:12:24",
     "libsyn_link": "isten",
     "nextEpisode": "953",
-    "oldid": 4513,
+    "oldid": 5642,
     "oocDrop": null,
     "previousEpisode": "951",
     "question": null,
@@ -36023,26 +36881,34 @@
     "title": "952: August 7, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "August 12, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Mike Tyson",
+      "Taylor Swift",
+      "Tommy Robinson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 8, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "953",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:20:01",
     "libsyn_link": "isten",
     "nextEpisode": "954",
-    "oldid": 4514,
+    "oldid": 5643,
     "oocDrop": null,
     "previousEpisode": "952",
     "question": null,
@@ -36051,12 +36917,18 @@
     "title": "953: August 8, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "August 16, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Owen Shroyer",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -36070,7 +36942,7 @@
     "length": "02:05:54",
     "libsyn_link": "isten",
     "nextEpisode": "955",
-    "oldid": 4515,
+    "oldid": 5644,
     "oocDrop": null,
     "previousEpisode": "953",
     "question": null,
@@ -36084,21 +36956,26 @@
   },
   {
     "airDate": "August 19, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 13, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "955",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:32:17",
     "libsyn_link": "isten",
     "nextEpisode": "956",
-    "oldid": 4516,
+    "oldid": 5645,
     "oocDrop": null,
     "previousEpisode": "954",
     "question": null,
@@ -36107,26 +36984,35 @@
     "title": "955: August 13, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "August 21, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Mao Zedong",
+      "Michael Moore",
+      "Michelle Obama"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 18, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "956",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "00:58:46",
     "libsyn_link": "isten",
     "nextEpisode": "957",
-    "oldid": 4517,
+    "oldid": 5646,
     "oocDrop": null,
     "previousEpisode": "955",
     "question": null,
@@ -36135,26 +37021,38 @@
     "title": "956: August 18, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "August 23, 2024",
-    "appearance": null,
+    "appearance": [
+      "Barack Obama",
+      "Kamala Harris",
+      "Michelle Obama",
+      "Vladimir Putin",
+      "Roger Stone",
+      "Donald Trump",
+      "Naomi Wolf",
+      "Tulsi Gabbard"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 21, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "957",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:17:22",
     "libsyn_link": "isten",
     "nextEpisode": "958",
-    "oldid": 4518,
+    "oldid": 5647,
     "oocDrop": null,
     "previousEpisode": "956",
     "question": null,
@@ -36163,12 +37061,18 @@
     "title": "957: August 21, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "August 26, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Jimmy Dore",
+      "Nancy Pelosi",
+      "Kamala Harris"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -36182,7 +37086,7 @@
     "length": "01:36:52",
     "libsyn_link": "isten",
     "nextEpisode": "959",
-    "oldid": 4519,
+    "oldid": 5648,
     "oocDrop": null,
     "previousEpisode": "957",
     "question": null,
@@ -36196,21 +37100,31 @@
   },
   {
     "airDate": "August 30, 2024",
-    "appearance": null,
+    "appearance": [
+      "Glenn Beck",
+      "Eric Prince",
+      "Jim Jordan",
+      "Mark Zuckerberg",
+      "Vladimir Putin",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 27, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "959",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:38:48",
     "libsyn_link": "isten",
     "nextEpisode": "960",
-    "oldid": 4520,
+    "oldid": 5649,
     "oocDrop": null,
     "previousEpisode": "958",
     "question": null,
@@ -36219,7 +37133,8 @@
     "title": "959: August 27, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -36264,21 +37179,25 @@
   },
   {
     "airDate": "September 2, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "August 31, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "960",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:25:23",
     "libsyn_link": "isten",
     "nextEpisode": "961",
-    "oldid": 4521,
+    "oldid": 5650,
     "oocDrop": null,
     "previousEpisode": "959",
     "question": null,
@@ -36287,26 +37206,33 @@
     "title": "960: August 31, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "September 6, 2024",
-    "appearance": null,
+    "appearance": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Jack Posobiec"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 4, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "961",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "02:02:43",
     "libsyn_link": "isten",
     "nextEpisode": "962",
-    "oldid": 4522,
+    "oldid": 5651,
     "oocDrop": null,
     "previousEpisode": "960",
     "question": null,
@@ -36315,26 +37241,31 @@
     "title": "961: September 4, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "September 11, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 5, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "962",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:42:39",
     "libsyn_link": "isten",
     "nextEpisode": "963",
-    "oldid": 4523,
+    "oldid": 5652,
     "oocDrop": null,
     "previousEpisode": "961",
     "question": null,
@@ -36343,26 +37274,33 @@
     "title": "962: September 5, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "September 13, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Laura Loomer"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 11, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "963",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:27:14",
     "libsyn_link": "isten",
     "nextEpisode": "964",
-    "oldid": 4524,
+    "oldid": 5653,
     "oocDrop": null,
     "previousEpisode": "962",
     "question": null,
@@ -36371,12 +37309,16 @@
     "title": "963: September 11, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "September 16, 2024",
-    "appearance": null,
+    "appearance": [
+      "Henry Kissinger",
+      "Jake Ducey"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -36390,7 +37332,7 @@
     "length": "02:23:37",
     "libsyn_link": "isten",
     "nextEpisode": "965",
-    "oldid": 4525,
+    "oldid": 5654,
     "oocDrop": null,
     "previousEpisode": "963",
     "question": null,
@@ -36404,21 +37346,28 @@
   },
   {
     "airDate": "September 20, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Vladimir Putin",
+      "Jack Posobiec"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 15, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "965",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:28:12",
     "libsyn_link": "isten",
     "nextEpisode": "966",
-    "oldid": 4526,
+    "oldid": 5655,
     "oocDrop": null,
     "previousEpisode": "964",
     "question": null,
@@ -36427,26 +37376,34 @@
     "title": "965: September 15, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "September 23, 2024",
-    "appearance": null,
+    "appearance": [
+      "Steven Crowder",
+      "Donald Trump",
+      "George W Bush",
+      "Roger Stone"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 19, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "966",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "00:51:21",
     "libsyn_link": "isten",
     "nextEpisode": "967",
-    "oldid": 4527,
+    "oldid": 5656,
     "oocDrop": null,
     "previousEpisode": "965",
     "question": null,
@@ -36455,12 +37412,19 @@
     "title": "966: September 19, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "September 27, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Kamala Harris",
+      "Vladimir Putin",
+      "Saddam Hussein",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -36474,7 +37438,7 @@
     "length": "03:21:25",
     "libsyn_link": "isten",
     "nextEpisode": "968",
-    "oldid": 4528,
+    "oldid": 5657,
     "oocDrop": null,
     "previousEpisode": "966",
     "question": null,
@@ -36488,21 +37452,29 @@
   },
   {
     "airDate": "September 30, 2024",
-    "appearance": null,
+    "appearance": [
+      "Mark Zuckerberg",
+      "Mike Lindell",
+      "Roger Stone",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "September 26, 2024",
     "coverageStartDate": "September 25, 2024",
     "episodeNumber": "968",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:36:39",
     "libsyn_link": "isten",
     "nextEpisode": "969",
-    "oldid": 4529,
+    "oldid": 5723,
     "oocDrop": null,
     "previousEpisode": "967",
     "question": null,
@@ -36511,26 +37483,34 @@
     "title": "968: September 25-26, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "October 4, 2024",
-    "appearance": null,
+    "appearance": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Tucker Carlson",
+      "Seth Green"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "September 27, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "969",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:43:46",
     "libsyn_link": "isten",
     "nextEpisode": "970",
-    "oldid": 4530,
+    "oldid": 5659,
     "oocDrop": null,
     "previousEpisode": "968",
     "question": null,
@@ -36539,7 +37519,8 @@
     "title": "969: September 27, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -36581,21 +37562,25 @@
   },
   {
     "airDate": "October 7, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "October 1, 2024",
     "coverageStartDate": "September 30, 2024",
     "episodeNumber": "970",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:28:01",
     "libsyn_link": "isten",
     "nextEpisode": "971",
-    "oldid": 4531,
+    "oldid": 5660,
     "oocDrop": null,
     "previousEpisode": "969",
     "question": null,
@@ -36604,26 +37589,33 @@
     "title": "970: September 30-October 1, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "October 11, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "James O'Keefe",
+      "Kamala Harris"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "October 3, 2024",
     "coverageStartDate": "October 2, 2024",
     "episodeNumber": "971",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:38:42",
     "libsyn_link": "isten",
     "nextEpisode": "972",
-    "oldid": 4532,
+    "oldid": 5661,
     "oocDrop": null,
     "previousEpisode": "970",
     "question": null,
@@ -36632,26 +37624,34 @@
     "title": "971: October 2-3, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "October 14, 2024",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Kamala Harris",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "October 8, 2024",
     "coverageStartDate": "October 4, 2024",
     "episodeNumber": "972",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "02:00:56",
     "libsyn_link": "isten",
     "nextEpisode": "973",
-    "oldid": 4533,
+    "oldid": 5662,
     "oocDrop": null,
     "previousEpisode": "971",
     "question": null,
@@ -36660,26 +37660,33 @@
     "title": "972: October 4-8, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "October 18, 2024",
-    "appearance": null,
+    "appearance": [
+      "Kamala Harris",
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "October 14, 2024",
     "coverageStartDate": "October 10, 2024",
     "episodeNumber": "973",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:41:22",
     "libsyn_link": "isten",
     "nextEpisode": "974",
-    "oldid": 4534,
+    "oldid": 5663,
     "oocDrop": null,
     "previousEpisode": "972",
     "question": null,
@@ -36688,26 +37695,32 @@
     "title": "973: October 10-14, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "October 21, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Mark Zuckerberg"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "October 16, 2024",
     "coverageStartDate": "October 15, 2024",
     "episodeNumber": "974",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:01:58",
     "libsyn_link": "isten",
     "nextEpisode": "975",
-    "oldid": 4535,
+    "oldid": 5664,
     "oocDrop": null,
     "previousEpisode": "973",
     "question": null,
@@ -36716,26 +37729,31 @@
     "title": "974: October 15-16, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "October 25, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "October 17, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "975",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:18:10",
     "libsyn_link": "isten",
     "nextEpisode": "976",
-    "oldid": 4536,
+    "oldid": 5724,
     "oocDrop": null,
     "previousEpisode": "974",
     "question": null,
@@ -36744,26 +37762,34 @@
     "title": "975: October 17, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "October 28, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "James O'Keefe",
+      "Kamala Harris",
+      "Marjorie Taylor Greene"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "October 21, 2024",
     "coverageStartDate": "October 18, 2024",
     "episodeNumber": "976",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:39:29",
     "libsyn_link": "isten",
     "nextEpisode": "977",
-    "oldid": 4537,
+    "oldid": 5666,
     "oocDrop": null,
     "previousEpisode": "975",
     "question": null,
@@ -36772,26 +37798,37 @@
     "title": "976: October 18-21, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "November 1, 2024",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Dennis Miller",
+      "Eddie Bravo",
+      "Kamala Harris",
+      "Marjorie Taylor Greene",
+      "Nick Fuentes",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": "October 28, 2024",
     "coverageStartDate": "October 25, 2024",
     "episodeNumber": "977",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "02:04:56",
     "libsyn_link": "isten",
     "nextEpisode": "978",
-    "oldid": 5039,
+    "oldid": 5667,
     "oocDrop": null,
     "previousEpisode": "976",
     "question": null,
@@ -36800,12 +37837,19 @@
     "title": "977: October 25-28, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "November 4, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Larry Fink",
+      "Robert F. Kennedy Jr.",
+      "Tucker Carlson",
+      "Kamala Harris"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -36819,7 +37863,7 @@
     "length": "02:18:52",
     "libsyn_link": "isten",
     "nextEpisode": "979",
-    "oldid": 5040,
+    "oldid": 5668,
     "oocDrop": null,
     "previousEpisode": "977",
     "question": null,
@@ -36833,7 +37877,10 @@
   },
   {
     "airDate": "November 8, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Barack Obama"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -36847,7 +37894,7 @@
     "length": "00:56:53",
     "libsyn_link": "isten",
     "nextEpisode": "980",
-    "oldid": 5041,
+    "oldid": 5669,
     "oocDrop": null,
     "previousEpisode": "978",
     "question": null,
@@ -36899,21 +37946,28 @@
   },
   {
     "airDate": "November 11, 2024",
-    "appearance": null,
+    "appearance": [
+      "Matt Bracken",
+      "Steven Crowder",
+      "Donald Trump",
+      "Tucker Carlson"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "November 6, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "980",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:39:20",
     "libsyn_link": "isten",
     "nextEpisode": "981",
-    "oldid": 5042,
+    "oldid": 5670,
     "oocDrop": null,
     "previousEpisode": "979",
     "question": null,
@@ -36922,26 +37976,32 @@
     "title": "980: November 6, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "November 15, 2024",
-    "appearance": null,
+    "appearance": [
+      "Steve Bannon",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "November 14, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "981",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:14:36",
     "libsyn_link": "isten",
     "nextEpisode": "982",
-    "oldid": 5043,
+    "oldid": 5671,
     "oocDrop": null,
     "previousEpisode": "980",
     "question": null,
@@ -36950,26 +38010,31 @@
     "title": "981: November 14, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "November 18, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "November 15, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "982",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:25:14",
     "libsyn_link": "isten",
     "nextEpisode": "983",
-    "oldid": 5044,
+    "oldid": 5672,
     "oocDrop": null,
     "previousEpisode": "981",
     "question": null,
@@ -36978,7 +38043,8 @@
     "title": "982: November 15, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -37011,21 +38077,27 @@
   },
   {
     "airDate": "November 25, 2024",
-    "appearance": null,
+    "appearance": [
+      "Kit Daniels",
+      "Owen Shroyer",
+      "Clarence Thomas"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "984",
-    "episodeType": null,
+    "episodeType": [
+      "Formulaic Objections"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:19:22",
     "libsyn_link": "isten",
     "nextEpisode": "985",
-    "oldid": 5046,
+    "oldid": 5719,
     "oocDrop": null,
     "previousEpisode": "983",
     "question": null,
@@ -37039,21 +38111,27 @@
   },
   {
     "airDate": "December 4, 2024",
-    "appearance": null,
+    "appearance": [
+      "Dwight D Eisenhower",
+      "Linda McMahon",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 2, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "985",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:56:53",
     "libsyn_link": "isten",
     "nextEpisode": "986",
-    "oldid": 5047,
+    "oldid": 5674,
     "oocDrop": null,
     "previousEpisode": "984",
     "question": null,
@@ -37062,26 +38140,33 @@
     "title": "985: December 2, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "December 6, 2024",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Jonas Salk",
+      "Klaus Schwab"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 3, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "986",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:12:35",
     "libsyn_link": "isten",
     "nextEpisode": "987",
-    "oldid": 5048,
+    "oldid": 5675,
     "oocDrop": null,
     "previousEpisode": "985",
     "question": null,
@@ -37090,26 +38175,33 @@
     "title": "986: December 3, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "December 9, 2024",
-    "appearance": null,
+    "appearance": [
+      "Scott Adams",
+      "Donald Trump",
+      "Peter Hotez"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 4, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "987",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:21:49",
     "libsyn_link": "isten",
     "nextEpisode": "988",
-    "oldid": 5049,
+    "oldid": 5676,
     "oocDrop": null,
     "previousEpisode": "986",
     "question": null,
@@ -37118,26 +38210,33 @@
     "title": "987: December 4, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "December 13, 2024",
-    "appearance": null,
+    "appearance": [
+      "Michael Bloomberg",
+      "Donald Trump",
+      "Peter Hotez"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 10, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "988",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:55:44",
     "libsyn_link": "isten",
     "nextEpisode": "989",
-    "oldid": 5050,
+    "oldid": 5677,
     "oocDrop": null,
     "previousEpisode": "987",
     "question": null,
@@ -37146,26 +38245,32 @@
     "title": "988: December 10, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "December 16, 2024",
-    "appearance": null,
+    "appearance": [
+      "Eddie Bravo",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 13, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "989",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:45:29",
     "libsyn_link": "isten",
     "nextEpisode": "990",
-    "oldid": 5051,
+    "oldid": 5678,
     "oocDrop": null,
     "previousEpisode": "988",
     "question": null,
@@ -37174,7 +38279,8 @@
     "title": "989: December 13, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -37223,7 +38329,13 @@
   },
   {
     "airDate": "December 20, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Mao Zedong",
+      "Mike Tyson",
+      "Tucker Carlson",
+      "Matt Gaetz"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -37237,7 +38349,7 @@
     "length": "01:33:54",
     "libsyn_link": "isten",
     "nextEpisode": "991",
-    "oldid": 5052,
+    "oldid": 5679,
     "oocDrop": null,
     "previousEpisode": "989",
     "question": null,
@@ -37251,7 +38363,9 @@
   },
   {
     "airDate": "December 23, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -37265,7 +38379,7 @@
     "length": "01:01:16",
     "libsyn_link": "isten",
     "nextEpisode": "992",
-    "oldid": 5053,
+    "oldid": 5680,
     "oocDrop": null,
     "previousEpisode": "990",
     "question": null,
@@ -37279,21 +38393,30 @@
   },
   {
     "airDate": "December 27, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Dwight D Eisenhower",
+      "Josef Mengele",
+      "Greta Thunberg",
+      "Vladimir Putin",
+      "Stefan Molyneux"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 24, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "992",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:22:37",
     "libsyn_link": "isten",
     "nextEpisode": "993",
-    "oldid": 5054,
+    "oldid": 5681,
     "oocDrop": null,
     "previousEpisode": "991",
     "question": null,
@@ -37302,26 +38425,33 @@
     "title": "992: December 24, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "December 30, 2024",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Jamie Raskin",
+      "Laura Loomer"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 27, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "993",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:35:34",
     "libsyn_link": "isten",
     "nextEpisode": "994",
-    "oldid": 5055,
+    "oldid": 5682,
     "oocDrop": null,
     "previousEpisode": "992",
     "question": null,
@@ -37330,26 +38460,31 @@
     "title": "993: December 27, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 3, 2025",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "December 31, 2024",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "994",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "00:54:20",
     "libsyn_link": "isten",
     "nextEpisode": "995",
-    "oldid": 5056,
+    "oldid": 5683,
     "oocDrop": null,
     "previousEpisode": "993",
     "question": null,
@@ -37358,26 +38493,33 @@
     "title": "994: December 31, 2024",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 6, 2025",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Greg Reese",
+      "Nick Fuentes"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 4, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "995",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:40:49",
     "libsyn_link": "isten",
     "nextEpisode": "996",
-    "oldid": 5057,
+    "oldid": 5684,
     "oocDrop": null,
     "previousEpisode": "994",
     "question": null,
@@ -37386,26 +38528,34 @@
     "title": "995: January 4, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 10, 2025",
-    "appearance": null,
+    "appearance": [
+      "Bill Gates",
+      "Johns Hopkins",
+      "Donald Trump",
+      "Peter Hotez"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 5, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "996",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:23:38",
     "libsyn_link": "isten",
     "nextEpisode": "997",
-    "oldid": 5058,
+    "oldid": 5685,
     "oocDrop": null,
     "previousEpisode": "995",
     "question": null,
@@ -37414,26 +38564,31 @@
     "title": "996: January 5, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 13, 2025",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 8, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "997",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:27:04",
     "libsyn_link": "isten",
     "nextEpisode": "998",
-    "oldid": 5059,
+    "oldid": 5686,
     "oocDrop": null,
     "previousEpisode": "996",
     "question": null,
@@ -37442,26 +38597,33 @@
     "title": "997: January 8, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 17, 2025",
-    "appearance": null,
+    "appearance": [
+      "Mark Zuckerberg",
+      "Mel Gibson",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 11, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "998",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "01:42:53",
     "libsyn_link": "isten",
     "nextEpisode": "999",
-    "oldid": 5060,
+    "oldid": 5687,
     "oocDrop": null,
     "previousEpisode": "997",
     "question": null,
@@ -37470,26 +38632,32 @@
     "title": "998: January 11, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
     "airDate": "January 20, 2025",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Glenn Beck"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": "January 16, 2025",
     "coverageEndDate": null,
     "coverageStartDate": null,
     "episodeNumber": "999",
-    "episodeType": null,
+    "episodeType": [
+      "Present Day"
+    ],
     "hosts": null,
     "is_external_redirect": false,
     "is_stub": true,
     "length": "00:56:57",
     "libsyn_link": "isten",
     "nextEpisode": "1000",
-    "oldid": 5061,
+    "oldid": 5688,
     "oocDrop": null,
     "previousEpisode": "998",
     "question": null,
@@ -37498,7 +38666,8 @@
     "title": "999: January 16, 2025",
     "transcriptEpisodeNumber": null,
     "wiki_categories": [
-      "Episodes"
+      "Episodes",
+      "Present Day"
     ]
   },
   {
@@ -38022,7 +39191,11 @@
   },
   {
     "airDate": "June 17, 2022",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump",
+      "Stewart Rhodes",
+      "Norm Pattis"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -38036,7 +39209,7 @@
     "length": "00:37:40",
     "libsyn_link": "isten",
     "nextEpisode": "693",
-    "oldid": 4336,
+    "oldid": 5709,
     "oocDrop": null,
     "previousEpisode": "692",
     "question": null,
@@ -41471,7 +42644,9 @@
   },
   {
     "airDate": "May 13, 2024",
-    "appearance": null,
+    "appearance": [
+      "David Lynch"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -41485,7 +42660,7 @@
     "length": "01:11:41",
     "libsyn_link": "isten",
     "nextEpisode": "S017",
-    "oldid": 4554,
+    "oldid": 5710,
     "oocDrop": null,
     "previousEpisode": "925",
     "question": null,
@@ -41499,7 +42674,9 @@
   },
   {
     "airDate": "May 14, 2024",
-    "appearance": null,
+    "appearance": [
+      "David Lynch"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -41513,7 +42690,7 @@
     "length": "01:19:20",
     "libsyn_link": "isten",
     "nextEpisode": "S018",
-    "oldid": 4555,
+    "oldid": 5711,
     "oocDrop": null,
     "previousEpisode": "S016",
     "question": null,
@@ -41527,7 +42704,9 @@
   },
   {
     "airDate": "May 17, 2024",
-    "appearance": null,
+    "appearance": [
+      "Christopher Walken"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -41541,7 +42720,7 @@
     "length": "01:17:32",
     "libsyn_link": "isten",
     "nextEpisode": "926",
-    "oldid": 4556,
+    "oldid": 5712,
     "oocDrop": null,
     "previousEpisode": "S017",
     "question": null,
@@ -46771,7 +47950,7 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
-    "oldid": 5488,
+    "oldid": 5729,
     "oocDrop": null,
     "previousEpisode": null,
     "question": null,
@@ -48779,7 +49958,7 @@
     "length": "00:21:03",
     "libsyn_link": "isten",
     "nextEpisode": "631",
-    "oldid": 5388,
+    "oldid": 5730,
     "oocDrop": null,
     "previousEpisode": "629",
     "question": null,
@@ -52083,7 +53262,10 @@
   },
   {
     "airDate": "May 17, 2017",
-    "appearance": null,
+    "appearance": [
+      "Hillary Clinton",
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -52099,7 +53281,7 @@
     "length": "00:05:29",
     "libsyn_link": "isten",
     "nextEpisode": "42",
-    "oldid": 1472,
+    "oldid": 5715,
     "oocDrop": null,
     "previousEpisode": "41",
     "question": null,
@@ -52723,7 +53905,9 @@
   },
   {
     "airDate": "November 20, 2023",
-    "appearance": null,
+    "appearance": [
+      "Donald Trump"
+    ],
     "beverage": null,
     "brightSpot": null,
     "coverageDate": null,
@@ -52737,7 +53921,7 @@
     "length": "00:35:12",
     "libsyn_link": "isten",
     "nextEpisode": "872",
-    "oldid": 4342,
+    "oldid": 5716,
     "oocDrop": null,
     "previousEpisode": "871",
     "question": null,
@@ -54047,6 +55231,34 @@
     "length": null,
     "libsyn_link": null,
     "nextEpisode": null,
+    "oldid": 5732,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}1019{{COLON}}_February_6,_2025",
+    "title": "Transcript/1019: February 6, 2025",
+    "transcriptEpisodeNumber": "1019",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
     "oldid": 2886,
     "oocDrop": null,
     "previousEpisode": null,
@@ -54055,6 +55267,90 @@
     "slug": "Transcript{{FORWARD_SLASH}}101{{COLON}}_January_11,_2016",
     "title": "Transcript/101: January 11, 2016",
     "transcriptEpisodeNumber": "101",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5733,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}1020{{COLON}}_February_7,_2025",
+    "title": "Transcript/1020: February 7, 2025",
+    "transcriptEpisodeNumber": "1020",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5734,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}1021{{COLON}}_February_9-10,_2025",
+    "title": "Transcript/1021: February 9-10, 2025",
+    "transcriptEpisodeNumber": "1021",
+    "wiki_categories": [
+      "Transcripts"
+    ]
+  },
+  {
+    "airDate": null,
+    "appearance": null,
+    "beverage": null,
+    "brightSpot": null,
+    "coverageDate": null,
+    "coverageEndDate": null,
+    "coverageStartDate": null,
+    "episodeNumber": null,
+    "episodeType": null,
+    "hosts": null,
+    "is_external_redirect": false,
+    "is_stub": false,
+    "length": null,
+    "libsyn_link": null,
+    "nextEpisode": null,
+    "oldid": 5735,
+    "oocDrop": null,
+    "previousEpisode": null,
+    "question": null,
+    "redirect": null,
+    "slug": "Transcript{{FORWARD_SLASH}}1022{{COLON}}_February_27,_2025",
+    "title": "Transcript/1022: February 27, 2025",
+    "transcriptEpisodeNumber": "1022",
     "wiki_categories": [
       "Transcripts"
     ]
