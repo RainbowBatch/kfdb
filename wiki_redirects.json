@@ -168,6 +168,10 @@
     "to": "Edward Group"
   },
   {
+    "from": "Dr. Joel D. Wallach",
+    "to": "Dr Joel Wallach"
+  },
+  {
     "from": "Dr Darrell Hamamoto",
     "to": "Darrell Hamamoto"
   },
@@ -294,6 +298,10 @@
   {
     "from": "Joel Scousen",
     "to": "Joel Skousen"
+  },
+  {
+    "from": "Joel Wallach",
+    "to": "Dr Joel Wallach"
   },
   {
     "from": "Joe Bannister",
@@ -594,5 +602,9 @@
   {
     "from": "\"Dr.\" Ed Group",
     "to": "Edward Group"
+  },
+  {
+    "from": "\"Kirk Elliott, PhD\"",
+    "to": "Kirk Elliott, PhD"
   }
 ]
