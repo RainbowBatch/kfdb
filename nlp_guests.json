@@ -10915,7 +10915,9 @@
   },
   {
     "episode_number": "1036",
-    "people": []
+    "people": [
+      "Bill Cooper"
+    ]
   },
   {
     "episode_number": "1037",
@@ -11030,6 +11032,20 @@
   {
     "episode_number": "1051",
     "people": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "episode_number": "1052",
+    "people": [
+      "Donald Trump",
+      "Jimmy Carter"
+    ]
+  },
+  {
+    "episode_number": "1053",
+    "people": [
+      "John Bowne",
       "Donald Trump"
     ]
   },
